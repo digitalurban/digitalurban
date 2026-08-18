@@ -1,0 +1,14 @@
+node_modules/
+site/node_modules/
+site/_site/
+_site/
+.DS_Store
+*.log
+
+# migration working files
+digitalurban.WordPress.*.xml
+migration-report.txt
+missing-images.txt
+broken-images.txt
+external-image-hosts.txt
+image-manifest.txt
