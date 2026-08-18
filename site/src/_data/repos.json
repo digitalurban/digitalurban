@@ -3,7 +3,7 @@
     "name": "Open Gauges",
     "kind": "Data devices · MicroPython",
     "blurb": "Stepper, NeoPixel and analogue gauges that display live data — wind speed, pressure, anything on MQTT.",
-    "img": "/assets/uploads/2025/11/shipslamp2025-1024x768.jpeg",
+    "img": "/assets/uploads/2025/11/WindStepperLinearClose.jpeg",
     "match": "ships-lamp-wind-speed-gauge",
     "foot": "github · ucl-casa-ce/Open-Gauges",
     "url": "https://github.com/ucl-casa-ce/Open-Gauges"
@@ -14,7 +14,8 @@
     "blurb": "A weeWX skin with live dashboard, multi-model ensemble, forecast verification and 86-year climatology.",
     "match": "fenland-a-weewx-dashboard",
     "foot": "github · digitalurban/fenland",
-    "url": "https://github.com/digitalurban/fenland"
+    "url": "https://github.com/digitalurban/fenland",
+    "img": "/assets/uploads/2026/08/Fenlandheader-scaled.png"
   },
   {
     "name": "TIME",
@@ -22,13 +23,14 @@
     "blurb": "A fully 3D-printed mechanical clock, open sourced with print files and assembly notes.",
     "match": "time-an-open-source-3d-printed-clock",
     "foot": "post · August 2025",
-    "url": "/blog/2025/08/05/time-an-open-source-3d-printed-clock/"
+    "url": "/blog/2025/08/05/time-an-open-source-3d-printed-clock/",
+    "img": "/assets/uploads/2025/08/2ca3223f-279d-4a22-9cd6-5df9448a4e25_2400x1621.png"
   },
   {
     "name": "Ships Lamp Wind Speed Gauge",
     "kind": "Data devices · NeoPixel",
     "blurb": "A strip of NeoPixels inside a ship's lamp, flickering like an oil flame at a rate set by live wind speed.",
-    "img": "/assets/uploads/2025/11/shipslamp2025-1024x768.jpeg",
+    "img": "/assets/uploads/2025/11/shipslamp2025.jpeg",
     "match": "ships-lamp-wind-speed-gauge",
     "foot": "post · November 2025",
     "url": "/blog/2025/11/12/ships-lamp-wind-speed-gauge/"
@@ -45,7 +47,7 @@
     "name": "Literary Clock",
     "kind": "Data feeds · MQTT",
     "blurb": "A crowdsourced database of literary quotes, one for every minute, published to an open MQTT feed any device can subscribe to.",
-    "img": "/assets/uploads/2024/07/timequoteclock-1024x560.png",
+    "img": "/assets/uploads/2024/07/timequoteclock.png",
     "match": "turning-any-device-into-a-literary-clock-with-mqtt",
     "foot": "post · July 2024",
     "url": "/blog/2024/07/15/turning-any-device-into-a-literary-clock-with-mqtt/"
@@ -74,7 +76,8 @@
     "blurb": "A Pebble watch face using Open-Meteo: forecast, pressure trend and nothing else.",
     "match": "just-weather-for-the-pebble-watch",
     "foot": "github · just-weather-pebble-watchface",
-    "url": "https://github.com/digitalurban/just-weather-pebble-watchface"
+    "url": "https://github.com/digitalurban/just-weather-pebble-watchface",
+    "img": "/assets/uploads/2025/10/Screenshot-2025-10-30-at-12.49.33.png"
   },
   {
     "name": "AllSky Camera",
@@ -90,8 +93,9 @@
     "kind": "Making · Laser cut",
     "blurb": "Python, laser cut and 3D printed weather house driven by live station data.",
     "match": "weather-house",
-    "foot": "github · Weather-House",
-    "url": "https://github.com/digitalurban/Weather-House"
+    "foot": "post + github · Weather-House",
+    "url": "/blog/2023/08/18/reimaging-the-traditional-weather-house-with-open-data-laser-cutting-and-3d-printing/",
+    "img": "/assets/uploads/2023/08/Weatherhousewide@0.5x.jpg"
   },
   {
     "name": "Radiation Shield",
@@ -108,14 +112,16 @@
     "blurb": "A collection of agent based models created through vibe coding.",
     "match": "vibe-coding-from-ios-apps",
     "foot": "github · VibeABM",
-    "url": "https://github.com/digitalurban/VibeABM"
+    "url": "https://github.com/digitalurban/VibeABM",
+    "img": "/assets/uploads/2025/07/Screenshot-2025-07-18-at-13.17.59.png"
   },
   {
     "name": "THE",
     "kind": "Data devices · eInk",
     "blurb": "eInk mini MQTT display for time, headlines and environmental data.",
     "match": "the",
-    "foot": "github · THE",
-    "url": "https://github.com/digitalurban/THE"
+    "foot": "post + github · THE",
+    "url": "/blog/2020/04/10/the/",
+    "img": "/assets/uploads/2019/12/IMG_1880-2-scaled-1.jpeg"
   }
 ]
