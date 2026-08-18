@@ -68,7 +68,20 @@ img, video, iframe { max-width: 100%; height: auto; }
   font-weight: 700;
   letter-spacing: -0.02em;
 }
-.wordmark::before { content: ""; width: 11px; height: 11px; background: var(--accent); }
+.wordmark::before {
+  content: "DU";
+  width: 26px;
+  height: 26px;
+  background: var(--accent);
+  color: var(--bg);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1px;
+}
 .site-nav { display: flex; align-items: stretch; gap: 4px; }
 .site-nav a {
   display: flex;
