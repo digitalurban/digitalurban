@@ -1,13 +1,100 @@
 [
-  { "name": "City Clock", "kind": "City models · Canvas + TypeScript", "blurb": "A living city where 112 pedestrians walk into the plaza every minute and form a seven-segment clock.", "foot": "github · digitalurban/city-clock", "url": "https://github.com/digitalurban/city-clock", "match": "city clock" },
-  { "name": "Aqua Clock", "kind": "Apps · iOS + boids", "blurb": "An aquarium on the App Store where 28 tetra fish gather each minute to tell the time.", "foot": "app store · digitalurban/Aqua-Clock_Info", "url": "https://apps.apple.com/gb/app/aqua-clock/id6760460959", "match": "aqua clock" },
-  { "name": "TIME", "kind": "3D printed · Printables", "blurb": "A fully 3D printed mechanical clock, open sourced with print files and assembly notes.", "foot": "post · files on Printables", "url": "/blog/2025/08/05/time-an-open-source-3d-printed-clock/", "match": "3d printed clock" },
-  { "name": "Open Gauges", "kind": "Data devices · MicroPython", "blurb": "Stepper and NeoPixel gauges that display live data — wind speed, pressure, anything on MQTT.", "foot": "github · ucl-casa-ce/Open-Gauges", "url": "https://github.com/ucl-casa-ce/Open-Gauges", "match": "stepper motor linear data gauge" },
-  { "name": "Fenland", "kind": "Dashboards · weeWX", "blurb": "A weeWX skin with live dashboard, multi-model ensemble, forecast verification and 86-year climatology.", "foot": "github · digitalurban/fenland", "url": "https://github.com/digitalurban/fenland", "match": "fenland" },
-  { "name": "The Hour", "kind": "3D printed · Printables", "blurb": "Printable files and code to make a timekeeping marble run.", "foot": "github · The-Hour", "url": "https://github.com/digitalurban/The-Hour---A-Timekeeping-Marble-Run", "match": "marble run" },
-  { "name": "Just Weather", "kind": "Apps · Pebble", "blurb": "A Pebble watch face using Open-Meteo: forecast, pressure trend and nothing else.", "foot": "github · just-weather-pebble-watchface", "url": "https://github.com/digitalurban/just-weather-pebble-watchface", "match": "pebble" },
-  { "name": "MQTT Scroller", "kind": "Data devices · Hub75", "blurb": "MicroPython text scroller for the Interstate75W with a Hub75 matrix.", "foot": "github · Interstate75W_MQTT_Scroller", "url": "https://github.com/digitalurban/Interstate75W_MQTT_Scroller", "match": "scroller" },
-  { "name": "Weather House", "kind": "Making · Laser cut", "blurb": "Python, laser cut and 3D printed weather house driven by live station data.", "foot": "github · Weather-House", "url": "https://github.com/digitalurban/Weather-House", "match": "weather house" },
-  { "name": "VibeABM", "kind": "City models · ABM", "blurb": "A collection of agent based models created through vibe coding.", "foot": "github · VibeABM", "url": "https://github.com/digitalurban/VibeABM", "match": "agent based" },
-  { "name": "THE", "kind": "Data devices · eInk", "blurb": "eInk mini MQTT display for time, headlines and environmental data.", "foot": "github · THE", "url": "https://github.com/digitalurban/THE", "match": "eink" }
+  {
+    "name": "Open Gauges",
+    "kind": "Data devices · MicroPython",
+    "blurb": "Stepper, NeoPixel and analogue gauges that display live data — wind speed, pressure, anything on MQTT.",
+    "img": "/assets/uploads/2025/11/shipslamp2025-1024x768.jpeg",
+    "foot": "github · ucl-casa-ce/Open-Gauges",
+    "url": "https://github.com/ucl-casa-ce/Open-Gauges"
+  },
+  {
+    "name": "Fenland",
+    "kind": "Dashboards · weeWX",
+    "blurb": "A weeWX skin with live dashboard, multi-model ensemble, forecast verification and 86-year climatology.",
+    "foot": "github · digitalurban/fenland",
+    "url": "https://github.com/digitalurban/fenland"
+  },
+  {
+    "name": "Ships Lamp Wind Speed Gauge",
+    "kind": "Data devices · NeoPixel",
+    "blurb": "A strip of NeoPixels inside a ship's lamp, flickering like an oil flame at a rate set by live wind speed.",
+    "img": "/assets/uploads/2025/11/shipslamp2025-1024x768.jpeg",
+    "foot": "post · November 2025",
+    "url": "/blog/2025/11/12/ships-lamp-wind-speed-gauge/"
+  },
+  {
+    "name": "The Hour",
+    "kind": "3D printed · Printables",
+    "blurb": "Printable files and code to make a timekeeping marble run.",
+    "foot": "github · The-Hour",
+    "url": "https://github.com/digitalurban/The-Hour---A-Timekeeping-Marble-Run"
+  },
+  {
+    "name": "Literary Clock",
+    "kind": "Data feeds · MQTT",
+    "blurb": "A crowdsourced database of literary quotes, one for every minute, published to an open MQTT feed any device can subscribe to.",
+    "img": "/assets/uploads/2024/07/timequoteclock-1024x560.png",
+    "foot": "post · July 2024",
+    "url": "/blog/2024/07/15/turning-any-device-into-a-literary-clock-with-mqtt/"
+  },
+  {
+    "name": "MQTT Scroller",
+    "kind": "Data devices · Hub75",
+    "blurb": "A Hub75 LED matrix driven by a Pimoroni Interstate75W, scrolling whatever arrives on MQTT — time, news, environmental data.",
+    "img": "/assets/uploads/2024/07/Matrix128x128-1024x576.jpeg",
+    "foot": "post + github · Interstate75W_MQTT_Scroller",
+    "url": "/blog/2024/07/12/creating-an-scrolling-hub75-matrix-display-with-pimoroni-interstate75w-and-mqtt/"
+  },
+  {
+    "name": "Lightsaber Wind Gauge",
+    "kind": "Data devices · NeoPixel",
+    "blurb": "144 NeoPixels inside a diffused sabre blade: the glow climbs and changes colour with wind speed, with a red marker for the day's peak gust.",
+    "img": "/assets/uploads/2023/11/LightSaberTitle-1024x497-1.jpg",
+    "foot": "post · November 2023",
+    "url": "/blog/2023/11/09/lightsaber/"
+  },
+  {
+    "name": "Just Weather",
+    "kind": "Apps · Pebble",
+    "blurb": "A Pebble watch face using Open-Meteo: forecast, pressure trend and nothing else.",
+    "foot": "github · just-weather-pebble-watchface",
+    "url": "https://github.com/digitalurban/just-weather-pebble-watchface"
+  },
+  {
+    "name": "AllSky Camera",
+    "kind": "Sensing · Raspberry Pi",
+    "blurb": "A 3D printed case for a Pi HQ camera and fisheye lens, shooting all-night star trails and all-day timelapses into Home Assistant.",
+    "img": "/assets/uploads/2022/04/startrails-20220327-1024x767-1.jpeg",
+    "foot": "post · May 2022",
+    "url": "/blog/2022/05/01/allsky/"
+  },
+  {
+    "name": "Weather House",
+    "kind": "Making · Laser cut",
+    "blurb": "Python, laser cut and 3D printed weather house driven by live station data.",
+    "foot": "github · Weather-House",
+    "url": "https://github.com/digitalurban/Weather-House"
+  },
+  {
+    "name": "Radiation Shield",
+    "kind": "3D printed · Fusion 360",
+    "blurb": "A printable Stevenson-screen substitute for the WeatherFlow Air — six parts that slide together without glue or fixings.",
+    "img": "/assets/uploads/2018/09/WFRender-1.png",
+    "foot": "post · September 2018",
+    "url": "/blog/2018/09/21/3d-printing-a-radiation-shield-for-the-weather-flow-air/"
+  },
+  {
+    "name": "VibeABM",
+    "kind": "City models · ABM",
+    "blurb": "A collection of agent based models created through vibe coding.",
+    "foot": "github · VibeABM",
+    "url": "https://github.com/digitalurban/VibeABM"
+  },
+  {
+    "name": "THE",
+    "kind": "Data devices · eInk",
+    "blurb": "eInk mini MQTT display for time, headlines and environmental data.",
+    "foot": "github · THE",
+    "url": "https://github.com/digitalurban/THE"
+  }
 ]
