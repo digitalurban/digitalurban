@@ -4,32 +4,70 @@ permalink: /books/
 ---
 <section class="dark">
   <div class="dark__in">
-    <div class="mono mono--accent" style="padding-bottom:24px">Books</div>
+    <div class="mono mono--accent" style="padding-bottom:24px">Published</div>
     <div class="book">
-      <div class="book__cover"><img src="/assets/uploads/2025/10/CoverStandardRes.png" alt="Cities in the Metaverse cover" /></div>
+      <div class="book__cover">
+        <img src="{{ books.lead.cover }}" alt="{{ books.lead.title }}" />
+      </div>
       <div class="book__body">
-        <h1>Cities in the Metaverse</h1>
-        <p class="book__sub">Spatial Computing, Digital Twins, Avatars, Economics and Digital Habitation on the New Frontier</p>
-        <div class="specs"><span>Routledge</span><span>2025</span><span>Hardback / e-book</span></div>
+        <h1>{{ books.lead.title }}</h1>
+        <p class="book__sub">{{ books.lead.sub }}</p>
+        <div class="specs">{% for s in books.lead.specs %}<span>{{ s }}</span>{% endfor %}</div>
+        <p class="book__blurb">{{ books.lead.blurb }}</p>
+        <div class="mono" style="color:#8d857d">{{ books.lead.authors }}</div>
         <div class="btns">
-          <a class="btn btn--fill" href="https://www.routledge.com/">Publisher</a>
-          <a class="btn btn--line" href="/blog/2025/10/27/cities-in-the-metaverse-book/">Read the launch post</a>
+          {% for l in books.lead.links %}
+          <a class="btn {% if l.fill %}btn--fill{% else %}btn--line{% endif %}" href="{{ l.url }}">{{ l.label }}</a>
+          {% endfor %}
         </div>
+        {% if books.lead.note %}<div class="mono" style="color:#8d857d">{{ books.lead.note }}</div>{% endif %}
       </div>
     </div>
   </div>
 </section>
 
 <div class="wrap">
-  <div style="padding:72px 0 96px">
-    <div class="book">
-      <div class="book__cover book__cover--light"><img src="/assets/uploads/2022/06/9781315178387.png" alt="Digital Cities of Tomorrow cover" /></div>
-      <div class="book__body">
-        <span class="mono mono--accent">Forthcoming</span>
-        <h2>Digital Cities of Tomorrow</h2>
-        <div class="specs specs--light"><span>Springer / Nature</span><span>2026</span><span>In production</span></div>
-        <p style="margin:0;font-size:17px;line-height:1.55;color:#4a443f;max-width:56ch">Where digital twins, autonomous systems and habitation meet the everyday city.</p>
+  <div class="book-next">
+    <div class="mono mono--accent" style="padding-bottom:20px">Forthcoming</div>
+    <div class="book-next__grid">
+      {% for b in books.forthcoming %}
+      <div class="book-next__item">
+        <h2>{{ b.title }}</h2>
+        <div class="specs specs--light">{% for s in b.specs %}{% if s %}<span>{{ s }}</span>{% endif %}{% endfor %}</div>
+        <p>{{ b.blurb }}</p>
       </div>
+      {% endfor %}
     </div>
   </div>
+
+  <div class="little">
+    <div class="little__head">
+      <div>
+        <div class="mono mono--accent" style="padding-bottom:12px">Little Books</div>
+        <h2>Short-form, free to read</h2>
+      </div>
+      <p>Two pocket-sized volumes written for the PETRAS network. Free to download, no jargon, meant to be read in one sitting.</p>
+    </div>
+    <div class="little__grid">
+      {% for b in books.little %}
+      <div class="little__item">
+        <a class="little__cover" href="{{ b.url }}">
+          <img src="{{ b.cover }}" alt="{{ b.title }}" loading="lazy" />
+        </a>
+        <div class="little__body">
+          <h3><a href="{{ b.url }}">{{ b.title }}</a></h3>
+          <p>{{ b.blurb }}</p>
+          <div class="mono little__meta">
+            {{ b.authors }}<br />
+            {{ b.specs[0] }} &middot; {{ b.specs[1] }}{% if b.isbn %} &middot; {{ b.isbn }}{% endif %}
+          </div>
+          <div class="little__links mono">
+            <a href="{{ b.pdf }}">Download PDF &rarr;</a>
+            <a href="{{ b.url }}">Read the post</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  <div style="height:88px"></div>
 </div>

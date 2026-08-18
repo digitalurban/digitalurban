@@ -20,7 +20,9 @@ permalink: /projects/
     {% set post = collections.posts | findPost(r.match) %}
     <a class="tile" href="{{ r.url }}">
       <div class="tile__media">
-        {% if post %}
+        {% if r.img %}
+          <img src="{{ r.img }}" alt="" loading="lazy" />
+        {% elif post %}
           {% set img = post.data.hero or (post.templateContent | firstImage) %}
           {% if img %}<img src="{{ img }}" alt="" loading="lazy" />{% endif %}
         {% endif %}

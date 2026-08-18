@@ -4,6 +4,7 @@
     "kind": "Data devices · MicroPython",
     "blurb": "Stepper, NeoPixel and analogue gauges that display live data — wind speed, pressure, anything on MQTT.",
     "img": "/assets/uploads/2025/11/shipslamp2025-1024x768.jpeg",
+    "match": "ships-lamp-wind-speed-gauge",
     "foot": "github · ucl-casa-ce/Open-Gauges",
     "url": "https://github.com/ucl-casa-ce/Open-Gauges"
   },
@@ -11,21 +12,32 @@
     "name": "Fenland",
     "kind": "Dashboards · weeWX",
     "blurb": "A weeWX skin with live dashboard, multi-model ensemble, forecast verification and 86-year climatology.",
+    "match": "fenland-a-weewx-dashboard",
     "foot": "github · digitalurban/fenland",
     "url": "https://github.com/digitalurban/fenland"
+  },
+  {
+    "name": "TIME",
+    "kind": "3D printed · Printables",
+    "blurb": "A fully 3D-printed mechanical clock, open sourced with print files and assembly notes.",
+    "match": "time-an-open-source-3d-printed-clock",
+    "foot": "post · August 2025",
+    "url": "/blog/2025/08/05/time-an-open-source-3d-printed-clock/"
   },
   {
     "name": "Ships Lamp Wind Speed Gauge",
     "kind": "Data devices · NeoPixel",
     "blurb": "A strip of NeoPixels inside a ship's lamp, flickering like an oil flame at a rate set by live wind speed.",
     "img": "/assets/uploads/2025/11/shipslamp2025-1024x768.jpeg",
+    "match": "ships-lamp-wind-speed-gauge",
     "foot": "post · November 2025",
     "url": "/blog/2025/11/12/ships-lamp-wind-speed-gauge/"
   },
   {
     "name": "The Hour",
-    "kind": "3D printed · Printables",
+    "kind": "3D printed · Marble run",
     "blurb": "Printable files and code to make a timekeeping marble run.",
+    "match": "the-hour",
     "foot": "github · The-Hour",
     "url": "https://github.com/digitalurban/The-Hour---A-Timekeeping-Marble-Run"
   },
@@ -34,6 +46,7 @@
     "kind": "Data feeds · MQTT",
     "blurb": "A crowdsourced database of literary quotes, one for every minute, published to an open MQTT feed any device can subscribe to.",
     "img": "/assets/uploads/2024/07/timequoteclock-1024x560.png",
+    "match": "turning-any-device-into-a-literary-clock-with-mqtt",
     "foot": "post · July 2024",
     "url": "/blog/2024/07/15/turning-any-device-into-a-literary-clock-with-mqtt/"
   },
@@ -42,6 +55,7 @@
     "kind": "Data devices · Hub75",
     "blurb": "A Hub75 LED matrix driven by a Pimoroni Interstate75W, scrolling whatever arrives on MQTT — time, news, environmental data.",
     "img": "/assets/uploads/2024/07/Matrix128x128-1024x576.jpeg",
+    "match": "creating-an-scrolling-hub75-matrix-display",
     "foot": "post + github · Interstate75W_MQTT_Scroller",
     "url": "/blog/2024/07/12/creating-an-scrolling-hub75-matrix-display-with-pimoroni-interstate75w-and-mqtt/"
   },
@@ -50,6 +64,7 @@
     "kind": "Data devices · NeoPixel",
     "blurb": "144 NeoPixels inside a diffused sabre blade: the glow climbs and changes colour with wind speed, with a red marker for the day's peak gust.",
     "img": "/assets/uploads/2023/11/LightSaberTitle-1024x497-1.jpg",
+    "match": "lightsaber",
     "foot": "post · November 2023",
     "url": "/blog/2023/11/09/lightsaber/"
   },
@@ -57,6 +72,7 @@
     "name": "Just Weather",
     "kind": "Apps · Pebble",
     "blurb": "A Pebble watch face using Open-Meteo: forecast, pressure trend and nothing else.",
+    "match": "just-weather-for-the-pebble-watch",
     "foot": "github · just-weather-pebble-watchface",
     "url": "https://github.com/digitalurban/just-weather-pebble-watchface"
   },
@@ -65,6 +81,7 @@
     "kind": "Sensing · Raspberry Pi",
     "blurb": "A 3D printed case for a Pi HQ camera and fisheye lens, shooting all-night star trails and all-day timelapses into Home Assistant.",
     "img": "/assets/uploads/2022/04/startrails-20220327-1024x767-1.jpeg",
+    "match": "allsky",
     "foot": "post · May 2022",
     "url": "/blog/2022/05/01/allsky/"
   },
@@ -72,6 +89,7 @@
     "name": "Weather House",
     "kind": "Making · Laser cut",
     "blurb": "Python, laser cut and 3D printed weather house driven by live station data.",
+    "match": "weather-house",
     "foot": "github · Weather-House",
     "url": "https://github.com/digitalurban/Weather-House"
   },
@@ -80,6 +98,7 @@
     "kind": "3D printed · Fusion 360",
     "blurb": "A printable Stevenson-screen substitute for the WeatherFlow Air — six parts that slide together without glue or fixings.",
     "img": "/assets/uploads/2018/09/WFRender-1.png",
+    "match": "3d-printing-a-radiation-shield",
     "foot": "post · September 2018",
     "url": "/blog/2018/09/21/3d-printing-a-radiation-shield-for-the-weather-flow-air/"
   },
@@ -87,6 +106,7 @@
     "name": "VibeABM",
     "kind": "City models · ABM",
     "blurb": "A collection of agent based models created through vibe coding.",
+    "match": "vibe-coding-from-ios-apps",
     "foot": "github · VibeABM",
     "url": "https://github.com/digitalurban/VibeABM"
   },
@@ -94,6 +114,7 @@
     "name": "THE",
     "kind": "Data devices · eInk",
     "blurb": "eInk mini MQTT display for time, headlines and environmental data.",
+    "match": "the",
     "foot": "github · THE",
     "url": "https://github.com/digitalurban/THE"
   }

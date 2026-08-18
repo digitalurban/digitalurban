@@ -1,0 +1,78 @@
+{
+  "lead": {
+    "title": "Cities in the Metaverse",
+    "sub": "Spatial Computing, Digital Twins, Avatars, Economics and Digital Habitation on the New Frontier",
+    "cover": "/assets/uploads/2025/10/Screenshot-2025-10-27-at-11.17.59.png",
+    "authors": "Andrew Hudson-Smith, Duncan Wilson & Valerio Signorelli",
+    "specs": [
+      "Routledge",
+      "2025",
+      "Hardback / e-book"
+    ],
+    "blurb": "A multidisciplinary account of where urban environments meet digital ones — from early cyberspace concepts through spatial computing to digital habitation, including the worlds already abandoned and what they teach.",
+    "links": [
+      {
+        "label": "Routledge",
+        "url": "https://www.routledge.com/Cities-in-the-Metaverse-Spatial-Computing-Digital-Twins-Avatars-Economics-and-Digital-Habitation-on-the-New-Frontier/Hudson-Smith-Wilson-Signorelli/p/book/9781032576695",
+        "fill": true
+      },
+      {
+        "label": "Launch post",
+        "url": "/blog/2025/10/27/cities-in-the-metaverse-book/"
+      },
+      {
+        "label": "DOI 10.1201/9781003440437",
+        "url": "https://doi.org/10.1201/9781003440437"
+      }
+    ],
+    "note": "20% off at Routledge with code 25ESA4"
+  },
+  "forthcoming": [
+    {
+      "title": "Digital Cities of Tomorrow",
+      "specs": [
+        "Springer / Nature",
+        "2026",
+        "In production"
+      ],
+      "blurb": "Where digital twins, autonomous systems and habitation meet the everyday city."
+    },
+    {
+      "title": "Digital Urban",
+      "specs": [
+        "Planned",
+        "2027",
+        ""
+      ],
+      "blurb": "Two decades of the blog, the builds and the research it came from."
+    }
+  ],
+  "little": [
+    {
+      "title": "The Little Book of Public Space and the Internet of Things",
+      "authors": "Alexandra Deschamps-Sonsino, Andrew Hudson-Smith & Duncan Wilson, edited by Paul Coulton",
+      "specs": [
+        "Imagination Lancaster / PETRAS",
+        "2020"
+      ],
+      "isbn": "ISBN 978-1-86220-391-4",
+      "cover": "/assets/uploads/2021/02/Screenshot-2021-02-24-at-10.46.59-1.png",
+      "blurb": "Public spaces are at the front of a technological revolution that mostly stays out of sight. Safety and security, maintenance, health, community, play, conservation, transport, accessibility — and where it goes next.",
+      "pdf": "https://petras-iot.org/wp-content/uploads/2020/12/Little_Book_of_Public_Space_IoT.pdf",
+      "url": "/blog/2021/02/24/the-little-book-of-public-space-and-the-internet-of-things-2/"
+    },
+    {
+      "title": "The Little Book of Connected Environments and the Internet of Things",
+      "authors": "Andrew Hudson-Smith, Duncan Wilson, Duncan Hay & Steven Gray",
+      "specs": [
+        "Imagination Lancaster / PETRAS",
+        "2019"
+      ],
+      "isbn": "",
+      "cover": "/assets/uploads/2019/11/Screenshot-2020-04-28-at-09.57.31-1.png",
+      "blurb": "Opening up what IoT devices can tell us about our environment, through case studies: Shazam for Bats, Tales of the Park, and the Internet of Schools.",
+      "pdf": "https://petras-iot.org/update/petras-little-books/",
+      "url": "/blog/2020/04/18/the-little-book-of-connected-environments-and-the-internet-of-things/"
+    }
+  ]
+}
