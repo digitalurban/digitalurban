@@ -1,0 +1,2292 @@
+2005-08-22  Centre Point London Panorama
+  KEEP src/posts/2005/08/2005-08-22-centre-point-london-panorama.md  (133 words)
+  DROP src/posts/2005/08/2005-08-22-centre-point-london-panorama-2.md  (133 words)  /blog/2005/08/22/centre-point-london-panorama-2/
+
+2005-09-01  Church of St Giles in the Field London Panoramas
+  KEEP src/posts/2005/09/2005-09-01-church-of-st-giles-in-field-london.md  (180 words)
+  DROP src/posts/2005/09/2005-09-01-church-of-st-giles-in-field-london-2.md  (180 words)  /blog/2005/09/01/church-of-st-giles-in-field-london-2/
+
+2005-09-05  Hays Galleria London Panorama
+  KEEP src/posts/2005/09/2005-09-05-hays-galleria-london-panorama.md  (105 words)
+  DROP src/posts/2005/09/2005-09-05-hays-galleria-london-panorama-2.md  (105 words)  /blog/2005/09/05/hays-galleria-london-panorama-2/
+
+2005-09-05  Southwark Cathedral London Panoramas
+  KEEP src/posts/2005/09/2005-09-05-southwark-cathedral-london-panoramas.md  (119 words)
+  DROP src/posts/2005/09/2005-09-05-southwark-cathedral-london-panoramas-2.md  (119 words)  /blog/2005/09/05/southwark-cathedral-london-panoramas-2/
+
+2005-09-12  Google Map Panoramas - Community Walk
+  KEEP src/posts/2005/09/2005-09-12-google-map-panoramas-community-walk.md  (47 words)
+  DROP src/posts/2005/09/2005-09-12-google-map-panoramas-community-walk-2.md  (47 words)  /blog/2005/09/12/google-map-panoramas-community-walk-2/
+
+2005-09-23  Google Earth London
+  KEEP src/posts/2005/09/2005-09-23-google-earth-london.md  (115 words)
+  DROP src/posts/2005/09/2005-09-23-google-earth-london-2.md  (115 words)  /blog/2005/09/23/google-earth-london-2/
+
+2005-09-30  RealViz Stitcher 5 Review vs PTgui 5.1
+  KEEP src/posts/2005/09/2005-09-30-realviz-stitcher-5-review-vs-ptgui-51.md  (493 words)
+  DROP src/posts/2005/09/2005-09-30-realviz-stitcher-5-review-vs-ptgui-51-2.md  (493 words)  /blog/2005/09/30/realviz-stitcher-5-review-vs-ptgui-51-2/
+
+2005-10-20  South Bank at Night London Panorama
+  KEEP src/posts/2005/10/2005-10-20-south-bank-at-night-london-panorama.md  (48 words)
+  DROP src/posts/2005/10/2005-10-20-south-bank-at-night-london-panorama-2.md  (48 words)  /blog/2005/10/20/south-bank-at-night-london-panorama-2/
+
+2005-11-07  BART San Francisco Panorama
+  KEEP src/posts/2005/11/2005-11-07-bart-san-francisco-panorama.md  (67 words)
+  DROP src/posts/2005/11/2005-11-07-bart-san-francisco-panorama-2.md  (67 words)  /blog/2005/11/07/bart-san-francisco-panorama-2/
+
+2006-01-03  Worlds Worst Urban Place and Space?
+  KEEP src/posts/2006/01/2006-01-03-worlds-worst-urban-place-and-space.md  (94 words)
+  DROP src/posts/2006/01/2006-01-03-worlds-worst-urban-place-and-space-2.md  (94 words)  /blog/2006/01/03/worlds-worst-urban-place-and-space-2/
+
+2006-01-12  University College London Google Earth
+  KEEP src/posts/2006/01/2006-01-12-university-college-london-google-earth.md  (101 words)
+  DROP src/posts/2006/01/2006-01-12-university-college-london-google-earth-2.md  (101 words)  /blog/2006/01/12/university-college-london-google-earth-2/
+
+2006-01-16  Google Earth Centre Point London
+  KEEP src/posts/2006/01/2006-01-16-google-earth-centre-point-london.md  (143 words)
+  DROP src/posts/2006/01/2006-01-16-google-earth-centre-point-london-2.md  (143 words)  /blog/2006/01/16/google-earth-centre-point-london-2/
+
+2006-01-17  New BT Tower London Google Earth...
+  KEEP src/posts/2006/01/2006-01-17-new-bt-tower-london-google-earth.md  (71 words)
+  DROP src/posts/2006/01/2006-01-17-new-bt-tower-london-google-earth-2.md  (71 words)  /blog/2006/01/17/new-bt-tower-london-google-earth-2/
+
+2006-01-25  London Google Earth 1690
+  KEEP src/posts/2006/01/2006-01-25-london-google-earth-1690.md  (81 words)
+  DROP src/posts/2006/01/2006-01-25-london-google-earth-1690-2.md  (81 words)  /blog/2006/01/25/london-google-earth-1690-2/
+
+2006-01-26  Sneak Peak Google Earth London
+  KEEP src/posts/2006/01/2006-01-26-sneak-peak-google-earth-london.md  (57 words)
+  DROP src/posts/2006/01/2006-01-26-sneak-peak-google-earth-london-2.md  (57 words)  /blog/2006/01/26/sneak-peak-google-earth-london-2/
+
+2006-03-01  Hidden London - Fitzrovia Mural Panorama
+  KEEP src/posts/2006/03/2006-03-01-hidden-london-fitzrovia-mural-panorama.md  (159 words)
+  DROP src/posts/2006/03/2006-03-01-hidden-london-fitzrovia-mural-panorama-2.md  (159 words)  /blog/2006/03/01/hidden-london-fitzrovia-mural-panorama-2/
+
+2006-03-02  Hidden London - Inside the Red Phonebox Panorama
+  KEEP src/posts/2006/03/2006-03-02-hidden-london-inside-red-phonebox.md  (83 words)
+  DROP src/posts/2006/03/2006-03-02-hidden-london-inside-red-phonebox-2.md  (83 words)  /blog/2006/03/02/hidden-london-inside-red-phonebox-2/
+
+2006-03-09  Digital Earths - Rendering
+  KEEP src/posts/2006/03/2006-03-09-digital-earths-rendering.md  (133 words)
+  DROP src/posts/2006/03/2006-03-09-digital-earths-rendering-2.md  (133 words)  /blog/2006/03/09/digital-earths-rendering-2/
+
+2006-03-20  Fantasy London Google Earth - Court Fields Community School
+  KEEP src/posts/2006/03/2006-03-20-fantasy-london-google-earth-court.md  (229 words)
+  DROP src/posts/2006/03/2006-03-20-fantasy-london-google-earth-court-2.md  (229 words)  /blog/2006/03/20/fantasy-london-google-earth-court-2/
+
+2006-03-21  Eco-Flower Fantasy London
+  KEEP src/posts/2006/03/2006-03-21-eco-flower-fantasy-london.md  (101 words)
+  DROP src/posts/2006/03/2006-03-21-eco-flower-fantasy-london-2.md  (101 words)  /blog/2006/03/21/eco-flower-fantasy-london-2/
+
+2006-04-06  Michigan Avenue Chicago Panorama
+  KEEP src/posts/2006/04/2006-04-06-michigan-avenue-chicago-panorama.md  (70 words)
+  DROP src/posts/2006/04/2006-04-06-michigan-avenue-chicago-panorama-2.md  (70 words)  /blog/2006/04/06/michigan-avenue-chicago-panorama-2/
+
+2006-04-19  Coming Soon...
+  KEEP src/posts/2006/04/2006-04-19-coming-soon.md  (110 words)
+  DROP src/posts/2006/04/2006-04-19-coming-soon-2.md  (110 words)  /blog/2006/04/19/coming-soon-2/
+
+2006-04-20  Urban Video via YouTube
+  KEEP src/posts/2006/04/2006-04-20-urban-video-via-youtube.md  (134 words)
+  DROP src/posts/2006/04/2006-04-20-urban-video-via-youtube-2.md  (134 words)  /blog/2006/04/20/urban-video-via-youtube-2/
+
+2006-04-25  Westminster Abbey, London Night Time Panorama
+  KEEP src/posts/2006/04/2006-04-25-westminster-abbey-london-night-time.md  (94 words)
+  DROP src/posts/2006/04/2006-04-25-westminster-abbey-london-night-time-2.md  (94 words)  /blog/2006/04/25/westminster-abbey-london-night-time-2/
+
+2006-06-06  High Dynamic Range Panoramas - UCL Roof
+  KEEP src/posts/2006/06/2006-06-06-high-dynamic-range-panoramas-ucl-roof.md  (297 words)
+  DROP src/posts/2006/06/2006-06-06-high-dynamic-range-panoramas-ucl-roof-2.md  (297 words)  /blog/2006/06/06/high-dynamic-range-panoramas-ucl-roof-2/
+
+2006-06-15  Sample Photomapping in Google Earth
+  KEEP src/posts/2006/06/2006-06-15-sample-photomapping-in-google-earth.md  (93 words)
+  DROP src/posts/2006/06/2006-06-15-sample-photomapping-in-google-earth-2.md  (93 words)  /blog/2006/06/15/sample-photomapping-in-google-earth-2/
+
+2006-06-30  Panorama Movie with Ray Tracing in 3DMax
+  KEEP src/posts/2006/06/2006-06-30-panorama-movie-with-ray-tracing-in.md  (79 words)
+  DROP src/posts/2006/06/2006-06-30-panorama-movie-with-ray-tracing-in-2.md  (79 words)  /blog/2006/06/30/panorama-movie-with-ray-tracing-in-2/
+
+2006-07-05  3D London Tube Map
+  KEEP src/posts/2006/07/2006-07-05-3d-london-tube-map.md  (145 words)
+  DROP src/posts/2006/07/2006-07-05-3d-london-tube-map-2.md  (145 words)  /blog/2006/07/05/3d-london-tube-map-2/
+
+2006-07-05  Adobe's Virtual World - City Visualisation and Learning
+  KEEP src/posts/2006/07/2006-07-05-adobes-virtual-world-city.md  (145 words)
+  DROP src/posts/2006/07/2006-07-05-adobes-virtual-world-city-2.md  (145 words)  /blog/2006/07/05/adobes-virtual-world-city-2/
+
+2006-07-06  High Dynamic Range Panoramas - UCL Quad
+  KEEP src/posts/2006/07/2006-07-06-high-dynamic-range-panoramas-ucl-quad.md  (103 words)
+  DROP src/posts/2006/07/2006-07-06-high-dynamic-range-panoramas-ucl-quad-2.md  (103 words)  /blog/2006/07/06/high-dynamic-range-panoramas-ucl-quad-2/
+
+2006-07-07  Extracting Geometry from a Painting - 3D Art/Virtual London circa 1616
+  KEEP src/posts/2006/07/2006-07-07-extracting-geometry-from-painting-3d.md  (164 words)
+  DROP src/posts/2006/07/2006-07-07-extracting-geometry-from-painting-3d-2.md  (164 words)  /blog/2006/07/07/extracting-geometry-from-painting-3d-2/
+
+2006-07-12  Lincolns Inn Fields London Panorama (High Dynamic Range)
+  KEEP src/posts/2006/07/2006-07-12-lincolns-inn-fields-london-panorama.md  (94 words)
+  DROP src/posts/2006/07/2006-07-12-lincolns-inn-fields-london-panorama-2.md  (94 words)  /blog/2006/07/12/lincolns-inn-fields-london-panorama-2/
+
+2006-07-13  Lincolns Inn Fields Chapel London Panorama (High Dynamic Range)
+  KEEP src/posts/2006/07/2006-07-13-lincolns-inn-fields-chapel-london.md  (84 words)
+  DROP src/posts/2006/07/2006-07-13-lincolns-inn-fields-chapel-london-2.md  (84 words)  /blog/2006/07/13/lincolns-inn-fields-chapel-london-2/
+
+2006-07-14  Inns of Court, Lincoln's Inn Field London Panorama
+  KEEP src/posts/2006/07/2006-07-14-inns-of-court-lincolns-inn-field.md  (130 words)
+  DROP src/posts/2006/07/2006-07-14-inns-of-court-lincolns-inn-field-2.md  (130 words)  /blog/2006/07/14/inns-of-court-lincolns-inn-field-2/
+
+2006-07-24  Brian Haw's Peace Protest/Banksy Canvas London Panorama
+  KEEP src/posts/2006/07/2006-07-24-brian-haws-peace-protestbanksy-canvas.md  (152 words)
+  DROP src/posts/2006/07/2006-07-24-brian-haws-peace-protestbanksy-canvas-2.md  (152 words)  /blog/2006/07/24/brian-haws-peace-protestbanksy-canvas-2/
+
+2006-08-08  Goggles - A Google Map Flight Sim
+  KEEP src/posts/2006/08/2006-08-08-goggles-google-map-flight-sim.md  (173 words)
+  DROP src/posts/2006/08/2006-08-08-goggles-google-map-flight-sim-2.md  (173 words)  /blog/2006/08/08/goggles-google-map-flight-sim-2/
+
+2006-08-10  Londonist...
+  KEEP src/posts/2006/08/2006-08-10-londonist.md  (95 words)
+  DROP src/posts/2006/08/2006-08-10-londonist-2.md  (95 words)  /blog/2006/08/10/londonist-2/
+
+2006-08-10  Virtual London - Rebuilt Within the M25
+  KEEP src/posts/2006/08/2006-08-10-virtual-london-rebuilt-within-m25.md  (160 words)
+  DROP src/posts/2006/08/2006-08-10-virtual-london-rebuilt-within-m25-2.md  (160 words)  /blog/2006/08/10/virtual-london-rebuilt-within-m25-2/
+
+2006-08-11  Second Life - The Metaverse Gets Noticed
+  KEEP src/posts/2006/08/2006-08-11-second-life-metaverse-gets-noticed.md  (191 words)
+  DROP src/posts/2006/08/2006-08-11-second-life-metaverse-gets-noticed-2.md  (191 words)  /blog/2006/08/11/second-life-metaverse-gets-noticed-2/
+
+2006-08-14  London Clouds Time Lapse Movie
+  KEEP src/posts/2006/08/2006-08-14-london-clouds-time-lapse-movie.md  (135 words)
+  DROP src/posts/2006/08/2006-08-14-london-clouds-time-lapse-movie-2.md  (135 words)  /blog/2006/08/14/london-clouds-time-lapse-movie-2/
+
+2006-08-15  London Clouds Daily Time Lapse
+  KEEP src/posts/2006/08/2006-08-15-london-clouds-daily-time-lapse.md  (214 words)
+  DROP src/posts/2006/08/2006-08-15-london-clouds-daily-time-lapse-2.md  (214 words)  /blog/2006/08/15/london-clouds-daily-time-lapse-2/
+
+2006-08-16  London MonoMetro 2012 Visualising the City
+  KEEP src/posts/2006/08/2006-08-16-london-monometro-2012-visualising-city.md  (103 words)
+  DROP src/posts/2006/08/2006-08-16-london-monometro-2012-visualising-city-2.md  (103 words)  /blog/2006/08/16/london-monometro-2012-visualising-city-2/
+
+2006-09-05  How to Create an Aerial Panorama from Google Earth
+  KEEP src/posts/2006/09/2006-09-05-how-to-create-aerial-panorama-from.md  (940 words)
+  DROP src/posts/2006/09/2006-09-05-how-to-create-aerial-panorama-from-2.md  (940 words)  /blog/2006/09/05/how-to-create-aerial-panorama-from-2/
+
+2006-09-07  Above Moscow Google Earth Panorama
+  KEEP src/posts/2006/09/2006-09-07-above-moscow-google-earth-panorama.md  (118 words)
+  DROP src/posts/2006/09/2006-09-07-above-moscow-google-earth-panorama-2.md  (118 words)  /blog/2006/09/07/above-moscow-google-earth-panorama-2/
+
+2006-09-07  New York Google Earth Panorama
+  KEEP src/posts/2006/09/2006-09-07-new-york-google-earth-panorama.md  (76 words)
+  DROP src/posts/2006/09/2006-09-07-new-york-google-earth-panorama-2.md  (76 words)  /blog/2006/09/07/new-york-google-earth-panorama-2/
+
+2006-09-09  Panoramas of Games - Second Life, Half Life, Call of Duty and more
+  KEEP src/posts/2006/09/2006-09-09-panoramas-of-games-second-life-half.md  (156 words)
+  DROP src/posts/2006/09/2006-09-09-panoramas-of-games-second-life-half-2.md  (156 words)  /blog/2006/09/09/panoramas-of-games-second-life-half-2/
+
+2006-09-11  Swiss Re, London, High Dynamic Ranging Panorama
+  KEEP src/posts/2006/09/2006-09-11-swiss-re-london-high-definition-ranging.md  (180 words)
+  DROP src/posts/2006/09/2006-09-11-swiss-re-london-high-definition-ranging-2.md  (180 words)  /blog/2006/09/11/swiss-re-london-high-definition-ranging-2/
+
+2006-09-19  Google Earth Panorama - Taipei, Taiwan
+  KEEP src/posts/2006/09/2006-09-19-google-earth-panorama-taipei-taiwan.md  (120 words)
+  DROP src/posts/2006/09/2006-09-19-google-earth-panorama-taipei-taiwan-2.md  (120 words)  /blog/2006/09/19/google-earth-panorama-taipei-taiwan-2/
+
+2006-09-19  Pixel Art in SketchUp
+  KEEP src/posts/2006/09/2006-09-19-pixel-art-in-sketchup.md  (99 words)
+  DROP src/posts/2006/09/2006-09-19-pixel-art-in-sketchup-2.md  (99 words)  /blog/2006/09/19/pixel-art-in-sketchup-2/
+
+2006-10-18  Virtual Tour from Romania
+  KEEP src/posts/2006/10/2006-10-18-virtual-tour-from-romania.md  (153 words)
+  DROP src/posts/2006/10/2006-10-18-virtual-tour-from-romania-2.md  (153 words)  /blog/2006/10/18/virtual-tour-from-romania-2/
+
+2006-11-29  Favourite Panoramas - Banksy
+  KEEP src/posts/2006/11/2006-11-29-favourite-panoramas-banksy.md  (251 words)
+  DROP src/posts/2006/11/2006-11-29-favourite-panoramas-banksy-2.md  (251 words)  /blog/2006/11/29/favourite-panoramas-banksy-2/
+
+2006-12-06  Digital Urban Flickr Group
+  KEEP src/posts/2006/12/2006-12-06-digital-urban-flickr-group.md  (128 words)
+  DROP src/posts/2006/12/2006-12-06-digital-urban-flickr-group-2.md  (128 words)  /blog/2006/12/06/digital-urban-flickr-group-2/
+
+2006-12-11  100m Above Treasure Cay - Abaco, Bahamas Panorama
+  KEEP src/posts/2006/12/2006-12-11-100m-above-treasure-cay-abaco-bahamas.md  (191 words)
+  DROP src/posts/2006/12/2006-12-11-100m-above-treasure-cay-abaco-bahamas-2.md  (191 words)  /blog/2006/12/11/100m-above-treasure-cay-abaco-bahamas-2/
+
+2007-01-04  Blotter Graph - Tracking Your Technorati Authority
+  KEEP src/posts/2007/01/2007-01-04-test-post-blotter-graph-web-data.md  (135 words)
+  DROP src/posts/2007/01/2007-01-04-test-post-blotter-graph-web-data-2.md  (135 words)  /blog/2007/01/04/test-post-blotter-graph-web-data-2/
+
+2007-01-04  Why is Virtual London not publicly available in Google Earth?
+  KEEP src/posts/2007/01/2007-01-04-why-is-virtual-london-not-publicly.md  (114 words)
+  DROP src/posts/2007/01/2007-01-04-why-is-virtual-london-not-publicly-2.md  (114 words)  /blog/2007/01/04/why-is-virtual-london-not-publicly-2/
+
+2007-01-05  Leadenhall Street London Panorama
+  KEEP src/posts/2007/01/2007-01-05-leadenhall-street-london-panorama.md  (146 words)
+  DROP src/posts/2007/01/2007-01-05-leadenhall-street-london-panorama-2.md  (146 words)  /blog/2007/01/05/leadenhall-street-london-panorama-2/
+
+2007-01-06  Model Blog Web 2.0 (?) and Up and Coming Posts
+  KEEP src/posts/2007/01/2007-01-06-model-blog-and-up-and-coming-posts.md  (362 words)
+  DROP src/posts/2007/01/2007-01-06-model-blog-and-up-and-coming-posts-2.md  (362 words)  /blog/2007/01/06/model-blog-and-up-and-coming-posts-2/
+
+2007-01-13  Clay Rendering in 3DMax
+  KEEP src/posts/2007/01/2007-01-13-clay-rendering-in-3dmax.md  (127 words)
+  DROP src/posts/2007/01/2007-01-13-clay-rendering-in-3dmax-2.md  (127 words)  /blog/2007/01/13/clay-rendering-in-3dmax-2/
+
+2007-01-13  Google Earth 'Step inside a Panorama
+  KEEP src/posts/2007/01/2007-01-13-posts-3.md  (142 words)
+  DROP src/posts/2007/01/2007-01-13-posts-4.md  (142 words)  /blog/2007/01/13/posts-4/
+
+2007-01-16  Google Earth Trafalgar Square, London, Panorama
+  KEEP src/posts/2007/01/2007-01-16-google-earth-trafalgar-square-london.md  (132 words)
+  DROP src/posts/2007/01/2007-01-16-google-earth-trafalgar-square-london-2.md  (132 words)  /blog/2007/01/16/google-earth-trafalgar-square-london-2/
+
+2007-01-18  Second Life 'Cut out and Keep' Octahedron Panorama
+  KEEP src/posts/2007/01/2007-01-18-second-life-cut-out-and-keep-octahedron.md  (165 words)
+  DROP src/posts/2007/01/2007-01-18-second-life-cut-out-and-keep-octahedron-2.md  (165 words)  /blog/2007/01/18/second-life-cut-out-and-keep-octahedron-2/
+
+2007-01-22  Japan Lecture Dates
+  KEEP src/posts/2007/01/2007-01-22-japan-lecture-dates.md  (155 words)
+  DROP src/posts/2007/01/2007-01-22-japan-lecture-dates-2.md  (155 words)  /blog/2007/01/22/japan-lecture-dates-2/
+
+2007-02-02  Monte-Carlo
+  KEEP src/posts/2007/02/2007-02-02-monaco.md  (104 words)
+  DROP src/posts/2007/02/2007-02-02-monaco-2.md  (104 words)  /blog/2007/02/02/monaco-2/
+
+2007-02-05  Sapporo Japan Panorama
+  KEEP src/posts/2007/02/2007-02-05-sapporo-japan-panorama.md  (153 words)
+  DROP src/posts/2007/02/2007-02-05-sapporo-japan-panorama-2.md  (153 words)  /blog/2007/02/05/sapporo-japan-panorama-2/
+
+2007-02-12  3D World Magazine - Issue 88
+  KEEP src/posts/2007/02/2007-02-12-3d-world-magazine-issue-88.md  (106 words)
+  DROP src/posts/2007/02/2007-02-12-3d-world-magazine-issue-88-2.md  (106 words)  /blog/2007/02/12/3d-world-magazine-issue-88-2/
+
+2007-02-12  Research or Private (?)
+  KEEP src/posts/2007/02/2007-02-12-research-or-private.md  (274 words)
+  DROP src/posts/2007/02/2007-02-12-research-or-private-2.md  (274 words)  /blog/2007/02/12/research-or-private-2/
+
+2007-02-22  Google Maps Image Cutter Software Released
+  KEEP src/posts/2007/02/2007-02-22-google-image-cutter-software-released.md  (138 words)
+  DROP src/posts/2007/02/2007-02-22-google-image-cutter-software-released-2.md  (138 words)  /blog/2007/02/22/google-image-cutter-software-released-2/
+
+2007-02-24  Crytek Realtime Engine for Architecture Visualisation
+  KEEP src/posts/2007/02/2007-02-24-crytek-realtime-engine-for-architecture.md  (178 words)
+  DROP src/posts/2007/02/2007-02-24-crytek-realtime-engine-for-architecture-2.md  (178 words)  /blog/2007/02/24/crytek-realtime-engine-for-architecture-2/
+
+2007-03-12  Realtime London Weather
+  KEEP src/posts/2007/03/2007-03-12-realtime-london-weather.md  (63 words)
+  DROP src/posts/2007/03/2007-03-12-realtime-london-weather-2.md  (63 words)  /blog/2007/03/12/realtime-london-weather-2/
+
+2007-03-13  Open Street Map - Community Led Mapping
+  KEEP src/posts/2007/03/2007-03-13-open-street-map-community-led-mapping.md  (243 words)
+  DROP src/posts/2007/03/2007-03-13-open-street-map-community-led-mapping-2.md  (243 words)  /blog/2007/03/13/open-street-map-community-led-mapping-2/
+
+2007-03-13  Recommended Reading and Hardware
+  KEEP src/posts/2007/03/2007-03-13-recommended-reading-and-hardware.md  (121 words)
+  DROP src/posts/2007/03/2007-03-13-recommended-reading-and-hardware-2.md  (121 words)  /blog/2007/03/13/recommended-reading-and-hardware-2/
+
+2007-03-14  Windows Vista Live Weather Gadget
+  KEEP src/posts/2007/03/2007-03-14-windows-vista-live-weather-gadget.md  (153 words)
+  DROP src/posts/2007/03/2007-03-14-windows-vista-live-weather-gadget-2.md  (153 words)  /blog/2007/03/14/windows-vista-live-weather-gadget-2/
+
+2007-03-15  Coverage..
+  KEEP src/posts/2007/03/2007-03-15-coverage.md  (121 words)
+  DROP src/posts/2007/03/2007-03-15-coverage-2.md  (121 words)  /blog/2007/03/15/coverage-2/
+
+2007-03-19  Little Big Planet - Cardboard City Rendering
+  KEEP src/posts/2007/03/2007-03-19-little-big-planet-cardboard-city.md  (251 words)
+  DROP src/posts/2007/03/2007-03-19-little-big-planet-cardboard-city-2.md  (251 words)  /blog/2007/03/19/little-big-planet-cardboard-city-2/
+
+2007-03-19  Test - Dont Order :)
+  KEEP src/posts/2007/03/2007-03-19-test.md  (241 words)
+  DROP src/posts/2007/03/2007-03-19-test-2.md  (241 words)  /blog/2007/03/19/test-2/
+
+2007-03-19  Urban Twitter(s)
+  KEEP src/posts/2007/03/2007-03-19-urban-twitters.md  (150 words)
+  DROP src/posts/2007/03/2007-03-19-urban-twitters-2.md  (150 words)  /blog/2007/03/19/urban-twitters-2/
+
+2007-03-20  Image Cutter - Panorama Viewer
+  KEEP src/posts/2007/03/2007-03-20-image-cutter-panorama-viewer.md  (139 words)
+  DROP src/posts/2007/03/2007-03-20-image-cutter-panorama-viewer-2.md  (139 words)  /blog/2007/03/20/image-cutter-panorama-viewer-2/
+
+2007-03-23  Urban Line Rider - Part 3
+  KEEP src/posts/2007/03/2007-03-23-urban-line-rider-part-3.md  (111 words)
+  DROP src/posts/2007/03/2007-03-23-urban-line-rider-part-3-2.md  (111 words)  /blog/2007/03/23/urban-line-rider-part-3-2/
+
+2007-03-26  Book of the Week - Second Life The Official Guide
+  KEEP src/posts/2007/03/2007-03-26-book-of-week-second-life-official-guide.md  (221 words)
+  DROP src/posts/2007/03/2007-03-26-book-of-week-second-life-official-guide-2.md  (221 words)  /blog/2007/03/26/book-of-week-second-life-official-guide-2/
+
+2007-03-27  Cities in Games - Ant Attack
+  KEEP src/posts/2007/03/2007-03-27-cities-in-games-ant-attack.md  (311 words)
+  DROP src/posts/2007/03/2007-03-27-cities-in-games-ant-attack-2.md  (311 words)  /blog/2007/03/27/cities-in-games-ant-attack-2/
+
+2007-04-02  Cities in Film - 28 Days Later
+  KEEP src/posts/2007/04/2007-04-02-cities-in-film-28-days-later.md  (238 words)
+  DROP src/posts/2007/04/2007-04-02-cities-in-film-28-days-later-2.md  (238 words)  /blog/2007/04/02/cities-in-film-28-days-later-2/
+
+2007-04-03  Twitter Live Maps with GeoRSS and Atlas
+  KEEP src/posts/2007/04/2007-04-03-twitter-live-maps-with-georss-and-atlas.md  (350 words)
+  DROP src/posts/2007/04/2007-04-03-twitter-live-maps-with-georss-and-atlas-2.md  (350 words)  /blog/2007/04/03/twitter-live-maps-with-georss-and-atlas-2/
+
+2007-04-03  UK House Price Data Map
+  KEEP src/posts/2007/04/2007-04-03-uk-house-price-data-map.md  (212 words)
+  DROP src/posts/2007/04/2007-04-03-uk-house-price-data-map-2.md  (212 words)  /blog/2007/04/03/uk-house-price-data-map-2/
+
+2007-04-04  One Digital Model per City? - AEC Magazine Article
+  KEEP src/posts/2007/04/2007-04-04-one-digital-model-per-city-aec-magazine.md  (457 words)
+  DROP src/posts/2007/04/2007-04-04-one-digital-model-per-city-aec-magazine-2.md  (457 words)  /blog/2007/04/04/one-digital-model-per-city-aec-magazine-2/
+
+2007-04-10  Digital Urban's Travels - AAG - April 17th-21st
+  KEEP src/posts/2007/04/2007-04-10-digital-urbans-travels-aag-april-17th.md  (138 words)
+  DROP src/posts/2007/04/2007-04-10-digital-urbans-travels-aag-april-17th-2.md  (138 words)  /blog/2007/04/10/digital-urbans-travels-aag-april-17th-2/
+
+2007-04-10  Nokia N95 GPS Google Earth - Tracking a Train
+  KEEP src/posts/2007/04/2007-04-10-nokia-n95-gps-google-earth-tracking.md  (312 words)
+  DROP src/posts/2007/04/2007-04-10-nokia-n95-gps-google-earth-tracking-2.md  (312 words)  /blog/2007/04/10/nokia-n95-gps-google-earth-tracking-2/
+
+2007-04-12  Embedding Google My Maps and YouTube
+  KEEP src/posts/2007/04/2007-04-12-embedding-google-my-maps-and-youtube.md  (245 words)
+  DROP src/posts/2007/04/2007-04-12-embedding-google-my-maps-and-youtube-2.md  (245 words)  /blog/2007/04/12/embedding-google-my-maps-and-youtube-2/
+
+2007-05-08  Flickr - Photo Gallery
+  KEEP src/posts/2007/05/2007-05-08-flickr-photo-gallery.md  (171 words)
+  DROP src/posts/2007/05/2007-05-08-flickr-photo-gallery-2.md  (171 words)  /blog/2007/05/08/flickr-photo-gallery-2/
+
+2007-05-08  Virtual Earth UK Cities - Brighton and Swindon
+  KEEP src/posts/2007/05/2007-05-08-virtual-earth-uk-cities-brighton-and.md  (172 words)
+  DROP src/posts/2007/05/2007-05-08-virtual-earth-uk-cities-brighton-and-2.md  (172 words)  /blog/2007/05/08/virtual-earth-uk-cities-brighton-and-2/
+
+2007-05-09  Second Life Town - Time Lapse Building Movie
+  KEEP src/posts/2007/05/2007-05-09-second-life-town-time-lapse-building.md  (94 words)
+  DROP src/posts/2007/05/2007-05-09-second-life-town-time-lapse-building-2.md  (94 words)  /blog/2007/05/09/second-life-town-time-lapse-building-2/
+
+2007-05-09  Virtual Earth - 3D City - Map View
+  KEEP src/posts/2007/05/2007-05-09-virtual-earth-3d-city-map-view.md  (157 words)
+  DROP src/posts/2007/05/2007-05-09-virtual-earth-3d-city-map-view-2.md  (157 words)  /blog/2007/05/09/virtual-earth-3d-city-map-view-2/
+
+2007-05-09  Virtual Earth - Brighton and Swindon Movies
+  KEEP src/posts/2007/05/2007-05-09-virtual-earth-brighton-and-swindon.md  (138 words)
+  DROP src/posts/2007/05/2007-05-09-virtual-earth-brighton-and-swindon-2.md  (138 words)  /blog/2007/05/09/virtual-earth-brighton-and-swindon-2/
+
+2007-05-09  Virtual Earth - Buffalo (Movie)
+  KEEP src/posts/2007/05/2007-05-09-virtual-earth-buffalo-movie.md  (71 words)
+  DROP src/posts/2007/05/2007-05-09-virtual-earth-buffalo-movie-2.md  (71 words)  /blog/2007/05/09/virtual-earth-buffalo-movie-2/
+
+2007-05-11  Line Rider - Along the Urban Roof Tops
+  KEEP src/posts/2007/05/2007-05-11-line-rider-along-urban-roof-tops.md  (117 words)
+  DROP src/posts/2007/05/2007-05-11-line-rider-along-urban-roof-tops-2.md  (117 words)  /blog/2007/05/11/line-rider-along-urban-roof-tops-2/
+
+2007-05-12  PS3 Home Beta Movie
+  KEEP src/posts/2007/05/2007-05-12-ps3-home-beta-movie.md  (130 words)
+  DROP src/posts/2007/05/2007-05-12-ps3-home-beta-movie-2.md  (130 words)  /blog/2007/05/12/ps3-home-beta-movie-2/
+
+2007-05-12  SimCity DS Advert/Movie
+  KEEP src/posts/2007/05/2007-05-12-simcity-ds-advertmovie.md  (212 words)
+  DROP src/posts/2007/05/2007-05-12-simcity-ds-advertmovie-2.md  (212 words)  /blog/2007/05/12/simcity-ds-advertmovie-2/
+
+2007-05-13  The Sims Architecture - Building a House
+  KEEP src/posts/2007/05/2007-05-13-sims-architecture-building-house.md  (211 words)
+  DROP src/posts/2007/05/2007-05-13-sims-architecture-building-house-2.md  (211 words)  /blog/2007/05/13/sims-architecture-building-house-2/
+
+2007-05-14  Rank Clocks - Visualising the Growth of Cities
+  KEEP src/posts/2007/05/2007-05-14-rank-clocks-visualising-growth-of.md  (433 words)
+  DROP src/posts/2007/05/2007-05-14-rank-clocks-visualising-growth-of-2.md  (433 words)  /blog/2007/05/14/rank-clocks-visualising-growth-of-2/
+
+2007-05-18  Desktop (Literally) Augmented Reality - Update 1_1
+  KEEP src/posts/2007/05/2007-05-18-desktop-literally-augmented-reality_17.md  (88 words)
+  DROP src/posts/2007/05/2007-05-18-desktop-literally-augmented-reality_17-2.md  (88 words)  /blog/2007/05/18/desktop-literally-augmented-reality_17-2/
+
+2007-05-18  Google Earth Panoramic Sphere - Hoover Tower, Stanford Campus
+  KEEP src/posts/2007/05/2007-05-18-google-earth-panoramic-sphere-hoover.md  (197 words)
+  DROP src/posts/2007/05/2007-05-18-google-earth-panoramic-sphere-hoover-2.md  (197 words)  /blog/2007/05/18/google-earth-panoramic-sphere-hoover-2/
+
+2007-05-22  Atmosphere - Cloudscapes Lighting and Second Life
+  EMPTY src/posts/2007/05/2007-05-22-posts-6.md  /blog/2007/05/22/posts-6/
+  EMPTY src/posts/2007/05/2007-05-22-posts-7.md  /blog/2007/05/22/posts-7/
+
+2007-05-23  Oblivion Tutorial Progress
+  KEEP src/posts/2007/05/2007-05-23-oblivion-tutorial-progress.md  (173 words)
+  DROP src/posts/2007/05/2007-05-23-oblivion-tutorial-progress-2.md  (173 words)  /blog/2007/05/23/oblivion-tutorial-progress-2/
+
+2007-05-25  Line Rider - City Adventure
+  KEEP src/posts/2007/05/2007-05-25-line-rider-city-adventure.md  (125 words)
+  DROP src/posts/2007/05/2007-05-25-line-rider-city-adventure-2.md  (125 words)  /blog/2007/05/25/line-rider-city-adventure-2/
+
+2007-05-28  Digital Marketing - North An Khanh \"Star World\" New Urban Area Vietnam
+  KEEP src/posts/2007/05/2007-05-28-digital-marketing-north-khanh-star.md  (199 words)
+  DROP src/posts/2007/05/2007-05-28-digital-marketing-north-khanh-star-2.md  (199 words)  /blog/2007/05/28/digital-marketing-north-khanh-star-2/
+
+2007-05-29  Zaha Hadid - Hoxton Square Visualisation
+  KEEP src/posts/2007/05/2007-05-29-zaha-hadid-hoxton-square-visualisation.md  (86 words)
+  DROP src/posts/2007/05/2007-05-29-zaha-hadid-hoxton-square-visualisation-2.md  (86 words)  /blog/2007/05/29/zaha-hadid-hoxton-square-visualisation-2/
+
+2007-06-05  Architecture in Virtual Worlds - Second Life/ActiveWorlds and Adobe Atmosphere
+  KEEP src/posts/2007/06/2007-06-05-architecture-in-virtual-worlds-second.md  (372 words)
+  DROP src/posts/2007/06/2007-06-05-architecture-in-virtual-worlds-second-2.md  (372 words)  /blog/2007/06/05/architecture-in-virtual-worlds-second-2/
+
+2007-06-05  Desktop (Literally) Building Construction
+  KEEP src/posts/2007/06/2007-06-05-desktop-literally-building-construction.md  (90 words)
+  DROP src/posts/2007/06/2007-06-05-desktop-literally-building-construction-2.md  (90 words)  /blog/2007/06/05/desktop-literally-building-construction-2/
+
+2007-06-05  Microsoft Surface - The Advert
+  KEEP src/posts/2007/06/2007-06-05-microsoft-surface-advert.md  (104 words)
+  DROP src/posts/2007/06/2007-06-05-microsoft-surface-advert-2.md  (104 words)  /blog/2007/06/05/microsoft-surface-advert-2/
+
+2007-06-13  EveryScape - Better than Google Street View (?)
+  KEEP src/posts/2007/06/2007-06-13-everyscape-better-than-google-street.md  (162 words)
+  DROP src/posts/2007/06/2007-06-13-everyscape-better-than-google-street-2.md  (162 words)  /blog/2007/06/13/everyscape-better-than-google-street-2/
+
+2007-06-14  SketchUp Cities
+  KEEP src/posts/2007/06/2007-06-14-sketchup-cities.md  (161 words)
+  DROP src/posts/2007/06/2007-06-14-sketchup-cities-2.md  (161 words)  /blog/2007/06/14/sketchup-cities-2/
+
+2007-06-15  Flickr Update
+  KEEP src/posts/2007/06/2007-06-15-flickr-update.md  (125 words)
+  DROP src/posts/2007/06/2007-06-15-flickr-update-2.md  (125 words)  /blog/2007/06/15/flickr-update-2/
+
+2007-06-20  Second Life in Google Earth - Second Earth
+  KEEP src/posts/2007/06/2007-06-20-second-life-in-google-earth-second.md  (75 words)
+  DROP src/posts/2007/06/2007-06-20-second-life-in-google-earth-second-2.md  (75 words)  /blog/2007/06/20/second-life-in-google-earth-second-2/
+
+2007-06-22  Line Rider - Crazy Town
+  KEEP src/posts/2007/06/2007-06-22-line-rider-crazy-town.md  (75 words)
+  DROP src/posts/2007/06/2007-06-22-line-rider-crazy-town-2.md  (75 words)  /blog/2007/06/22/line-rider-crazy-town-2/
+
+2007-06-23  SketchUp Urban Design - Cobourg
+  KEEP src/posts/2007/06/2007-06-23-sketchup-urban-design-cobourg.md  (95 words)
+  DROP src/posts/2007/06/2007-06-23-sketchup-urban-design-cobourg-2.md  (95 words)  /blog/2007/06/23/sketchup-urban-design-cobourg-2/
+
+2007-06-28  Earthmine - Street Based Mapping
+  KEEP src/posts/2007/06/2007-06-28-earthmine-street-based-mapping.md  (104 words)
+  DROP src/posts/2007/06/2007-06-28-earthmine-street-based-mapping-2.md  (104 words)  /blog/2007/06/28/earthmine-street-based-mapping-2/
+
+2007-06-28  Export From Free Google SketchUp into 3DMax and Oblivion - Update Movie
+  KEEP src/posts/2007/06/2007-06-28-export-from-free-google-sketchup-to.md  (222 words)
+  DROP src/posts/2007/06/2007-06-28-export-from-free-google-sketchup-to-2.md  (222 words)  /blog/2007/06/28/export-from-free-google-sketchup-to-2/
+
+2007-06-29  4D Cities - Inferring Temporal Order of Images From 3D Structure
+  KEEP src/posts/2007/06/2007-06-29-4d-cities-inferring-temporal-order-of.md  (228 words)
+  DROP src/posts/2007/06/2007-06-29-4d-cities-inferring-temporal-order-of-2.md  (228 words)  /blog/2007/06/29/4d-cities-inferring-temporal-order-of-2/
+
+2007-06-30  BubbleScope - Instant Panoramas
+  KEEP src/posts/2007/06/2007-06-30-bubblescope-instant-panoramas.md  (166 words)
+  DROP src/posts/2007/06/2007-06-30-posts-11.md  (0 words)  /blog/2007/06/30/posts-11/
+
+2007-07-04  Architectural Visualisation - Designhive's Snowhill
+  KEEP src/posts/2007/07/2007-07-04-architectural-visualisation-designhives.md  (189 words)
+  DROP src/posts/2007/07/2007-07-04-architectural-visualisation-designhives-2.md  (189 words)  /blog/2007/07/04/architectural-visualisation-designhives-2/
+
+2007-07-04  Google MyMaps and Flickr - Save Removed?
+  EMPTY src/posts/2007/07/2007-07-04-google-mymaps-and-flickr-save-removed.md  /blog/2007/07/04/google-mymaps-and-flickr-save-removed/
+  EMPTY src/posts/2007/07/2007-07-04-google-mymaps-and-flickr-save-removed-2.md  /blog/2007/07/04/google-mymaps-and-flickr-save-removed-2/
+
+2007-07-06  Line Rider - City of the Future
+  KEEP src/posts/2007/07/2007-07-06-line-rider-city-of-future.md  (88 words)
+  DROP src/posts/2007/07/2007-07-06-line-rider-city-of-future-2.md  (88 words)  /blog/2007/07/06/line-rider-city-of-future-2/
+
+2007-07-09  Virtual Earth - 3D Cities Update
+  KEEP src/posts/2007/07/2007-07-09-virtual-earth-3d-cities-update.md  (226 words)
+  DROP src/posts/2007/07/2007-07-09-virtual-earth-3d-cities-update-2.md  (226 words)  /blog/2007/07/09/virtual-earth-3d-cities-update-2/
+
+2007-07-10  Virtual Dresden in Google Earth
+  KEEP src/posts/2007/07/2007-07-10-virtual-dresden-in-google-earth.md  (151 words)
+  DROP src/posts/2007/07/2007-07-10-virtual-dresden-in-google-earth-2.md  (151 words)  /blog/2007/07/10/virtual-dresden-in-google-earth-2/
+
+2007-07-11  Cities in Games - Utrecht's 'Blob' Downloadable Game
+  KEEP src/posts/2007/07/2007-07-11-cities-in-games-utrechts-blob.md  (187 words)
+  DROP src/posts/2007/07/2007-07-11-cities-in-games-utrechts-blob-2.md  (187 words)  /blog/2007/07/11/cities-in-games-utrechts-blob-2/
+
+2007-07-13  Tutorial - Quick and Easy Augmented Reality from SketchUp/3DMax etc
+  KEEP src/posts/2007/07/2007-07-13-tutorial-quick-and-easy-augmented.md  (660 words)
+  DROP src/posts/2007/07/2007-07-13-tutorial-quick-and-easy-augmented-2.md  (660 words)  /blog/2007/07/13/tutorial-quick-and-easy-augmented-2/
+
+2007-07-17  Google (?) PhotoSketch - Rapid Photo Modelling
+  KEEP src/posts/2007/07/2007-07-17-google-photosketch-rapid-photo.md  (243 words)
+  DROP src/posts/2007/07/2007-07-17-google-photosketch-rapid-photo-2.md  (243 words)  /blog/2007/07/17/google-photosketch-rapid-photo-2/
+
+2007-07-19  Cities in Games - Midgar Final Fantasy
+  KEEP src/posts/2007/07/2007-07-19-cities-in-games-midgar-final-fantasy.md  (207 words)
+  DROP src/posts/2007/07/2007-07-19-cities-in-games-midgar-final-fantasy-2.md  (207 words)  /blog/2007/07/19/cities-in-games-midgar-final-fantasy-2/
+
+2007-07-20  SketchUp 3D Campus Winners
+  KEEP src/posts/2007/07/2007-07-20-sketchup-3d-campus-winners.md  (126 words)
+  DROP src/posts/2007/07/2007-07-20-sketchup-3d-campus-winners-2.md  (126 words)  /blog/2007/07/20/sketchup-3d-campus-winners-2/
+
+2007-07-26  Data Visualisation - SketchUp to 3DMax
+  KEEP src/posts/2007/07/2007-07-26-data-visualisation-sketchup-to-3dmax.md  (227 words)
+  DROP src/posts/2007/07/2007-07-26-data-visualisation-sketchup-to-3dmax-2.md  (227 words)  /blog/2007/07/26/data-visualisation-sketchup-to-3dmax-2/
+
+2007-07-26  Post Updates
+  KEEP src/posts/2007/07/2007-07-26-post-updates.md  (116 words)
+  DROP src/posts/2007/07/2007-07-26-post-updates-2.md  (116 words)  /blog/2007/07/26/post-updates-2/
+
+2007-07-27  Data as Architecture - SketchUp Bar Charts
+  KEEP src/posts/2007/07/2007-07-27-data-as-architecture-sketchup-bar.md  (222 words)
+  DROP src/posts/2007/07/2007-07-27-data-as-architecture-sketchup-bar-2.md  (222 words)  /blog/2007/07/27/data-as-architecture-sketchup-bar-2/
+
+2007-07-30  Iconic London - 3D Tube Map Update
+  KEEP src/posts/2007/07/2007-07-30-iconic-london-3d-tube-map-update.md  (112 words)
+  DROP src/posts/2007/07/2007-07-30-iconic-london-3d-tube-map-update-2.md  (112 words)  /blog/2007/07/30/iconic-london-3d-tube-map-update-2/
+
+2007-07-31  Designing Buildings using a Multi-Touch Display
+  KEEP src/posts/2007/07/2007-07-31-designing-3d-buildings-using-multi.md  (143 words)
+  DROP src/posts/2007/07/2007-07-31-designing-3d-buildings-using-multi-2.md  (143 words)  /blog/2007/07/31/designing-3d-buildings-using-multi-2/
+
+2007-08-03  Global and Local Data - Representing Geography in Second Life
+  KEEP src/posts/2007/08/2007-08-03-global-and-local-data-representing.md  (241 words)
+  DROP src/posts/2007/08/2007-08-03-global-and-local-data-representing-2.md  (241 words)  /blog/2007/08/03/global-and-local-data-representing-2/
+
+2007-08-04  Book of the Week - Google Sketchup for Dummies
+  KEEP src/posts/2007/08/2007-08-04-book-of-week-google-sketchup-for.md  (225 words)
+  DROP src/posts/2007/08/2007-08-04-book-of-week-google-sketchup-for-2.md  (225 words)  /blog/2007/08/04/book-of-week-google-sketchup-for-2/
+
+2007-08-07  Iconic London Image - Geographic London Underground and 3D Buildings Update
+  KEEP src/posts/2007/08/2007-08-07-iconic-london-image-geographic-london.md  (232 words)
+  DROP src/posts/2007/08/2007-08-07-iconic-london-image-geographic-london-2.md  (232 words)  /blog/2007/08/07/iconic-london-image-geographic-london-2/
+
+2007-08-09  Embedding 'My Maps' Into Blog Posts - TakItWithMe
+  KEEP src/posts/2007/08/2007-08-09-embedding-my-maps-into-blog-posts.md  (183 words)
+  DROP src/posts/2007/08/2007-08-09-embedding-my-maps-into-blog-posts-2.md  (183 words)  /blog/2007/08/09/embedding-my-maps-into-blog-posts-2/
+
+2007-08-09  Game Engines for Architects? Architecture for Gamers? Escapist Article
+  KEEP src/posts/2007/08/2007-08-09-game-engines-for-architects.md  (129 words)
+  DROP src/posts/2007/08/2007-08-09-game-engines-for-architects-2.md  (129 words)  /blog/2007/08/09/game-engines-for-architects-2/
+
+2007-08-09  UpNext - 3D Manhattan (Not MS or Google!)
+  KEEP src/posts/2007/08/2007-08-09-upnext-3d-manhattan-not-ms-or-google.md  (173 words)
+  DROP src/posts/2007/08/2007-08-09-upnext-3d-manhattan-not-ms-or-google-2.md  (173 words)  /blog/2007/08/09/upnext-3d-manhattan-not-ms-or-google-2/
+
+2007-08-16  Guardian Newspaper - Virtual London and the Ordnance Survey
+  KEEP src/posts/2007/08/2007-08-16-guardian-newspaper-virtual-london-and.md  (110 words)
+  DROP src/posts/2007/08/2007-08-16-guardian-newspaper-virtual-london-and-2.md  (110 words)  /blog/2007/08/16/guardian-newspaper-virtual-london-and-2/
+
+2007-08-21  Posts?
+  KEEP src/posts/2007/08/2007-08-21-posts-12.md  (106 words)
+  DROP src/posts/2007/08/2007-08-21-posts-13.md  (106 words)  /blog/2007/08/21/posts-13/
+
+2007-08-28  Geographic Awareness - 1 in 5 Cannot find the US on a Map?
+  KEEP src/posts/2007/08/2007-08-28-geographic-awareness-1-in-5-cannot-find.md  (154 words)
+  DROP src/posts/2007/08/2007-08-28-geographic-awareness-1-in-5-cannot-find-2.md  (154 words)  /blog/2007/08/28/geographic-awareness-1-in-5-cannot-find-2/
+
+2007-08-28  Second Life - Virtual Earth City Images
+  KEEP src/posts/2007/08/2007-08-28-second-life-virtual-earth-city-images.md  (191 words)
+  DROP src/posts/2007/08/2007-08-28-second-life-virtual-earth-city-images-2.md  (191 words)  /blog/2007/08/28/second-life-virtual-earth-city-images-2/
+
+2007-08-29  Architectural Visualisation - Neorama Demo Reel
+  KEEP src/posts/2007/08/2007-08-29-architectural-visualisation-neorama.md  (94 words)
+  DROP src/posts/2007/08/2007-08-29-architectural-visualisation-neorama-2.md  (94 words)  /blog/2007/08/29/architectural-visualisation-neorama-2/
+
+2007-08-29  Virtual Earth Panorama - San Francisco
+  KEEP src/posts/2007/08/2007-08-29-virtual-earth-panorama-san-francisco.md  (123 words)
+  DROP src/posts/2007/08/2007-08-29-virtual-earth-panorama-san-francisco-2.md  (123 words)  /blog/2007/08/29/virtual-earth-panorama-san-francisco-2/
+
+2007-08-29  Virtual Tourism - Google Maps and Google Earth
+  KEEP src/posts/2007/08/2007-08-29-virtual-tourism-google-maps-and-google.md  (105 words)
+  DROP src/posts/2007/08/2007-08-29-virtual-tourism-google-maps-and-google-2.md  (105 words)  /blog/2007/08/29/virtual-tourism-google-maps-and-google-2/
+
+2007-09-06  Croquet - Innovative Virtual Environments
+  KEEP src/posts/2007/09/2007-09-06-croquet-innovative-virtual-environments.md  (171 words)
+  DROP src/posts/2007/09/2007-09-06-croquet-innovative-virtual-environments-2.md  (171 words)  /blog/2007/09/06/croquet-innovative-virtual-environments-2/
+
+2007-09-11  A Week Off?
+  KEEP src/posts/2007/09/2007-09-11-week-off.md  (51 words)
+  DROP src/posts/2007/09/2007-09-11-week-off-2.md  (51 words)  /blog/2007/09/11/week-off-2/
+
+2007-09-17  Back to the City and Architect Magazine
+  KEEP src/posts/2007/09/2007-09-17-back-to-city-and-architect-magazine.md  (169 words)
+  DROP src/posts/2007/09/2007-09-17-back-to-city-and-architect-magazine-2.md  (169 words)  /blog/2007/09/17/back-to-city-and-architect-magazine-2/
+
+2007-09-17  Book Review - Designing your Second Life
+  KEEP src/posts/2007/09/2007-09-17-book-review-designing-your-second-life.md  (176 words)
+  DROP src/posts/2007/09/2007-09-17-book-review-designing-your-second-life-2.md  (176 words)  /blog/2007/09/17/book-review-designing-your-second-life-2/
+
+2007-09-17  Instant Panoramas - The Triops
+  KEEP src/posts/2007/09/2007-09-17-instant-panoramas-triops.md  (191 words)
+  DROP src/posts/2007/09/2007-09-17-instant-panoramas-triops-2.md  (191 words)  /blog/2007/09/17/instant-panoramas-triops-2/
+
+2007-09-18  Working Paper - Public Domain GIS, Mapping & Imaging Using Web-based Services
+  KEEP src/posts/2007/09/2007-09-18-working-paper-public-domain-gis-mapping.md  (297 words)
+  DROP src/posts/2007/09/2007-09-18-working-paper-public-domain-gis-mapping-2.md  (297 words)  /blog/2007/09/18/working-paper-public-domain-gis-mapping-2/
+
+2007-09-20  Bionatics announces LandSIM3D®, Landscape and Urban Simulation Software
+  KEEP src/posts/2007/09/2007-09-20-bionatics-announces-landsim3d-landscape.md  (457 words)
+  DROP src/posts/2007/09/2007-09-20-bionatics-announces-landsim3d-landscape-2.md  (457 words)  /blog/2007/09/20/bionatics-announces-landsim3d-landscape-2/
+
+2007-09-21  Living the Architecture - Porchdog in Second Life
+  KEEP src/posts/2007/09/2007-09-21-living-architecture-porchdog-in-second.md  (307 words)
+  DROP src/posts/2007/09/2007-09-21-living-architecture-porchdog-in-second-2.md  (307 words)  /blog/2007/09/21/living-architecture-porchdog-in-second-2/
+
+2007-09-22  Get Google Maps.app on your Ipod Touch
+  KEEP src/posts/2007/09/2007-09-22-get-google-mapsapp-on-your-ipod-touch.md  (279 words)
+  DROP src/posts/2007/09/2007-09-22-get-google-mapsapp-on-your-ipod-touch-2.md  (279 words)  /blog/2007/09/22/get-google-mapsapp-on-your-ipod-touch-2/
+
+2007-09-24  Chicago in Virtual Earth
+  KEEP src/posts/2007/09/2007-09-24-chicago-in-virtual-earth.md  (174 words)
+  DROP src/posts/2007/09/2007-09-24-chicago-in-virtual-earth-2.md  (174 words)  /blog/2007/09/24/chicago-in-virtual-earth-2/
+
+2007-09-25  Architectural Visualisation - Azula's Alovera Project
+  KEEP src/posts/2007/09/2007-09-25-architectural-visualisation-azulas.md  (95 words)
+  DROP src/posts/2007/09/2007-09-25-architectural-visualisation-azulas-2.md  (95 words)  /blog/2007/09/25/architectural-visualisation-azulas-2/
+
+2007-09-25  Branding and Counterfeiting in Virtual Worlds - Digital Data?
+  KEEP src/posts/2007/09/2007-09-25-branding-and-counterfeiting-in-virtual.md  (425 words)
+  DROP src/posts/2007/09/2007-09-25-branding-and-counterfeiting-in-virtual-2.md  (425 words)  /blog/2007/09/25/branding-and-counterfeiting-in-virtual-2/
+
+2007-09-25  SimCity Societies - What Kinds of Cities Would You Build? (Video)
+  KEEP src/posts/2007/09/2007-09-25-simcity-societies-what-will-you-build.md  (156 words)
+  DROP src/posts/2007/09/2007-09-25-simcity-societies-what-will-you-build-2.md  (156 words)  /blog/2007/09/25/simcity-societies-what-will-you-build-2/
+
+2007-09-26  Digital Urban - The Visual City Working Paper
+  KEEP src/posts/2007/09/2007-09-26-digital-urban-visual-city-working-paper.md  (338 words)
+  DROP src/posts/2007/09/2007-09-26-digital-urban-visual-city-working-paper-2.md  (338 words)  /blog/2007/09/26/digital-urban-visual-city-working-paper-2/
+
+2007-09-26  Yahoo! Map Mixer - Overlay Maps With Ease
+  KEEP src/posts/2007/09/2007-09-26-yahoo-map-mixer-overlay-maps-with-ease.md  (249 words)
+  DROP src/posts/2007/09/2007-09-26-yahoo-map-mixer-overlay-maps-with-ease-2.md  (249 words)  /blog/2007/09/26/yahoo-map-mixer-overlay-maps-with-ease-2/
+
+2007-09-27  Second Life/Web 2.0? Virtual Worlds in 1998 is Where It Was At...
+  KEEP src/posts/2007/09/2007-09-27-posts-14.md  (137 words)
+  DROP src/posts/2007/09/2007-09-27-posts-15.md  (137 words)  /blog/2007/09/27/posts-15/
+
+2007-09-27  Virtual Worlds Circa 1998: How Much Has Changed?
+  KEEP src/posts/2007/09/2007-09-27-second-lifeweb-20-virtual-worlds-in.md  (803 words)
+  DROP src/posts/2007/09/2007-09-27-second-lifeweb-20-virtual-worlds-in-2.md  (803 words)  /blog/2007/09/27/second-lifeweb-20-virtual-worlds-in-2/
+
+2007-09-27  To Teleport or Not to Teleport: Travelling in Virtual Worlds
+  KEEP src/posts/2007/09/2007-09-27-to-teleport-or-not-to-teleport.md  (433 words)
+  DROP src/posts/2007/09/2007-09-27-to-teleport-or-not-to-teleport-2.md  (433 words)  /blog/2007/09/27/to-teleport-or-not-to-teleport-2/
+
+2007-10-02  Ann Arbor E-Social Science Conference Paper
+  KEEP src/posts/2007/10/2007-10-02-ann-arbor-e-social-science-conference.md  (80 words)
+  DROP src/posts/2007/10/2007-10-02-ann-arbor-e-social-science-conference-2.md  (80 words)  /blog/2007/10/02/ann-arbor-e-social-science-conference-2/
+
+2007-10-08  All Digital All the Time
+  KEEP src/posts/2007/10/2007-10-08-posts-16.md  (1 words)
+  DROP src/posts/2007/10/2007-10-08-posts-17.md  (1 words)  /blog/2007/10/08/posts-17/
+
+2007-10-08  Digitsing our Lives
+  KEEP src/posts/2007/10/2007-10-08-posts-18.md  (1 words)
+  DROP src/posts/2007/10/2007-10-08-posts-19.md  (1 words)  /blog/2007/10/08/posts-19/
+
+2007-10-15  Student Architectural Showcase - University of Oklahoma
+  KEEP src/posts/2007/10/2007-10-15-student-architectural-showcase.md  (81 words)
+  DROP src/posts/2007/10/2007-10-15-student-architectural-showcase-2.md  (81 words)  /blog/2007/10/15/student-architectural-showcase-2/
+
+2007-10-16  Real Time Weather Data in Second Life
+  KEEP src/posts/2007/10/2007-10-16-real-time-weather-data-in-second-life.md  (202 words)
+  DROP src/posts/2007/10/2007-10-16-real-time-weather-data-in-second-life-2.md  (202 words)  /blog/2007/10/16/real-time-weather-data-in-second-life-2/
+
+2007-10-17  SketchUp to 3D Max to Real Life
+  KEEP src/posts/2007/10/2007-10-17-sketchup-to-3d-max-to-real-life.md  (127 words)
+  DROP src/posts/2007/10/2007-10-17-sketchup-to-3d-max-to-real-life-2.md  (127 words)  /blog/2007/10/17/sketchup-to-3d-max-to-real-life-2/
+
+2007-10-22  Architectural Visualisation - Garden's By The Bay, Singapore Waterfront
+  KEEP src/posts/2007/10/2007-10-22-architectural-visualisation-gardens-by.md  (255 words)
+  DROP src/posts/2007/10/2007-10-22-architectural-visualisation-gardens-by-2.md  (255 words)  /blog/2007/10/22/architectural-visualisation-gardens-by-2/
+
+2007-10-23  Design Revolutionaries - New York Magazine
+  KEEP src/posts/2007/10/2007-10-23-design-revolutionaries-new-york.md  (130 words)
+  DROP src/posts/2007/10/2007-10-23-design-revolutionaries-new-york-2.md  (130 words)  /blog/2007/10/23/design-revolutionaries-new-york-2/
+
+2007-10-25  Google Earth PhotoOverlay - Download and Tutorial
+  KEEP src/posts/2007/10/2007-10-25-google-earth-photooverlay-download-and_25.md  (984 words)
+  DROP src/posts/2007/10/2007-10-25-google-earth-photooverlay-download-and_25-2.md  (984 words)  /blog/2007/10/25/google-earth-photooverlay-download-and_25-2/
+
+2007-10-25  Posts - Photo Overlay Creator
+  KEEP src/posts/2007/10/2007-10-25-posts-photo-overlay-creator.md  (92 words)
+  DROP src/posts/2007/10/2007-10-25-posts-photo-overlay-creator-2.md  (92 words)  /blog/2007/10/25/posts-photo-overlay-creator-2/
+
+2007-10-25  Realtime RSS in Second Life
+  KEEP src/posts/2007/10/2007-10-25-realtime-rss-in-second-ligfe.md  (155 words)
+  DROP src/posts/2007/10/2007-10-25-realtime-rss-in-second-ligfe-2.md  (155 words)  /blog/2007/10/25/realtime-rss-in-second-ligfe-2/
+
+2007-10-26  Second Life - Global Weather Updates
+  KEEP src/posts/2007/10/2007-10-26-second-life-global-weather-updates.md  (143 words)
+  DROP src/posts/2007/10/2007-10-26-second-life-global-weather-updates-2.md  (143 words)  /blog/2007/10/26/second-life-global-weather-updates-2/
+
+2007-10-26  Tutorial - How to Capture Google Maps for Printing and Poster Design
+  KEEP src/posts/2007/10/2007-10-26-tutorial-how-to-capture-google-maps-for.md  (593 words)
+  DROP src/posts/2007/10/2007-10-26-tutorial-how-to-capture-google-maps-for-2.md  (593 words)  /blog/2007/10/26/tutorial-how-to-capture-google-maps-for-2/
+
+2007-10-30  Where Are The Posts?
+  KEEP src/posts/2007/10/2007-10-30-where-are-posts.md  (134 words)
+  DROP src/posts/2007/10/2007-10-30-where-are-posts-2.md  (134 words)  /blog/2007/10/30/where-are-posts-2/
+
+2007-11-01  From the Computable City to the City in the Computer
+  KEEP src/posts/2007/11/2007-11-01-from-computable-city-to-city-in.md  (413 words)
+  DROP src/posts/2007/11/2007-11-01-from-computable-city-to-city-in-2.md  (413 words)  /blog/2007/11/01/from-computable-city-to-city-in-2/
+
+2007-11-06  Connected to the World but not to the City - The Local Cloud
+  KEEP src/posts/2007/11/2007-11-06-connected-to-world-but-not-to-city.md  (697 words)
+  DROP src/posts/2007/11/2007-11-06-connected-to-world-but-not-to-city-2.md  (697 words)  /blog/2007/11/06/connected-to-world-but-not-to-city-2/
+
+2007-11-08  The Bottom Line – Its all about Data
+  KEEP src/posts/2007/11/2007-11-08-bottom-line-its-all-about-data.md  (730 words)
+  DROP src/posts/2007/11/2007-11-08-bottom-line-its-all-about-data-2.md  (730 words)  /blog/2007/11/08/bottom-line-its-all-about-data-2/
+
+2007-11-08  Virtual London in Second Life - Rezzing a City of 3.3 Million Buildings
+  KEEP src/posts/2007/11/2007-11-08-virtual-london-in-second-life-rezzing.md  (221 words)
+  DROP src/posts/2007/11/2007-11-08-virtual-london-in-second-life-rezzing-2.md  (221 words)  /blog/2007/11/08/virtual-london-in-second-life-rezzing-2/
+
+2007-11-09  Architectural Visualisation - TSI3D Demo Reel
+  KEEP src/posts/2007/11/2007-11-09-architectural-visualisation-tsi3d-demo.md  (131 words)
+  DROP src/posts/2007/11/2007-11-09-architectural-visualisation-tsi3d-demo-2.md  (131 words)  /blog/2007/11/09/architectural-visualisation-tsi3d-demo-2/
+
+2007-11-09  Digital City Installation - The Circus by Collectif
+  KEEP src/posts/2007/11/2007-11-09-digital-city-installation-circus-by.md  (308 words)
+  DROP src/posts/2007/11/2007-11-09-digital-city-installation-circus-by-2.md  (308 words)  /blog/2007/11/09/digital-city-installation-circus-by-2/
+
+2007-11-12  Collaborative Virtual Architecture - Wikitecture
+  KEEP src/posts/2007/11/2007-11-12-collaborative-virtual-architecture.md  (401 words)
+  DROP src/posts/2007/11/2007-11-12-collaborative-virtual-architecture-2.md  (401 words)  /blog/2007/11/12/collaborative-virtual-architecture-2/
+
+2007-11-13  3D Architectural Printing
+  KEEP src/posts/2007/11/2007-11-13-3d-architectural-printing.md  (162 words)
+  DROP src/posts/2007/11/2007-11-13-3d-architectural-printing-2.md  (162 words)  /blog/2007/11/13/3d-architectural-printing-2/
+
+2007-11-13  Geographic Email: Flight Sim + Email = 3DMail
+  KEEP src/posts/2007/11/2007-11-13-geographic-email-flight-sim-email.md  (117 words)
+  DROP src/posts/2007/11/2007-11-13-geographic-email-flight-sim-email-2.md  (117 words)  /blog/2007/11/13/geographic-email-flight-sim-email-2/
+
+2007-11-13  Google's Android - Mobile Maps, Panoramas and Google Earth?
+  KEEP src/posts/2007/11/2007-11-13-googles-android-mobile-maps-panoramas.md  (161 words)
+  DROP src/posts/2007/11/2007-11-13-googles-android-mobile-maps-panoramas-2.md  (161 words)  /blog/2007/11/13/googles-android-mobile-maps-panoramas-2/
+
+2007-11-13  Royksopp - \"Remind Me\" Data and City Visualisation
+  KEEP src/posts/2007/11/2007-11-13-royksopp-remind-me-data-and-city.md  (124 words)
+  DROP src/posts/2007/11/2007-11-13-royksopp-remind-me-data-and-city-2.md  (124 words)  /blog/2007/11/13/royksopp-remind-me-data-and-city-2/
+
+2007-11-14  CyberCity in Liquidation (?)
+  KEEP src/posts/2007/11/2007-11-14-cybercity-in-liquidation.md  (134 words)
+  DROP src/posts/2007/11/2007-11-14-cybercity-in-liquidation-2.md  (134 words)  /blog/2007/11/14/cybercity-in-liquidation-2/
+
+2007-11-14  Vector Magic - Convert Maps and Images to Vector Format Online
+  KEEP src/posts/2007/11/2007-11-14-vector-magic-convert-maps-and-images-to.md  (287 words)
+  DROP src/posts/2007/11/2007-11-14-vector-magic-convert-maps-and-images-to-2.md  (287 words)  /blog/2007/11/14/vector-magic-convert-maps-and-images-to-2/
+
+2007-11-21  Worlds Worst Urban Spaces: Nihonbashi -Tokyo Metropolitan Expressway
+  KEEP src/posts/2007/11/2007-11-21-orlds-worst-urban-spaces-nihonbashi.md  (369 words)
+  DROP src/posts/2007/11/2007-11-21-orlds-worst-urban-spaces-nihonbashi-2.md  (369 words)  /blog/2007/11/21/orlds-worst-urban-spaces-nihonbashi-2/
+
+2007-11-21  Lost Software
+  KEEP src/posts/2007/11/2007-11-21-posts-23.md  (13 words)
+  DROP src/posts/2007/11/2007-11-21-posts-24.md  (13 words)  /blog/2007/11/21/posts-24/
+
+2007-11-22  Back to the MetaVerse: The Roadmap
+  KEEP src/posts/2007/11/2007-11-22-back-to-metaverse-road-map.md  (232 words)
+  DROP src/posts/2007/11/2007-11-22-back-to-metaverse-road-map-2.md  (232 words)  /blog/2007/11/22/back-to-metaverse-road-map-2/
+
+2007-11-23  Augmented Reality for Communicating Architecture
+  KEEP src/posts/2007/11/2007-11-23-augmented-reality-for-communicating.md  (111 words)
+  DROP src/posts/2007/11/2007-11-23-augmented-reality-for-communicating-2.md  (111 words)  /blog/2007/11/23/augmented-reality-for-communicating-2/
+
+2007-11-23  Automatic City Builder - Gamr7
+  KEEP src/posts/2007/11/2007-11-23-automatic-city-builder-gamr7.md  (160 words)
+  DROP src/posts/2007/11/2007-11-23-automatic-city-builder-gamr7-2.md  (160 words)  /blog/2007/11/23/automatic-city-builder-gamr7-2/
+
+2007-11-29  Posts...
+  KEEP src/posts/2007/11/2007-11-29-posts-21.md  (95 words)
+  DROP src/posts/2007/11/2007-11-29-posts-22.md  (95 words)  /blog/2007/11/29/posts-22/
+
+2007-11-30  Arc to Second Life: Geographic Data Direct to Second Life
+  KEEP src/posts/2007/11/2007-11-30-arc-to-second-life-geographic-data.md  (193 words)
+  DROP src/posts/2007/11/2007-11-30-arc-to-second-life-geographic-data-2.md  (193 words)  /blog/2007/11/30/arc-to-second-life-geographic-data-2/
+
+2007-12-01  VRMAG Issue 28
+  KEEP src/posts/2007/12/2007-12-01-vrmag-issue-28.md  (106 words)
+  DROP src/posts/2007/12/2007-12-01-vrmag-issue-28-2.md  (106 words)  /blog/2007/12/01/vrmag-issue-28-2/
+
+2007-12-05  Demo Reels Newlands and Company
+  KEEP src/posts/2007/12/2007-12-05-demo-reels-newlands-and-company.md  (130 words)
+  DROP src/posts/2007/12/2007-12-05-demo-reels-newlands-and-company-2.md  (130 words)  /blog/2007/12/05/demo-reels-newlands-and-company-2/
+
+2007-12-05  Technology Bubbles
+  KEEP src/posts/2007/12/2007-12-05-technology-bubbles.md  (167 words)
+  DROP src/posts/2007/12/2007-12-05-technology-bubbles-2.md  (167 words)  /blog/2007/12/05/technology-bubbles-2/
+
+2007-12-17  A Tour of Stoke-on-Trent: Life In A Northern Town
+  KEEP src/posts/2007/12/2007-12-17-tour-of-stoke-on-trent.md  (141 words)
+  DROP src/posts/2007/12/2007-12-17-tour-of-stoke-on-trent-2.md  (141 words)  /blog/2007/12/17/tour-of-stoke-on-trent-2/
+
+2007-12-17  Worlds Worst Urban Spaces: Rozzol Melara,Trieste
+  KEEP src/posts/2007/12/2007-12-17-worlds-worst-urban-spaces-rozzol.md  (281 words)
+  DROP src/posts/2007/12/2007-12-17-worlds-worst-urban-spaces-rozzol-2.md  (281 words)  /blog/2007/12/17/worlds-worst-urban-spaces-rozzol-2/
+
+2007-12-18  109 Razor Wire
+  KEEP src/posts/2007/12/2007-12-18-109-razor-wire.md  (197 words)
+  DROP src/posts/2007/12/2007-12-18-109-razor-wire-2.md  (197 words)  /blog/2007/12/18/109-razor-wire-2/
+
+2007-12-27  Virtual Manchester: Model by ARUP
+  KEEP src/posts/2007/12/2007-12-27-virtual-manchester-model-by-arup.md  (138 words)
+  DROP src/posts/2007/12/2007-12-27-virtual-manchester-model-by-arup-2.md  (138 words)  /blog/2007/12/27/virtual-manchester-model-by-arup-2/
+
+2007-12-29  3D Visualisation: A Year Using Blender
+  KEEP src/posts/2007/12/2007-12-29-3d-visualisation-year-using-blender.md  (168 words)
+  DROP src/posts/2007/12/2007-12-29-3d-visualisation-year-using-blender-2.md  (168 words)  /blog/2007/12/29/3d-visualisation-year-using-blender-2/
+
+2008-01-14  Visualising Geographic Environments: City 17
+  KEEP src/posts/2008/01/2008-01-14-visualising-geographic-environments.md  (200 words)
+  DROP src/posts/2008/01/2008-01-14-visualising-geographic-environments-2.md  (200 words)  /blog/2008/01/14/visualising-geographic-environments-2/
+
+2008-01-14  Volunteered Geographic Information (VGI)
+  KEEP src/posts/2008/01/2008-01-14-volunteered-geographic-information-vgi.md  (688 words)
+  DROP src/posts/2008/01/2008-01-14-volunteered-geographic-information-vgi-2.md  (688 words)  /blog/2008/01/14/volunteered-geographic-information-vgi-2/
+
+2008-01-15  HyperReal Urban Panoramas
+  KEEP src/posts/2008/01/2008-01-15-hyperreal-urban-panoramas.md  (235 words)
+  DROP src/posts/2008/01/2008-01-15-hyperreal-urban-panoramas-2.md  (235 words)  /blog/2008/01/15/hyperreal-urban-panoramas-2/
+
+2008-01-17  What do MS Points Make? Content in a Web 2.0 World
+  KEEP src/posts/2008/01/2008-01-17-what-do-ms-points-make-content-in-web.md  (242 words)
+  DROP src/posts/2008/01/2008-01-17-what-do-ms-points-make-content-in-web-2.md  (242 words)  /blog/2008/01/17/what-do-ms-points-make-content-in-web-2/
+
+2008-01-21  Web 2.0 in Five Minutes
+  KEEP src/posts/2008/01/2008-01-21-web-20-in-five-minutes.md  (131 words)
+  DROP src/posts/2008/01/2008-01-21-web-20-in-five-minutes-2.md  (131 words)  /blog/2008/01/21/web-20-in-five-minutes-2/
+
+2008-01-21  Web 2.0 - Whats it all about?
+  KEEP src/posts/2008/01/2008-01-21-web-20-whats-it-all-about.md  (131 words)
+  DROP src/posts/2008/01/2008-01-21-web-20-whats-it-all-about-2.md  (131 words)  /blog/2008/01/21/web-20-whats-it-all-about-2/
+
+2008-01-22  Crysis London Eye - Screen Grab
+  KEEP src/posts/2008/01/2008-01-22-crysis-london-eye-screen-grab.md  (86 words)
+  DROP src/posts/2008/01/2008-01-22-crysis-london-eye-screen-grab-2.md  (86 words)  /blog/2008/01/22/crysis-london-eye-screen-grab-2/
+
+2008-01-23  SketchUp City
+  KEEP src/posts/2008/01/2008-01-23-sketchup-city.md  (87 words)
+  DROP src/posts/2008/01/2008-01-23-sketchup-city-2.md  (87 words)  /blog/2008/01/23/sketchup-city-2/
+
+2008-01-24  London Aerial Photography - 4cm Super Zoom
+  KEEP src/posts/2008/01/2008-01-24-london-aerial-photography-4cm-super.md  (222 words)
+  DROP src/posts/2008/01/2008-01-24-london-aerial-photography-4cm-super-2.md  (222 words)  /blog/2008/01/24/london-aerial-photography-4cm-super-2/
+
+2008-01-24  Video Trace: 3D Models from Video
+  KEEP src/posts/2008/01/2008-01-24-video-trace-3d-models-from-video.md  (210 words)
+  DROP src/posts/2008/01/2008-01-24-video-trace-3d-models-from-video-2.md  (210 words)  /blog/2008/01/24/video-trace-3d-models-from-video-2/
+
+2008-01-24  Virtual Purdue: Future City Animation
+  KEEP src/posts/2008/01/2008-01-24-virtual-purdue-future-city-animation.md  (192 words)
+  DROP src/posts/2008/01/2008-01-24-virtual-purdue-future-city-animation-2.md  (192 words)  /blog/2008/01/24/virtual-purdue-future-city-animation-2/
+
+2008-01-25  Jubliee Church by Richard Meier: 3D Animation
+  KEEP src/posts/2008/01/2008-01-25-jubliee-church-by-richard-meier-3d.md  (219 words)
+  DROP src/posts/2008/01/2008-01-25-jubliee-church-by-richard-meier-3d-2.md  (219 words)  /blog/2008/01/25/jubliee-church-by-richard-meier-3d-2/
+
+2008-01-27  Untitled
+  KEEP src/posts/2008/01/2008-01-27-posts-25.md  (38 words)
+  DROP src/posts/2008/01/2008-01-27-posts-26.md  (38 words)  /blog/2008/01/27/posts-26/
+
+2008-01-28  Architectural Tutorials: 3D World Magazine March 2008
+  KEEP src/posts/2008/01/2008-01-28-architectural-tutorials-3d-world.md  (95 words)
+  DROP src/posts/2008/01/2008-01-28-architectural-tutorials-3d-world-2.md  (95 words)  /blog/2008/01/28/architectural-tutorials-3d-world-2/
+
+2008-06-02  Architectural Show Reels: Distinct Solutions
+  KEEP src/posts/2008/06/2008-06-02-architectural-show-reels-distinct.md  (113 words)
+  DROP src/posts/2008/06/2008-06-02-architectural-show-reels-distinct-2.md  (113 words)  /blog/2008/06/02/architectural-show-reels-distinct-2/
+
+2008-06-02  Mirror's Edge: Running in the Cityscape
+  KEEP src/posts/2008/06/2008-06-02-mirrors-edge-running-in-cityscape.md  (155 words)
+  DROP src/posts/2008/06/2008-06-02-mirrors-edge-running-in-cityscape-2.md  (155 words)  /blog/2008/06/02/mirrors-edge-running-in-cityscape-2/
+
+2008-06-03  Architectural Model Making Timelapse
+  KEEP src/posts/2008/06/2008-06-03-architectural-model-making-timelapse.md  (103 words)
+  DROP src/posts/2008/06/2008-06-03-architectural-model-making-timelapse-2.md  (103 words)  /blog/2008/06/03/architectural-model-making-timelapse-2/
+
+2008-06-23  Untitled
+  KEEP src/posts/2008/06/2008-06-23-posts-28.md  (19 words)
+  DROP src/posts/2008/06/2008-06-23-posts-29.md  (19 words)  /blog/2008/06/23/posts-29/
+
+2008-06-26  Is Google Maps GIS? Neogeography in The Cloud
+  KEEP src/posts/2008/06/2008-06-26-is-google-maps-gis-gis-in-cloud.md  (353 words)
+  DROP src/posts/2008/06/2008-06-26-is-google-maps-gis-gis-in-cloud-2.md  (353 words)  /blog/2008/06/26/is-google-maps-gis-gis-in-cloud-2/
+
+2008-06-27  Architectural Visualisation: Tour Oxigène à Lyon
+  KEEP src/posts/2008/06/2008-06-27-architectural-visualisation-tour-oxigne.md  (81 words)
+  DROP src/posts/2008/06/2008-06-27-architectural-visualisation-tour-oxigne-2.md  (81 words)  /blog/2008/06/27/architectural-visualisation-tour-oxigne-2/
+
+2008-07-01  Google Earth Thematic Mapping Engine
+  KEEP src/posts/2008/07/2008-07-01-google-earth-thematic-mapping-engine.md  (213 words)
+  DROP src/posts/2008/07/2008-07-01-google-earth-thematic-mapping-engine-2.md  (213 words)  /blog/2008/07/01/google-earth-thematic-mapping-engine-2/
+
+2008-07-02  3D Architectural Animation: Where do you want to be?
+  KEEP src/posts/2008/07/2008-07-02-3d-architectural-animation-where-do-you.md  (86 words)
+  DROP src/posts/2008/07/2008-07-02-3d-architectural-animation-where-do-you-2.md  (86 words)  /blog/2008/07/02/3d-architectural-animation-where-do-you-2/
+
+2008-07-03  High Definition London TimeLapse - Weather
+  KEEP src/posts/2008/07/2008-07-03-high-definition-london-timelapse.md  (167 words)
+  DROP src/posts/2008/07/2008-07-03-high-definition-london-timelapse-2.md  (167 words)  /blog/2008/07/03/high-definition-london-timelapse-2/
+
+2008-07-04  Google Street View in the UK? / Crowd Sourcing for Commercial Gain
+  KEEP src/posts/2008/07/2008-07-04-google-street-view-in-uk-crowd-sourcing.md  (284 words)
+  DROP src/posts/2008/07/2008-07-04-google-street-view-in-uk-crowd-sourcing-2.md  (284 words)  /blog/2008/07/04/google-street-view-in-uk-crowd-sourcing-2/
+
+2008-07-05  High Definition Cloud Timelaspe: July 4th 2008
+  KEEP src/posts/2008/07/2008-07-05-high-definition-cloud-timelaspe-july.md  (139 words)
+  DROP src/posts/2008/07/2008-07-05-high-definition-cloud-timelaspe-july-2.md  (139 words)  /blog/2008/07/05/high-definition-cloud-timelaspe-july-2/
+
+2008-07-06  CITIES XL: City Building Simulation
+  KEEP src/posts/2008/07/2008-07-06-cities-xl-city-building-simulation.md  (344 words)
+  DROP src/posts/2008/07/2008-07-06-cities-xl-city-building-simulation-2.md  (344 words)  /blog/2008/07/06/cities-xl-city-building-simulation-2/
+
+2008-07-06  Life in the City: 3 Days - 3,038 Photos
+  KEEP src/posts/2008/07/2008-07-06-life-in-city-3-days-3038-photos.md  (90 words)
+  DROP src/posts/2008/07/2008-07-06-life-in-city-3-days-3038-photos-2.md  (90 words)  /blog/2008/07/06/life-in-city-3-days-3038-photos-2/
+
+2008-07-06  Sydney Skyline Timelapse - Shortest Day
+  KEEP src/posts/2008/07/2008-07-06-sydney-skyline-timelapse-shortest-day.md  (96 words)
+  DROP src/posts/2008/07/2008-07-06-sydney-skyline-timelapse-shortest-day-2.md  (96 words)  /blog/2008/07/06/sydney-skyline-timelapse-shortest-day-2/
+
+2008-07-07  Architectural Show Reels: Squint/Opera
+  KEEP src/posts/2008/07/2008-07-07-architectural-show-reels-squintopera.md  (118 words)
+  DROP src/posts/2008/07/2008-07-07-architectural-show-reels-squintopera-2.md  (118 words)  /blog/2008/07/07/architectural-show-reels-squintopera-2/
+
+2008-07-07  Mini New York Model Animation
+  KEEP src/posts/2008/07/2008-07-07-mini-new-york-model-animation.md  (93 words)
+  DROP src/posts/2008/07/2008-07-07-mini-new-york-model-animation-2.md  (93 words)  /blog/2008/07/07/mini-new-york-model-animation-2/
+
+2008-07-07  Virtuality vs. Reality: From 3D Flythourgh to Real Life
+  KEEP src/posts/2008/07/2008-07-07-virtuality-vs-reality-from-3d.md  (113 words)
+  DROP src/posts/2008/07/2008-07-07-virtuality-vs-reality-from-3d-2.md  (113 words)  /blog/2008/07/07/virtuality-vs-reality-from-3d-2/
+
+2008-07-07  Wiki Architecture: Open Source Architecture - The White House
+  KEEP src/posts/2008/07/2008-07-07-wiki-architecture-open-source.md  (326 words)
+  DROP src/posts/2008/07/2008-07-07-wiki-architecture-open-source-2.md  (326 words)  /blog/2008/07/07/wiki-architecture-open-source-2/
+
+2008-07-08  Location Based Augmented Reality for Android: Enkin
+  KEEP src/posts/2008/07/2008-07-08-location-based-augmented-reality-for.md  (229 words)
+  DROP src/posts/2008/07/2008-07-08-location-based-augmented-reality-for-2.md  (229 words)  /blog/2008/07/08/location-based-augmented-reality-for-2/
+
+2008-07-08  A Summers Day in London: High Definition Timelapse
+  KEEP src/posts/2008/07/2008-07-08-summers-day-in-london-high-definition.md  (109 words)
+  DROP src/posts/2008/07/2008-07-08-summers-day-in-london-high-definition-2.md  (109 words)  /blog/2008/07/08/summers-day-in-london-high-definition-2/
+
+2008-07-09  Google Enters the Metaverse: Lively by Google Labs
+  KEEP src/posts/2008/07/2008-07-09-google-enters-metaverse-lively-by.md  (242 words)
+  DROP src/posts/2008/07/2008-07-09-google-enters-metaverse-lively-by-2.md  (242 words)  /blog/2008/07/09/google-enters-metaverse-lively-by-2/
+
+2008-07-12  iPhone 2.0 Excellent Location Tracking without GPS (Old iPhone)
+  KEEP src/posts/2008/07/2008-07-12-iphone-20-excellent-location-tracking.md  (242 words)
+  DROP src/posts/2008/07/2008-07-12-iphone-20-excellent-location-tracking-2.md  (242 words)  /blog/2008/07/12/iphone-20-excellent-location-tracking-2/
+
+2008-07-12  iPhone 2.0 ExcelLocation Tracking without GPS (Old iPhone)
+  EMPTY src/posts/2008/07/2008-07-12-posts-33.md  /blog/2008/07/12/posts-33/
+  EMPTY src/posts/2008/07/2008-07-12-posts-34.md  /blog/2008/07/12/posts-34/
+
+2008-07-13  3D Earth Sample Visualisation: Sci-Fi Channel
+  KEEP src/posts/2008/07/2008-07-13-3d-earth-sample-visualisation-sci-fi.md  (78 words)
+  DROP src/posts/2008/07/2008-07-13-3d-earth-sample-visualisation-sci-fi-2.md  (78 words)  /blog/2008/07/13/3d-earth-sample-visualisation-sci-fi-2/
+
+2008-07-15  GPS iPhone Movie
+  KEEP src/posts/2008/07/2008-07-15-gps-iphone-movie.md  (157 words)
+  DROP src/posts/2008/07/2008-07-15-gps-iphone-movie-2.md  (157 words)  /blog/2008/07/15/gps-iphone-movie-2/
+
+2008-07-23  Animation: Diversion
+  KEEP src/posts/2008/07/2008-07-23-animation-diversion.md  (71 words)
+  DROP src/posts/2008/07/2008-07-23-animation-diversion-2.md  (71 words)  /blog/2008/07/23/animation-diversion-2/
+
+2008-07-23  Transmitting Architecture: Cluster Issue 07
+  KEEP src/posts/2008/07/2008-07-23-transmitting-architecture-cluster-issue.md  (217 words)
+  DROP src/posts/2008/07/2008-07-23-transmitting-architecture-cluster-issue-2.md  (217 words)  /blog/2008/07/23/transmitting-architecture-cluster-issue-2/
+
+2008-07-24  CRYSIS
+  KEEP src/posts/2008/07/2008-07-24-posts-31.md  (1 words)
+  DROP src/posts/2008/07/2008-07-24-posts-32.md  (1 words)  /blog/2008/07/24/posts-32/
+
+2008-07-25  Flickr/Twitter Vision 3D Earth View
+  KEEP src/posts/2008/07/2008-07-25-flickrtwitter-vision-3d-earth-view.md  (144 words)
+  DROP src/posts/2008/07/2008-07-25-flickrtwitter-vision-3d-earth-view-2.md  (144 words)  /blog/2008/07/25/flickrtwitter-vision-3d-earth-view-2/
+
+2008-07-28  Virtual Stonehenge: A LiDAR Survey Flythrough
+  KEEP src/posts/2008/07/2008-07-28-virtual-stonehenge-lidar-survey.md  (135 words)
+  DROP src/posts/2008/07/2008-07-28-virtual-stonehenge-lidar-survey-2.md  (135 words)  /blog/2008/07/28/virtual-stonehenge-lidar-survey-2/
+
+2008-07-30  GIS vs Google Earth vs Google Maps: Google Trends
+  KEEP src/posts/2008/07/2008-07-30-gis-vs-google-earth-vs-google-maps.md  (169 words)
+  DROP src/posts/2008/07/2008-07-30-gis-vs-google-earth-vs-google-maps-2.md  (169 words)  /blog/2008/07/30/gis-vs-google-earth-vs-google-maps-2/
+
+2008-07-31  Thinking' on: Architectural Animation
+  KEEP src/posts/2008/07/2008-07-31-thinking-on-architectural-animation.md  (53 words)
+  DROP src/posts/2008/07/2008-07-31-thinking-on-architectural-animation-2.md  (53 words)  /blog/2008/07/31/thinking-on-architectural-animation-2/
+
+2008-08-01  Worlds within Worlds: Panoramic Visualisation
+  KEEP src/posts/2008/08/2008-08-01-worlds-within-worlds-panoramic.md  (281 words)
+  DROP src/posts/2008/08/2008-08-01-worlds-within-worlds-panoramic-2.md  (281 words)  /blog/2008/08/01/worlds-within-worlds-panoramic-2/
+
+2008-08-02  Modules: Apartments plus Music plus Timed Lights - Architectural Animation
+  KEEP src/posts/2008/08/2008-08-02-modules-apartments-plus-music-plus.md  (79 words)
+  DROP src/posts/2008/08/2008-08-02-modules-apartments-plus-music-plus-2.md  (79 words)  /blog/2008/08/02/modules-apartments-plus-music-plus-2/
+
+2008-08-03  The Urban Engine
+  KEEP src/posts/2008/08/2008-08-03-urban-engine.md  (132 words)
+  DROP src/posts/2008/08/2008-08-03-urban-engine-2.md  (132 words)  /blog/2008/08/03/urban-engine-2/
+
+2008-08-05  Oklahoma 'Core to Shore' Master Plan Visualisation
+  KEEP src/posts/2008/08/2008-08-05-oklahoma-core-to-shore-master-plan.md  (107 words)
+  DROP src/posts/2008/08/2008-08-05-oklahoma-core-to-shore-master-plan-2.md  (107 words)  /blog/2008/08/05/oklahoma-core-to-shore-master-plan-2/
+
+2008-08-08  Britain from Above: BBC 1 Sunday a New Geographic Information Rich view of the Nation
+  KEEP src/posts/2008/08/2008-08-08-britian-from-above-bbc-1-sunday-new.md  (184 words)
+  DROP src/posts/2008/08/2008-08-08-britian-from-above-bbc-1-sunday-new-2.md  (184 words)  /blog/2008/08/08/britian-from-above-bbc-1-sunday-new-2/
+
+2008-08-12  Air Pollution in the City Visualisation: Nitrogen Dioxide, London
+  KEEP src/posts/2008/08/2008-08-12-air-pollution-in-city-visualisation.md  (228 words)
+  DROP src/posts/2008/08/2008-08-12-air-pollution-in-city-visualisation-2.md  (228 words)  /blog/2008/08/12/air-pollution-in-city-visualisation-2/
+
+2008-08-12  Cloud Gate Chicago Flash Panorama
+  KEEP src/posts/2008/08/2008-08-12-cloud-gate-chicago-flash-panorama.md  (153 words)
+  DROP src/posts/2008/08/2008-08-12-cloud-gate-chicago-flash-panorama-2.md  (153 words)  /blog/2008/08/12/cloud-gate-chicago-flash-panorama-2/
+
+2008-08-16  Union Square San Francisco 'Cut out and Keep
+  KEEP src/posts/2008/08/2008-08-16-union-square-san-francisco-cut-out-and.md  (127 words)
+  DROP src/posts/2008/08/2008-08-16-posts-37.md  (127 words)  /blog/2008/08/16/posts-37/
+
+2008-09-01  iPhone 3G, InstaMapper App and Google Earth: Tracking the Thames Clipper
+  KEEP src/posts/2008/09/2008-09-01-iphone-3g-instamapper-app-and-google.md  (424 words)
+  DROP src/posts/2008/09/2008-09-01-iphone-3g-instamapper-app-and-google-2.md  (424 words)  /blog/2008/09/01/iphone-3g-instamapper-app-and-google-2/
+
+2008-09-03  State of the Metaverse 2008
+  KEEP src/posts/2008/09/2008-09-03-state-of-metaverse-2008.md  (226 words)
+  DROP src/posts/2008/09/2008-09-03-state-of-metaverse-2008-2.md  (226 words)  /blog/2008/09/03/state-of-metaverse-2008-2/
+
+2008-09-09  DU Talk: Digital Geography in a Web 2.0 World Event at Urbis Manchester (Free)
+  KEEP src/posts/2008/09/2008-09-09-du-talk-digital-geography-in-web-20.md  (224 words)
+  DROP src/posts/2008/09/2008-09-09-du-talk-digital-geography-in-web-20-2.md  (224 words)  /blog/2008/09/09/du-talk-digital-geography-in-web-20-2/
+
+2008-09-15  Untitled
+  KEEP src/posts/2008/09/2008-09-15-posts-38.md  (2 words)
+  DROP src/posts/2008/09/2008-09-15-posts-39.md  (2 words)  /blog/2008/09/15/posts-39/
+
+2008-09-16  Game of Life and Agents in Second Life
+  KEEP src/posts/2008/09/2008-09-16-game-of-life-and-agents-in-second-life.md  (195 words)
+  DROP src/posts/2008/09/2008-09-16-game-of-life-and-agents-in-second-life-2.md  (195 words)  /blog/2008/09/16/game-of-life-and-agents-in-second-life-2/
+
+2008-10-01  Architectural Animation: 'Architecture
+  KEEP src/posts/2008/10/2008-10-01-architectural-animation-architecture.md  (72 words)
+  DROP src/posts/2008/10/2008-10-01-architectural-animation-architecture-2.md  (72 words)  /blog/2008/10/01/architectural-animation-architecture-2/
+
+2008-10-02  Connecting the Real to the Virtual: Phone Calls from Second Life
+  KEEP src/posts/2008/10/2008-10-02-connecting-real-to-virtual-phone-calls.md  (300 words)
+  DROP src/posts/2008/10/2008-10-02-connecting-real-to-virtual-phone-calls-2.md  (300 words)  /blog/2008/10/02/connecting-real-to-virtual-phone-calls-2/
+
+2008-10-07  Architectural Animation/Audio: Leeds Green Spaces
+  KEEP src/posts/2008/10/2008-10-07-architectural-animationaudio-leeds.md  (250 words)
+  DROP src/posts/2008/10/2008-10-07-architectural-animationaudio-leeds-2.md  (250 words)  /blog/2008/10/07/architectural-animationaudio-leeds-2/
+
+2008-10-08  Cellular Automaton and Agents in Second Life: Game of Life, Segregation and Evacuation Simulation
+  KEEP src/posts/2008/10/2008-10-08-cellular-automaton-and-agents-in-second.md  (695 words)
+  DROP src/posts/2008/10/2008-10-08-cellular-automaton-and-agents-in-second-2.md  (695 words)  /blog/2008/10/08/cellular-automaton-and-agents-in-second-2/
+
+2008-10-08  The Making of Photosynth: Points, Lines and Polygons - Digital Architecture
+  KEEP src/posts/2008/10/2008-10-08-making-of-photosynth-points-lines-and.md  (223 words)
+  DROP src/posts/2008/10/2008-10-08-making-of-photosynth-points-lines-and-2.md  (223 words)  /blog/2008/10/08/making-of-photosynth-points-lines-and-2/
+
+2008-10-14  Create a Model Size City: Tilt Shift Miniature Photoshop Tutorial
+  KEEP src/posts/2008/10/2008-10-14-create-model-size-city-tilt-shit.md  (214 words)
+  DROP src/posts/2008/10/2008-10-14-create-model-size-city-tilt-shit-2.md  (214 words)  /blog/2008/10/14/create-model-size-city-tilt-shit-2/
+
+2008-10-23  MapTube: Geographic Surveys - BBC Manchester and Radio 4
+  KEEP src/posts/2008/10/2008-10-23-maptube-geographic-surveys-bbc.md  (217 words)
+  DROP src/posts/2008/10/2008-10-23-maptube-geographic-surveys-bbc-2.md  (217 words)  /blog/2008/10/23/maptube-geographic-surveys-bbc-2/
+
+2008-10-27  Posts?
+  KEEP src/posts/2008/10/2008-10-27-posts-40.md  (115 words)
+  DROP src/posts/2008/10/2008-10-27-posts-41.md  (115 words)  /blog/2008/10/27/posts-41/
+
+2008-10-29  Downtown Skyscraper Visualisation
+  KEEP src/posts/2008/10/2008-10-29-downtown-skyscraper-visualisation.md  (118 words)
+  DROP src/posts/2008/10/2008-10-29-downtown-skyscraper-visualisation-2.md  (118 words)  /blog/2008/10/29/downtown-skyscraper-visualisation-2/
+
+2008-10-29  Squint/Opera Architectural Showreel 2008
+  KEEP src/posts/2008/10/2008-10-29-squintopera-architectural-showreel-2008.md  (95 words)
+  DROP src/posts/2008/10/2008-10-29-squintopera-architectural-showreel-2008-2.md  (95 words)  /blog/2008/10/29/squintopera-architectural-showreel-2008-2/
+
+2008-11-04  EveryScape Beta: Panoramic 3D Cities via HyperMedia
+  KEEP src/posts/2008/11/2008-11-04-everyscape-beta-panoramic-3d-cities-via.md  (96 words)
+  DROP src/posts/2008/11/2008-11-04-everyscape-beta-panoramic-3d-cities-via-2.md  (96 words)  /blog/2008/11/04/everyscape-beta-panoramic-3d-cities-via-2/
+
+2008-11-06  Back to Oblivion: Final Import Movie Elder Scrolls IV - SketchUp Model
+  KEEP src/posts/2008/11/2008-11-06-back-to-oblivion-final-import-movie.md  (129 words)
+  DROP src/posts/2008/11/2008-11-06-back-to-oblivion-final-import-movie-2.md  (129 words)  /blog/2008/11/06/back-to-oblivion-final-import-movie-2/
+
+2008-11-06  C3 Maps: Realistic City Models - Perhaps the Best 3D City so Far?
+  KEEP src/posts/2008/11/2008-11-06-c3-maps-realistic-city-models-perhaps.md  (168 words)
+  DROP src/posts/2008/11/2008-11-06-c3-maps-realistic-city-models-perhaps-2.md  (168 words)  /blog/2008/11/06/c3-maps-realistic-city-models-perhaps-2/
+
+2008-11-07  Digital Pen: Capturx for ArcGIS Desktop - On Site Digitising
+  KEEP src/posts/2008/11/2008-11-07-digital-pen-capturx-for-arcgis-desktop.md  (172 words)
+  DROP src/posts/2008/11/2008-11-07-digital-pen-capturx-for-arcgis-desktop-2.md  (172 words)  /blog/2008/11/07/digital-pen-capturx-for-arcgis-desktop-2/
+
+2008-11-07  Particles in the City: Agents For Understanding Flow and City Dynamics
+  KEEP src/posts/2008/11/2008-11-07-particles-in-city-agents-for.md  (197 words)
+  DROP src/posts/2008/11/2008-11-07-particles-in-city-agents-for-2.md  (197 words)  /blog/2008/11/07/particles-in-city-agents-for-2/
+
+2008-11-09  Paper 3D Printer: Low Cost 3D Architectural Models
+  KEEP src/posts/2008/11/2008-11-09-paper-3d-printer-low-cost-3d.md  (198 words)
+  DROP src/posts/2008/11/2008-11-09-paper-3d-printer-low-cost-3d-2.md  (198 words)  /blog/2008/11/09/paper-3d-printer-low-cost-3d-2/
+
+2008-11-10  3D Max Particles in the City
+  KEEP src/posts/2008/11/2008-11-10-3d-max-particles-in-city.md  (174 words)
+  DROP src/posts/2008/11/2008-11-10-3d-max-particles-in-city-2.md  (174 words)  /blog/2008/11/10/3d-max-particles-in-city-2/
+
+2008-11-11  3D Max: Balls in the City
+  KEEP src/posts/2008/11/2008-11-11-3d-max-balls-in-city.md  (247 words)
+  DROP src/posts/2008/11/2008-11-11-3d-max-balls-in-city-2.md  (247 words)  /blog/2008/11/11/3d-max-balls-in-city-2/
+
+2008-11-12  Virtual Earth Embedded in ArcGIS
+  KEEP src/posts/2008/11/2008-11-12-posts-44.md  (154 words)
+  DROP src/posts/2008/11/2008-11-12-posts-45.md  (154 words)  /blog/2008/11/12/posts-45/
+
+2008-11-12  Recreating Culver City: Laurel and Hardy
+  KEEP src/posts/2008/11/2008-11-12-recreating-culver-city-laurel-and-hardy.md  (88 words)
+  DROP src/posts/2008/11/2008-11-12-recreating-culver-city-laurel-and-hardy-2.md  (88 words)  /blog/2008/11/12/recreating-culver-city-laurel-and-hardy-2/
+
+2008-11-13  Aircraft over the City: Night Time Activity Patterns using Image Stacking
+  KEEP src/posts/2008/11/2008-11-13-aircraft-over-city-night-time-activity.md  (260 words)
+  DROP src/posts/2008/11/2008-11-13-aircraft-over-city-night-time-activity-2.md  (260 words)  /blog/2008/11/13/aircraft-over-city-night-time-activity-2/
+
+2008-11-13  AAG Final Call: Neogeography
+  KEEP src/posts/2008/11/2008-11-13-posts-42.md  (474 words)
+  DROP src/posts/2008/11/2008-11-13-posts-43.md  (474 words)  /blog/2008/11/13/posts-43/
+
+2008-11-14  NetLogo to 3DMax: Complex Models and 3D Visualisation
+  KEEP src/posts/2008/11/2008-11-14-netlogo-to-3dmax-complex-models-and-3d.md  (275 words)
+  DROP src/posts/2008/11/2008-11-14-netlogo-to-3dmax-complex-models-and-3d-2.md  (275 words)  /blog/2008/11/14/netlogo-to-3dmax-complex-models-and-3d-2/
+
+2008-11-19  Flocking: NetLogo to 3DMax
+  KEEP src/posts/2008/11/2008-11-19-flocking-netlogo-to-3dmax.md  (395 words)
+  DROP src/posts/2008/11/2008-11-19-flocking-netlogo-to-3dmax-2.md  (395 words)  /blog/2008/11/19/flocking-netlogo-to-3dmax-2/
+
+2008-11-20  Tilt Shift: Miniature City Videos
+  KEEP src/posts/2008/11/2008-11-20-tilt-shift-miniature-city-videos.md  (399 words)
+  DROP src/posts/2008/11/2008-11-20-tilt-shift-miniature-city-videos-2.md  (399 words)  /blog/2008/11/20/tilt-shift-miniature-city-videos-2/
+
+2008-11-24  Tutorial: Torch/Flashlight + Webcam = HD Timelapse System
+  KEEP src/posts/2008/11/2008-11-24-tutorial-torch-webcam-hd-timelapse.md  (1125 words)
+  DROP src/posts/2008/11/2008-11-24-tutorial-torch-webcam-hd-timelapse-2.md  (1125 words)  /blog/2008/11/24/tutorial-torch-webcam-hd-timelapse-2/
+
+2008-11-27  Oblivion in Crysis Engine
+  KEEP src/posts/2008/11/2008-11-27-oblivion-in-crysis-engine.md  (81 words)
+  DROP src/posts/2008/11/2008-11-27-oblivion-in-crysis-engine-2.md  (81 words)  /blog/2008/11/27/oblivion-in-crysis-engine-2/
+
+2008-11-28  Tutorial: Image Stacking for Star Trails and City Air Activity at Night
+  KEEP src/posts/2008/11/2008-11-28-tutorial-image-stacking-for-star-trails.md  (507 words)
+  DROP src/posts/2008/11/2008-11-28-tutorial-image-stacking-for-star-trails-2.md  (507 words)  /blog/2008/11/28/tutorial-image-stacking-for-star-trails-2/
+
+2008-11-30  Digital Urban 1000 Posts
+  KEEP src/posts/2008/11/2008-11-30-digital-urban-1000-posts.md  (122 words)
+  DROP src/posts/2008/11/2008-11-30-digital-urban-1000-posts-2.md  (122 words)  /blog/2008/11/30/digital-urban-1000-posts-2/
+
+2008-12-07  Crysis: Physics Engine Movies
+  KEEP src/posts/2008/12/2008-12-07-crysis-physics-engine-movies.md  (325 words)
+  DROP src/posts/2008/12/2008-12-07-crysis-physics-engine-movies-2.md  (325 words)  /blog/2008/12/07/crysis-physics-engine-movies-2/
+
+2008-12-08  Urban Circus: The Urban Engine Real-Time Demo
+  KEEP src/posts/2008/12/2008-12-08-urban-circus-urban-engine-real-time.md  (204 words)
+  DROP src/posts/2008/12/2008-12-08-urban-circus-urban-engine-real-time-2.md  (204 words)  /blog/2008/12/08/urban-circus-urban-engine-real-time-2/
+
+2008-12-10  Architectural Visualisation: Softmirage Demo Reel
+  KEEP src/posts/2008/12/2008-12-10-architectural-visualisation-softmirage-2.md  (65 words)
+  DROP src/posts/2008/12/2008-12-10-architectural-visualisation-softmirage-3.md  (65 words)  /blog/2008/12/10/architectural-visualisation-softmirage-3/
+
+2008-12-12  3D Urbanism: Multidisciplinary Realtime Quantitative Simulation
+  KEEP src/posts/2008/12/2008-12-12-3d-urbanism-multidisciplinary-realtime.md  (136 words)
+  DROP src/posts/2008/12/2008-12-12-3d-urbanism-multidisciplinary-realtime-2.md  (136 words)  /blog/2008/12/12/3d-urbanism-multidisciplinary-realtime-2/
+
+2008-12-15  The Blizzards: The Reason - Architectural Animation
+  KEEP src/posts/2008/12/2008-12-15-blizzards-reason-architectural.md  (180 words)
+  DROP src/posts/2008/12/2008-12-15-blizzards-reason-architectural-2.md  (180 words)  /blog/2008/12/15/blizzards-reason-architectural-2/
+
+2008-12-15  Stop Motion: Nice Clean White
+  KEEP src/posts/2008/12/2008-12-15-stop-motion-nice-clean-white.md  (151 words)
+  DROP src/posts/2008/12/2008-12-15-stop-motion-nice-clean-white-2.md  (151 words)  /blog/2008/12/15/stop-motion-nice-clean-white-2/
+
+2008-12-16  56 Leonard Street New York: Architectural Visualisation
+  KEEP src/posts/2008/12/2008-12-16-56-leonard-street-new-york.md  (125 words)
+  DROP src/posts/2008/12/2008-12-16-56-leonard-street-new-york-2.md  (125 words)  /blog/2008/12/16/56-leonard-street-new-york-2/
+  DROP src/posts/2008/12/2008-12-16-posts-46.md  (112 words)  /blog/2008/12/16/posts-46/
+  DROP src/posts/2008/12/2008-12-16-posts-47.md  (112 words)  /blog/2008/12/16/posts-47/
+
+2008-12-17  GPS City Tracks: 1 Year in 24 Hours via Google Earth
+  KEEP src/posts/2008/12/2008-12-17-gps-city-tracks-1-year-in-24-hours-via.md  (176 words)
+  DROP src/posts/2008/12/2008-12-17-gps-city-tracks-1-year-in-24-hours-via-2.md  (176 words)  /blog/2008/12/17/gps-city-tracks-1-year-in-24-hours-via-2/
+
+2008-12-18  Augmented Reality and Google SketchUP: ARplug-in
+  KEEP src/posts/2008/12/2008-12-18-augmented-reality-and-google-sketchup.md  (164 words)
+  DROP src/posts/2008/12/2008-12-18-augmented-reality-and-google-sketchup-2.md  (164 words)  /blog/2008/12/18/augmented-reality-and-google-sketchup-2/
+
+2008-12-18  CityEngine - Now for Mac
+  KEEP src/posts/2008/12/2008-12-18-cityengine-now-for-mac.md  (193 words)
+  DROP src/posts/2008/12/2008-12-18-cityengine-now-for-mac-2.md  (193 words)  /blog/2008/12/18/cityengine-now-for-mac-2/
+
+2008-12-18  Visualising Geographic Data - Population by Lights
+  KEEP src/posts/2008/12/2008-12-18-visualising-geographic-data-population.md  (189 words)
+  DROP src/posts/2008/12/2008-12-18-visualising-geographic-data-population-2.md  (189 words)  /blog/2008/12/18/visualising-geographic-data-population-2/
+
+2008-12-24  Christmas Break....
+  KEEP src/posts/2008/12/2008-12-24-christmas-break.md  (123 words)
+  DROP src/posts/2008/12/2008-12-24-christmas-break-2.md  (123 words)  /blog/2008/12/24/christmas-break-2/
+
+2009-01-05  Tilt-Shift Barcelona
+  KEEP src/posts/2009/01/2009-01-05-tilt-shift-barcelona.md  (112 words)
+  DROP src/posts/2009/01/2009-01-05-tilt-shift-barcelona-2.md  (112 words)  /blog/2009/01/05/tilt-shift-barcelona-2/
+
+2009-01-08  CASA Free Two Day Workshop: London 8/9 Jan 09
+  KEEP src/posts/2009/01/2009-01-08-casa-free-two-day-workshop-london-89.md  (190 words)
+  DROP src/posts/2009/01/2009-01-08-casa-free-two-day-workshop-london-89-2.md  (190 words)  /blog/2009/01/08/casa-free-two-day-workshop-london-89-2/
+
+2009-01-15  The City as a Canvas: Videoprojection Showreel 2009
+  KEEP src/posts/2009/01/2009-01-15-posts-48.md  (96 words)
+  DROP src/posts/2009/01/2009-01-15-posts-49.md  (96 words)  /blog/2009/01/15/posts-49/
+
+2009-01-20  100 Days in 100 Seconds: Life of an Apartment Building
+  KEEP src/posts/2009/01/2009-01-20-100-days-in-100-seconds-life-of.md  (137 words)
+  DROP src/posts/2009/01/2009-01-20-100-days-in-100-seconds-life-of-2.md  (137 words)  /blog/2009/01/20/100-days-in-100-seconds-life-of-2/
+
+2009-01-20  TiltShift, Timelapse and Motion Tracking: MapType
+  KEEP src/posts/2009/01/2009-01-20-tiltshift-timelapse-and-motion-tracking.md  (106 words)
+  DROP src/posts/2009/01/2009-01-20-tiltshift-timelapse-and-motion-tracking-2.md  (106 words)  /blog/2009/01/20/tiltshift-timelapse-and-motion-tracking-2/
+
+2009-01-21  Data Visualisation the Easy Way: UUorld
+  KEEP src/posts/2009/01/2009-01-21-data-visualisation-easy-way-uuorld.md  (275 words)
+  DROP src/posts/2009/01/2009-01-21-data-visualisation-easy-way-uuorld-2.md  (275 words)  /blog/2009/01/21/data-visualisation-easy-way-uuorld-2/
+
+2009-01-21  Obama Photosynth Video: The Moment CNN
+  KEEP src/posts/2009/01/2009-01-21-obama-photosynth-video-moment-cnn.md  (137 words)
+  DROP src/posts/2009/01/2009-01-21-obama-photosynth-video-moment-cnn-2.md  (137 words)  /blog/2009/01/21/obama-photosynth-video-moment-cnn-2/
+
+2009-01-26  Augmented Reality in (outside) of Second Life
+  KEEP src/posts/2009/01/2009-01-26-augmented-reality-in-outside-of-second.md  (181 words)
+  DROP src/posts/2009/01/2009-01-26-augmented-reality-in-outside-of-second-2.md  (181 words)  /blog/2009/01/26/augmented-reality-in-outside-of-second-2/
+
+2009-01-31  City of Light: Tokyo Timelapse
+  KEEP src/posts/2009/01/2009-01-31-city-of-light-tokyo-timelapse.md  (97 words)
+  DROP src/posts/2009/01/2009-01-31-city-of-light-tokyo-timelapse-2.md  (97 words)  /blog/2009/01/31/city-of-light-tokyo-timelapse-2/
+
+2009-02-02  Hold On: Should Neogeography really be Neogeomatics (?)
+  KEEP src/posts/2009/02/2009-02-02-hold-on-should-neogeography-really-be.md  (186 words)
+  DROP src/posts/2009/02/2009-02-02-hold-on-should-neogeography-really-be-2.md  (186 words)  /blog/2009/02/02/hold-on-should-neogeography-really-be-2/
+
+2009-02-03  Google Earth 5.0 Includes Historical Imagery - View Urban Growth/Sprawl
+  KEEP src/posts/2009/02/2009-02-03-google-earth-50-includes-historical.md  (333 words)
+  DROP src/posts/2009/02/2009-02-03-google-earth-50-includes-historical-2.md  (333 words)  /blog/2009/02/03/google-earth-50-includes-historical-2/
+
+2009-02-03  iPhone Timelapse Tutorial
+  KEEP src/posts/2009/02/2009-02-03-iphone-timelapse-tutorial.md  (649 words)
+  DROP src/posts/2009/02/2009-02-03-iphone-timelapse-tutorial-2.md  (649 words)  /blog/2009/02/03/iphone-timelapse-tutorial-2/
+
+2009-02-06  London Snow Timelapse: 21,000 Photographs
+  KEEP src/posts/2009/02/2009-02-06-london-snow-timelapse-21000-photographs.md  (96 words)
+  DROP src/posts/2009/02/2009-02-06-london-snow-timelapse-21000-photographs-2.md  (96 words)  /blog/2009/02/06/london-snow-timelapse-21000-photographs-2/
+
+2009-02-17  Greeble Earth
+  KEEP src/posts/2009/02/2009-02-17-greeble-earth.md  (75 words)
+  DROP src/posts/2009/02/2009-02-17-greeble-earth-2.md  (75 words)  /blog/2009/02/17/greeble-earth-2/
+
+2009-02-19  Top 10 Best Planning, Design and Development Sites
+  KEEP src/posts/2009/02/2009-02-19-top-10-best-planning-design-and.md  (232 words)
+  DROP src/posts/2009/02/2009-02-19-top-10-best-planning-design-and-2.md  (232 words)  /blog/2009/02/19/top-10-best-planning-design-and-2/
+
+2009-02-19  Urban Surveys: Unmanned Helicopters & Drones
+  KEEP src/posts/2009/02/2009-02-19-urban-surveys-unmanned-helicopters.md  (472 words)
+  DROP src/posts/2009/02/2009-02-19-urban-surveys-unmanned-helicopters-2.md  (472 words)  /blog/2009/02/19/urban-surveys-unmanned-helicopters-2/
+
+2009-02-20  Atlantis Found in Google Earth?
+  KEEP src/posts/2009/02/2009-02-20-atlantis-found-in-google-earth.md  (254 words)
+  DROP src/posts/2009/02/2009-02-20-atlantis-found-in-google-earth-2.md  (254 words)  /blog/2009/02/20/atlantis-found-in-google-earth-2/
+
+2009-02-20  Dynamic Virtual Textures on a Digital Earth
+  KEEP src/posts/2009/02/2009-02-20-dynamic-virtual-textures-on-digital.md  (226 words)
+  DROP src/posts/2009/02/2009-02-20-dynamic-virtual-textures-on-digital-2.md  (226 words)  /blog/2009/02/20/dynamic-virtual-textures-on-digital-2/
+
+2009-02-21  Tilt Shift Maker: Free Tilt Shift Image Editing for Mini Cities
+  KEEP src/posts/2009/02/2009-02-21-tilt-shift-maker-free-tilt-shift-image.md  (191 words)
+  DROP src/posts/2009/02/2009-02-21-tilt-shift-maker-free-tilt-shift-image-2.md  (191 words)  /blog/2009/02/21/tilt-shift-maker-free-tilt-shift-image-2/
+
+2009-02-23  HDR Panorama: St John's Hampstead
+  KEEP src/posts/2009/02/2009-02-23-hdr-panorama-st-johns-hampstead.md  (233 words)
+  DROP src/posts/2009/02/2009-02-23-hdr-panorama-st-johns-hampstead-2.md  (233 words)  /blog/2009/02/23/hdr-panorama-st-johns-hampstead-2/
+
+2009-02-24  Flexible Foam Display: Use for Geomorphology and GIS?
+  KEEP src/posts/2009/02/2009-02-24-flexible-foam-display-use-for.md  (152 words)
+  DROP src/posts/2009/02/2009-02-24-flexible-foam-display-use-for-2.md  (152 words)  /blog/2009/02/24/flexible-foam-display-use-for-2/
+
+2009-02-24  Virtual Geographic Environments Book Cover
+  KEEP src/posts/2009/02/2009-02-24-virtual-geographic-environments-book.md  (124 words)
+  DROP src/posts/2009/02/2009-02-24-virtual-geographic-environments-book-2.md  (124 words)  /blog/2009/02/24/virtual-geographic-environments-book-2/
+
+2009-03-10  3D London Tube Map Movie
+  KEEP src/posts/2009/03/2009-03-10-3d-london-tube-map-movie.md  (141 words)
+  DROP src/posts/2009/03/2009-03-10-3d-london-tube-map-movie-2.md  (141 words)  /blog/2009/03/10/3d-london-tube-map-movie-2/
+
+2009-03-10  Untitled
+  KEEP src/posts/2009/03/2009-03-10-posts-51.md  (7 words)
+  DROP src/posts/2009/03/2009-03-10-posts-52.md  (7 words)  /blog/2009/03/10/posts-52/
+
+2009-03-10  Sony’s CyberShot DSC-HX1 with 'Sweep Panorama' Technology
+  KEEP src/posts/2009/03/2009-03-10-sonys-cybershot-dsc-hx1-with-sweep.md  (158 words)
+  DROP src/posts/2009/03/2009-03-10-sonys-cybershot-dsc-hx1-with-sweep-2.md  (158 words)  /blog/2009/03/10/sonys-cybershot-dsc-hx1-with-sweep-2/
+
+2009-03-11  World Builder
+  KEEP src/posts/2009/03/2009-03-11-world-builder.md  (90 words)
+  DROP src/posts/2009/03/2009-03-11-world-builder-2.md  (90 words)  /blog/2009/03/11/world-builder-2/
+
+2009-03-12  Los Angeles Tilt Shift Timelapse
+  KEEP src/posts/2009/03/2009-03-12-los-angeles-tilt-shift-timelapse.md  (87 words)
+  DROP src/posts/2009/03/2009-03-12-los-angeles-tilt-shift-timelapse-2.md  (87 words)  /blog/2009/03/12/los-angeles-tilt-shift-timelapse-2/
+
+2009-03-12  Traffic Traffic Traffic
+  KEEP src/posts/2009/03/2009-03-12-traffic-traffic-traffic.md  (94 words)
+  DROP src/posts/2009/03/2009-03-12-traffic-traffic-traffic-2.md  (94 words)  /blog/2009/03/12/traffic-traffic-traffic-2/
+
+2009-03-13  CityScape 1.6 from PixelActive
+  KEEP src/posts/2009/03/2009-03-13-cityscape-16-from-pixelactive.md  (130 words)
+  DROP src/posts/2009/03/2009-03-13-cityscape-16-from-pixelactive-2.md  (130 words)  /blog/2009/03/13/cityscape-16-from-pixelactive-2/
+
+2009-03-19  Revit: Importing into Virtual Worlds
+  KEEP src/posts/2009/03/2009-03-19-revit-importing-into-virtual-worlds.md  (116 words)
+  DROP src/posts/2009/03/2009-03-19-revit-importing-into-virtual-worlds-2.md  (116 words)  /blog/2009/03/19/revit-importing-into-virtual-worlds-2/
+
+2009-03-23  Thoughts, Reports and Rambles from the AAG: Geography of the Digital
+  KEEP src/posts/2009/03/2009-03-23-thoughts-reports-and-rambles-from-aag.md  (1156 words)
+  DROP src/posts/2009/03/2009-03-23-thoughts-reports-and-rambles-from-aag-2.md  (1156 words)  /blog/2009/03/23/thoughts-reports-and-rambles-from-aag-2/
+
+2009-03-24  Thoughts, Reports and Rambles from the AAG: Urban Applications
+  KEEP src/posts/2009/03/2009-03-24-thoughts-reports-and-rambles-from-aag_24.md  (573 words)
+  DROP src/posts/2009/03/2009-03-24-thoughts-reports-and-rambles-from-aag_24-2.md  (573 words)  /blog/2009/03/24/thoughts-reports-and-rambles-from-aag_24-2/
+
+2009-03-25  Las Vegas Guardian Angel Cathedral and Encore Casino Panorama
+  KEEP src/posts/2009/03/2009-03-25-las-vegas-guardian-angel-cathedral-and.md  (86 words)
+  DROP src/posts/2009/03/2009-03-25-las-vegas-guardian-angel-cathedral-and-2.md  (86 words)  /blog/2009/03/25/las-vegas-guardian-angel-cathedral-and-2/
+
+2009-03-25  Thoughts, Reports and Rambles from the AAG: Neogeographers meet Paleogeographers
+  KEEP src/posts/2009/03/2009-03-25-thoughts-reports-and-rambles-from-aag_25.md  (672 words)
+  DROP src/posts/2009/03/2009-03-25-thoughts-reports-and-rambles-from-aag_25-2.md  (672 words)  /blog/2009/03/25/thoughts-reports-and-rambles-from-aag_25-2/
+
+2009-03-26  Cartifact Maps: Launched as Beta
+  KEEP src/posts/2009/03/2009-03-26-cartifact-maps-launched-as-beta.md  (52 words)
+  DROP src/posts/2009/03/2009-03-26-cartifact-maps-launched-as-beta-2.md  (52 words)  /blog/2009/03/26/cartifact-maps-launched-as-beta-2/
+
+2009-04-02  Map Maker Islamabad, Pakistan
+  KEEP src/posts/2009/04/2009-04-02-map-maker-islamabad-pakistan.md  (130 words)
+  DROP src/posts/2009/04/2009-04-02-map-maker-islamabad-pakistan-2.md  (130 words)  /blog/2009/04/02/map-maker-islamabad-pakistan-2/
+
+2009-04-02  MikroKopter: Aerial Panoramas and Remote Surveys
+  KEEP src/posts/2009/04/2009-04-02-mikrokopter-aerial-panoramas-and-remote.md  (210 words)
+  DROP src/posts/2009/04/2009-04-02-mikrokopter-aerial-panoramas-and-remote-2.md  (210 words)  /blog/2009/04/02/mikrokopter-aerial-panoramas-and-remote-2/
+
+2009-04-05  Cassiopeia: Visualising a Nychthemeron
+  KEEP src/posts/2009/04/2009-04-05-cassiopeia-visualising-nychthemeron.md  (104 words)
+  DROP src/posts/2009/04/2009-04-05-cassiopeia-visualising-nychthemeron-2.md  (104 words)  /blog/2009/04/05/cassiopeia-visualising-nychthemeron-2/
+
+2009-04-06  3D Max, Havok + VRay + TurboSquid = Ragdoll Jackass
+  KEEP src/posts/2009/04/2009-04-06-3d-max-havok-vray-turbosquid-ragdoll.md  (52 words)
+  DROP src/posts/2009/04/2009-04-06-3d-max-havok-vray-turbosquid-ragdoll-2.md  (52 words)  /blog/2009/04/06/3d-max-havok-vray-turbosquid-ragdoll-2/
+
+2009-04-09  CryEngine 3 Preview
+  KEEP src/posts/2009/04/2009-04-09-cryengine-3-preview.md  (193 words)
+  DROP src/posts/2009/04/2009-04-09-cryengine-3-preview-2.md  (193 words)  /blog/2009/04/09/cryengine-3-preview-2/
+
+2009-04-20  Posts
+  KEEP src/posts/2009/04/2009-04-20-posts-53.md  (61 words)
+  DROP src/posts/2009/04/2009-04-20-posts-54.md  (61 words)  /blog/2009/04/20/posts-54/
+
+2009-04-27  Mapping for the Masses Accessing Web 2.0 Through Crowdsourcing: Download the Paper
+  KEEP src/posts/2009/04/2009-04-27-mapping-for-masses-accessing-web-20-2.md  (254 words)
+  DROP src/posts/2009/04/2009-04-27-mapping-for-masses-accessing-web-20-3.md  (254 words)  /blog/2009/04/27/mapping-for-masses-accessing-web-20-3/
+
+2009-04-28  Architectural Animation: Subprime
+  KEEP src/posts/2009/04/2009-04-28-architectual-animation-subprime.md  (71 words)
+  DROP src/posts/2009/04/2009-04-28-architectual-animation-subprime-2.md  (71 words)  /blog/2009/04/28/architectual-animation-subprime-2/
+
+2009-04-28  London Timelapse: Aircraft and Smoke
+  KEEP src/posts/2009/04/2009-04-28-london-timelapse-aircraft-and-smoke.md  (111 words)
+  DROP src/posts/2009/04/2009-04-28-london-timelapse-aircraft-and-smoke-2.md  (111 words)  /blog/2009/04/28/london-timelapse-aircraft-and-smoke-2/
+
+2009-04-30  PhotoSketch for Google SketchUp: Near to Launch (?)
+  KEEP src/posts/2009/04/2009-04-30-photosketch-for-google-sketchup-near-to.md  (233 words)
+  DROP src/posts/2009/04/2009-04-30-photosketch-for-google-sketchup-near-to-2.md  (233 words)  /blog/2009/04/30/photosketch-for-google-sketchup-near-to-2/
+
+2009-05-01  Unity: City Data and Simulation Exhibition Space - A Work in Progress
+  KEEP src/posts/2009/05/2009-05-01-unity-city-data-and-simulation.md  (133 words)
+  DROP src/posts/2009/05/2009-05-01-unity-city-data-and-simulation-2.md  (133 words)  /blog/2009/05/01/unity-city-data-and-simulation-2/
+
+2009-05-03  Tokyo Timelapse: Remanence
+  KEEP src/posts/2009/05/2009-05-03-tokyo-timelapse-remanence.md  (156 words)
+  DROP src/posts/2009/05/2009-05-03-tokyo-timelapse-remanence-2.md  (156 words)  /blog/2009/05/03/tokyo-timelapse-remanence-2/
+
+2009-05-07  Digital Urban City Exhibition Space: Downloadable Preview
+  KEEP src/posts/2009/05/2009-05-07-digital-urban-city-exhibition-space.md  (463 words)
+  DROP src/posts/2009/05/2009-05-07-digital-urban-city-exhibition-space-2.md  (463 words)  /blog/2009/05/07/digital-urban-city-exhibition-space-2/
+
+2009-05-15  Textured LiDAR Scan of London: 1.5 Billion Points
+  KEEP src/posts/2009/05/2009-05-15-textured-lidar-scan-of-london-150.md  (191 words)
+  DROP src/posts/2009/05/2009-05-15-textured-lidar-scan-of-london-150-2.md  (191 words)  /blog/2009/05/15/textured-lidar-scan-of-london-150-2/
+
+2009-05-16  Life on the Bus: Timelapse by UrbanTick
+  KEEP src/posts/2009/05/2009-05-16-life-on-bus-timelapse-by-urbantick.md  (193 words)
+  DROP src/posts/2009/05/2009-05-16-life-on-bus-timelapse-by-urbantick-2.md  (193 words)  /blog/2009/05/16/life-on-bus-timelapse-by-urbantick-2/
+
+2009-05-16  Photosynth Now Integrated with Virtual Earth
+  KEEP src/posts/2009/05/2009-05-16-photosynth-now-intergrated-with-virtual.md  (118 words)
+  DROP src/posts/2009/05/2009-05-16-photosynth-now-intergrated-with-virtual-2.md  (118 words)  /blog/2009/05/16/photosynth-now-intergrated-with-virtual-2/
+
+2009-05-20  Netlogo Import into 3D Max: Tutorial and Code
+  KEEP src/posts/2009/05/2009-05-20-netlogo-import-into-3d-max-tutorial-and.md  (269 words)
+  DROP src/posts/2009/05/2009-05-20-netlogo-import-into-3d-max-tutorial-and-2.md  (269 words)  /blog/2009/05/20/netlogo-import-into-3d-max-tutorial-and-2/
+
+2009-05-20  Tutorials Updated
+  KEEP src/posts/2009/05/2009-05-20-tutorials-updated-2.md  (79 words)
+  DROP src/posts/2009/05/2009-05-20-tutorials-updated-3.md  (79 words)  /blog/2009/05/20/tutorials-updated-3/
+
+2009-05-22  SketchUp, LightUp 1.5 and Unity: Progress
+  KEEP src/posts/2009/05/2009-05-22-sketchup-lightup-15-and-unity-progress.md  (205 words)
+  DROP src/posts/2009/05/2009-05-22-sketchup-lightup-15-and-unity-progress-2.md  (205 words)  /blog/2009/05/22/sketchup-lightup-15-and-unity-progress-2/
+
+2009-05-27  Unity Progress
+  KEEP src/posts/2009/05/2009-05-27-unity-progress.md  (159 words)
+  DROP src/posts/2009/05/2009-05-27-unity-progress-2.md  (159 words)  /blog/2009/05/27/unity-progress-2/
+
+2009-05-29  Unity, SketchUp, LightUp and Max: Progress Movie
+  KEEP src/posts/2009/05/2009-05-29-unity-sketchup-lightup-and-max-progress.md  (109 words)
+  DROP src/posts/2009/05/2009-05-29-unity-sketchup-lightup-and-max-progress-2.md  (109 words)  /blog/2009/05/29/unity-sketchup-lightup-and-max-progress-2/
+
+2009-06-02  Mapumental from Channel 4
+  KEEP src/posts/2009/06/2009-06-02-mapumental-from-channel-4.md  (76 words)
+  DROP src/posts/2009/06/2009-06-02-mapumental-from-channel-4-2.md  (76 words)  /blog/2009/06/02/mapumental-from-channel-4-2/
+
+2009-06-02  Open Green Map: Whats Green Nearby?
+  KEEP src/posts/2009/06/2009-06-02-open-green-map-whats-green-nearby.md  (125 words)
+  DROP src/posts/2009/06/2009-06-02-open-green-map-whats-green-nearby-2.md  (125 words)  /blog/2009/06/02/open-green-map-whats-green-nearby-2/
+
+2009-06-02  SketchUp: Import into Left 4 Dead Engine
+  KEEP src/posts/2009/06/2009-06-02-sketchup-import-into-left-4-dead-engine.md  (216 words)
+  DROP src/posts/2009/06/2009-06-02-sketchup-import-into-left-4-dead-engine-2.md  (216 words)  /blog/2009/06/02/sketchup-import-into-left-4-dead-engine-2/
+
+2009-06-03  World's Most Realistic 3D City Models - C3?
+  KEEP src/posts/2009/06/2009-06-03-worlds-most-realistic-3d-city-models-c3.md  (154 words)
+  DROP src/posts/2009/06/2009-06-03-worlds-most-realistic-3d-city-models-c3-2.md  (154 words)  /blog/2009/06/03/worlds-most-realistic-3d-city-models-c3-2/
+
+2009-06-05  Crowds and Delegates in 3D Max - Agent Based Modelling and Emergent Behaviour
+  KEEP src/posts/2009/06/2009-06-05-crowds-and-delegates-in-3d-max-agent.md  (316 words)
+  DROP src/posts/2009/06/2009-06-05-crowds-and-delegates-in-3d-max-agent-2.md  (316 words)  /blog/2009/06/05/crowds-and-delegates-in-3d-max-agent-2/
+
+2009-06-06  Grand Theft Auto: Editing the Physics Movie
+  KEEP src/posts/2009/06/2009-06-06-grand-theft-auto-editing-physics-movie.md  (131 words)
+  DROP src/posts/2009/06/2009-06-06-grand-theft-auto-editing-physics-movie-2.md  (131 words)  /blog/2009/06/06/grand-theft-auto-editing-physics-movie-2/
+
+2009-06-06  Typographic City
+  KEEP src/posts/2009/06/2009-06-06-typographic-city.md  (62 words)
+  DROP src/posts/2009/06/2009-06-06-typographic-city-2.md  (62 words)  /blog/2009/06/06/typographic-city-2/
+
+2009-06-07  Axon Architectural Walkthrough
+  KEEP src/posts/2009/06/2009-06-07-axon-architectural-walkthrough.md  (58 words)
+  DROP src/posts/2009/06/2009-06-07-axon-architectural-walkthrough-2.md  (58 words)  /blog/2009/06/07/axon-architectural-walkthrough-2/
+
+2009-06-07  Timelapse Imagery for Construction Projects: Tradeston Bridge, Glasgow
+  KEEP src/posts/2009/06/2009-06-07-timelapse-imagery-for-construction.md  (88 words)
+  DROP src/posts/2009/06/2009-06-07-timelapse-imagery-for-construction-2.md  (88 words)  /blog/2009/06/07/timelapse-imagery-for-construction-2/
+
+2009-06-08  Locally Adapted Projections to Reduce Panorama Distortions
+  KEEP src/posts/2009/06/2009-06-08-locally-adapted-projections-to-reduce.md  (229 words)
+  DROP src/posts/2009/06/2009-06-08-locally-adapted-projections-to-reduce-2.md  (229 words)  /blog/2009/06/08/locally-adapted-projections-to-reduce-2/
+
+2009-06-08  Mirrors Edge: A Change of Pace in Architectural Visualisation
+  KEEP src/posts/2009/06/2009-06-08-mirrors-edge-change-of-pace-in.md  (214 words)
+  DROP src/posts/2009/06/2009-06-08-mirrors-edge-change-of-pace-in-2.md  (214 words)  /blog/2009/06/08/mirrors-edge-change-of-pace-in-2/
+
+2009-06-08  Sim City 4: Top 20 Air Pollution Reducers
+  KEEP src/posts/2009/06/2009-06-08-sim-city-4-top-20-air-pollution.md  (63 words)
+  DROP src/posts/2009/06/2009-06-08-sim-city-4-top-20-air-pollution-2.md  (63 words)  /blog/2009/06/08/sim-city-4-top-20-air-pollution-2/
+
+2009-06-08  Unity: Nordhavnen City Visualisation
+  KEEP src/posts/2009/06/2009-06-08-unity-nordhavnen-city-visualisation.md  (111 words)
+  DROP src/posts/2009/06/2009-06-08-unity-nordhavnen-city-visualisation-2.md  (111 words)  /blog/2009/06/08/unity-nordhavnen-city-visualisation-2/
+
+2009-06-09  Digital Urban Goes Wide
+  KEEP src/posts/2009/06/2009-06-09-digital-urban-goes-wide.md  (187 words)
+  DROP src/posts/2009/06/2009-06-09-digital-urban-goes-wide-2.md  (187 words)  /blog/2009/06/09/digital-urban-goes-wide-2/
+
+2009-06-09  Plot Visualisation: Eynesbury, Australia
+  KEEP src/posts/2009/06/2009-06-09-plot-visualisation-eynesbury-australia.md  (65 words)
+  DROP src/posts/2009/06/2009-06-09-plot-visualisation-eynesbury-australia-2.md  (65 words)  /blog/2009/06/09/plot-visualisation-eynesbury-australia-2/
+
+2009-06-09  Real Estate Visualisation: Bayswater, LapuLapu City
+  KEEP src/posts/2009/06/2009-06-09-real-estate-visualisation-bayswater.md  (180 words)
+  DROP src/posts/2009/06/2009-06-09-real-estate-visualisation-bayswater-2.md  (180 words)  /blog/2009/06/09/real-estate-visualisation-bayswater-2/
+
+2009-06-10  Call of Duty World at War: Mod Tools Tutorial
+  KEEP src/posts/2009/06/2009-06-10-call-of-duty-world-at-war-mod-tools.md  (190 words)
+  DROP src/posts/2009/06/2009-06-10-call-of-duty-world-at-war-mod-tools-2.md  (190 words)  /blog/2009/06/10/call-of-duty-world-at-war-mod-tools-2/
+
+2009-06-10  modul
+  KEEP src/posts/2009/06/2009-06-10-modul.md  (76 words)
+  DROP src/posts/2009/06/2009-06-10-modul-2.md  (76 words)  /blog/2009/06/10/modul-2/
+
+2009-06-10  Server Problems
+  KEEP src/posts/2009/06/2009-06-10-server-problems.md  (56 words)
+  DROP src/posts/2009/06/2009-06-10-server-problems-2.md  (56 words)  /blog/2009/06/10/server-problems-2/
+
+2009-06-12  Development Visualisation: Roland Garros Airport
+  KEEP src/posts/2009/06/2009-06-12-development-visualisation-roland-garros.md  (133 words)
+  DROP src/posts/2009/06/2009-06-12-development-visualisation-roland-garros-2.md  (133 words)  /blog/2009/06/12/development-visualisation-roland-garros-2/
+
+2009-06-22  Book Review - Visioning and Visualization: People, Pixels, and Plans
+  KEEP src/posts/2009/06/2009-06-22-book-review-visioning-and-visualization.md  (546 words)
+  DROP src/posts/2009/06/2009-06-22-book-review-visioning-and-visualization-2.md  (546 words)  /blog/2009/06/22/book-review-visioning-and-visualization-2/
+
+2009-06-22  Time and Territory: Time Policies of the Cities - Papers
+  KEEP src/posts/2009/06/2009-06-22-time-and-territory-time-policies-of.md  (203 words)
+  DROP src/posts/2009/06/2009-06-22-time-and-territory-time-policies-of-2.md  (203 words)  /blog/2009/06/22/time-and-territory-time-policies-of-2/
+
+2009-06-23  Trump Tower - SketchUp School Project
+  KEEP src/posts/2009/06/2009-06-23-trump-tower-sketchup-school-project.md  (120 words)
+  DROP src/posts/2009/06/2009-06-23-trump-tower-sketchup-school-project-2.md  (120 words)  /blog/2009/06/23/trump-tower-sketchup-school-project-2/
+
+2009-06-23  Unique Animated Map Service from Viridian
+  KEEP src/posts/2009/06/2009-06-23-unique-animated-map-service-from.md  (90 words)
+  DROP src/posts/2009/06/2009-06-23-unique-animated-map-service-from-2.md  (90 words)  /blog/2009/06/23/unique-animated-map-service-from-2/
+
+2009-06-25  Parallel Tracking and Mapping on the iPhone: Augmented Reality App Development
+  KEEP src/posts/2009/06/2009-06-25-parallel-tracking-and-mapping-on-iphone.md  (206 words)
+  DROP src/posts/2009/06/2009-06-25-parallel-tracking-and-mapping-on-iphone-2.md  (206 words)  /blog/2009/06/25/parallel-tracking-and-mapping-on-iphone-2/
+
+2009-06-26  Goodbye London by Luke Jackson
+  KEEP src/posts/2009/06/2009-06-26-goodbye-london-by-luke-jackson.md  (107 words)
+  DROP src/posts/2009/06/2009-06-26-goodbye-london-by-luke-jackson-2.md  (107 words)  /blog/2009/06/26/goodbye-london-by-luke-jackson-2/
+
+2009-06-26  Lectureship available in Architecture Planning and Landscape at Newcastle
+  KEEP src/posts/2009/06/2009-06-26-lectureship-available-in-architecture.md  (248 words)
+  DROP src/posts/2009/06/2009-06-26-lectureship-available-in-architecture-2.md  (248 words)  /blog/2009/06/26/lectureship-available-in-architecture-2/
+
+2009-06-26  Samparkour: Parkour in São Paulo
+  KEEP src/posts/2009/06/2009-06-26-samparkour-parkour-in-sao-paulo.md  (151 words)
+  DROP src/posts/2009/06/2009-06-26-samparkour-parkour-in-sao-paulo-2.md  (151 words)  /blog/2009/06/26/samparkour-parkour-in-sao-paulo-2/
+
+2009-06-29  GPS Visualisation: Urban Art and Urban Cycles
+  KEEP src/posts/2009/06/2009-06-29-gps-visualisation-urban-art-and-urban.md  (152 words)
+  DROP src/posts/2009/06/2009-06-29-gps-visualisation-urban-art-and-urban-2.md  (152 words)  /blog/2009/06/29/gps-visualisation-urban-art-and-urban-2/
+
+2009-06-29  Hull-ness? Opening the Debate Digitally on the Future of a Historic Town
+  KEEP src/posts/2009/06/2009-06-29-hull-ness-opening-debate-digitally-on.md  (306 words)
+  DROP src/posts/2009/06/2009-06-29-hull-ness-opening-debate-digitally-on-2.md  (306 words)  /blog/2009/06/29/hull-ness-opening-debate-digitally-on-2/
+
+2009-06-29  SketchUp: San Diego High Speed Rail Station
+  KEEP src/posts/2009/06/2009-06-29-sketchup-san-diego-high-speed-rail.md  (130 words)
+  DROP src/posts/2009/06/2009-06-29-sketchup-san-diego-high-speed-rail-2.md  (130 words)  /blog/2009/06/29/sketchup-san-diego-high-speed-rail-2/
+
+2009-07-13  City Timelapse: Tokyo and Yokohama
+  KEEP src/posts/2009/07/2009-07-13-city-timelapse-tokyo-and-yokohama.md  (63 words)
+  DROP src/posts/2009/07/2009-07-13-city-timelapse-tokyo-and-yokohama-2.md  (63 words)  /blog/2009/07/13/city-timelapse-tokyo-and-yokohama-2/
+
+2009-07-14  HDR Meets After Effects
+  KEEP src/posts/2009/07/2009-07-14-hdr-meets-after-effects.md  (76 words)
+  DROP src/posts/2009/07/2009-07-14-hdr-meets-after-effects-2.md  (76 words)  /blog/2009/07/14/hdr-meets-after-effects-2/
+
+2009-07-14  The \"Nations Experience Tower\" Project, Dubai Skyscraper
+  KEEP src/posts/2009/07/2009-07-14-nations-experience-tower-project-dubai.md  (172 words)
+  DROP src/posts/2009/07/2009-07-14-nations-experience-tower-project-dubai-2.md  (172 words)  /blog/2009/07/14/nations-experience-tower-project-dubai-2/
+
+2009-07-15  Panorama Ball Vision: Spherical Display
+  KEEP src/posts/2009/07/2009-07-15-panorama-ball-vision-sphercial-display.md  (87 words)
+  DROP src/posts/2009/07/2009-07-15-panorama-ball-vision-sphercial-display-2.md  (87 words)  /blog/2009/07/15/panorama-ball-vision-sphercial-display-2/
+
+2009-07-15  Unity: Project Double Zero
+  KEEP src/posts/2009/07/2009-07-15-unity-project-double-zero.md  (224 words)
+  DROP src/posts/2009/07/2009-07-15-unity-project-double-zero-2.md  (224 words)  /blog/2009/07/15/unity-project-double-zero-2/
+
+2009-07-17  Design Camp: Urban Windows
+  KEEP src/posts/2009/07/2009-07-17-design-camp-urban-windows.md  (135 words)
+  DROP src/posts/2009/07/2009-07-17-design-camp-urban-windows-2.md  (135 words)  /blog/2009/07/17/design-camp-urban-windows-2/
+
+2009-07-17  IGN's Top 10 Game Engines
+  KEEP src/posts/2009/07/2009-07-17-igns-top-10-game-engines.md  (177 words)
+  DROP src/posts/2009/07/2009-07-17-igns-top-10-game-engines-2.md  (177 words)  /blog/2009/07/17/igns-top-10-game-engines-2/
+
+2009-07-17  Introducing Future Internet an International, Open Access, Journal
+  KEEP src/posts/2009/07/2009-07-17-introducing-future-internet.md  (235 words)
+  DROP src/posts/2009/07/2009-07-17-introducing-future-internet-2.md  (235 words)  /blog/2009/07/17/introducing-future-internet-2/
+
+2009-07-20  Traffic in the Cloud: Bing Maps Silverlight and DeepEarth
+  KEEP src/posts/2009/07/2009-07-20-traffic-in-cloud-bing-maps-silverlight.md  (106 words)
+  DROP src/posts/2009/07/2009-07-20-traffic-in-cloud-bing-maps-silverlight-2.md  (106 words)  /blog/2009/07/20/traffic-in-cloud-bing-maps-silverlight-2/
+
+2009-07-21  CityEngine to Unity
+  KEEP src/posts/2009/07/2009-07-21-cityengine-to-unity-rapid-city.md  (203 words)
+  DROP src/posts/2009/07/2009-07-21-cityengine-to-unity-rapid-city-2.md  (203 words)  /blog/2009/07/21/cityengine-to-unity-rapid-city-2/
+
+2009-07-21  Simurban and Mycosm: New Virtual World and Urban Viz Systems
+  KEEP src/posts/2009/07/2009-07-21-simurban-and-mycosm-new-virtual-world.md  (202 words)
+  DROP src/posts/2009/07/2009-07-21-simurban-and-mycosm-new-virtual-world-2.md  (202 words)  /blog/2009/07/21/simurban-and-mycosm-new-virtual-world-2/
+
+2009-07-22  Google Earth API Premiere: New Classroom Geography
+  KEEP src/posts/2009/07/2009-07-22-google-earth-api-premiere-new-classroom.md  (114 words)
+  DROP src/posts/2009/07/2009-07-22-google-earth-api-premiere-new-classroom-2.md  (114 words)  /blog/2009/07/22/google-earth-api-premiere-new-classroom-2/
+
+2009-07-29  Building Rome in a Day: A 3D City via Flickr
+  KEEP src/posts/2009/07/2009-07-29-building-rome-in-day-3d-city-via-flickr.md  (231 words)
+  DROP src/posts/2009/07/2009-07-29-building-rome-in-day-3d-city-via-flickr-2.md  (231 words)  /blog/2009/07/29/building-rome-in-day-3d-city-via-flickr-2/
+
+2009-07-29  EyePet PS3 & AR Toolkit for Flash
+  KEEP src/posts/2009/07/2009-07-29-eyepet-ps3-ar-toolkit-for-flash.md  (206 words)
+  DROP src/posts/2009/07/2009-07-29-eyepet-ps3-ar-toolkit-for-flash-2.md  (206 words)  /blog/2009/07/29/eyepet-ps3-ar-toolkit-for-flash-2/
+
+2009-07-29  Nonbeing: A Hybernating City
+  KEEP src/posts/2009/07/2009-07-29-nonbeing-hybernating-city.md  (122 words)
+  DROP src/posts/2009/07/2009-07-29-nonbeing-hybernating-city-2.md  (122 words)  /blog/2009/07/29/nonbeing-hybernating-city-2/
+
+2009-07-30  Sketchlife: SketchUp to Second Life
+  KEEP src/posts/2009/07/2009-07-30-sketchlife-sketchup-to-second-life.md  (163 words)
+  DROP src/posts/2009/07/2009-07-30-sketchlife-sketchup-to-second-life-2.md  (163 words)  /blog/2009/07/30/sketchlife-sketchup-to-second-life-2/
+
+2009-08-05  3D New York City: First 3D City on the iPhone
+  KEEP src/posts/2009/08/2009-08-05-3d-new-york-city-first-3d-city-on.md  (134 words)
+  DROP src/posts/2009/08/2009-08-05-3d-new-york-city-first-3d-city-on-2.md  (134 words)  /blog/2009/08/05/3d-new-york-city-first-3d-city-on-2/
+
+2009-08-05  New City in Central Africa: La Cité du Fleuve
+  KEEP src/posts/2009/08/2009-08-05-new-city-in-central-africa-la-cite-du.md  (147 words)
+  DROP src/posts/2009/08/2009-08-05-new-city-in-central-africa-la-cite-du-2.md  (147 words)  /blog/2009/08/05/new-city-in-central-africa-la-cite-du-2/
+
+2009-08-06  Augmented Reality: Urban Tagging via Messages and 3D Models
+  KEEP src/posts/2009/08/2009-08-06-augmented-reality-urban-tagging-via.md  (144 words)
+  DROP src/posts/2009/08/2009-08-06-augmented-reality-urban-tagging-via-2.md  (144 words)  /blog/2009/08/06/augmented-reality-urban-tagging-via-2/
+
+2009-08-06  Population Density: Google Maps Census System Preview
+  KEEP src/posts/2009/08/2009-08-06-population-density-google-maps-census.md  (281 words)
+  DROP src/posts/2009/08/2009-08-06-population-density-google-maps-census-2.md  (281 words)  /blog/2009/08/06/population-density-google-maps-census-2/
+
+2009-08-07  IPhone 3D Texture Mapped City: Paris
+  KEEP src/posts/2009/08/2009-08-07-iphone-3d-texture-mapped-city-paris.md  (88 words)
+  DROP src/posts/2009/08/2009-08-07-iphone-3d-texture-mapped-city-paris-2.md  (88 words)  /blog/2009/08/07/iphone-3d-texture-mapped-city-paris-2/
+
+2009-08-10  Edge of Sydney CBD: Stereographic Timelapse
+  KEEP src/posts/2009/08/2009-08-10-edge-of-sydney-cbd-stereographic.md  (126 words)
+  DROP src/posts/2009/08/2009-08-10-edge-of-sydney-cbd-stereographic-2.md  (126 words)  /blog/2009/08/10/edge-of-sydney-cbd-stereographic-2/
+
+2009-08-12  CryEngine 3: Global Illumination Demo
+  KEEP src/posts/2009/08/2009-08-12-cryengine-3-global-illumination-demo.md  (107 words)
+  DROP src/posts/2009/08/2009-08-12-cryengine-3-global-illumination-demo-2.md  (107 words)  /blog/2009/08/12/cryengine-3-global-illumination-demo-2/
+
+2009-08-26  London Tube Lines: Growing the Network
+  KEEP src/posts/2009/08/2009-08-26-london-tube-lines-growing-network.md  (118 words)
+  DROP src/posts/2009/08/2009-08-26-london-tube-lines-growing-network-2.md  (118 words)  /blog/2009/08/26/london-tube-lines-growing-network-2/
+
+2009-08-27  Network Rail: New Lines Promo
+  KEEP src/posts/2009/08/2009-08-27-network-rail-new-lines-promo.md  (135 words)
+  DROP src/posts/2009/08/2009-08-27-network-rail-new-lines-promo-2.md  (135 words)  /blog/2009/08/27/network-rail-new-lines-promo-2/
+
+2009-09-16  Dynamic 3D Models in Google Earth: Traffic and Pedestrian Visualisation
+  KEEP src/posts/2009/09/2009-09-16-dynamic-3d-models-in-google-earth.md  (138 words)
+  DROP src/posts/2009/09/2009-09-16-dynamic-3d-models-in-google-earth-2.md  (138 words)  /blog/2009/09/16/dynamic-3d-models-in-google-earth-2/
+
+2009-09-18  NetLogo and Repast to 3DMax to Unity: ABM Visualisation
+  KEEP src/posts/2009/09/2009-09-18-netlogo-and-repast-to-3dmax-to-unity.md  (228 words)
+  DROP src/posts/2009/09/2009-09-18-netlogo-and-repast-to-3dmax-to-unity-2.md  (228 words)  /blog/2009/09/18/netlogo-and-repast-to-3dmax-to-unity-2/
+
+2009-09-23  Photosynth Point Export - Photosynth as a 3D Scanner?
+  KEEP src/posts/2009/09/2009-09-23-photosynth-point-export-photosynth-as.md  (109 words)
+  DROP src/posts/2009/09/2009-09-23-photosynth-point-export-photosynth-as-2.md  (109 words)  /blog/2009/09/23/photosynth-point-export-photosynth-as-2/
+
+2009-09-23  Zarate Master Plan
+  KEEP src/posts/2009/09/2009-09-23-posts-58.md  (27 words)
+  DROP src/posts/2009/09/2009-09-23-posts-59.md  (27 words)  /blog/2009/09/23/posts-59/
+
+2009-09-25  Infoterra prepares launch of cutting edge 3D city mapping tool – Skape
+  KEEP src/posts/2009/09/2009-09-25-infoterra-prepares-launch-of-cutting.md  (230 words)
+  DROP src/posts/2009/09/2009-09-25-infoterra-prepares-launch-of-cutting-2.md  (230 words)  /blog/2009/09/25/infoterra-prepares-launch-of-cutting-2/
+
+2009-10-14  Google Building Maker: CANOMA(ish) + The Crowd = 3D Cities
+  KEEP src/posts/2009/10/2009-10-14-google-building-maker-canomaish-crowd.md  (181 words)
+  DROP src/posts/2009/10/2009-10-14-google-building-maker-canomaish-crowd-2.md  (181 words)  /blog/2009/10/14/google-building-maker-canomaish-crowd-2/
+
+2009-10-15  Auckland 2100 Visualisation
+  KEEP src/posts/2009/10/2009-10-15-auckland-2100-visualisation.md  (121 words)
+  DROP src/posts/2009/10/2009-10-15-auckland-2100-visualisation-2.md  (121 words)  /blog/2009/10/15/auckland-2100-visualisation-2/
+
+2009-10-16  CryEngine 3: Demo Movie
+  KEEP src/posts/2009/10/2009-10-16-cryengine-3-demo-movie.md  (75 words)
+  DROP src/posts/2009/10/2009-10-16-cryengine-3-demo-movie-2.md  (75 words)  /blog/2009/10/16/cryengine-3-demo-movie-2/
+
+2009-10-16  MapTube: Now with 145 Census Maps
+  KEEP src/posts/2009/10/2009-10-16-maptube-now-with-145-census-maps.md  (173 words)
+  DROP src/posts/2009/10/2009-10-16-maptube-now-with-145-census-maps-2.md  (173 words)  /blog/2009/10/16/maptube-now-with-145-census-maps-2/
+
+2009-10-17  Indoor Autonomous Mapping and Navigation
+  KEEP src/posts/2009/10/2009-10-17-indoor-autonomous-mapping-and.md  (91 words)
+  DROP src/posts/2009/10/2009-10-17-indoor-autonomous-mapping-and-2.md  (91 words)  /blog/2009/10/17/indoor-autonomous-mapping-and-2/
+
+2009-10-20  Two Tenure-Stream Appointments at the John H. Daniels Faculty of Architecture, Landscape, and Design, University of Toronto
+  KEEP src/posts/2009/10/2009-10-20-two-tenure-stream-appointments-at-john.md  (706 words)
+  DROP src/posts/2009/10/2009-10-20-two-tenure-stream-appointments-at-john-2.md  (706 words)  /blog/2009/10/20/two-tenure-stream-appointments-at-john-2/
+
+2009-10-23  Final Call - International Conference on Theory, Data Handling and Modelling in GeoSpatial Information Science, Hong Kong
+  KEEP src/posts/2009/10/2009-10-23-final-call-international-conference-on.md  (283 words)
+  DROP src/posts/2009/10/2009-10-23-final-call-international-conference-on-2.md  (283 words)  /blog/2009/10/23/final-call-international-conference-on-2/
+
+2009-10-27  London Aerial Tour - Panoramas taken from a Helicopter
+  KEEP src/posts/2009/10/2009-10-27-london-aerial-tour-panoramas-taken-from.md  (113 words)
+  DROP src/posts/2009/10/2009-10-27-london-aerial-tour-panoramas-taken-from-2.md  (113 words)  /blog/2009/10/27/london-aerial-tour-panoramas-taken-from-2/
+
+2009-10-28  Mattepainting Toolkit: Creating Photoreal Environments in Maya via Multiple Camera Projections
+  KEEP src/posts/2009/10/2009-10-28-mattepainting-toolkit-creating.md  (155 words)
+  DROP src/posts/2009/10/2009-10-28-mattepainting-toolkit-creating-2.md  (155 words)  /blog/2009/10/28/mattepainting-toolkit-creating-2/
+
+2009-11-10  Automating Geospatial Dataset Metadata
+  KEEP src/posts/2009/11/2009-11-10-automating-geospatial-dataset-metadata.md  (224 words)
+  DROP src/posts/2009/11/2009-11-10-automating-geospatial-dataset-metadata-2.md  (224 words)  /blog/2009/11/10/automating-geospatial-dataset-metadata-2/
+
+2009-11-27  ProFORMA: 3D Models via a Standard Webcam
+  KEEP src/posts/2009/11/2009-11-27-proforma-3d-models-via-standard-webcam.md  (176 words)
+  DROP src/posts/2009/11/2009-11-27-proforma-3d-models-via-standard-webcam-2.md  (176 words)  /blog/2009/11/27/proforma-3d-models-via-standard-webcam-2/
+
+2009-11-30  Tube Map - Now with Docklands
+  KEEP src/posts/2009/11/2009-11-30-tube-map-now-with-docklands.md  (72 words)
+  DROP src/posts/2009/11/2009-11-30-tube-map-now-with-docklands-2.md  (72 words)  /blog/2009/11/30/tube-map-now-with-docklands-2/
+
+2009-12-07  Interested in a digital urban/casa course?
+  KEEP src/posts/2009/12/2009-12-07-interested-in-digital-urbancasa-course.md  (117 words)
+  DROP src/posts/2009/12/2009-12-07-interested-in-digital-urbancasa-course-2.md  (117 words)  /blog/2009/12/07/interested-in-digital-urbancasa-course-2/
+
+2009-12-08  Search the City - Google Goggles
+  KEEP src/posts/2009/12/2009-12-08-search-city-google-goggles.md  (73 words)
+  DROP src/posts/2009/12/2009-12-08-search-city-google-goggles-2.md  (73 words)  /blog/2009/12/08/search-city-google-goggles-2/
+
+2009-12-09  Historic Mapping on iPhone/Android - Walk Through Time
+  KEEP src/posts/2009/12/2009-12-09-historic-mapping-on-iphoneandroid-walk.md  (175 words)
+  DROP src/posts/2009/12/2009-12-09-historic-mapping-on-iphoneandroid-walk-2.md  (175 words)  /blog/2009/12/09/historic-mapping-on-iphoneandroid-walk-2/
+
+2009-12-10  Virtual London - Available via Skape World January 2010
+  KEEP src/posts/2009/12/2009-12-10-virtual-london-available-via-skape.md  (164 words)
+  DROP src/posts/2009/12/2009-12-10-virtual-london-available-via-skape-2.md  (164 words)  /blog/2009/12/10/virtual-london-available-via-skape-2/
+
+2009-12-11  How the 3D Engine is Changing the World: The Guardian
+  KEEP src/posts/2009/12/2009-12-11-how-3d-engine-is-changing-world.md  (112 words)
+  DROP src/posts/2009/12/2009-12-11-how-3d-engine-is-changing-world-2.md  (112 words)  /blog/2009/12/11/how-3d-engine-is-changing-world-2/
+
+2009-12-16  CityEngine 2009.3
+  KEEP src/posts/2009/12/2009-12-16-cityengine-20093.md  (122 words)
+  DROP src/posts/2009/12/2009-12-16-cityengine-20093-2.md  (122 words)  /blog/2009/12/16/cityengine-20093-2/
+
+2009-12-18  CityScape 1.8: GIS and OpenStreetMap Import Options
+  KEEP src/posts/2009/12/2009-12-18-cityscape-18-gis-and-openstreetmap.md  (108 words)
+  DROP src/posts/2009/12/2009-12-18-cityscape-18-gis-and-openstreetmap-2.md  (108 words)  /blog/2009/12/18/cityscape-18-gis-and-openstreetmap-2/
+
+2009-12-21  Medieval Dublin 3D Model
+  KEEP src/posts/2009/12/2009-12-21-medieval-dublin-3d-model.md  (121 words)
+  DROP src/posts/2009/12/2009-12-21-medieval-dublin-3d-model-2.md  (121 words)  /blog/2009/12/21/medieval-dublin-3d-model-2/
+
+2009-12-22  Asset Tracking Anywhere 3D Master Planning Tool
+  KEEP src/posts/2009/12/2009-12-22-asset-tracking-anywhere-3d-master.md  (394 words)
+  DROP src/posts/2009/12/2009-12-22-asset-tracking-anywhere-3d-master-2.md  (394 words)  /blog/2009/12/22/asset-tracking-anywhere-3d-master-2/
+
+2009-12-24  Mashups: A Literature Review and Classification Framework
+  KEEP src/posts/2009/12/2009-12-24-mashups-literature-review-and.md  (205 words)
+  DROP src/posts/2009/12/2009-12-24-mashups-literature-review-and-2.md  (205 words)  /blog/2009/12/24/mashups-literature-review-and-2/
+
+2009-12-28  Live Weather on a Chumby
+  KEEP src/posts/2009/12/2009-12-28-live-weather-on-chumby.md  (90 words)
+  DROP src/posts/2009/12/2009-12-28-live-weather-on-chumby-2.md  (90 words)  /blog/2009/12/28/live-weather-on-chumby-2/
+
+2010-03-04  Photoshop Tutorial: City Star and Aircraft Trails
+  KEEP src/posts/2010/03/2010-03-04-photoshop-tutorial-city-star-and.md  (523 words)
+  DROP src/posts/2010/03/2010-03-04-photoshop-tutorial-city-star-and-2.md  (523 words)  /blog/2010/03/04/photoshop-tutorial-city-star-and-2/
+
+2010-03-06  Image Stacking: 8400 Images - Day and Night in the City
+  KEEP src/posts/2010/03/2010-03-06-image-stacking-8400-images-day-and.md  (129 words)
+  DROP src/posts/2010/03/2010-03-06-image-stacking-8400-images-day-and-2.md  (129 words)  /blog/2010/03/06/image-stacking-8400-images-day-and-2/
+
+2010-03-09  London Twitter Cloud
+  KEEP src/posts/2010/03/2010-03-09-london-twitter-cloud.md  (235 words)
+  DROP src/posts/2010/03/2010-03-09-london-twitter-cloud-2.md  (235 words)  /blog/2010/03/09/london-twitter-cloud-2/
+
+2010-03-10  Unity 3.0 Announced
+  KEEP src/posts/2010/03/2010-03-10-unity-30-announced.md  (96 words)
+  DROP src/posts/2010/03/2010-03-10-unity-30-announced-2.md  (96 words)  /blog/2010/03/10/unity-30-announced-2/
+
+2010-03-17  London Twitter Cloud Updated Movie
+  KEEP src/posts/2010/03/2010-03-17-london-twitter-cloud-updated-movie.md  (121 words)
+  DROP src/posts/2010/03/2010-03-17-london-twitter-cloud-updated-movie-2.md  (121 words)  /blog/2010/03/17/london-twitter-cloud-updated-movie-2/
+
+2010-04-08  Coming Soon from the CASA Team - SurveyMapper
+  KEEP src/posts/2010/04/2010-04-08-coming-soon-from-casa-team-surveymapper.md  (163 words)
+  DROP src/posts/2010/04/2010-04-08-coming-soon-from-casa-team-surveymapper-2.md  (163 words)  /blog/2010/04/08/coming-soon-from-casa-team-surveymapper-2/
+
+2010-04-09  Data is the New Business Battleground
+  KEEP src/posts/2010/04/2010-04-09-data-is-new-business-battleground.md  (139 words)
+  DROP src/posts/2010/04/2010-04-09-data-is-new-business-battleground-2.md  (139 words)  /blog/2010/04/09/data-is-new-business-battleground-2/
+
+2010-04-10  deformations
+  KEEP src/posts/2010/04/2010-04-10-deformations.md  (89 words)
+  DROP src/posts/2010/04/2010-04-10-deformations-2.md  (89 words)  /blog/2010/04/10/deformations-2/
+
+2010-04-12  QR Code / RFID / Any Media - The TalesofThings Trailer
+  KEEP src/posts/2010/04/2010-04-12-qr-code-rfid-any-media-talesofthings.md  (105 words)
+  DROP src/posts/2010/04/2010-04-12-qr-code-rfid-any-media-talesofthings-2.md  (105 words)  /blog/2010/04/12/qr-code-rfid-any-media-talesofthings-2/
+
+2010-04-14  New Scientist and Beyond the Beyond - TalesofThings
+  KEEP src/posts/2010/04/2010-04-14-new-scientist-and-beyond-beyond.md  (168 words)
+  DROP src/posts/2010/04/2010-04-14-new-scientist-and-beyond-beyond-2.md  (168 words)  /blog/2010/04/14/new-scientist-and-beyond-beyond-2/
+
+2010-04-16  Tales of Things Goes Live - Its a Memory Thing
+  KEEP src/posts/2010/04/2010-04-16-tales-of-things-goes-live-its-memory.md  (742 words)
+  DROP src/posts/2010/04/2010-04-16-tales-of-things-goes-live-its-memory-2.md  (742 words)  /blog/2010/04/16/tales-of-things-goes-live-its-memory-2/
+
+2010-04-26  Radio 4 Click On Interview - 16.30 Today and Online
+  KEEP src/posts/2010/04/2010-04-26-radio-4-click-on-interview-1630-today.md  (253 words)
+  DROP src/posts/2010/04/2010-04-26-radio-4-click-on-interview-1630-today-2.md  (253 words)  /blog/2010/04/26/radio-4-click-on-interview-1630-today-2/
+
+2010-04-26  Tweeting from Conferences - Live Criticism and How to Cope
+  KEEP src/posts/2010/04/2010-04-26-tweeting-from-conferences-live.md  (161 words)
+  DROP src/posts/2010/04/2010-04-26-tweeting-from-conferences-live-2.md  (161 words)  /blog/2010/04/26/tweeting-from-conferences-live-2/
+
+2010-04-27  Airspace Rebooted Movie
+  KEEP src/posts/2010/04/2010-04-27-airspace-rebooted.md  (141 words)
+  DROP src/posts/2010/04/2010-04-27-airspace-rebooted-2.md  (141 words)  /blog/2010/04/27/airspace-rebooted-2/
+
+2010-04-28  3D Art: Extracting Geometry from Paintings
+  KEEP src/posts/2010/04/2010-04-28-3d-art-extracting-geometry-from.md  (131 words)
+  DROP src/posts/2010/04/2010-04-28-3d-art-extracting-geometry-from-2.md  (131 words)  /blog/2010/04/28/3d-art-extracting-geometry-from-2/
+
+2010-04-28  Back to 1999 - Still Love Canoma
+  KEEP src/posts/2010/04/2010-04-28-back-to-1999-still-love-canoma.md  (929 words)
+  DROP src/posts/2010/04/2010-04-28-back-to-1999-still-love-canoma-2.md  (929 words)  /blog/2010/04/28/back-to-1999-still-love-canoma-2/
+
+2010-04-29  Crowd Sourced Data: The Copenhagen Wheel for Pollution, Congestion and Road Conditions in Real-Time
+  KEEP src/posts/2010/04/2010-04-29-crowd-sourced-data-copenhagen-wheel-for.md  (222 words)
+  DROP src/posts/2010/04/2010-04-29-crowd-sourced-data-copenhagen-wheel-for-2.md  (222 words)  /blog/2010/04/29/crowd-sourced-data-copenhagen-wheel-for-2/
+
+2010-05-05  CG + Second Life Machinima
+  KEEP src/posts/2010/05/2010-05-05-cg-second-life-machinima.md  (108 words)
+  DROP src/posts/2010/05/2010-05-05-cg-second-life-machinima-2.md  (108 words)  /blog/2010/05/05/cg-second-life-machinima-2/
+
+2010-05-05  A Motion Generated Cityscape in Cinder
+  KEEP src/posts/2010/05/2010-05-05-motion-generated-cityscape-in-cinder.md  (194 words)
+  DROP src/posts/2010/05/2010-05-05-motion-generated-cityscape-in-cinder-2.md  (194 words)  /blog/2010/05/05/motion-generated-cityscape-in-cinder-2/
+
+2010-05-11  Contested Space - Projecting the Surveillance
+  KEEP src/posts/2010/05/2010-05-11-contested-space-projecting-surveillance.md  (105 words)
+  DROP src/posts/2010/05/2010-05-11-contested-space-projecting-surveillance-2.md  (105 words)  /blog/2010/05/11/contested-space-projecting-surveillance-2/
+
+2010-05-11  Tiltshift, City and Robot - RenkeBot Lives
+  KEEP src/posts/2010/05/2010-05-11-tiltshift-city-and-robot-renkebot-lives.md  (119 words)
+  DROP src/posts/2010/05/2010-05-11-tiltshift-city-and-robot-renkebot-lives-2.md  (119 words)  /blog/2010/05/11/tiltshift-city-and-robot-renkebot-lives-2/
+
+2010-05-12  Untitled
+  KEEP src/posts/2010/05/2010-05-12-posts-65.md  (26 words)
+  DROP src/posts/2010/05/2010-05-12-posts-66.md  (26 words)  /blog/2010/05/12/posts-66/
+  DROP src/posts/2010/05/2010-05-12-posts-63.md  (8 words)  /blog/2010/05/12/posts-63/
+  DROP src/posts/2010/05/2010-05-12-posts-64.md  (8 words)  /blog/2010/05/12/posts-64/
+
+2010-05-12  Oxfam donations get RFID memories read by iPhones
+  KEEP src/posts/2010/05/2010-05-12-posts-67.md  (117 words)
+  DROP src/posts/2010/05/2010-05-12-posts-68.md  (117 words)  /blog/2010/05/12/posts-68/
+
+2010-05-13  Tweaking the Blog
+  KEEP src/posts/2010/05/2010-05-13-tweaking-blog.md  (96 words)
+  DROP src/posts/2010/05/2010-05-13-tweaking-blog-2.md  (96 words)  /blog/2010/05/13/tweaking-blog-2/
+
+2010-05-14  iPhone RFID and Bluetooth AudioBoos in Oxfam Clip
+  KEEP src/posts/2010/05/2010-05-14-iphone-rfid-and-bluetooth-audioboos-in.md  (260 words)
+  DROP src/posts/2010/05/2010-05-14-iphone-rfid-and-bluetooth-audioboos-in-2.md  (260 words)  /blog/2010/05/14/iphone-rfid-and-bluetooth-audioboos-in-2/
+
+2010-05-14  Untitled
+  KEEP src/posts/2010/05/2010-05-14-posts-61.md  (31 words)
+  DROP src/posts/2010/05/2010-05-14-posts-62.md  (31 words)  /blog/2010/05/14/posts-62/
+
+2010-05-19  How to Add Anything to the Internet of Things: Creating the Geography of Everything
+  KEEP src/posts/2010/05/2010-05-19-how-to-add-anything-to-internet-of.md  (592 words)
+  DROP src/posts/2010/05/2010-05-19-how-to-add-anything-to-internet-of-2.md  (592 words)  /blog/2010/05/19/how-to-add-anything-to-internet-of-2/
+
+2010-05-20  Physical Space Tweets: Pst! microCONTROL
+  KEEP src/posts/2010/05/2010-05-20-physical-space-tweets-pst-microcontrol.md  (157 words)
+  DROP src/posts/2010/05/2010-05-20-physical-space-tweets-pst-microcontrol-2.md  (157 words)  /blog/2010/05/20/physical-space-tweets-pst-microcontrol-2/
+  DROP src/posts/2010/05/2010-05-20-posts-69.md  (152 words)  /blog/2010/05/20/posts-69/
+  DROP src/posts/2010/05/2010-05-20-posts-70.md  (152 words)  /blog/2010/05/20/posts-70/
+
+2010-05-26  Sky Factory eScape: Digital Cinema Virtual Window
+  KEEP src/posts/2010/05/2010-05-26-sky-factory-escape-digital-cinema.md  (113 words)
+  DROP src/posts/2010/05/2010-05-26-sky-factory-escape-digital-cinema-2.md  (113 words)  /blog/2010/05/26/sky-factory-escape-digital-cinema-2/
+
+2010-05-27  Introducing SurveyMapper: First Sample Survey Online
+  KEEP src/posts/2010/05/2010-05-27-introducing-surveymapper-first-sample.md  (367 words)
+  DROP src/posts/2010/05/2010-05-27-introducing-surveymapper-first-sample-2.md  (367 words)  /blog/2010/05/27/introducing-surveymapper-first-sample-2/
+
+2010-06-01  Digital Urban Survey: Moving to a .Com or .Org?
+  KEEP src/posts/2010/06/2010-06-01-digital-urban-survey-moving-to-com-or.md  (277 words)
+  DROP src/posts/2010/06/2010-06-01-digital-urban-survey-moving-to-com-or-2.md  (277 words)  /blog/2010/06/01/digital-urban-survey-moving-to-com-or-2/
+
+2010-06-14  Urban Modelling: Algorithms, Calibrations, Predictions
+  KEEP src/posts/2010/06/2010-06-14-urban-modelling-algorithms-calibrations.md  (246 words)
+  DROP src/posts/2010/06/2010-06-14-urban-modelling-algorithms-calibrations-2.md  (246 words)  /blog/2010/06/14/urban-modelling-algorithms-calibrations-2/
+
+2010-06-14  William J. Mitchell: A sad loss of one of the best
+  KEEP src/posts/2010/06/2010-06-14-william-j-mitchell-sad-loss-of-one-of.md  (296 words)
+  DROP src/posts/2010/06/2010-06-14-william-j-mitchell-sad-loss-of-one-of-2.md  (296 words)  /blog/2010/06/14/william-j-mitchell-sad-loss-of-one-of-2/
+
+2010-06-15  Google Street View Extractor
+  KEEP src/posts/2010/06/2010-06-15-google-streetview-extractor.md  (145 words)
+  DROP src/posts/2010/06/2010-06-15-google-streetview-extractor-2.md  (145 words)  /blog/2010/06/15/google-streetview-extractor-2/
+
+2010-06-15  SurveyMapper - How Happy are You? A Global Survey
+  KEEP src/posts/2010/06/2010-06-15-surveymapper-how-happy-are-you-global.md  (310 words)
+  DROP src/posts/2010/06/2010-06-15-surveymapper-how-happy-are-you-global-2.md  (310 words)  /blog/2010/06/15/surveymapper-how-happy-are-you-global-2/
+
+2010-06-17  Mission: Explore - The Geography Collective
+  KEEP src/posts/2010/06/2010-06-17-mission-explore-geography-collective.md  (193 words)
+  DROP src/posts/2010/06/2010-06-17-mission-explore-geography-collective-2.md  (193 words)  /blog/2010/06/17/mission-explore-geography-collective-2/
+
+2010-06-19  Yell Releases Online 3D maps of Birmingham, Leeds, London and Manchester
+  KEEP src/posts/2010/06/2010-06-19-yell-releases-online-3d-maps-of.md  (211 words)
+  DROP src/posts/2010/06/2010-06-19-yell-releases-online-3d-maps-of-2.md  (211 words)  /blog/2010/06/19/yell-releases-online-3d-maps-of-2/
+
+2010-06-20  Sketches of Boston Traffic: Tilt-Shift Timelapse
+  KEEP src/posts/2010/06/2010-06-20-sketches-of-boston-traffic-tilt-shift.md  (86 words)
+  DROP src/posts/2010/06/2010-06-20-sketches-of-boston-traffic-tilt-shift-2.md  (86 words)  /blog/2010/06/20/sketches-of-boston-traffic-tilt-shift-2/
+
+2010-06-21  3D City on the iPad (Movie)
+  KEEP src/posts/2010/06/2010-06-21-3d-city-on-ipad-movie.md  (89 words)
+  DROP src/posts/2010/06/2010-06-21-3d-city-on-ipad-movie-2.md  (89 words)  /blog/2010/06/21/3d-city-on-ipad-movie-2/
+
+2010-06-21  Transparency and the City: Public Spaces or Forgotten Places?
+  KEEP src/posts/2010/06/2010-06-21-transparency-and-city-public-spaces-or.md  (254 words)
+  DROP src/posts/2010/06/2010-06-21-transparency-and-city-public-spaces-or-2.md  (254 words)  /blog/2010/06/21/transparency-and-city-public-spaces-or-2/
+
+2010-06-23  Survey Data, Simulation and Workflows
+  KEEP src/posts/2010/06/2010-06-23-survey-data-simulation-and-workflows.md  (114 words)
+  DROP src/posts/2010/06/2010-06-23-survey-data-simulation-and-workflows-2.md  (114 words)  /blog/2010/06/23/survey-data-simulation-and-workflows-2/
+
+2010-06-30  London's Twitterscape: Metro Page 3
+  KEEP src/posts/2010/06/2010-06-30-londons-twitterscape-metro-page-3.md  (157 words)
+  DROP src/posts/2010/06/2010-06-30-londons-twitterscape-metro-page-3-2.md  (157 words)  /blog/2010/06/30/londons-twitterscape-metro-page-3-2/
+
+2010-07-08  Introducing SurveyMapper: Beta is Now Live
+  KEEP src/posts/2010/07/2010-07-08-introducing-surveymapper-beta-is-now.md  (317 words)
+  DROP src/posts/2010/07/2010-07-08-posts-71.md  (313 words)  /blog/2010/07/08/posts-71/
+  DROP src/posts/2010/07/2010-07-08-posts-72.md  (313 words)  /blog/2010/07/08/posts-72/
+
+2010-07-12  Massive Attack: Splitting the Atom - City in Deconstruction
+  KEEP src/posts/2010/07/2010-07-12-massive-attack-splitting-atom-city-in.md  (74 words)
+  DROP src/posts/2010/07/2010-07-12-massive-attack-splitting-atom-city-in-2.md  (74 words)  /blog/2010/07/12/massive-attack-splitting-atom-city-in-2/
+
+2010-07-12  Nano Structures: A Futuristic City Animation
+  KEEP src/posts/2010/07/2010-07-12-nano-structures-futuristic-city.md  (114 words)
+  DROP src/posts/2010/07/2010-07-12-nano-structures-futuristic-city-2.md  (114 words)  /blog/2010/07/12/nano-structures-futuristic-city-2/
+
+2010-07-13  Digital Urban: Top Five Favourites
+  KEEP src/posts/2010/07/2010-07-13-digital-urban-top-five-favourites.md  (789 words)
+  DROP src/posts/2010/07/2010-07-13-digital-urban-top-five-favourites-2.md  (789 words)  /blog/2010/07/13/digital-urban-top-five-favourites-2/
+
+2010-07-15  California High Speed Rail: A Metaverse Vision
+  KEEP src/posts/2010/07/2010-07-15-california-high-speed-rail-metaverse.md  (196 words)
+  DROP src/posts/2010/07/2010-07-15-california-high-speed-rail-metaverse-2.md  (196 words)  /blog/2010/07/15/california-high-speed-rail-metaverse-2/
+
+2010-07-15  SurveyMapper Trailer: Survey the World a Nation, City or Town
+  KEEP src/posts/2010/07/2010-07-15-surveymapper-trailer-survey-world.md  (149 words)
+  DROP src/posts/2010/07/2010-07-15-surveymapper-trailer-survey-world-2.md  (149 words)  /blog/2010/07/15/surveymapper-trailer-survey-world-2/
+
+2010-07-16  SketchUp 7.1 for Architectural Visualization - Three Copies to Give Away!
+  KEEP src/posts/2010/07/2010-07-16-posts-78.md  (395 words)
+  DROP src/posts/2010/07/2010-07-16-posts-79.md  (395 words)  /blog/2010/07/16/posts-79/
+
+2010-07-19  15 Days in Liberty City: Time-Lapse
+  KEEP src/posts/2010/07/2010-07-19-15-days-in-liberty-city-time-lapse.md  (67 words)
+  DROP src/posts/2010/07/2010-07-19-15-days-in-liberty-city-time-lapse-2.md  (67 words)  /blog/2010/07/19/15-days-in-liberty-city-time-lapse-2/
+
+2010-07-19  Polygon Graffiti
+  KEEP src/posts/2010/07/2010-07-19-polygon-graffiti.md  (89 words)
+  DROP src/posts/2010/07/2010-07-19-polygon-graffiti-2.md  (89 words)  /blog/2010/07/19/polygon-graffiti-2/
+
+2010-07-20  Cities Discussion on Pinyadda
+  KEEP src/posts/2010/07/2010-07-20-cities-discussion-on-pinyadda.md  (125 words)
+  DROP src/posts/2010/07/2010-07-20-cities-discussion-on-pinyadda-2.md  (125 words)  /blog/2010/07/20/cities-discussion-on-pinyadda-2/
+
+2010-07-20  What's the Most Pressing Issue Facing Cities Today?
+  KEEP src/posts/2010/07/2010-07-20-whats-most-pressing-issue-facing-cities.md  (97 words)
+  DROP src/posts/2010/07/2010-07-20-whats-most-pressing-issue-facing-cities-2.md  (97 words)  /blog/2010/07/20/whats-most-pressing-issue-facing-cities-2/
+
+2010-07-21  24 Hours in London: A Timelapse
+  KEEP src/posts/2010/07/2010-07-21-24-hours-in-london-timelapse.md  (87 words)
+  DROP src/posts/2010/07/2010-07-21-24-hours-in-london-timelapse-2.md  (87 words)  /blog/2010/07/21/24-hours-in-london-timelapse-2/
+
+2010-07-21  Vacation/Holiday and MRes Application Deadline
+  KEEP src/posts/2010/07/2010-07-21-vacationholiday-and-mres-application.md  (155 words)
+  DROP src/posts/2010/07/2010-07-21-vacationholiday-and-mres-application-2.md  (155 words)  /blog/2010/07/21/vacationholiday-and-mres-application-2/
+
+2010-08-02  China's 60th Anniversary National Day - Timelapse and Slow Motion
+  KEEP src/posts/2010/08/2010-08-02-chinas-60th-anniversary-national-day.md  (159 words)
+  DROP src/posts/2010/08/2010-08-02-chinas-60th-anniversary-national-day-2.md  (159 words)  /blog/2010/08/02/chinas-60th-anniversary-national-day-2/
+
+2010-08-02  iPhone App: Walking Through Time - Edinburgh Edition
+  KEEP src/posts/2010/08/2010-08-02-iphone-app-walking-through-time.md  (148 words)
+  DROP src/posts/2010/08/2010-08-02-iphone-app-walking-through-time-2.md  (148 words)  /blog/2010/08/02/iphone-app-walking-through-time-2/
+
+2010-08-02  News Telescope: Augmented Geography
+  KEEP src/posts/2010/08/2010-08-02-news-telescope-augmented-geography.md  (164 words)
+  DROP src/posts/2010/08/2010-08-02-news-telescope-augmented-geography-2.md  (164 words)  /blog/2010/08/02/news-telescope-augmented-geography-2/
+
+2010-08-02  Virtual Brisbane
+  KEEP src/posts/2010/08/2010-08-02-posts-76.md  (15 words)
+  DROP src/posts/2010/08/2010-08-02-posts-77.md  (15 words)  /blog/2010/08/02/posts-77/
+
+2010-08-03  Untitled
+  KEEP src/posts/2010/08/2010-08-03-posts-74.md  (278 words)
+  DROP src/posts/2010/08/2010-08-03-posts-75.md  (278 words)  /blog/2010/08/03/posts-75/
+
+2010-08-03  Rubika: Animated Urban Short for Canal +
+  KEEP src/posts/2010/08/2010-08-03-rubika-animated-short-for-canal.md  (145 words)
+  DROP src/posts/2010/08/2010-08-03-rubika-animated-short-for-canal-2.md  (145 words)  /blog/2010/08/03/rubika-animated-short-for-canal-2/
+
+2010-08-03  Toronto: A Day in the Life Timelapse Movie
+  KEEP src/posts/2010/08/2010-08-03-toronto-day-in-life-timelapse-movie.md  (165 words)
+  DROP src/posts/2010/08/2010-08-03-toronto-day-in-life-timelapse-movie-2.md  (165 words)  /blog/2010/08/03/toronto-day-in-life-timelapse-movie-2/
+
+2010-08-11  be2camp Birmingham: Thursday August 12th (Free)
+  KEEP src/posts/2010/08/2010-08-11-be2camp-birmingham-thursday-august-12th.md  (296 words)
+  DROP src/posts/2010/08/2010-08-11-be2camp-birmingham-thursday-august-12th-2.md  (296 words)  /blog/2010/08/11/be2camp-birmingham-thursday-august-12th-2/
+
+2010-08-11  Huge Panorama of London in 1845
+  KEEP src/posts/2010/08/2010-08-11-huge-panorama-of-london-in-1845.md  (128 words)
+  DROP src/posts/2010/08/2010-08-11-huge-panorama-of-london-in-1845-2.md  (128 words)  /blog/2010/08/11/huge-panorama-of-london-in-1845-2/
+
+2010-08-17  Virtual Brisbane: Developing 3DGIS and Online Planning
+  KEEP src/posts/2010/08/2010-08-17-virtual-brisbane-developing-3dgis-and.md  (598 words)
+  DROP src/posts/2010/08/2010-08-17-virtual-brisbane-developing-3dgis-and-2.md  (598 words)  /blog/2010/08/17/virtual-brisbane-developing-3dgis-and-2/
+
+2010-08-18  Spark of Genius Series: TalesofThings QR Codes and Life Logging
+  KEEP src/posts/2010/08/2010-08-18-spark-of-genius-series-talesofthings-qr.md  (1194 words)
+  DROP src/posts/2010/08/2010-08-18-spark-of-genius-series-talesofthings-qr-2.md  (1194 words)  /blog/2010/08/18/spark-of-genius-series-talesofthings-qr-2/
+
+2010-08-23  The Cycle of the City: London City Life
+  KEEP src/posts/2010/08/2010-08-23-cycle-of-city-london-city-life.md  (116 words)
+  DROP src/posts/2010/08/2010-08-23-cycle-of-city-london-city-life-2.md  (116 words)  /blog/2010/08/23/cycle-of-city-london-city-life-2/
+
+2010-08-23  Interactive City: A Virtual World of Endless Possibilities (?)
+  KEEP src/posts/2010/08/2010-08-23-interactive-city-virtual-world-of.md  (361 words)
+  DROP src/posts/2010/08/2010-08-23-interactive-city-virtual-world-of-2.md  (361 words)  /blog/2010/08/23/interactive-city-virtual-world-of-2/
+
+2010-08-23  Times Avenue, Kuala Lumpur by metamosaic
+  KEEP src/posts/2010/08/2010-08-23-times-avenue-kuala-lumpur-by-metamosaic.md  (107 words)
+  DROP src/posts/2010/08/2010-08-23-times-avenue-kuala-lumpur-by-metamosaic-2.md  (107 words)  /blog/2010/08/23/times-avenue-kuala-lumpur-by-metamosaic-2/
+
+2010-09-01  iClone City Packs
+  KEEP src/posts/2010/09/2010-09-01-iclone-city-packs.md  (130 words)
+  DROP src/posts/2010/09/2010-09-01-iclone-city-packs-2.md  (130 words)  /blog/2010/09/01/iclone-city-packs-2/
+
+2010-09-01  Untitled
+  KEEP src/posts/2010/09/2010-09-01-posts-80.md  (409 words)
+  DROP src/posts/2010/09/2010-09-01-posts-81.md  (409 words)  /blog/2010/09/01/posts-81/
+  DROP src/posts/2010/09/2010-09-01-posts-82.md  (195 words)  /blog/2010/09/01/posts-82/
+  DROP src/posts/2010/09/2010-09-01-posts-83.md  (195 words)  /blog/2010/09/01/posts-83/
+
+2010-09-01  Simply Clouds and Shooting Planes: A London Sky Timelapse
+  KEEP src/posts/2010/09/2010-09-01-simply-clouds-and-shooting-planes.md  (143 words)
+  DROP src/posts/2010/09/2010-09-01-simply-clouds-and-shooting-planes-2.md  (143 words)  /blog/2010/09/01/simply-clouds-and-shooting-planes-2/
+
+2010-09-01  Tagging Technologies: Free Book
+  KEEP src/posts/2010/09/2010-09-01-tagging-technologies-free-book.md  (192 words)
+  DROP src/posts/2010/09/2010-09-01-tagging-technologies-free-book-2.md  (192 words)  /blog/2010/09/01/tagging-technologies-free-book-2/
+
+2010-09-02  From Buildings to Cities: Techniques for the Multi-Scale Analysis of Urban Form and Function
+  KEEP src/posts/2010/09/2010-09-02-from-buildings-to-cities-techniques-for.md  (405 words)
+  DROP src/posts/2010/09/2010-09-02-from-buildings-to-cities-techniques-for-2.md  (405 words)  /blog/2010/09/02/from-buildings-to-cities-techniques-for-2/
+
+2010-09-02  Second Life and Science Sim: Time to Head Back into Virtual Space(?)
+  KEEP src/posts/2010/09/2010-09-02-second-life-and-science-sim-time-to.md  (191 words)
+  DROP src/posts/2010/09/2010-09-02-second-life-and-science-sim-time-to-2.md  (191 words)  /blog/2010/09/02/second-life-and-science-sim-time-to-2/
+
+2010-09-02  SketchUp 8: Google Building Maker Direct in SketchUp
+  KEEP src/posts/2010/09/2010-09-02-sketchup-8-google-building-maker-direct.md  (72 words)
+  DROP src/posts/2010/09/2010-09-02-sketchup-8-google-building-maker-direct-2.md  (72 words)  /blog/2010/09/02/sketchup-8-google-building-maker-direct-2/
+
+2010-09-03  SketchUp Realtime Lighting: LightUp
+  KEEP src/posts/2010/09/2010-09-03-sketchup-realtime-lighting-lightup.md  (195 words)
+  DROP src/posts/2010/09/2010-09-03-sketchup-realtime-lighting-lightup-2.md  (195 words)  /blog/2010/09/03/sketchup-realtime-lighting-lightup-2/
+
+2010-09-06  MegaCities: A Puccini Timelapse
+  KEEP src/posts/2010/09/2010-09-06-megacities-puccini-timelapse.md  (145 words)
+  DROP src/posts/2010/09/2010-09-06-megacities-puccini-timelapse-2.md  (145 words)  /blog/2010/09/06/megacities-puccini-timelapse-2/
+
+2010-09-17  San Francisco Tweetography: Twitter Landscapes
+  KEEP src/posts/2010/09/2010-09-17-san-francisco-tweetography-twitter.md  (149 words)
+  DROP src/posts/2010/09/2010-09-17-san-francisco-tweetography-twitter-2.md  (149 words)  /blog/2010/09/17/san-francisco-tweetography-twitter-2/
+
+2010-09-20  WikiLeaks Map: How Leaky is Your Country
+  KEEP src/posts/2010/09/2010-09-20-wikileaks-map-how-leaky-is-your-country.md  (171 words)
+  DROP src/posts/2010/09/2010-09-20-wikileaks-map-how-leaky-is-your-country-2.md  (171 words)  /blog/2010/09/20/wikileaks-map-how-leaky-is-your-country-2/
+
+2010-09-24  Tales of Things: Social Objects in the New York Times
+  KEEP src/posts/2010/09/2010-09-24-tales-of-things-social-objects-in-new.md  (423 words)
+  DROP src/posts/2010/09/2010-09-24-tales-of-things-social-objects-in-new-2.md  (423 words)  /blog/2010/09/24/tales-of-things-social-objects-in-new-2/
+
+2010-10-04  Hermitage Plaza: Architectural Visualisation by Uniform
+  KEEP src/posts/2010/10/2010-10-04-hermitage-plaza-architectural.md  (178 words)
+  DROP src/posts/2010/10/2010-10-04-hermitage-plaza-architectural-2.md  (178 words)  /blog/2010/10/04/hermitage-plaza-architectural-2/
+
+2010-10-18  Architectural Visualisation in Crysis (The Engine)
+  KEEP src/posts/2010/10/2010-10-18-architectural-visualisation-in-crysis.md  (113 words)
+  DROP src/posts/2010/10/2010-10-18-architectural-visualisation-in-crysis-2.md  (113 words)  /blog/2010/10/18/architectural-visualisation-in-crysis-2/
+
+2010-10-21  Real Life Tweet-o-Meters Now in the British Library
+  KEEP src/posts/2010/10/2010-10-21-real-life-tweet-o-meters-now-in-british.md  (144 words)
+  DROP src/posts/2010/10/2010-10-21-real-life-tweet-o-meters-now-in-british-2.md  (144 words)  /blog/2010/10/21/real-life-tweet-o-meters-now-in-british-2/
+
+2010-10-21  SurveyMapper: Now with Embed Survey
+  KEEP src/posts/2010/10/2010-10-21-surveymapper-now-with-embed-survey.md  (159 words)
+  DROP src/posts/2010/10/2010-10-21-surveymapper-now-with-embed-survey-2.md  (159 words)  /blog/2010/10/21/surveymapper-now-with-embed-survey-2/
+
+2010-10-22  Book Covers - City: A Guidebook for the Armchair Traveller
+  KEEP src/posts/2010/10/2010-10-22-book-covers-city-guidebook-for-armchair.md  (178 words)
+  DROP src/posts/2010/10/2010-10-22-book-covers-city-guidebook-for-armchair-2.md  (178 words)  /blog/2010/10/22/book-covers-city-guidebook-for-armchair-2/
+
+2010-10-22  Professor Green's 360 Panoramic Video
+  KEEP src/posts/2010/10/2010-10-22-professor-greens-360-panoramic-video.md  (86 words)
+  DROP src/posts/2010/10/2010-10-22-professor-greens-360-panoramic-video-2.md  (86 words)  /blog/2010/10/22/professor-greens-360-panoramic-video-2/
+
+2010-10-22  Visualising Space-Time Dynamics in Scaling Systems: Rank Clocks
+  KEEP src/posts/2010/10/2010-10-22-visualising-space-time-dynamics-in.md  (540 words)
+  DROP src/posts/2010/10/2010-10-22-visualising-space-time-dynamics-in-2.md  (540 words)  /blog/2010/10/22/visualising-space-time-dynamics-in-2/
+
+2010-10-29  Tweet-o-Meter on WebBeat.tv
+  KEEP src/posts/2010/10/2010-10-29-tweet-o-meter-on-webbeattv.md  (117 words)
+  DROP src/posts/2010/10/2010-10-29-tweet-o-meter-on-webbeattv-2.md  (117 words)  /blog/2010/10/29/tweet-o-meter-on-webbeattv-2/
+
+2010-11-02  Jan Jelinek & Visiomat: Modell Stadt Berlin
+  KEEP src/posts/2010/11/2010-11-02-jan-jelinek-visiomat-modell-stadt.md  (136 words)
+  DROP src/posts/2010/11/2010-11-02-jan-jelinek-visiomat-modell-stadt-2.md  (136 words)  /blog/2010/11/02/jan-jelinek-visiomat-modell-stadt-2/
+
+2010-11-09  Making of the Map: John Potters Timelapse
+  KEEP src/posts/2010/11/2010-11-09-making-of-map-john-potters-timelapse.md  (515 words)
+  DROP src/posts/2010/11/2010-11-09-making-of-map-john-potters-timelapse-2.md  (515 words)  /blog/2010/11/09/making-of-map-john-potters-timelapse-2/
+
+2010-11-17  Swinglet CAM: DIY Drone Aerial Photography
+  KEEP src/posts/2010/11/2010-11-17-swinglet-cam-diy-drone-aerial.md  (192 words)
+  DROP src/posts/2010/11/2010-11-17-swinglet-cam-diy-drone-aerial-2.md  (192 words)  /blog/2010/11/17/swinglet-cam-diy-drone-aerial-2/
+
+2010-11-19  404 Festival Taiwan 2010 Viz
+  KEEP src/posts/2010/11/2010-11-19-404-festival-taiwan-2010-viz.md  (166 words)
+  DROP src/posts/2010/11/2010-11-19-404-festival-taiwan-2010-viz-2.md  (166 words)  /blog/2010/11/19/404-festival-taiwan-2010-viz-2/
+
+2010-11-19  Architectural Viz: Transitions between Real and Virtual, Shopping City Sued
+  KEEP src/posts/2010/11/2010-11-19-architectural-viz-transitions-between.md  (134 words)
+  DROP src/posts/2010/11/2010-11-19-architectural-viz-transitions-between-2.md  (134 words)  /blog/2010/11/19/architectural-viz-transitions-between-2/
+
+2010-11-23  Wired Big Ideas for 2011: Chatitecture - Talking Buildings
+  KEEP src/posts/2010/11/2010-11-23-wired-big-ideas-for-2011-chatitecture.md  (563 words)
+  DROP src/posts/2010/11/2010-11-23-wired-big-ideas-for-2011-chatitecture-2.md  (563 words)  /blog/2010/11/23/wired-big-ideas-for-2011-chatitecture-2/
+
+2011-01-05  SketchUp 8: Full Building Maker Integration
+  KEEP src/posts/2011/01/2011-01-05-sketchup-8-full-building-maker.md  (112 words)
+  DROP src/posts/2011/01/2011-01-05-sketchup-8-full-building-maker-2.md  (112 words)  /blog/2011/01/05/sketchup-8-full-building-maker-2/
+
+2011-01-06  SketchUp 7.1 for Architectural Visualization: Retweet and Win a Free Copy
+  KEEP src/posts/2011/01/2011-01-06-sketchup-71-for-architectural.md  (1255 words)
+  DROP src/posts/2011/01/2011-01-06-sketchup-71-for-architectural-2.md  (1255 words)  /blog/2011/01/06/sketchup-71-for-architectural-2/
+
+2011-03-04  CASA Bike Route Map in Wired
+  KEEP src/posts/2011/03/2011-03-04-casa-bike-route-map-in-wired.md  (139 words)
+  DROP src/posts/2011/03/2011-03-04-casa-bike-route-map-in-wired-2.md  (139 words)  /blog/2011/03/04/casa-bike-route-map-in-wired-2/
+
+2011-03-05  Political Borders Time Lapse Maps
+  KEEP src/posts/2011/03/2011-03-05-political-borders-time-lapse-maps.md  (102 words)
+  DROP src/posts/2011/03/2011-03-05-political-borders-time-lapse-maps-2.md  (102 words)  /blog/2011/03/05/political-borders-time-lapse-maps-2/
+
+2011-03-06  Single Timelapsed Photography: City Skyline Day and Night
+  KEEP src/posts/2011/03/2011-03-06-single-timelapsed-photography-city.md  (646 words)
+  DROP src/posts/2011/03/2011-03-06-single-timelapsed-photography-city-2.md  (646 words)  /blog/2011/03/06/single-timelapsed-photography-city-2/
+
+2011-07-18  Colouring the Black and White City: Reulf
+  KEEP src/posts/2011/07/2011-07-18-colouring-black-and-white-city-reulf.md  (131 words)
+  DROP src/posts/2011/07/2011-07-18-colouring-black-and-white-city-reulf-2.md  (131 words)  /blog/2011/07/18/colouring-black-and-white-city-reulf-2/
+
+2011-07-18  Nike+ City Runs Visualisation
+  KEEP src/posts/2011/07/2011-07-18-nike-city-runs-visualisation.md  (523 words)
+  DROP src/posts/2011/07/2011-07-18-nike-city-runs-visualisation-2.md  (523 words)  /blog/2011/07/18/nike-city-runs-visualisation-2/
+
+2011-07-18  The Urban Monitoring System: CCTV Draped on 3D Models
+  KEEP src/posts/2011/07/2011-07-18-urban-monitoring-system-cctv-draped-on.md  (241 words)
+  DROP src/posts/2011/07/2011-07-18-urban-monitoring-system-cctv-draped-on-2.md  (241 words)  /blog/2011/07/18/urban-monitoring-system-cctv-draped-on-2/
+
+2011-07-19  Megalomania: City in Total Construction
+  KEEP src/posts/2011/07/2011-07-19-megalomania-city-in-total-construction.md  (197 words)
+  DROP src/posts/2011/07/2011-07-19-megalomania-city-in-total-construction-2.md  (197 words)  /blog/2011/07/19/megalomania-city-in-total-construction-2/
+
+2011-07-19  Paper City: Jours de Pointe
+  KEEP src/posts/2011/07/2011-07-19-paper-city-jours-de-pointe.md  (86 words)
+  DROP src/posts/2011/07/2011-07-19-paper-city-jours-de-pointe-2.md  (86 words)  /blog/2011/07/19/paper-city-jours-de-pointe-2/
+
+2011-07-19  Magnus
+  KEEP src/posts/2011/07/2011-07-19-posts-87.md  (52 words)
+  DROP src/posts/2011/07/2011-07-19-posts-88.md  (52 words)  /blog/2011/07/19/posts-88/
+
+2011-07-20  The Global Lab Podcast: Episode 1 now available on iTunes
+  KEEP src/posts/2011/07/2011-07-20-global-lab-podcast-episode-1-now.md  (284 words)
+  DROP src/posts/2011/07/2011-07-20-global-lab-podcast-episode-1-now-2.md  (284 words)  /blog/2011/07/20/global-lab-podcast-episode-1-now-2/
+
+2011-07-25  Crowdsourcing in Research Method News
+  KEEP src/posts/2011/07/2011-07-25-crowdsourcing-in-research-method-news.md  (224 words)
+  DROP src/posts/2011/07/2011-07-25-crowdsourcing-in-research-method-news-2.md  (224 words)  /blog/2011/07/25/crowdsourcing-in-research-method-news-2/
+
+2011-07-26  PocketGuide: City Audio Tours with 3D Route Playback
+  KEEP src/posts/2011/07/2011-07-26-pocketguide-city-audio-tours-with-3d.md  (104 words)
+  DROP src/posts/2011/07/2011-07-26-pocketguide-city-audio-tours-with-3d-2.md  (104 words)  /blog/2011/07/26/pocketguide-city-audio-tours-with-3d-2/
+
+2011-07-26  Virtual Library of Birmingham in Second Life
+  KEEP src/posts/2011/07/2011-07-26-virtual-library-of-birmingham-in-second.md  (245 words)
+  DROP src/posts/2011/07/2011-07-26-virtual-library-of-birmingham-in-second-2.md  (245 words)  /blog/2011/07/26/virtual-library-of-birmingham-in-second-2/
+
+2011-07-27  #1yeartogo Twitter Map
+  KEEP src/posts/2011/07/2011-07-27-1yeartogo-twitter-map.md  (545 words)
+  DROP src/posts/2011/07/2011-07-27-1yeartogo-twitter-map-2.md  (545 words)  /blog/2011/07/27/1yeartogo-twitter-map-2/
+
+2011-07-29  A Science of Cities
+  KEEP src/posts/2011/07/2011-07-29-science-of-cities.md  (518 words)
+  DROP src/posts/2011/07/2011-07-29-science-of-cities-2.md  (518 words)  /blog/2011/07/29/science-of-cities-2/
+
+2011-07-29  Timelapse: The City Limits
+  KEEP src/posts/2011/07/2011-07-29-timelapse-city-limits.md  (145 words)
+  DROP src/posts/2011/07/2011-07-29-timelapse-city-limits-2.md  (145 words)  /blog/2011/07/29/timelapse-city-limits-2/
+
+2011-10-10  LiDAR: Urban Caves Movie
+  KEEP src/posts/2011/10/2011-10-10-lidar-urban-caves-movie.md  (95 words)
+  DROP src/posts/2011/10/2011-10-10-lidar-urban-caves-movie-2.md  (95 words)  /blog/2011/10/10/lidar-urban-caves-movie-2/
+
+2011-10-11  Crowd Sourced 3D Modelling?
+  KEEP src/posts/2011/10/2011-10-11-crowd-sourced-3d-modelling.md  (300 words)
+  DROP src/posts/2011/10/2011-10-11-crowd-sourced-3d-modelling-2.md  (300 words)  /blog/2011/10/11/crowd-sourced-3d-modelling-2/
+
+2011-10-12  Cities in Motion: Game or Urban Transport Model?
+  KEEP src/posts/2011/10/2011-10-12-cities-in-motion-game-or-urban.md  (191 words)
+  DROP src/posts/2011/10/2011-10-12-cities-in-motion-game-or-urban-2.md  (191 words)  /blog/2011/10/12/cities-in-motion-game-or-urban-2/
+
+2011-10-14  Tokyo Slo-Mode
+  KEEP src/posts/2011/10/2011-10-14-tokyo-slo-mode.md  (61 words)
+  DROP src/posts/2011/10/2011-10-14-tokyo-slo-mode-2.md  (61 words)  /blog/2011/10/14/tokyo-slo-mode-2/
+
+2011-10-17  Golden Age: Somewhere
+  KEEP src/posts/2011/10/2011-10-17-golden-age-somewhere.md  (242 words)
+  DROP src/posts/2011/10/2011-10-17-golden-age-somewhere-2.md  (242 words)  /blog/2011/10/17/golden-age-somewhere-2/
+
+2011-12-01  Using GEMMA for Regional Names in 10 Clicks
+  KEEP src/posts/2011/12/2011-12-01-using-gemma-for-regional-names-in-10.md  (276 words)
+  DROP src/posts/2011/12/2011-12-01-using-gemma-for-regional-names-in-10-2.md  (276 words)  /blog/2011/12/01/using-gemma-for-regional-names-in-10-2/
+
+2012-03-21  Characteristics of Heavily Edited Objects in OpenStreetMap
+  KEEP src/posts/2012/03/2012-03-21-characteristics-of-heavily-edited.md  (566 words)
+  DROP src/posts/2012/03/2012-03-21-characteristics-of-heavily-edited-2.md  (566 words)  /blog/2012/03/21/characteristics-of-heavily-edited-2/
+
+2012-05-29  The world’s first complete Compact Surveillance Radar kit - Realtime Crowd Analysis?
+  KEEP src/posts/2012/05/2012-05-29-worlds-first-complete-compact.md  (188 words)
+  DROP src/posts/2012/05/2012-05-29-worlds-first-complete-compact-2.md  (188 words)  /blog/2012/05/29/worlds-first-complete-compact-2/
+
+2012-08-10  Live London Dashboard now with realtime Olympic tweet counter
+  KEEP src/posts/2012/08/2012-08-10-live-london-dashboard-now-with-realtime-olympic-tweet-counter.md  (298 words)
+  DROP src/posts/2012/08/2012-08-10-live-london-dashboard-now-with-realtime-olympic-tweet-counter-2.md  (298 words)  /blog/2012/08/10/live-london-dashboard-now-with-realtime-olympic-tweet-counter-2/
+
+2013-03-21  Magna Quis
+  KEEP src/posts/2013/03/2013-03-21-magna-fringilla-quis-condimentum.md  (205 words)
+  DROP src/posts/2013/03/2013-03-21-magna-fringilla-quis-condimentum-2.md  (205 words)  /blog/2013/03/21/magna-fringilla-quis-condimentum-2/
+
+2013-03-28  Ambrose Redmoon
+  EMPTY src/posts/2013/03/2013-03-28-ambrose-redmoon.md  /blog/2013/03/28/ambrose-redmoon/
+  EMPTY src/posts/2013/03/2013-03-28-ambrose-redmoon-2.md  /blog/2013/03/28/ambrose-redmoon-2/
+
+2013-04-18  Shortest Path Modelling and NavMesh in Unity and CityEngine
+  KEEP src/posts/2013/04/2013-04-18-shortest-path-modelling-and-navmesh-in-unity-and-cityengine.md  (116 words)
+  DROP src/posts/2013/04/2013-04-18-shortest-path-modelling-and-navmesh-in-unity-and-cityengine-2.md  (116 words)  /blog/2013/04/18/shortest-path-modelling-and-navmesh-in-unity-and-cityengine-2/
