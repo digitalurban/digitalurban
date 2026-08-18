@@ -1,0 +1,73 @@
+---
+title: About / Papers
+permalink: /about/
+---
+<div class="wrap">
+  <div class="about-head">
+    <div>
+      <div class="mono mono--accent" style="padding-bottom:18px">About</div>
+      <h1>Andrew<br />Hudson-Smith</h1>
+    </div>
+    <div class="about-head__facts mono">
+      <div><span>Role</span>Professor, Chair in Digital Urban Systems</div>
+      <div><span>Institution</span>Centre for Advanced Spatial Analysis (CASA)<br />University College London, UCL East</div>
+      <div><span>Writing here since</span>2005</div>
+    </div>
+  </div>
+
+  <div class="about-body">
+    <div class="prose">
+      {% for p in about.bio %}
+      <p>{{ p | safe }}</p>
+      {% endfor %}
+    </div>
+
+    <aside class="about-side">
+      <div class="about-card">
+        <div class="mono" style="padding-bottom:14px">Books</div>
+        <a class="about-book" href="/books/">
+          <span class="about-book__t">Cities in the Metaverse</span>
+          <span class="mono">Routledge &middot; 2025</span>
+        </a>
+        <a class="about-book" href="/books/">
+          <span class="about-book__t">Digital Cities of Tomorrow</span>
+          <span class="mono">Springer / Nature &middot; 2026</span>
+        </a>
+        <a class="about-book" href="/books/">
+          <span class="about-book__t">Digital Urban</span>
+          <span class="mono">Planned &middot; 2027</span>
+        </a>
+      </div>
+      <div class="about-card">
+        <div class="mono" style="padding-bottom:14px">Elsewhere</div>
+        <div class="rows">
+          <a href="{{ site.social.twitter }}">Twitter</a>
+          <a href="{{ site.social.youtube }}">YouTube</a>
+          <a href="{{ site.social.instagram }}">Instagram</a>
+          <a href="{{ site.social.github }}">GitHub</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<section class="dark" id="papers">
+  <div class="dark__in">
+    <div class="dark__head">
+      <h2>Publications</h2>
+      <span class="mono" style="color:var(--faint)">{{ about.count }} selected &middot; {{ about.byYear | length }} years</span>
+    </div>
+    <div class="pubs">
+      {% for group in about.byYear %}
+      <div class="pubs__year">
+        <div class="pubs__y mono">{{ group.year }}</div>
+        <div class="pubs__list">
+          {% for p in group.items %}
+          <div class="pub">{{ p.html | safe }}</div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
