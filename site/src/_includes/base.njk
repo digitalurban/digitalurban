@@ -21,7 +21,7 @@
 <meta name="theme-color" content="#c8481f" />
 <meta property="og:image" content="{{ site.url }}{% if hero %}{{ hero }}{% else %}/share-card.png{% endif %}" />
 {% if pagination %}{% if pagination.href.previous %}<link rel="prev" href="{{ site.url }}{{ pagination.href.previous }}" />{% endif %}{% if pagination.href.next %}<link rel="next" href="{{ site.url }}{{ pagination.href.next }}" />{% endif %}{% endif %}
-<link rel="stylesheet" href="/css/site.css" />
+<link rel="stylesheet" href="/css/site.css?v={{ site.cssVersion }}" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
