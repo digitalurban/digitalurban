@@ -20,13 +20,32 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <meta name="theme-color" content="#c8481f" />
 <meta property="og:image" content="{{ site.url }}{% if hero %}{{ hero }}{% else %}/share-card.png{% endif %}" />
+{% if pagination %}{% if pagination.href.previous %}<link rel="prev" href="{{ site.url }}{{ pagination.href.previous }}" />{% endif %}{% if pagination.href.next %}<link rel="next" href="{{ site.url }}{{ pagination.href.next }}" />{% endif %}{% endif %}
 <link rel="stylesheet" href="/css/site.css" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": {{ site.title | dump | safe }},
+  "description": {{ site.tagline | dump | safe }},
+  "url": {{ site.url | dump | safe }},
+  "inLanguage": "en-GB",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | dump | safe }},
+    "jobTitle": {{ site.role | dump | safe }},
+    "affiliation": { "@type": "Organization", "name": {{ site.affiliation | dump | safe }} },
+    "url": "{{ site.url }}/about/",
+    "sameAs": [{{ site.social.twitter | dump | safe }}, {{ site.social.github | dump | safe }}, {{ site.social.youtube | dump | safe }}]
+  }
+}
+</script>
 </head>
 <body>
 
 <header class="site-head">
   <div class="site-head__in">
-    <a class="wordmark" href="/">{{ site.title }}</a>
+    <a class="wordmark" href="/"><span class="wordmark__mark">DU</span>{{ site.title }}</a>
     <nav class="site-nav">
       <a href="/"{% if page.url == '/' %} aria-current="page"{% endif %}>Latest</a>
       <a href="/projects/"{% if '/projects/' in page.url %} aria-current="page"{% endif %}>Projects</a>
