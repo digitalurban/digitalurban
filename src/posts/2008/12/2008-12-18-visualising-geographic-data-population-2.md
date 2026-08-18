@@ -1,0 +1,13 @@
+---
+title: "Visualising Geographic Data - Population by Lights"
+date: 2008-12-18 17:24:00
+slug: "visualising-geographic-data-population-2"
+permalink: "/blog/2008/12/18/visualising-geographic-data-population-2/"
+author: "Andy"
+categories: ["Britain from Above", "Data Visualisation", "UK Population"]
+tags: []
+excerpt: "Visualising geographic information above and beyond the normal export from your favorite GIS package is often left as a mere after thought. We are just starting to look into using Adobe After Effects…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SUqRItdS41I/AAAAAAAAB3g/p_JwgQ3aoMs/s400/citylights.jpg"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/SUqRItdS41I/AAAAAAAAB3g/p_JwgQ3aoMs/s1600-h/citylights.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 161px;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SUqRItdS41I/AAAAAAAAB3g/p_JwgQ3aoMs/s400/citylights.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5281193091872777042" /></a><br />Visualising geographic information above and beyond the normal export from your favorite GIS package is often left as a mere after thought. We are just starting to look into using Adobe After Effects to liven up a slightly dry dataset - UK Population represented as a point per 200 people.<br /><br />Its early days and we were unsure to publish this one or not but that's what a blog is all about so below is our first go at After Effects using lights to get across a picture of Britain's population:<br /><br /><center><object width="480" height="270"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2565841&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=2565841&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="270"></embed></object><br /><a href="http://vimeo.com/2565841">Visualising Data: UK Population One Light per 200 People</a> from <a href="http://vimeo.com/user584207">digitalurban</a> on <a href="http://vimeo.com">Vimeo</a>.</center><br /><br />Add in some camera tracking, smooth out the moment, provide some labels beyond the standard iMovie fare and we might be onto something... (?) - The movie is best viewed fullscreen.<br /><br />The slightly misjudged music is by a rather good unsigned band - <a href="http://www.mp3unsigned.com/showmp3.asp?mp3id=31115">Lemonade Joe</a>.</p>

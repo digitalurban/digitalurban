@@ -1,0 +1,13 @@
+---
+title: "California High Speed Rail Visualisation"
+date: 2008-02-26 15:13:00
+slug: "california-high-speed-rail"
+permalink: "/blog/2008/02/26/california-high-speed-rail/"
+author: "Andy"
+categories: ["Architectural Visualisation", "Transport Visualisation"]
+tags: []
+excerpt: "We first featured Newlands and Company with their visualistion of retail space in Portland, Oregon . Specializing in transportation, architecture and urban design projects embedded below are two…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/R8Qu_N8ZrII/AAAAAAAABEE/xztljSO8JR8/s400/NC3D1.jpg"
+---
+
+<a href="http://4.bp.blogspot.com/_ADwvfqkxChw/R8Qu_N8ZrII/AAAAAAAABEE/xztljSO8JR8/s1600-h/NC3D1.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/R8Qu_N8ZrII/AAAAAAAABEE/xztljSO8JR8/s400/NC3D1.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5171309935737810050" /></a><br />We first featured Newlands and Company with their <a href="http://digitalurban.blogspot.com/2007/12/architectural-visualisation-1st-and.html">visualistion of retail space in Portland, Oregon</a>. Specializing in transportation, architecture and urban design projects embedded below are two movies detailing the proposed California High Speed Rail System.<br /><br />In all, the 240 acres of undeveloped land in downtown Sacramento are being transformed into a master-planned, mixed-use development that will become a hub for trains, buses and light rail:<br /><br /><div align="center"><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/36s7MrUAVpc&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/36s7MrUAVpc&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></div><br /><br />The second movie details a conceptual view of how high speed rail would operate inside of San Francisco's Transbay Terminal. The end of the clip is our favorite illustrating how the area surrounding the terminal would be impacted by the 13 towers currently proposed for sites surrounding the new station:<br /><br /><div align="center"><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/zv-geqHPcOM&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/zv-geqHPcOM&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></div><br /><br />You can find out more from <a href="http://www.nc3d.com/">http://www.nc3d.com/</a>

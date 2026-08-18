@@ -1,0 +1,13 @@
+---
+title: "Cities in the Crysis Sandbox Editor"
+date: 2008-02-29 12:32:00
+slug: "cities-in-crysis-sandbox-editor"
+permalink: "/blog/2008/02/29/cities-in-crysis-sandbox-editor/"
+author: "Andy"
+categories: ["3D Max", "Crysis", "Fantasy Architecture", "Mod"]
+tags: []
+excerpt: "Our city - built as part of the Fantasy Architecture project - is normally our first test point for importing into new engines. It provides a good test of the ability to cope with large cityscapes…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/R8f7bao9OWI/AAAAAAAABEs/wcfr0pbAX2k/s400/FantasyCrysis.png"
+---
+
+<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/R8f7bao9OWI/AAAAAAAABEs/wcfr0pbAX2k/s1600-h/FantasyCrysis.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/R8f7bao9OWI/AAAAAAAABEs/wcfr0pbAX2k/s400/FantasyCrysis.png" alt="" id="BLOGGER_PHOTO_ID_5172379145484450146" border="0" /></a>Our city - built as part of the <a href="http://digitalurban.blogspot.com/2005/11/imaginary-cities-fantasy-architecture.html">Fantasy Architecture project</a>  - is normally our first test point for importing into new engines. It provides a good test of the ability to cope with large cityscapes and real-time lighting etc.<br /><br />With our work using the Crysis Sandbox Editor ongoing in preparation for a tutorial we have finally managed to embed the city into the game, as the movie below illustrates.<br /><br /><center><object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/BLQxYIQDHk0"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/BLQxYIQDHk0" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425"></embed></object></center><br /><br />Working out a smooth work flow has been slightly more problematic than planned with crashes and reboots an added 'feature' to the development. With a bit of patience however it does work. The movie above is work in progress but the engine is coping well with extending the city to almost the horizon.<br /><br />Below is the city imported into the Oblivion Engine for way of comparison:<br /><br /><center><br /><object height="350" width="450"><param name="movie" value="http://www.youtube.com/v/9FNBrZdu258"><embed src="http://www.youtube.com/v/9FNBrZdu258" type="application/x-shockwave-flash" height="350" width="450"></embed></object><br /></center><br /><br />See our <a href="http://digitalurban.blogspot.com/2007/06/tutorial-importing-sketchup3d-max-into.html">Oblivion Tutorial</a> for the above, we should be able to get the first Crysis tutorial online next week....</p>

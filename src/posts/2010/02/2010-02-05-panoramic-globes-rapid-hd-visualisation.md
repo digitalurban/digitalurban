@@ -1,0 +1,12 @@
+---
+title: "Panoramic Globes: Rapid HD Visualisation of Place and Space"
+date: 2010-02-05 17:21:00
+slug: "panoramic-globes-rapid-hd-visualisation"
+permalink: "/blog/2010/02/05/panoramic-globes-rapid-hd-visualisation/"
+author: "Andy"
+categories: ["Panoramas"]
+tags: []
+excerpt: "Old school readers will be familiar with the movie below, but with over 1400 posts some of our favourite movies have got lost and the following is one of them: Panoramic London Churches - HD from…"
+---
+
+Old school readers will be familiar with the movie below, but with over 1400 posts some of our favourite movies have got lost and the following is one of them:<br /><br /><center><object width="601" height="338"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=1368608&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=1368608&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="601" height="338"></embed></object><p><a href="http://vimeo.com/1368608">Panoramic London Churches - HD</a> from <a href="http://vimeo.com/user584207">digitalurban</a> on <a href="http://vimeo.com">Vimeo</a>.</p></center><br />Amazingly easy to make it lead on to the following Worlds within Worlds clip:<br /><br /><center><object width="601" height="338"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=1368820&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=1368820&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="601" height="338"></embed></object><p><a href="http://vimeo.com/1368820">Worlds within Worlds: Using Panoramas for Sense of Location and Place</a> from <a href="http://vimeo.com/user584207">digitalurban</a> on <a href="http://vimeo.com">Vimeo</a>.</p></center><br /><br />In short, embedding panoramas in a x/y/z space allows movies to be created where the camera automatically pans around a scene, it can be done in any 3D software.

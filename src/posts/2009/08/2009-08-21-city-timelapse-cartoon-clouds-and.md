@@ -1,0 +1,12 @@
+---
+title: "City Timelapse - Cartoon Clouds and Distant Skyline"
+date: 2009-08-21 09:52:00
+slug: "city-timelapse-cartoon-clouds-and"
+permalink: "/blog/2009/08/21/city-timelapse-cartoon-clouds-and/"
+author: "Andy"
+categories: ["City Timelapses", "Cloud Time Lapse Movies"]
+tags: []
+excerpt: "The timelapse above was created using a HD webcam housed on a roof in Camden Town, London - note the full moon rising above the cityscape towards the end of the clip. An image was grabbed every 5…"
+---
+
+<center><object width="600" height="345"><param name="movie" value="http://www.youtube.com/v/n6okDVRArh8&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/n6okDVRArh8&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="345"></embed></object></center><br /><br />The timelapse above was created using a HD webcam housed on a roof in Camden Town, London - note the full moon rising above the cityscape towards the end of the clip. An image was grabbed every 5 seconds to create the movie. The movie was processed using the 'Cartoon' option in After Effects. Compared to the original movie (embedded below) it notably picks out the distant skyline. If you pause the movie then you can see that single images work well, as a timelapse we are not quite so sure but its an interesting test, the original is below:<br /><br /><br /><center><object height="345" width="600"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4590678&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=4590678&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="345" width="600"></embed></object><p><a href="http://vimeo.com/4590678">London TimeLapse - Full Moon</a> from <a href="http://vimeo.com/user584207">digitalurban</a> on <a href="http://vimeo.com/">Vimeo</a>.</p></center><br />Music by <a href="http://www.mp3unsigned.com/Showmp3.asp?mp3id=46830">Ghostlight</a> over at mp3unsigned.<br /><br />Want to make your own timelapse? - See our full <a href="http://digitalurban.blogspot.com/2008/11/tutorial-torch-webcam-hd-timelapse.html">tutorial</a>.

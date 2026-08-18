@@ -1,0 +1,12 @@
+---
+title: "World's Most Realistic 3D City Models - C3?"
+date: 2009-06-03 09:47:00
+slug: "worlds-most-realistic-3d-city-models-c3-2"
+permalink: "/blog/2009/06/03/worlds-most-realistic-3d-city-models-c3-2/"
+author: "Andy"
+categories: ["3D City Model", "C3", "LiDAR"]
+tags: []
+excerpt: "We have covered C3 a number of times here on digital urban, a company that is producing high quality 3D models - a demo is below: Trondheim 3D demo in HD from Morten Jacobsen on Vimeo . Ludvig Emgard…"
+---
+
+<p>We have covered C3 a number of times here on digital urban, a company that is producing high quality 3D models - a demo is below:<br /><br /><center><object width="480" height="270"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2214563&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=2214563&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="270"></embed></object><br /><a href="http://vimeo.com/2214563">Trondheim 3D demo in HD</a> from <a href="http://vimeo.com/user361799">Morten Jacobsen</a> on <a href="http://vimeo.com">Vimeo</a>.</center><br />Ludvig Emgard of C3 Technologies presented a talk at this years Where 2.0 entitled "World's Most Realistic 3D City Models?". The movie below is well worth a look as it talks though the technology behind the modelling process:<br /><br /><center><object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/KmMmeghf8gA&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KmMmeghf8gA&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object></center><br /><br />The process is automated, with the textures and mesh produced purely from imagery and not from the more traditional  LiDAR approach. <br /><br />See <a href="http://kart.sesam.no/3d/">http://kart.sesam.no/3d/</a> for a 3D flythough (Windows only at the moment) and <a href="http://www.c3technologies.com/">http://www.c3technologies.com</a> for more info.</p>

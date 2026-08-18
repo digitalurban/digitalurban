@@ -1,0 +1,13 @@
+---
+title: "Transparency and the City: Public Spaces or Forgotten Places?"
+date: 2010-06-21 09:42:00
+slug: "transparency-and-city-public-spaces-or-2"
+permalink: "/blog/2010/06/21/transparency-and-city-public-spaces-or-2/"
+author: "Andy"
+categories: ["lfa2010"]
+tags: []
+excerpt: "As a part of their program of events for the London Festival of Architecture 2010, the gallery at Alan Baxter is hosting a group exhibition that explores different conceptions of private and public…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TB8y-QLKLOI/AAAAAAAACZQ/nw0URa4qr2w/s1600/812bc2be65c74b38e1be4d0dfc1b50ba_r.jpg"
+---
+
+As a part of their program of events for the London Festival of  Architecture 2010, the gallery at Alan Baxter is hosting a group  exhibition that explores different conceptions of private and public  space, and in particular the areas of city life where they overlap.<br /><br /><div style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/TB8y-QLKLOI/AAAAAAAACZQ/nw0URa4qr2w/s1600/812bc2be65c74b38e1be4d0dfc1b50ba_r.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TB8y-QLKLOI/AAAAAAAACZQ/nw0URa4qr2w/s1600/812bc2be65c74b38e1be4d0dfc1b50ba_r.jpg" border="0" /></a></div>Multiple exposure photographs are used to present a perspective on the  city that brings to mind the liberating anonymity as well as the  isolation that is unique to life in the city. This individual sense of  privacy is extended into the political, as lost architectural icons such  as Paxton's Crystal Palace are invoked to discuss the democratic ideal  of transparency and it's effect on public life.  Bandstands, fading  sentinels of communal space, illustrate the presence of history and  memory in the life of the city, while raising questions about the  changes in what community means for contemporary urban society. The  co-extensive boundaries of private and public space; of interior and  exterior; of the personal and the political; and of the past, present  and future, result in a multivalent territory that is charged with both  tensions and possibilities.<br /><br />Private view on Monday 21st June 18.00 - 20.30<br />Public view - Saturday 26th June 10.00 - 18.00<br /><br />Other viewings by appointment throughout the Festival (22nd June to  Friday 2nd July), please contact Jon Spencer tel. 07967 079150 /  jon@jonspencer.co.uk<br /><br /><br />Take a look at the <a href="http://urbanorienteer.blogspot.com/2010/06/invitation-to-join-urban-orienteer-at.html">Urban Orienteer</a> for more details....

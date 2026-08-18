@@ -1,0 +1,12 @@
+---
+title: "Virtual Earth - 3D Cities Update"
+date: 2007-07-09 11:18:00
+slug: "virtual-earth-3d-cities-update"
+permalink: "/blog/2007/07/09/virtual-earth-3d-cities-update/"
+author: "Andy"
+categories: ["Virtual Earth"]
+tags: []
+excerpt: "Times seem to be changing, hopefully we offer an unbiased point of view on virtual cities and digital earths and at the moment Microsoft's Virtual Earth is increasingly becoming the 'Earth' of choice…"
+---
+
+<p>Times seem to be changing, hopefully we offer an unbiased point of view on virtual cities and digital earths and at the moment Microsoft's Virtual Earth is increasingly becoming the 'Earth' of choice for our research demo's. The reason behind this is their ever increasing list of cities featured in fully texture mapped 3D.<br /><br />The movie below provides a fly-through of Eastbourne on the South Coast of the United Kingdom and the latest of a slightly eclectic list of UK locations to be featured:<br /><br /><center><object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/9gGMxIOkcLc"> </param> <embed src="http://www.youtube.com/v/9gGMxIOkcLc" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object></center><br /><br />Music by <a href="http://www.mp3unsigned.com/showmp3.asp?mp3id=35629">The Tartan Rascals</a>.<br /><br />This months <a href="http://virtualearth.spaces.live.com/">updates from Microsoft</a> include:<br /><br />Canada: Hamilton, Quebec, Toronto (Montreal is on the way in our next release) <br /><br />Europe: Toulouse France, Eastbourne UK<br /><br />United States: Birmingham, Huntsville, Montgomery, Mobile, Phoenix (expanded), Arden, Denver (expanded), Ft. Lauderdale, Jacksonville, West Palm Beach, Tallahassee, Fort Myers, Tampa West, St Petersburg, Coral Gables, Cape Coral West, Pembroke Pines, Orlando, Hialea, Columbus GA, Jackson, Oak Park IL, Rockford IL, Ohare IL, Baton Rouge, Shreveport New Orleans, Metarie, Jersey City, Elizabeth, East Ruth, Newark, Paterson, Brooklyn, Niagara Falls, Portland (expanded), Nashville, Chattanooga, Milwaukee <br /><br />See our previous posts on <a href="http://digitalurban.blogspot.com/2007/05/virtual-earth-brighton-and-swindon.html">Swindon and Brighton</a>, <a href="http://digitalurban.blogspot.com/2007/05/digital-new-york-movie-virtual-earth.html">New York</a> and <a href="http://digitalurban.blogspot.com/2007/05/virtual-earth-buffalo-movie.html">Buffalo</a> for more info on cities in Virtual Earth.</p>

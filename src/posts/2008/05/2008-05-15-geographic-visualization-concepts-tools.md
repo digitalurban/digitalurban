@@ -1,0 +1,13 @@
+---
+title: "Geographic Visualization: Concepts, Tools and Applications Book"
+date: 2008-05-15 10:57:00
+slug: "geographic-visualization-concepts-tools"
+permalink: "/blog/2008/05/15/geographic-visualization-concepts-tools/"
+author: "Andy"
+categories: ["Book", "Book Reviews", "geographic visualization", "giscience"]
+tags: []
+excerpt: "Geographic Visualization: Concepts, Tools and Applications is now available in all good book stores, edited by Martin Doge, Mary McDerby and Martin Turner it includes a chapter by us on the 'Visual…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/SCwYmHfVtPI/AAAAAAAABLk/3vWDCTdbPp0/s320/geobookgrab.png"
+---
+
+<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/SCwYmHfVtPI/AAAAAAAABLk/3vWDCTdbPp0/s1600-h/geobookgrab.png"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/SCwYmHfVtPI/AAAAAAAABLk/3vWDCTdbPp0/s320/geobookgrab.png" alt="" id="BLOGGER_PHOTO_ID_5200558712830670066" border="0" /></a>Geographic Visualization: Concepts, Tools and Applications is now available in all good book stores, edited by Martin Doge, Mary McDerby and Martin Turner it includes a chapter by us on the 'Visual City' and is genuinely a must read for those interested in the field.<br /><br />The text covers the impact of three-dimensional displays on user interaction along with the potentialities in animation and clearly explains how to create temporally sensitive visualizations. It also explores the potential for handling mobile data and representing uncertainty; as well as the role of participatory visualization systems and exploratory methods.<br /><br />It's hallmark features include: an introduction to the diverse forms of geographic visualization which draws upon a number of theoretical perspectives and disciplines to provide an insightful commentary on new methods, techniques and tools; richly illustrated in full colour throughout, including numerous relevant case studies and accessible discussions of important visualization concepts to enable clearer understanding for non-technical audiences; and, chapters that are written by leading scholars and researchers in a range of cognate fields, including, cartography, GIScience, architecture, art, urban planning and computer graphics with case studies drawn from Europe, North America and Australia.<br /><br />This book is an invaluable resource for all graduate students, researchers and professionals working in the geographic information sector, computer graphics and cartography.<br /><br />You can buy the book online via our <a href="http://astore.amazon.com/digiurba-20">Amazon Essential Reading Store</a>...</p>

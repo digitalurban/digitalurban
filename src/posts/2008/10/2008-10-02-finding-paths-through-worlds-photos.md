@@ -1,0 +1,13 @@
+---
+title: "Finding Paths through the World's Photos: A Crowd Sourced Photosynth"
+date: 2008-10-02 11:40:00
+slug: "finding-paths-through-worlds-photos"
+permalink: "/blog/2008/10/02/finding-paths-through-worlds-photos/"
+author: "Andy"
+categories: ["Crowd Sourcing", "Photosynth"]
+tags: []
+excerpt: "Noah Snavely, Rahul Garg, Steven M. Seitz of the University of Washington and Richard Szeliski of Microsoft Research have published a paper well worth reading entitled Finding Paths through the…"
+hero: "http://phototour.cs.washington.edu/title.png"
+---
+
+<p><a href="http://phototour.cs.washington.edu/title.png"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px;" src="http://phototour.cs.washington.edu/title.png" border="0" alt="" /></a><br /><br />Noah Snavely, Rahul Garg, Steven M. Seitz of the University of Washington and Richard Szeliski of Microsoft Research have published a paper well worth reading entitled Finding Paths through the World's Photos in ACM Transactions on Graphics (SIGGRAPH 2008) [<a href="http://phototour.cs.washington.edu/findingpaths/paper/FindingPaths_siggraph08.pdf">download the pdf</a>] <br /><br />The movie embedded below above details their talk at SIGGRAPH and provides a much more intriguing look at 3d construction from crowd sourced photos than the current Photosynth release:<br /><br /><center><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gLLzV5qeKyk&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/gLLzV5qeKyk&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></center><br /><br />In overview the concept is:<br /><blockquote><br />When a scene is photographed many times by different people, the viewpoints often cluster along certain paths. These paths are largely specific to the scene being photographed, and traverse interesting regions and viewpoints. We seek to discover a range of such paths and turn them into controls for image-based rendering. Our approach takes as input a large set of community or personal photos, reconstructs camera viewpoints, and automatically computes orbits, panoramas, canonical views, and optimal paths between views. The scene can then be interactively browsed in 3D using these controls or with five degree-of-freedom free-viewpoint control. As the user browses the scene, nearby views are continuously selected and transformed, using control-adaptive reprojection techniques. </blockquote><br /><br />Take a look at the <a href="http://phototour.cs.washington.edu/">Photo Tourism Page</a> for more info.</p>

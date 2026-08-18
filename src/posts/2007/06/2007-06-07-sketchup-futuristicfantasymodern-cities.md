@@ -1,0 +1,12 @@
+---
+title: "SketchUp Futuristic/Fantasy/Modern Cities"
+date: 2007-06-07 12:02:00
+slug: "sketchup-futuristicfantasymodern-cities"
+permalink: "/blog/2007/06/07/sketchup-futuristicfantasymodern-cities/"
+author: "Andy"
+categories: ["Fantasy Architecture", "SketchUp"]
+tags: []
+excerpt: "SketchUp allows users from all walks of life the ability to build whatever they may wish and subsequently share the model with the world via the 3D Warehouse - a Google service that lets you search,…"
+---
+
+<p><a href="http://www.sketchup.com/">SketchUp</a> allows users from all walks of life the ability to build whatever they may wish and subsequently share the model with the world via the <a href="http://sketchup.google.com/3dwarehouse/">3D Warehouse</a> - a Google service that lets you search, share, and store 3D models.<br /><br />As such it opens up the way to the creation of modern cities and fantasy architecture rather than the more traditional route of modelling real-world buildings for inclusion in Google Earth.<br /><br />In a new series of posts we will be featuring models submitted to the 3D Warehouse - first up is 'Modern City' by a user known as <a href="http://sketchup.google.com/3dwarehouse/search?uq=08700671941508473139">jblsscad.</a><br /><br /><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/G4W1kN8Ehdk"><embed src="http://www.youtube.com/v/G4W1kN8Ehdk" type="application/x-shockwave-flash" height="350" width="425"></embed></object><br /><br />Music - <a href="http://www.unsignedbandweb.com/music/bands/188/">IML Perfect Day</a>.<br /><br />The movie above features the model directly captured in real-time via SketchUp in firstly textured mode and then moving onto monochrome, highlighting the underlying geometry, before finally switching on the shadows.<br /><br />A nice feature to add into the 3D Warehouse would be the ability to leave comments or messages for users - in a YouTube type manner - at the moment its difficult to track down any contact information for the users who created the models.<br /><br />You can download the <a href="http://sketchup.google.com/3dwarehouse/cldetails?mid=fa49e3102931d40f596e4d31e7ef546f">Modern City direct from the 3D Warehouse.</a><br /><a href="http://www.sketchup.com/"><br /></a>Start creating your own city by <a href="http://www.sketchup.com/">Downloading the free version of Google SketchUp.</a></p>

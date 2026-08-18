@@ -1,0 +1,21 @@
+{
+  "title": "Digital Urban",
+  "tagline": "Data, Cities, The Metaverse, IoT, VR, AR and Making 'Data Devices'",
+  "subtitle": "with a bit of tinkering and writing",
+  "url": "https://www.digitalurban.org",
+  "author": "Professor Andrew Hudson-Smith",
+  "affiliation": "Centre for Advanced Spatial Analysis (CASA), UCL East",
+  "role": "Chair in Digital Urban Systems",
+  "giscus": {
+    "repo": "digitalurban/digitalurban",
+    "repoId": "PASTE_FROM_GISCUS_APP",
+    "category": "Comments",
+    "categoryId": "PASTE_FROM_GISCUS_APP"
+  },
+  "social": {
+    "twitter": "https://twitter.com/digitalurban",
+    "youtube": "https://www.youtube.com/channel/UCJ1tszHG3t_xumcz5kPdiVg",
+    "instagram": "https://www.instagram.com/digitalurban/",
+    "github": "https://github.com/digitalurban"
+  }
+}

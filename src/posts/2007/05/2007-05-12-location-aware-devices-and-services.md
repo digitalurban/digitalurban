@@ -1,0 +1,12 @@
+---
+title: "Location Aware Devices and Services - Augmenting Cities"
+date: 2007-05-12 18:03:00
+slug: "location-aware-devices-and-services"
+permalink: "/blog/2007/05/12/location-aware-devices-and-services/"
+author: "Andy"
+categories: ["Augmented Reality", "GPS"]
+tags: []
+excerpt: "With the recent integration of GPS units into everyday devices, such as the Nokia N95 and the before its time Gizmondo , it makes sense that GPS is used to load location dependent information. The…"
+---
+
+<p>With the recent integration of GPS units into everyday devices, such as the <a href="http://www.nseries.com/index.html">Nokia N95</a> and the before its time <a href="http://en.wikipedia.org/wiki/Gizmondo">Gizmondo</a>, it makes sense that GPS is used to load location dependent information.<br /><br />The technology behind location aware information is simple, the GPS is linked to a system that automatically loads various media according to the application when a certain location is reached by the user. It was possible to build a simple system a few years ago using <a href="http://www.esri.com/software/arcgis/arcpad/index.html">ArcPad</a> on a <a href="http://en.wikipedia.org/wiki/Personal_digital_assistant">PDA</a>, however with an external GPS and short battery life it was not all that practical.<br /><br />The YouTube video below details the on-going work into context awareness at <a href="http://www.hci.uniovi.es/en-prod-vadinia.htm">The Human Communication and Interaction Research Group</a> (HCI-RG),Department of Computer Science of the University of Oviedo:<br /><br /><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/K0CUocl6AOA"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/K0CUocl6AOA" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425"></embed></object><br /><br />Although a simple concept and one made possible by the recent advances in technology, the results are impressive. Being able to load information onto a portable device, such as the Nokia N95, linked to a mapping application would create a useful tourist information system.<br /><br />If these devices are further linked to the ever 'launching soon' portable eye displays then you begin to approach augmented reality in cities - which of course needs to be location aware.<br /><br />The next few years will see more and more devices launching with integrated GPS units and with these we expect to see a lot more location aware services.</p>

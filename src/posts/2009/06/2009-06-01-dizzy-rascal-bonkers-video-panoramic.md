@@ -1,0 +1,13 @@
+---
+title: "Dizzy Rascal Bonkers: Panoramic Video"
+date: 2009-06-01 12:00:00
+slug: "dizzy-rascal-bonkers-video-panoramic"
+permalink: "/blog/2009/06/01/dizzy-rascal-bonkers-video-panoramic/"
+author: "Andy"
+categories: ["LadyBug2", "panoramic video"]
+tags: []
+excerpt: "The official video for Dizzy Rascal - 'Bonkers' - makes interesting use of spherical panoramas, using the LadyBug2 system. LadyBug is a six camera lens system capturing a 360-degree view - similar…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/SiPFTslg7AI/AAAAAAAACLI/d-5ni3BWLfM/s200/LADYBUG2_white_background_large.jpg"
+---
+
+<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/SiPFTslg7AI/AAAAAAAACLI/d-5ni3BWLfM/s1600-h/LADYBUG2_white_background_large.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 119px; height: 155px;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/SiPFTslg7AI/AAAAAAAACLI/d-5ni3BWLfM/s200/LADYBUG2_white_background_large.jpg" alt="" id="BLOGGER_PHOTO_ID_5342330525168233474" border="0" /></a>The official video for Dizzy Rascal - 'Bonkers' - makes interesting use of spherical panoramas, using the LadyBug2 system.<br /><br />LadyBug is a six camera lens system capturing a 360-degree view - similar technology is used for Google Street View. With the addition of Apple's Shake the linear output was converted into a 'planet' view allowing for the effect in the video below:<br /><br /><center><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=56540976">Dizzee Rascal - Bonkers</a><br /><object height="345" width="600"><param name="allowFullScreen" value="true"><param name="wmode" value="transparent"><param name="movie" value="http://mediaservices.myspace.com/services/media/embed.aspx/m=56540976,t=1,mt=video"><embed src="http://mediaservices.myspace.com/services/media/embed.aspx/m=56540976,t=1,mt=video" allowfullscreen="true" type="application/x-shockwave-flash" wmode="transparent" height="345" width="600"></embed></object></center><br /><br />A neat way to capture the cityscape - see <a href="http://www.ptgrey.com/products/spherical.asp">http://www.ptgrey.com/products/spherical.asp</a> for more on the LadyBug2, <a href="http://www.boardsmag.com/community/blogs/behindthescenes/index.php?p=43">BoardsMag</a> for more on the making of the video and <a href="http://www.dizzeerascal.co.uk/">http://www.dizzeerascal.co.uk/</a> for more on Dizzy...<br /><br />The panoramic video was shot by Digital Immersion a French company specialised in immersive media  - see <a href="http://www.digitalimmersion.fr/" target="_blank" rel="noopener">www.digitalimmersion.fr</a> for more examples.<br /><br />Thanks go to Andy Hoskins for emailing this in.</p>

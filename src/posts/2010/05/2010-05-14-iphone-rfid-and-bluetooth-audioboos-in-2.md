@@ -1,0 +1,12 @@
+---
+title: "iPhone RFID and Bluetooth AudioBoos in Oxfam Clip"
+date: 2010-05-14 13:00:00
+slug: "iphone-rfid-and-bluetooth-audioboos-in-2"
+permalink: "/blog/2010/05/14/iphone-rfid-and-bluetooth-audioboos-in-2/"
+author: "Andy"
+categories: ["AudioBoo", "bluetooth", "future everything manchester", "iphone rfid", "qrcodes", "rfid"]
+tags: []
+excerpt: "At the Oxford Road branch of Oxfam in Manchester, TOTeM (Tales of Things and Electronic Memory) Art Project: RememberMe, are attaching stories to the things that people leave behind, and allow new…"
+---
+
+<p>At the Oxford Road branch of Oxfam in Manchester, TOTeM (Tales of  Things and Electronic Memory) Art Project: RememberMe, are attaching  stories to the things that people leave behind, and allow new owners to  access them.<br /><br />Using scanners, delegates of Future Everything and the general public  will be able to listen to memories and buy objects that come tagged  with their very own story.<br /><br />TOTeM has created a new iPhone RFID reader especially for this piece  Using a jailbroken phone and off the shelf circuits, the reader can  replay memories by simply ‘swiping’ near the object. The team plan to  release a ‘how to make your own’ breakdown of the device in the near  future via the talesofthings.com site. The Oxfam store is also home to a  Bluetooth ‘wand’ which works with Android phones. These devices bring  the Internet of Things to life allowing all the objects catalogued with  talesofthings.com to connect to any online media. The Oxfam Shop has  been taking donations of all shapes and sizes that have been tagged with  memories as part of the in-store exhibition.<br /><br />The movie below shows some of our 'internet of things' tech running and the memories of past objects:<br /><br /><center><object height="385" width="640"><param name="movie" value="http://www.youtube.com/v/COKHnnWRYSg&hl=en_US&fs=1&"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/COKHnnWRYSg&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="385" width="640"></embed></object></center><br /><br />Thanks go to the whole TOTeM team with notable thanks to Benjamin  Blundell, Duncan Shingleton and Martin de Jode for developing the  technology and getting everything working.<br /><br />You can of course tag anything and indeed everything yourself via <a href="http://www.talesofthings.com/">http://www.talesofthings.com </a></p>

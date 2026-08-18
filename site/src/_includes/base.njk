@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{% if title %}{{ title }} — {{ site.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}</title>
+<meta name="description" content="{{ excerpt or site.tagline }}" />
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:title" content="{{ title or site.title }}" />
+<meta property="og:description" content="{{ excerpt or site.tagline }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@digitalurban" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+
+<header class="site-head">
+  <div class="site-head__in">
+    <a class="wordmark" href="/">{{ site.title }}</a>
+    <nav class="site-nav">
+      <a href="/"{% if page.url == '/' %} aria-current="page"{% endif %}>Latest</a>
+      <a href="/projects/"{% if '/projects/' in page.url %} aria-current="page"{% endif %}>Projects</a>
+      <a href="/books/"{% if '/books/' in page.url %} aria-current="page"{% endif %}>Books</a>
+      <a href="/archive/"{% if '/archive/' in page.url %} aria-current="page"{% endif %}>Archive</a>
+      <a href="/about/"{% if '/about/' in page.url %} aria-current="page"{% endif %}>About / Papers</a>
+    </nav>
+  </div>
+</header>
+
+{{ content | safe }}
+
+<footer class="site-foot">
+  <div class="site-foot__in">
+    <span>&copy; {{ "" | year }} {{ site.author }} &middot; UCL</span>
+    <nav>
+      <a href="{{ site.social.twitter }}">Twitter</a>
+      <a href="{{ site.social.youtube }}">YouTube</a>
+      <a href="{{ site.social.instagram }}">Instagram</a>
+      <a href="{{ site.social.github }}">GitHub</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>

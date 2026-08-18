@@ -1,0 +1,13 @@
+---
+title: "Visualising Landscapes - Terragen 2"
+date: 2007-05-15 09:04:00
+slug: "terragen-20-first-output"
+permalink: "/blog/2007/05/15/terragen-20-first-output/"
+author: "Andy"
+categories: ["Terragen"]
+tags: []
+excerpt: "Although the blog is in general about digital representations of urban areas when you work overlooking a carpark in London town it is sometime nice to look beyond the city and towards landscape…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RaPVaPsqY5I/AAAAAAAAADw/n1z2sAXiT80/s400/Terragen.jpg"
+---
+
+<a href="http://4.bp.blogspot.com/_ADwvfqkxChw/RaPVaPsqY5I/AAAAAAAAADw/n1z2sAXiT80/s1600-h/Terragen.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RaPVaPsqY5I/AAAAAAAAADw/n1z2sAXiT80/s400/Terragen.jpg" alt="" id="BLOGGER_PHOTO_ID_5018089056688038802" border="0" /></a>    <p style="font-family:arial;"><span lang="EN-GB">Although the blog is in general about digital representations of urban areas when you work overlooking a <span>carpark</span> in London town it is sometime nice to look beyond the city and towards landscape <span>visualisation</span> software.</span></p><p style="font-family:arial;"><span lang="EN-GB"><br />One of the best packages out there is <span>Terragen</span> and its recently released <a href="http://www.planetside.co.uk/terragen/tg2/tg2tp/index.html"><span>Terragen</span> Technology Preview (Version 2)</a>. The above image is the result of following the <a href="http://www.planetside.co.uk/terragen/tg2/tg2tp_overview.pdf">making your first scene <span>pdf</span></a> , which we thoroughly recommend as we were left a little lost at first by the new interface and layout. After reading through guide however it all comes together and reveals the potential of the package.</span></p><p style="font-family:arial;">There is also a movie of <span>Terragen</span> 2<span>.0's</span> output:</p><center style="font-family: arial;"><br /><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/0MmxUh6QrL8"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/0MmxUh6QrL8" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425"></embed></object><br /></center><br /><span lang="EN-GB" style="font-family:arial;">For shear eye candy alone <span>Terragen</span> is well worth spending an hour of your time with to the produce some stunning scenes. Render times require patience as the scenes and new lighting are complex, the above image took 1 hour 20 minutes on a 3.2<span>Ghz</span> Processor with 2<span>Gb</span> Ram.</span><p></p>

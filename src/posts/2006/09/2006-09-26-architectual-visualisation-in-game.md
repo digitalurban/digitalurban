@@ -1,0 +1,13 @@
+---
+title: "Architectual Visualisation in Game Engines - Oblivion"
+date: 2006-09-26 16:57:00
+slug: "architectual-visualisation-in-game"
+permalink: "/blog/2006/09/26/architectual-visualisation-in-game/"
+author: "Andy"
+categories: ["3D Modelling", "Game Engines", "Oblivion", "Virtual London"]
+tags: []
+excerpt: "As we mentioned in our post on Half Life 0 Oblivion 1 the engine behind Oblivion offers a lot of potential for architectural visualisation. It has taken a couple of days but we finally have first…"
+hero: "/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/400/Oblivion_2006-09-26_17-55-06-81.jpg"
+---
+
+<p><a href="http://photos1.blogger.com/blogger2/604/1219/1600/Oblivion%202006-09-26%2017-55-06-81.jpg"><img style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/400/Oblivion_2006-09-26_17-55-06-81.jpg" border="0" /></a><br /><br />As we mentioned in our post on <a href="http://digitalurban.blogspot.com/2006/09/half-life-0-oblivion-1-half-life-update.html">Half Life 0 Oblivion 1</a> the engine behind Oblivion offers a lot of potential for architectural visualisation.<br /><br />It has taken a couple of days but we finally have first stage work flow for importing models into Oblivion. The movie below shows the first beta output using our model of the Quad at University College London. The start of the movie is slightly dark due to the compression going into YouTube, we cycle through to daylight half way through the movie. A higher resolution version can be downloaded at the end of this post.<br /><br /><center><br /><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/_h1rCxHukT8"></param><embed src="http://www.youtube.com/v/_h1rCxHukT8" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br /></center><br /><br />The Quad model was built to examine rapid modelling techniques (<a href="http://digitalurban.blogspot.com/2006/09/photomodelling-in-sketchup.html">see our previous entry</a>) for games and Google Earth. By importing it into a games engine it opens up the possibilities to rapidly visualise environments, both urban and rural.<br /><br />We will put a tutorial online documenting the process as soon as its refined, thanks go to Joel at CASA for his help on the work flow...<br /><br />Download a<a href="http://www.casa.ucl.ac.uk/andy/movies/Oblivion.wmv"> compressed version of the movie</a> (16Mb .wmv) or <a href="http://www.casa.ucl.ac.uk/andy/movies/Oblivionhigh.wmv">high resolution </a>(96Mb .wmv).</p>

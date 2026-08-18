@@ -1,0 +1,13 @@
+---
+title: "Fractal Cities Book: Now a Free Download"
+date: 2008-08-05 09:44:00
+slug: "fractual-cities-book-now-free-download"
+permalink: "/blog/2008/08/05/fractual-cities-book-now-free-download/"
+author: "Andy"
+categories: ["Fractal Cities Book", "Mike Batty", "Paul Longley"]
+tags: []
+excerpt: "Michael Batty and Paul Longley's seminal 1994 book entitled 'Fractal Cities: A Geometry of Form and Function' is now available as a free download. In the introduction the authors state that... The…"
+hero: "http://www.fractalcities.org/images/front_cover_thumbnail.jpg"
+---
+
+<p><a href="http://www.fractalcities.org/images/front_cover_thumbnail.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 202px; height: 277px;" src="http://www.fractalcities.org/images/front_cover_thumbnail.jpg" alt="" border="0" /></a>Michael Batty and Paul <span>Longley's</span> seminal 1994 book entitled<span style="font-weight: bold;"> </span>'Fractal Cities: A Geometry of Form and Function' is now available as a free download.<br /><br />In the introduction the authors state that...<br /><br />The book presents an initial attempt to apply fractal geometry to cities.In fact, we go beyond this and argue that cities are fractal in form, and that much of our <span>pre</span>-existing urban theory is a theory of the fractal city. As befits a beginning, this book is very much an introductory statement and, as we argue throughout, these ideas are simply crude snapshots of a much bigger picture which we hope others will steer their research towards.<br /><br />In terms of theory, we show here that the architect's physical determinism concerning the city can be captured and elaborated in terms of fractals while the geographer's concern for the economic theory of location is entirely consistent with the use of fractal ideas. We live in an era when physical determinism is still disreputable as architects and city planners seek to minimize the impact of designs which manifestly interfere with the social and economic fabric of cities in countless unanticipated and undesirable ways. But physical form does determine the quality of life in cities.<br /><br />We see fractal geometry as providing a new hope for understanding the power of determinism, as well as new methods for enabling the synthesis of urban density with central place theory, new ways of visualizing the impact of human decision-making on cities, and perhaps most of all, new goals for achieving the good society through manipulating and planning city form.<br /><br />Download the book either in full or chapter by chapter from <a href="http://www.fractalcities.org/">http://www.fractalcities.org/</a></p>

@@ -1,0 +1,13 @@
+---
+title: "Second Life - Second Nature Cities: First Build"
+date: 2007-08-01 13:37:00
+slug: "second-life-second-nature-cities-first"
+permalink: "/blog/2007/08/01/second-life-second-nature-cities-first/"
+author: "Andy"
+categories: ["Second Life"]
+tags: []
+excerpt: "As an update to our earlier post on Second Nature - Digital Urban, CASA and UCL in Second Life we have our first sample object available to view. Firstly, as pictured above is a view of the…"
+hero: "/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/RrCM21o4o9I/AAAAAAAAAgI/3pVu30u3fhg/s400/Capture.JPG"
+---
+
+<p><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/RrCM21o4o9I/AAAAAAAAAgI/3pVu30u3fhg/s1600-h/Capture.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/RrCM21o4o9I/AAAAAAAAAgI/3pVu30u3fhg/s400/Capture.JPG" alt="" id="BLOGGER_PHOTO_ID_5093726052295418834" border="0" /></a>As an update to our earlier post on <a href="http://digitalurban.blogspot.com/2007/08/second-nature-digital-urban-ucl-and.html">Second Nature - Digital Urban, <span>CASA</span> and <span>UCL</span> in Second Life</a> we have our first sample object available to view.<br /><br />Firstly, as pictured above is a view of the geographic layout of the Central London section of the Underground Network. The map is finally complete and we will upload the high resolution image tomorrow.<br /><br />Secondly is an 'Urban Bubble' of Chicago complete with viewing <span>platform</span>:<br /><br /><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/RrCNilo4o-I/AAAAAAAAAgQ/aWWIsDDVdRA/s1600-h/Capture2.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/RrCNilo4o-I/AAAAAAAAAgQ/aWWIsDDVdRA/s400/Capture2.JPG" alt="" id="BLOGGER_PHOTO_ID_5093726803914695650" border="0" /></a>Although first steps there is at least now something to see...<br /><br />If you have Second Life installed and would like to pop by to see what we are up to then you can visit our evolving cityscape by clicking on our <span>SLURL</span>... that's a Second Life Uniform Resource <span>Locator</span> or Second Life URL:<br /><br />Visit us in Second Life - <a href="http://slurl.com/secondlife/Second%20Nature/233/159/116">http://slurl.com/secondlife/Second Nature/233/159/116</a><br /><br />If you wish to contact us direct in the world or cant find our plot while its developing then simply add <span>Smithee</span> Bertrand to your contacts list and send us a instant <span>message</span>.</p>

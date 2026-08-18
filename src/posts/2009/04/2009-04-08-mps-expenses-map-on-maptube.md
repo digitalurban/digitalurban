@@ -1,0 +1,13 @@
+---
+title: "MPs' Expenses Map on MapTube"
+date: 2009-04-08 09:55:00
+slug: "mps-expenses-map-on-maptube"
+permalink: "/blog/2009/04/08/mps-expenses-map-on-maptube/"
+author: "Andy"
+categories: ["google maps", "MapTube", "MP Expenses"]
+tags: []
+excerpt: "In recent weeks the level of expenses claimed by Member of Parliament in the United Kingdom has been hitting the headlines. Thanks to MapTube here at CASA it is now possible to view a map of the UK…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/Sdx1QnZXdzI/AAAAAAAACEg/HZutNEfeAsw/s400/Mp1.jpg"
+---
+
+<a href="http://4.bp.blogspot.com/_ADwvfqkxChw/Sdx1QnZXdzI/AAAAAAAACEg/HZutNEfeAsw/s1600-h/Mp1.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 223px;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/Sdx1QnZXdzI/AAAAAAAACEg/HZutNEfeAsw/s400/Mp1.jpg" alt="" id="BLOGGER_PHOTO_ID_5322257787958818610" border="0" /></a>In recent weeks the level of expenses claimed by Member of Parliament in the United Kingdom has been hitting the headlines. Thanks to MapTube here at CASA it is now possible to view a map of the UK detailing MPs' expenditure from 1 April 2007 to 31 March 2008, the map is coloured to show the total amounts being claimed by MPs in each constituency.<br /><br />A new feature to MapTube is the ability to include clickable data ontop of the map, each 'i' link contains more detailed information about the rules governing MPs' allowances and how much can be claimed for in each of the 8 categories.<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/Sdx1uyqiRNI/AAAAAAAACEo/2fo1GLUIFQI/s1600-h/Mp2.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 223px;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/Sdx1uyqiRNI/AAAAAAAACEo/2fo1GLUIFQI/s400/Mp2.jpg" alt="" id="BLOGGER_PHOTO_ID_5322258306379695314" border="0" /></a></p><p>The total expenditure for all 646 MPs is £86,781,20; </p><p>The mean is £134,544.5; </p><p>The maximum claim was for £167,306 by Ann Keen of Brentford and Islewort; </p><p>The minimum claim was for £40,433 by Philip Hollobone of Ketterin; </p><p>The data for the Crewe and Nantwich constituency (Edward Timpson) and the Glenrothes constituency (Lindsay Roy) are missing from the original dataset.<br /></p><p>Note the information does not show members' travel expenses, which are in a separate table to the allowance expenditure.<br /></p><p>You can <a href="http://www.maptube.org/home.aspx">view the map direct via MapTube</a>.<br /></p>

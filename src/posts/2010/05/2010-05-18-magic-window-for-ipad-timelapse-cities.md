@@ -1,0 +1,12 @@
+---
+title: "Magic Window for iPad: Timelapse Cities and Landscapes"
+date: 2010-05-18 13:39:00
+slug: "magic-window-for-ipad-timelapse-cities"
+permalink: "/blog/2010/05/18/magic-window-for-ipad-timelapse-cities/"
+author: "Andy"
+categories: ["ipad", "Magic Window", "Timelapse", "timelapse app"]
+tags: []
+excerpt: "The iPad is an intriguing device in terms of visualisation with various apps catching our attention. The first of which to reach the blog is Magic Window - a series of 10 timelapse movies wrapped up…"
+---
+
+<p>The iPad is an intriguing device in terms of visualisation with various apps catching our attention. The first of which to reach the blog is Magic Window -  a series of 10 timelapse movies wrapped up in an app.<br /><br />With scenes ranging from landscapes through to cities it makes for a unique view when your have your iPad docked or just sitting around the office/house.<br /><br /><br /><center><object height="498" width="640"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=11126707&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=11126707&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="498"></embed></object><a href="http://vimeo.com/11126707">Magic Window for iPad Demo</a> from <a href="http://vimeo.com/user3633324">josh michaels</a> on <a href="http://vimeo.com/">Vimeo</a>.</center><br />As big fans of timelaspe imagery here on du, the MagicWindow app comes highly recommended. With 10 scenes, the first two are pre-installed with the remaining 8 available for download at around 1Gb per scene. High resolution timelapses take space so the file size is not surprising and they do hold up in terms of quality.<br /><br />You can download the app from both the <a href="http://itunes.apple.com/us/app/magic-window-living-pictures/id366754824?mt=8">US iTunes</a> ($3.99) and  <a href="http://itunes.apple.com/gb/app/magic-window-living-pictures/id366754824?mt=8">UK iTunes store</a> (£2.39). The iPad store is not up and running yet outside of the USA, but if you run a simple search for Magic Window iPad in any of the localized stores it will come up.</p>

@@ -1,0 +1,13 @@
+---
+title: "Microdrone - Unmanned Aerial Vehicle for Surveying & Mapping"
+date: 2007-10-03 09:06:00
+slug: "microdrone-unmanned-aerial-vehicle-for"
+permalink: "/blog/2007/10/03/microdrone-unmanned-aerial-vehicle-for/"
+author: "Andy"
+categories: ["Gadgets", "unmanned drones"]
+tags: []
+excerpt: "The copyright issues associated with using other peoples data is often a nightmare, as such it is sometimes preferable to map/survey an area yourself. This is where the Microdrone comes in handy - an…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RwNbuIE2mFI/AAAAAAAAAtI/WZ0hL3pejFg/s400/6_kwart.jpg"
+---
+
+<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/RwNbuIE2mFI/AAAAAAAAAtI/WZ0hL3pejFg/s1600-h/6_kwart.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RwNbuIE2mFI/AAAAAAAAAtI/WZ0hL3pejFg/s400/6_kwart.jpg" alt="" id="BLOGGER_PHOTO_ID_5117034449622964306" border="0" /></a><br />The copyright issues associated with using other peoples data is often a nightmare, as such it is sometimes preferable to map/survey an area yourself. This is where the Microdrone comes in handy - an unmanned aerial vehicle equipped with a digital camera and a GPS it provides an easy route for gathering data.<br /><br />Of note in the <a href="http://www.orbitgis.com/index.php?c=products/microdrone/md_features.htm">specifications</a> is the units ability to gather stereo data, allowing essentially a 3D model to be constructed from the flightpath. This combined with oblique imagery from the same flight opens up the prospect of texture mapped models of small areas.<br /><br />The movie below shows the Microdrone in action:<br /><br /><center><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/Y4jtguSF0n4"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/Y4jtguSF0n4" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425"></embed></object></center><br /><br />The clip is slightly creepy to be honest with the unit peering into windows and spying on women on beach towels - the Microdrone also resembles the surveillance units in Half Life 2 (<a href="http://digitalurban.blogspot.com/2006/08/cities-in-games-city-17-half-life-2.html">see our City 17 movie</a>).<br /><br />Bringing it back to geography and urban models, the movies would also be of use for camera matching allowing a local context for 3D models. In short we want one - sadly we cant afford a unit with prices coming in at 25,000 Euro.<br /><br />You can buy one and find out more details from <a href="http://www.orbitgis.com/index.php?c=products/microdrone/md_buy.htm">OrbitGIS</a>.</p>

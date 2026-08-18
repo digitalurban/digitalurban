@@ -1,0 +1,12 @@
+---
+title: "Four Fully funded PhD Studentships at CASA"
+date: 2008-06-03 11:52:00
+slug: "four-fully-funded-phd-studentships-at"
+permalink: "/blog/2008/06/03/four-fully-funded-phd-studentships-at/"
+author: "Andy"
+categories: ["Jobs"]
+tags: []
+excerpt: "CASA , the lab where digital urban is based, is please to announce the availability of 4 fully funded PhD studentships are now available at CASA/Department of Geography. Starting October 2008,…"
+---
+
+<p><a href="http://www.casa.ucl.ac.uk">CASA</a>, the lab where digital urban is based, is please to announce the availability of 4 fully funded PhD studentships are now available at CASA/Department of Geography.<br /><br />Starting October 2008, applications now invited from suitably qualified candidates for these ESRC/EPSRC awards in the following areas:<br /><br />ESRC PhD award in collaboration with ESRI (UK) Ltd on the topic ‘Measuring and monitoring population diversity and spatial concentration: GeoWeb 2.0 solutions’.<br />£18,940 pa tax-free stipend* plus tuition fees.<br /><br />Enquiries: Dr Pablo Mateos (p.mateos@ucl.ac.uk).<br /><br />ESRC PhD award in collaboration with the Metropolitan Police Service on the topic ‘Real time geodemographics for reassurance policing and crime prevention’. <br />£18,940 pa tax-free stipend* plus tuition fees.<br /><br />Enquiries: Dr Alex Singleton (a.singleton@ucl.ac.uk).<br /><br />ESRC PhD linked to the GENESIS project: Generative E-Social Science. See www.genesis.ucl.ac.uk for details. <br />£17,940 pa tax-free enhanced stipend* plus tuition fees.<br /><br />Enquiries:  Professor Michael Batty (m.batty@ucl.ac.uk).<br /><br />EPSRC PhD award in Urban and Regional Modelling.<br />£17,000 pa tax-free stipend* plus tuition fees.<br /><br />Enquiries: Professor Sir Alan Wilson (a.g.wilson@ucl.ac.uk).<br /><br />Due to funding restrictions, only candidates satisfying ESRC/EPSRC residency requirements may apply. <br /><br />* To be eligible for the stipend, EU candidates are required to have established UK residency.<br /><br /><span style="font-weight: bold;">Application Procedure</span><br /><br />Please email a covering letter, stating which award(s) you wish to be considered for, along with your CV to Christiane Morgan (christiane.morgan@ucl.ac.uk). <br /><br />Further details on each studentship and their respective eligibility criteria are available from the CASA website:<a href="http://www.casa.ucl.ac.uk"> www.casa.ucl.ac.uk</a>. <br /><br />The closing date for receipt of applications is Friday 27th June 2008.</p>

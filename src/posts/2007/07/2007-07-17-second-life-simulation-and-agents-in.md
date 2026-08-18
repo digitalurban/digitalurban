@@ -1,0 +1,12 @@
+---
+title: "Second Life - Simulation and Agents in a Box"
+date: 2007-07-17 09:17:00
+slug: "second-life-simulation-and-agents-in"
+permalink: "/blog/2007/07/17/second-life-simulation-and-agents-in/"
+author: "Andy"
+categories: ["3D Agents", "Second Life"]
+tags: []
+excerpt: "If you look under the hood of Second Life there is more to the virtual environment than a first look around the 'Help' island provides. Using the Second Life Scripting Language - an internal,…"
+---
+
+<p>If you look under the hood of Second Life there is more to the virtual environment than a first look around the 'Help' island provides. Using the Second Life Scripting Language  -  <span style="font-style: italic;">an internal, event-driven, C/Java-style language which allows you to control object and avatar behavior </span>- it is possible to build any number of simulations from agent based models to modular architectural components<span style="font-style: italic;">.<br /><br /></span>In terms of agents Teconic has created a simulation of ants locating food, and leaving a pheromone trail for other ants to follow. The movie below details the simulation and provides an interesting insight into the possibilities for agent based modelling in Second Life:<br /><br /><center><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/ehEzRUu4_RM"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/ehEzRUu4_RM" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425"></embed></object></center><br /><br />In terms of city creation and architecture the scripting language is increasingly being used to create modular 'out of the box' solutions. The latest of which is designed to allow users to set up a small urban centre in under 30 minutes using 'Sim in a Box' a system which allows over 4 million possible outcomes due to its modular nature.<br /><br />The movie below details the simulation:<br /><br /><center><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/QcrgOj43wQI"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/QcrgOj43wQI" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425"></embed></object></center><br /><br />We will be taking a close look at the Second Life Scripting Language for both agent based modeling and architectural components over the coming weeks.<br /><br /><span style="font-style: italic;"></span></p>

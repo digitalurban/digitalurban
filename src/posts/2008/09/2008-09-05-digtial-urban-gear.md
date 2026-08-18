@@ -1,0 +1,13 @@
+---
+title: "Digital Urban Gear"
+date: 2008-09-05 08:04:00
+slug: "digtial-urban-gear"
+permalink: "/blog/2008/09/05/digtial-urban-gear/"
+author: "Andy"
+categories: ["Digital Urban Gear"]
+tags: []
+excerpt: "Thanks to our friends over at Cafe Press a range of digital urban gear is available for purchase - we especially like the messenger bag which we have personally street tested out and about around the…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/Rx9MSYE2mbI/AAAAAAAAAv4/BgcWTmjwV_k/s400/merchandise.png"
+---
+
+<p><a href="http://www.cafepress.com/digitalurban"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/Rx9MSYE2mbI/AAAAAAAAAv4/BgcWTmjwV_k/s400/merchandise.png" alt="" id="BLOGGER_PHOTO_ID_5124898779555076530" border="0" /></a>Thanks to our friends over at Cafe Press a range of digital urban gear is available for purchase -  we especially like the messenger bag which we have personally street tested out and about around the streets of Camden Town, London.<br /><br />The big news on the digital urban gear front is our first photo from a reader -  <a href="http://www.stijnswinnen.be/"><span>Stijn</span> <span>Swinnen</span></a>  as featured below:<br /><br /><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/SMDp_xKkozI/AAAAAAAABTg/eJc5_R4NtA0/s1600-h/stijn.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/SMDp_xKkozI/AAAAAAAABTg/eJc5_R4NtA0/s400/stijn.png" alt="" id="BLOGGER_PHOTO_ID_5242447247997969202" border="0" /></a><span>Stijn</span> is pictured reading our <a href="http://digitalurban.blogspot.com/2008/03/buy-booklet-digital-geography.html">digital urban booklet</a> while wearing the t-shirt and accessing the blog on his <span>pc</span>. For such a level of dedication we are sending <span>Stjin</span> a digital urban mug and he's also bagged himself a free copy of the '<span>digital</span> urban <span>recipe</span> book' that will be appearing on book shelves near you sometime in the new year.<br /><br />Would you like a free mug? The competition is still open for readers who send in <span>pictures</span> of either <span>themselves</span>, a friend or simply some digital urban gear <span>pictured</span> in the wild.<br /><br />To celebrate our first give away we have cut the prices back to 'cost' making the messenger bag a mere $19.99.<br /><br />Head over to <a href="http://www.cafepress.com/digitalurban">the store for the full range of goods</a>  - now at cost price, for a limited time.</p>

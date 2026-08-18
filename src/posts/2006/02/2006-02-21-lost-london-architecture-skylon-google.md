@@ -1,0 +1,13 @@
+---
+title: "Lost London Architecture - The Skylon Google Earth"
+date: 2006-02-21 09:51:00
+slug: "lost-london-architecture-skylon-google"
+permalink: "/blog/2006/02/21/lost-london-architecture-skylon-google/"
+author: "Andy"
+categories: ["Google Earth 1-10", "Virtual London"]
+tags: []
+excerpt: "Including the dimension of time is an interesting concept in Google Earth. Layers can be added to show the development of a city over years, months, decades or even centuries. As such we thought it…"
+hero: "/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/skylon.jpg"
+---
+
+<a href="http://www.casa.ucl.ac.uk/andy/blogimages/skylon.jpg"><img style="FLOAT: right; MARGIN: 0px 0px 10px 10px; WIDTH: 200px; CURSOR: hand" alt="" src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/skylon.jpg" border="0" /></a> Including the dimension of time is an interesting concept in Google Earth. Layers can be added to show the development of a city over years, months, decades or even centuries.<br /><br />As such we thought it would be interesting to introduce some of London's lost architecture back to the landscape - starting off with the Skylon.<br /><br />The Skylon, designed by Philip Powell and Hildalgo Moya, became the centre point of the Festival of Britain on the South Bank of London in 1951. Its design was suitably abstract and iconic giving a glimpse of the future to post 2nd World War Britain.<br /><br />It was hugely popular and in some ways provides a glimpse back to how things should be done when viewed in comparison with Britain's millennium celebrations and architecture such as the Millennium Dome.<br /><br />The Festival of Britain and the Skylon became a centre piece on the South Bank of London, similar to the way the London Eye is today. Sadly it was demolished in 1952 by the Conservative Government and the site is now occupied by the National Theatre.<br /><br />Using Google Earth though it is possible to reconstruct the simple geometry and place it back on the skyline.<br /><br /><br /><p align="center"><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/skylon1.jpg" /></p><div align="left"></div><div align="left">With the addition of an overlay showing the original site plans for the Festival of Britain (courtesy of <a href="http://www.packer34.freeserve.co.uk/index.html">The Festival of Britain</a> site) the scale of the Festival can be appreciated.<br /><br /></div><p align="center"><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/skylon2.jpg" /></p><p align="left"></p><div align="left"><br />You can download the kmz file to fly into the model in Google Earth <a href="http://www.casa.ucl.ac.uk/andy/kmz/Skylon.kmz">here</a> (11k) </div>

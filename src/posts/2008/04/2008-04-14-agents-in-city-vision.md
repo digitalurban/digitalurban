@@ -1,0 +1,13 @@
+---
+title: "Agents in the City: Vision"
+date: 2008-04-14 10:31:00
+slug: "agents-in-city-vision"
+permalink: "/blog/2008/04/14/agents-in-city-vision/"
+author: "Andy"
+categories: ["3D Agents", "3D Modelling", "Agent Based Modelling"]
+tags: []
+excerpt: "Our last weeks series of posts on 3D Agent Based Models using 3D Max has been interesting (at least we have found it interesting). It is easy to set up any number of agents to swarm or wander within…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/SAMzWBEGwgI/AAAAAAAABKE/LWGm4v2UqOc/s400/cityagentspic.png"
+---
+
+<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/SAMzWBEGwgI/AAAAAAAABKE/LWGm4v2UqOc/s1600-h/cityagentspic.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/SAMzWBEGwgI/AAAAAAAABKE/LWGm4v2UqOc/s400/cityagentspic.png" alt="" id="BLOGGER_PHOTO_ID_5189047648996737538" border="0" /></a><br />Our last weeks series of posts on 3D Agent Based Models using 3D Max has been interesting (at least we have found it interesting). It is easy to set up any number of agents to swarm or wander within a set radius but adding behaviours beyond swarming is more difficult.<br /><br />It seem to be down to 'vision' and how far the agents can 'see' ahead of them. In 3D Studio Max agents seem to only be capable of a complete 360x180 degree field of view or avoidance, this creates either large areas of exclusion or areas where agents fail to 'see' objects coming.<br /><br />Our latest movie below illustrates this, the agents are now in our city model from the <a href="http://digitalurban.blogspot.com/2008/03/greeble-3d-city-tutorial-2-cityscape.html"><span>Greeble</span> a City Tutorial</a>:<br /><br /><center><object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/ecBqbT2ZfPA&hl=en"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/ecBqbT2ZfPA&hl=en" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425"></embed></object></center><br /><br />At the moment the agents tend to get run over by the bus and roam inside the buildings, despite being set to avoid, still it is work in progress...<br /><br /><a href="http://gisagents.blogspot.com/">gisagents.blogspot.com</a> have an interesting post on <a href="http://gisagents.blogspot.com/2008/04/pacman-is-it-agent-based-model.html"><span>Pacman</span>: is it an agent-based model?</a> for those interested - a 3D <span>Pacman</span> would actually be quite easy as its a simple 'Seek' behaviour interlinked with paths.</p>

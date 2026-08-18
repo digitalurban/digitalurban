@@ -1,0 +1,13 @@
+---
+title: "Tweet-o-Meter adds San Francisco, Barcelona, Tokyo and Oslo to its Data Mine: Urban Tweets per Minute"
+date: 2010-01-28 17:30:00
+slug: "tweet-o-meter-adds-san-francisco"
+permalink: "/blog/2010/01/28/tweet-o-meter-adds-san-francisco/"
+author: "Andy"
+categories: ["3D London Tube Map", "Barcelona", "Munich", "New York", "Oslo", "Paris", "San Francisco", "Tokyo", "Tweet-o-Meter"]
+tags: []
+excerpt: "Due to various emails asking 'where is xxx' we have added four more cities to the Tweet-o-Meter which means more data to collect and analyse. Is it true that, New York is the city that never sleeps?…"
+hero: "/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/S2HO-eMpjnI/AAAAAAAACTI/1gxRE3q_208/s400/tweetometer2.jpg"
+---
+
+Due to various emails asking 'where is xxx'  we have added four more cities to the Tweet-o-Meter which means more data to collect and analyse. Is it true that, New York is the city that never sleeps? Do  Londoners send more      Tweets than New Yorkians'? Is Oslo a bigger Tweeter than Munich? Is Tokyo into Tweets as much as Barcelona? Has San Francisco calmed down after that<br />Apple Event?<br /><br /><a href="http://www.casa.ucl.ac.uk/tom/"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 397px;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/S2HO-eMpjnI/AAAAAAAACTI/1gxRE3q_208/s400/tweetometer2.jpg" alt="" id="BLOGGER_PHOTO_ID_5431850198238858866" border="0" /></a><br />The Tweet-o-Meter  measures the amount of tweets (measured in Tweets per Minute or TPM)      received from various locations around the world. The gauges are  updated every second giving you a live view of the TPM's in each  location.                  <p>      Tweet-o-Meter is designed to mine data for later analysis relating  to      furthering our understanding of social and temporal dynamics for      e-Social Science within the Twitter demographic. The system is under      development here at CASA <span style="font-size:100%;">as part  of a wider      survey tool as part of the <a href="http://www.geog.leeds.ac.uk/projects/neiss/about.php">NeISS</a> project in association with <a href="http://www.urbantick.blogspot.com/">Urban Tick</a> and coded by <a href="http://www.stevenjamesgray.com/">Steven Gray</a>.</span></p><p>See yesterdays <a href="http://digitalurban.blogspot.com/2010/01/new-york-london-paris-munich-tweets-per_27.html">introduction to Tweet-o-Meter</a> post for full details and <a href="http://www.youtube.com/watch?v=4HaAOCGb3bw&feature=player_embedded">the music video behind the original choice of cities</a> or head direct to the <a href="http://www.casa.ucl.ac.uk/tom/">Eight Cities Head-to Head Tweet-o-Meter Page</a>.</p>

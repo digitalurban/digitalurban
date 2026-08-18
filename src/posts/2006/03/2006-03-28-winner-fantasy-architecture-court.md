@@ -1,0 +1,13 @@
+---
+title: "Winner - Fantasy Architecture Court Fields Community School"
+date: 2006-03-28 10:58:00
+slug: "winner-fantasy-architecture-court"
+permalink: "/blog/2006/03/28/winner-fantasy-architecture-court/"
+author: "Andy"
+categories: ["Fantasy Architecture"]
+tags: []
+excerpt: "We are pleased to announce the winner of Fantasy London Google Earth - Court Fields Community School - The Spiral Tower by James. It was a tricky decision as all the entries were in our view…"
+hero: "/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/rendergroupsm.jpg"
+---
+
+<p><a href="http://www.casa.ucl.ac.uk/andy/blogimages/jamessm.jpg"></a><br /><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/rendergroupsm.jpg" /><br /><br />We are pleased to announce the winner of <a href="http://digitalurban.blogspot.com/2006/03/fantasy-london-google-earth-court.html">Fantasy London Google Earth - Court Fields Community School</a> - The Spiral Tower by James. <br /><br /><a href="http://www.casa.ucl.ac.uk/andy/blogimages/jamessm.jpg"><img style="FLOAT: left; MARGIN: 0px 10px 10px 0px; WIDTH: 220px; CURSOR: hand" alt="" src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/james.jpg" border="0" /></a>It was a tricky decision as all the entries were in our view outstanding. Special mention goes to the both the <a href="http://digitalurban.blogspot.com/2006/03/eco-flower-fantasy-london.html">Eco-Flower by Tildy and Hannah</a> and the <a href="http://digitalurban.blogspot.com/2006/03/triplet-tower-fantasy-london.html">Triplet Tower by Rhys Darby</a>. Both displayed a unique concept of structure and design while mixing functionality and a realisation of the need for sustainability.<br /><br />All of the models will be ported into Google Earth as soon as we have chance (the route from 3DMax to Google Earth is taking longer than planned at the moment). Once the models are complete we will publish the Google Earth files so the designs can be explored in 3D.<br /><br /><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/spiralrendersm.jpg" /><br /><br />The Winner will receive a £10 Gift Voucher from WHSmiths and all the runners up will receive a glossy A3 printout of their designs.<br /><br />If your interested in further details on this project, or want to send in your own design, please drop us a email from the contact details on the side of the blog.<br /><br />Finally - Well done James!<br /><br /><br />You can view a<a href="http://www.casa.ucl.ac.uk/andy/blogimages/spiralrender.jpg"> high res version of the winning building here</a></p>

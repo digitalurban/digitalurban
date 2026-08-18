@@ -1,0 +1,13 @@
+---
+title: "Tales of the City – Tagging Shoreditch and Beyond"
+date: 2010-06-09 11:20:00
+slug: "tales-of-city-tagging-shoreditch-and"
+permalink: "/blog/2010/06/09/tales-of-city-tagging-shoreditch-and/"
+author: "Andy"
+categories: ["cultural hertitage", "internet of things", "iphone rfid", "london", "qrcode", "talesofthings"]
+tags: []
+excerpt: "Via the project talesofthings.com we have been capturing people’s memories of objects and playing them back via small readable and writeable QR codes and RFID tags. As part of the London Festival of…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TA94JwZYW3I/AAAAAAAACYU/0oOZMIZUR0o/s640/fesarch.png"
+---
+
+Via the project <a href="http://www.talesofthings.com/">talesofthings.com</a> we have been capturing people’s  memories of objects and playing them back via small readable and  writeable QR codes and RFID tags. As part of the London Festival of Architecture 2010, Tales of the City extends the concept  into the urban realm with the architecture of the city able to replay  memories and its history.<br /><br /><br /><div style="clear: both; text-align: center;"><a href="http://www.lfa2010.org/event.php?id=263&name=tales_of_the_city_tagging_shoreditch_and_beyond" style="margin-left: 1em; margin-right: 1em;"><img src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TA94JwZYW3I/AAAAAAAACYU/0oOZMIZUR0o/s640/fesarch.png" height="536" width="640" border="0" /></a></div><br /><br />The project will enable participants to add their own tales to buildings  and view stories that other people have left. The project has been  tagging architecture since its launch in April 2010, most notably  Broadcasting House in Portland Place and a wall in Chalk Farm which when  scanned replays how the wall used to look with a Banksy Stencil in  place.<br /><br />Tales of the City starts off with a pre-placed tag at the  historic heart of Shoreditch, St Leonard's Church. From there you will  be able to spot tags (QR codes) on Shoreditch High Street which you can  add your own stories to, contributing to the growing network of tagged  architecture.<br /><br />This will enable people to form a personalised tour of  London’s contemporary history through architecture.  If you have an  iPhone or an Android handset be sure to download our free app -  talesofthings to enable you to leave comments on the QR codes, or create  your own codes to put on your favourite buildings.<br /><br />You can <a href="http://www.lfa2010.org/event.php?id=263&name=tales_of_the_city_tagging_shoreditch_and_beyond">become a follower of the project</a> over at the London Festival of Architecture page.<br /><br />We will have more on Tales of the City next week...

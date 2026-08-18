@@ -1,0 +1,12 @@
+---
+title: "30 Days in ActiveWorlds: Community, Design and Terrorism in a Virtual World."
+date: 2010-02-04 16:28:00
+slug: "30-days-in-activeworlds-story-of-online"
+permalink: "/blog/2010/02/04/30-days-in-activeworlds-story-of-online/"
+author: "Andy"
+categories: ["30 Days in ActiveWorlds", "activewords", "Publications", "Second Life", "Virtual Geographic Environments"]
+tags: []
+excerpt: "30 Days in ActiveWorlds was a project aimed at documenting the development of a virtual environment from the beginning to end, the point where a plot of virgin land would develop into a community…"
+---
+
+30 Days in <span>ActiveWorlds</span>  was a project aimed at documenting the development of a virtual  environment from the beginning to end, the point where a plot of virgin  land would develop into a community with a urban layout.<br /><br />In the days long  before Second Life it provided an early look at life, love, architecture and the threats of Armageddon from a terrorist group in a virtual world. It remains one of our favorite pieces of work to date:<br /><br /><center><object style="height: 425px; width: 600px;"><param name="movie" value="http://static.issuu.com/webembed/viewers/style1/v1/IssuuViewer.swf?mode=embed&layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Flight%2Flayout.xml&showFlipBtn=true&documentId=100204161956-f1f3d94164624d6dbfdf71690effed74&docName=30dayschapter&username=Smithee&loadingInfoText=30%20Days%20in%20ActiveWorlds%20%E2%80%93%20Community%2C%20Design%20and%20Terrorism%20in%20a%20Virtual%20World.&et=1265300654373&er=7"><param name="allowfullscreen" value="true"><param name="menu" value="false"><embed src="http://static.issuu.com/webembed/viewers/style1/v1/IssuuViewer.swf" type="application/x-shockwave-flash" allowfullscreen="true" menu="false" style="width: 600px; height: 425px;" flashvars="mode=embed&layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Flight%2Flayout.xml&showFlipBtn=true&documentId=100204161956-f1f3d94164624d6dbfdf71690effed74&docName=30dayschapter&username=Smithee&loadingInfoText=30%20Days%20in%20ActiveWorlds%20%E2%80%93%20Community%2C%20Design%20and%20Terrorism%20in%20a%20Virtual%20World.&et=1265300654373&er=7"></embed></object><center><br /><div style="text-align: left;">If you would like to read the paper offline your can download - <a href="http://www.casa.ucl.ac.uk/andy/papers/30dayschapter.pdf">30 Days  in <span>ActiveWorlds</span>   - Community, Design and Terrorism in a Virtual World</a> (<span>pdf</span> link)</div></center></center>

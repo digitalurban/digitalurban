@@ -1,0 +1,12 @@
+---
+title: "PGR 4 - Building the City Video"
+date: 2007-10-22 10:32:00
+slug: "pgr-4-building-city-video"
+permalink: "/blog/2007/10/22/pgr-4-building-city-video/"
+author: "Andy"
+categories: ["Architectural Visualisation", "Cities in Games"]
+tags: []
+excerpt: "Back in August last year we took at look at Metropolis Street Racer under our Cities in Games series. Created by Bizarre Creations and renamed Project Gotham the game is now on version 4, released on…"
+---
+
+<p>Back in August last year we <a href="http://digitalurban.blogspot.com/2006/08/metropolis-street-racer-cities-in.html">took at look at Metropolis Street Racer</a> under our Cities in Games series. Created by <a href="http://www.bizarrecreations.com/">Bizarre Creations </a>and renamed Project Gotham the game is now on version 4, released on the XBox 360.<br /><br />Project Gotham leads the way in digital city production and we can often be found not playing the game as such but driving around to simply look at the 3D city models. <br /><br />The <a href="http://www.youtube.com/user/soulbruva3000">fan made trailer</a> below provides an insight into the game:<br /><br /><center><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/FBikJXOZcvM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/FBikJXOZcvM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></center><br /><br />Bizarre Creations have posted a movie taking a background look at the city creation process in Project Gotham, this is a must for anyone interested in 3d city modelling:<br /><br /><center><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/fjL9QceNegI"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/fjL9QceNegI" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></center><br /><br />In our view every architecture or design visualisation office should have a copy of Project Gotham Racing running, not only to show what is possible in realtime with a game engine but also to illustrate the state of the art in city modelling.<br /><br />You can <a href="http://astore.amazon.com/digiurba-20/002-9371588-7602410?%5Fencoding=UTF8&node=2">purchase version 4 of Project Gotham Racing direct</a> from our Amazon Store.</p>

@@ -1,0 +1,13 @@
+---
+title: "William J. Mitchell: A sad loss of one of the best"
+date: 2010-06-14 09:51:00
+slug: "william-j-mitchell-sad-loss-of-one-of"
+permalink: "/blog/2010/06/14/william-j-mitchell-sad-loss-of-one-of/"
+author: "Andy"
+categories: ["Posts"]
+tags: []
+excerpt: "MIT News has reported that William J. Mitchell, the former dean of MIT's School of Architecture and Planning, who pioneered urban designs for networked, \"smart\" cities and helped oversee an ambitious…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TBX0nV-gnxI/AAAAAAAACYY/CmzUKMGdD9U/s320/9780262631761-f30.jpg"
+---
+
+<p>MIT News has reported that William J. Mitchell, the former dean of MIT's School of Architecture and  Planning, who pioneered urban designs for networked, "smart" cities and helped oversee an ambitious building program that transformed MIT's  physical campus, died on June 11 after a long battle with cancer. He was  65.<br /><br />Mitchell was considered one of the world's leading urban  <a href="http://1.bp.blogspot.com/_ADwvfqkxChw/TBX0nV-gnxI/AAAAAAAACYY/CmzUKMGdD9U/s1600/9780262631761-f30.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TBX0nV-gnxI/AAAAAAAACYY/CmzUKMGdD9U/s320/9780262631761-f30.jpg" height="320" width="217" border="0" /></a>theorists. Through the work of his Smart Cities research group at the  MIT Media Lab, he pioneered new approaches to integrating design and  technology to make cities more responsive to their citizens and more  efficient in their use of resources. He likened tomorrow's cities to  living organisms or very-large-scale robots, with nervous systems that  enable them to sense changes in the needs of their inhabitants and  external conditions, and respond to these needs.<br /><br />Bills book<span><i> </i></span><em>City of Bits: Space, Place, and the Infobahn</em> (1995)<span>  had a major influence on our work here at digital urban. While not technical per-se it is a book full of ideas looking into a new type of city, and the systems of virtual spaces interconnected by the Internet - or -   information superhighway as it was then known. Bill's follow up </span><em>e-topia: Urban Life, Jim-But Not As We Know It </em>(1999) was equally influential.<br /><br />It is a sad day, Bill was one of the greats, he gave a lecture in CASA while in London and it remains one of the best lectures we have had from an external speaker.<br /><br />A memorial service will be held at MIT at the new Media Lab Complex, 75  Amherst Street, Cambridge, MA, on Wednesday, June 16 at 10 a.m. Our thoughts go to his family and friends.</p>

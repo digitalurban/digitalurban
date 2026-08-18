@@ -1,0 +1,13 @@
+---
+title: "Bike-o-Meter Now Without Paris/Dublin/Brussels/Valencia/Seville/ Vienna and Toyama"
+date: 2010-10-18 12:51:00
+slug: "bike-o-meter-now-without"
+permalink: "/blog/2010/10/18/bike-o-meter-now-without/"
+author: "Andy"
+categories: ["Brussel", "city cycle", "cycle hire", "Dublin", "Paris", "Seville", "Toyama", "Valencia", "Vienna"]
+tags: []
+excerpt: "The world of data is changing, vast amounts of free and open data are enabling innovative visualisations. Our new Bike-o-Meter could be seen as a case in point, it provides at a glance a view of how…"
+hero: "/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/TLxA-Dl8jHI/AAAAAAAACcY/jVcCMFq3xY8/s640/bikeometernon.jpg"
+---
+
+The world of data is changing, vast amounts of free and open data are enabling innovative visualisations. Our new <a href="http://casa.ucl.ac.uk/bom/">Bike-o-Meter</a> could be seen as a case in point, it provides at a glance a view of how bicycle rental schemes in cities around the world are performing. It even allows you to view the percentage of hire bikes that would need to be redistributed to balance each scheme and <i>here may lie the problem - it allows under performing cities to be clearly identified using their own data.</i><br /><br /><div style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/TLxA-Dl8jHI/AAAAAAAACcY/jVcCMFq3xY8/s1600/bikeometernon.jpg" style="margin-left: 1em; margin-right: 1em;"><span></span><img src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/TLxA-Dl8jHI/AAAAAAAACcY/jVcCMFq3xY8/s640/bikeometernon.jpg" height="242" width="640" border="0" /><span></span></a></div><br />Sadly a number of cities, run by a common provider, have requested that we no longer use their data, stating use protection under the harmonised sui generis database right, as provided under Directive 96/9/EC: Chapter III Article 7 (1) and (2).<br /><br />Below is how the Bike-o-Meter used to look:<br /><br /><div style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/TK2j7VMi8tI/AAAAAAAACcU/P_voMOseiRM/s1600/tweetmeter.jpg" style="margin-left: 1em; margin-right: 1em;"><img src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/TK2j7VMi8tI/AAAAAAAACcU/P_voMOseiRM/s640/tweetmeter.jpg" height="640" width="561" border="0" /></a></div><br />We are of course happy to accept the request and as a result Paris/Dublin/Brussels/Valencia/Seville/ Vienna and Toyama are now sitting with empty dials. This is disappointing to say the least, we would be happy to add these cities back in but as ever with data its down to the providers...<br /><br />Got a view? #bikeometer on Twitter.

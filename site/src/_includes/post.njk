@@ -1,0 +1,100 @@
+---
+layout: base.njk
+---
+<article>
+  <header class="wrap">
+    <p style="padding-top:56px;margin:0"><a class="mono" href="/">&larr; Latest</a></p>
+    <div class="post-head">
+      <div class="post-head__main">
+        <div class="mono post-head__meta">
+          {% for c in categories %}<span class="mono--accent">{{ c }}</span>{% endfor %}
+          <span>{{ page.date | date }}</span>
+          <span>{{ content | readingTime }} min read</span>
+        </div>
+        <h1>{{ title }}</h1>
+      </div>
+      <div class="post-head__side">
+        <div style="color:var(--ink)">{{ author or site.author }}</div>
+        <div>CASA, UCL East</div>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="post-body">
+      <div class="prose">
+        {{ content | safe }}
+      </div>
+
+      <aside class="side">
+        {% if tags %}
+        <div>
+          <div class="mono" style="padding-bottom:12px">Tags</div>
+          <div class="chips">
+            {% for t in tags %}<a class="chip" href="/tag/{{ t | slugify }}/">{{ t }}</a>{% endfor %}
+          </div>
+        </div>
+        {% endif %}
+        <div>
+          <div class="mono" style="padding-bottom:12px">Elsewhere</div>
+          <div class="rows">
+            <a href="{{ site.social.github }}">Code on GitHub</a>
+            <a href="{{ site.social.youtube }}">Video</a>
+            <a href="/archive/">Search the archive</a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <nav class="dark">
+    <div class="dark__in">
+      <div class="pn">
+        {% set prev = collections.posts | getPreviousCollectionItem %}
+        {% set next = collections.posts | getNextCollectionItem %}
+        {% if next %}
+        <a href="{{ next.url }}">
+          <span class="mono">&larr; Previous</span>
+          <span class="pn__t">{{ next.data.title }}</span>
+        </a>
+        {% else %}<span></span>{% endif %}
+        {% if prev %}
+        <a class="pn__next" href="{{ prev.url }}">
+          <span class="mono">Next &rarr;</span>
+          <span class="pn__t">{{ prev.data.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </nav>
+
+  <section class="wrap">
+    <div class="comments">
+      <div>
+        <div class="mono mono--accent" style="padding-bottom:18px">Discussion</div>
+        <script src="https://giscus.app/client.js"
+          data-repo="{{ site.giscus.repo }}"
+          data-repo-id="{{ site.giscus.repoId }}"
+          data-category="{{ site.giscus.category }}"
+          data-category-id="{{ site.giscus.categoryId }}"
+          data-mapping="pathname"
+          data-strict="1"
+          data-reactions-enabled="1"
+          data-input-position="top"
+          data-theme="light"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </div>
+      <div>
+        <div class="mono" style="padding-bottom:12px">Recent</div>
+        <div class="rows">
+          {% for p in collections.posts | head(5) %}
+          <a href="{{ p.url }}">{{ p.data.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+</article>

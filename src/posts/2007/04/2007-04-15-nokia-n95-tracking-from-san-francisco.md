@@ -1,0 +1,13 @@
+---
+title: "Nokia N95 Tracking from San Francisco to Santa Barbara"
+date: 2007-04-15 20:29:00
+slug: "nokia-n95-tracking-from-san-francisco"
+permalink: "/blog/2007/04/15/nokia-n95-tracking-from-san-francisco/"
+author: "Andy"
+categories: ["Google Earth", "N95"]
+tags: []
+excerpt: "We have run a couple of posts recently on the GPS functionality of the Nokia N95, most notably using the Sports Tracker application to track a train in London. We continue this theme, this time…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RiKLao-pfBI/AAAAAAAAAQ8/ixFG92bmpCA/s320/Capture1.JPG"
+---
+
+<p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/RiKLao-pfBI/AAAAAAAAAQ8/ixFG92bmpCA/s1600-h/Capture1.JPG"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RiKLao-pfBI/AAAAAAAAAQ8/ixFG92bmpCA/s320/Capture1.JPG" alt="" id="BLOGGER_PHOTO_ID_5053755021656161298" border="0" /></a>We have run a couple of posts recently on the GPS functionality of the Nokia N95, most notably using the <a href="http://digitalurban.blogspot.com/2007/04/nokia-n95-gps-google-earth-tracking.html">Sports Tracker application to track a train</a> in London. We continue this theme, this time tracking our 5 hour drive from San Francisco to Santa Barbara, California.<br /><br />The interesting issues here are firstly the time covered - 5 hours - presenting an interesting spatial/temporal visualisation and secondly the fact that Sports Tracker was used at the same time as the general mapping application.<br /><br />Previously we had used Sports Tracker as the main application, thus losing the ability to navigate as the tracker does not yet include a general map overview. To solve this you can set Sports Tracker running and then continue to use the phone for any other use, in our case general GPS navigation.<br /><br />The ability to run tracker in the background means that you can view the map secure in the knowledge that your speed and route is being logged for later visualisation in Google Earth.<br /><br /><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/RiKV6Y-pfEI/AAAAAAAAARU/tZUcRAThBXs/s1600-h/Capture.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/RiKV6Y-pfEI/AAAAAAAAARU/tZUcRAThBXs/s400/Capture.JPG" alt="" id="BLOGGER_PHOTO_ID_5053766562233285698" border="0" /></a>With a top speed of 137km/h and covering 508km you can view our entire route in <a href="http://bbs.keyhole.com/ubb/download.php?Number=865631">Google Earth</a></p>

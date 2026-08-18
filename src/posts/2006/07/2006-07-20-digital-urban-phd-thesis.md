@@ -1,0 +1,13 @@
+---
+title: "Digital Urban - The PhD Thesis"
+date: 2006-07-20 11:32:00
+slug: "digital-urban-phd-thesis"
+permalink: "/blog/2006/07/20/digital-urban-phd-thesis/"
+author: "Andy"
+categories: ["Papers/Thesis", "Publications"]
+tags: []
+excerpt: "The complete thesis behind Digital Urban is now available online, providing an insight and working examples of the research and background behind the posts on the Digital Urban Blog.. Planning is…"
+hero: "/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/overview.jpg"
+---
+
+<p><a href="http://www.casa.ucl.ac.uk/andy/blogimages/overview.jpg"><img style="FLOAT: left; MARGIN: 0px 10px 10px 0px; WIDTH: 320px; CURSOR: hand" alt="" src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/overview.jpg" border="0" /></a> The complete thesis behind Digital Urban is now available online, providing an insight and working examples of the research and background behind the posts on the Digital Urban Blog..<br /><br />Planning is about communication, the communication of space and place in relation to built form. The advent of digital networks provides the opportunity to radically change the concept of communication within not only the urban planning system but also wider fields related to the development of the built environment.<br /><br />How we communicate is increasingly becoming digital and the rise of the Internet in particular during the last decade has freed planning from the constraints of working hours and the reliance of specific locations and times to portray information.<br /><br />Information can now be visualised, communicated and manipulated at any location, any place, at any time, as long as we have the political, cultural, and economic means that gives us access to the relevant technologies. These technologies are on the edge of a new revolution in our ability to design, communicate and plan at a distance.<br /><br />The revolution on the horizon is one of inhabited virtual place; a place where the environment is represented digitally in three dimensions and communication is achieved through avatars, defined as an individual’s visual embodiment in the virtual environment. Avatars in these emerging environments are the stakeholders, the occupants and the commuters of the digital realm. As such they are also the citizens that will design, occupy and manipulate built form in the development of digital planning and they will have a say in the future planning process. These developments contribute towards a digital, ‘Online’ planning system, which is explored in a series of working examples throughout the thesis.<br /><br />You can <a href="http://www.casa.ucl.ac.uk/andy/thesis.pdf">read the Thesis here </a>(15Mb PDF).</p>

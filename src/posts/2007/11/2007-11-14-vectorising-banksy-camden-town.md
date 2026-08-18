@@ -1,0 +1,13 @@
+---
+title: "Vectorising Banksy - Camden Town"
+date: 2007-11-14 14:30:00
+slug: "vectorising-banksy-camden-town"
+permalink: "/blog/2007/11/14/vectorising-banksy-camden-town/"
+author: "Andy"
+categories: ["Banksy", "Vector Magic"]
+tags: []
+excerpt: "The panorama was captured in front of the Chambermaid stencil by the artist Banksy , in May 2006 on the wall of the Roundhouse in Camden. According to the Camden New Journal Article the maid is a…"
+hero: "/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/RzsGwc8fAgI/AAAAAAAAA3M/fIzsOPneyrI/s400/Banksyvectorized.png"
+---
+
+<p><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/RzsGwc8fAgI/AAAAAAAAA3M/fIzsOPneyrI/s1600-h/Banksyvectorized.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/RzsGwc8fAgI/AAAAAAAAA3M/fIzsOPneyrI/s400/Banksyvectorized.png" alt="" id="BLOGGER_PHOTO_ID_5132703629792182786" border="0" /></a>The panorama was captured in front of the Chambermaid stencil by the artist <a href="http://www.banksy.co.uk/menu.html"><span>Banksy</span></a>, in May 2006 on the wall of the Roundhouse in Camden. According to the <a href="http://www.banksy.co.uk/cuttings/index_08.html">Camden New Journal Article </a>the maid is a portrait of <span>Leita</span> who worked in a Hotel in Los Angeles.<br /><br />Using the online tool Vector Magic - <a href="http://digitalurban.blogspot.com/2007/11/vector-magic-convert-maps-and-images-to.html">see our earlier post</a> - it is possible to quickly and easily create high quality vector output from images and <span>Banksy's</span> Chambermaid is a case in point.<br /><br /><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/RzsLYc8fAhI/AAAAAAAAA3U/6_gYFP_PUD4/s1600-h/banksyvector1.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/RzsLYc8fAhI/AAAAAAAAA3U/6_gYFP_PUD4/s400/banksyvector1.jpg" alt="" id="BLOGGER_PHOTO_ID_5132708715033461266" border="0" /></a>You can compare the photograph and the vectorised version <a href="http://vectormagic.stanford.edu/vctr/vctr_flex?g=276891&k=qn5RDtOVnJVwSCrQ&p=g">side by side from here</a>.<br /><br /><a href="http://www.casa.ucl.ac.uk/andy/qt/BanksyCamden.html">View the <span>Quicktime</span> panorama of <span>Banksy's</span> Stencil at the Roundhouse, Camden, London </a>(2.9Mb).<br /><br />You can also simply <a href="http://www.casa.ucl.ac.uk/andy/blogimages/CamdenBanksy.jpg">view a larger version of the <span>original</span>  image </a>(290K).</p>

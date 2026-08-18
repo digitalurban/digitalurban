@@ -1,0 +1,267 @@
+---
+title: "TIME: An Open Source 3D Printed Clock"
+date: 2025-08-05 09:33:43
+slug: "time-an-open-source-3d-printed-clock"
+permalink: "/blog/2025/08/05/time-an-open-source-3d-printed-clock/"
+author: "Andy"
+categories: ["3D Modelling", "3D Printing"]
+tags: []
+excerpt: "We are about to release ‘TIME,’ our fully 3D-printed mechanical clock, on Printables. This post provides insight into both its creation and development."
+hero: "/assets/uploads/2025/08/2ca3223f-279d-4a22-9cd6-5df9448a4e25_2400x1621.png"
+---
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">We have released ‘TIME,’ our fully 3D-printed mechanical clock, on Printables. This post provides insight into both its creation and development.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Over the years, I have followed various clock makers online, looking at their designs, 3D printed models, and generally spending more time than I would like to admit trying to get a 3D printed clock running. Makers such as the excellent <a href="https://woodenclocks.co.uk/">Brian Law</a> (Wooden and 3D printed), <a href="https://www.stevesclocks.com/">Steve's Clocks</a> (great insights and designs), <a href="https://engineezy.com/products/the-3d-printed-wall-clock?srsltid=AfmBOoo0TeeDPAo3nD324gp0kzedsIHfIQQR-34iwf9ZqKiXIjJkbbTH">JBV</a> (amazing, complex engineering) and <a href="https://wooden-gear-clocks.com/">Wooden Gear Clocks</a> (a lovely site for premade clocks which come in kits but still need more skills then it turns out i have in basic cutting/sanding of brass rods) have all inspired me, but have also driven my need for a simpler, open source design which would be free and easier to build.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>It has taken a year to perfect, mainly as a summer project last year (in between work) and refining it this year to reach a point where other people could make it.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>All 3D printed clocks are however never completely 'easy' to build, they all need a few extra parts, mainly in the need to reduce friction with metal rods, bearings, but we have limited the parts to the minimum, made sure they are all off shelf parts and have also reduced the need for any sanding/cutting/ beyond one small part. We have also provided all the <a href="https://www.printables.com/model/1375086-time-a-3d-printed-clock">files available on Printables</a>, and incoming to Github, allowing others to refine and contribute new designs or updates. As time goes along, the clock will evolve - but for now it's ready for its first release, and it’s called TIME.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/08/2ca3223f-279d-4a22-9cd6-5df9448a4e25_2400x1621.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We have tried and mainly failed with other designs online; as such, we wanted to build our own version, from first principles, not modifying others, but from the ground up, with the following aims:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li>
+<p>It should be as easy to build and replicate as possible</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p>Any additional parts should be easy to source and low-cost</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p>Cutting/Sanding should be limited</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p>It should have a proper 1-second tick/tock sound - this was important.</p>
+</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>As such, the first thing to learn was how an Escapement Mechanism worked, how it contributes to the timing of a clock, the importance of the length of the pendulum and how it dictates the sound of the clock.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">First Steps: The Escapement</h3>
+<!-- /wp:heading -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>While most people listen to music on their headphones on the way to work, last summer, I started listening to ChatGPT’s newly introduced voice mode to talk me through the history and detailed workings of a clock escapement mechanism. It allowed me to gain enough knowledge to start drawing my own deadbeat escapement.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/08/52c2b5c7-60b8-4f8e-8aa1-59b6b9773638_1806x1052.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A clock's escapement is the heart of its mechanism, ingeniously translating the constant power from the gear train into the precise, rhythmic pulses that create the "tick-tock." It performs two critical jobs: it allows the gears to "escape" forward one tooth at a time, regulating the speed of the hands, and it gives the pendulum a tiny push on each swing to overcome friction and keep it moving. The <strong>deadbeat escapement</strong>, perfected by George Graham around 1715, was a major leap in accuracy. Unlike earlier "recoil" escapements, where the escape wheel would kick backwards slightly after each tick, the deadbeat's pallets are shaped so the teeth land "dead" with no recoil. This crucial improvement prevents the escapement from disturbing the pendulum's natural, isochronous swing, making the clock significantly more accurate and establishing the design as the standard for precision regulator clocks. My 3D tool of choice to design mechanisms/enclosures for devices is Autodesk 360, as such, all I needed was a reference drawing and the thought that getting a working escapement would be a good first step. Over at <a href="https://www.abbeyclock.com/aeb3.html">Abbey Clock</a> there is an excellent guide on Drawing Graham Pallets - which led to our own slightly modified design and, as pictured below, our first working escapement:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We haven't published our prototypes yet, but I can share them if people are interested in either the escapement above or the next stage - the Pomodoro Timer, below. The escapement mechanisim is powered by a weight and counterweight sytem with a 1 metre pendulum - this provided a way to perfect the initial 'tick tock' of the clock, designed to provide a steady beat every 0.5 seconds, allowing the escapment to move forward, once every seconds and more importantly, make a full rotation once a minute.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Gear Ratios: The Pomodoro Timer</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The second step was to add an additional gear and gain an understanding of gear ratios. Gear ratios for a clock are all-important as they not only define the number of gears you need, but also define<strong> the relationship between them</strong>, turning the fast-paced energy of the escapement into the slow, readable passage of time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/08/765c7800-8baa-4dad-881f-f90faa58576e_2084x1156.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>At its core, a gear ratio translates speed and torque between rotating shafts. In our clock, we have a known starting speed: our <strong>escape wheel's shaft</strong> rotates once every minute (60 seconds). To build a timer that rings a bell every 25 minutes, we needed to create a gear train that would complete one full rotation in that time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The maths to figure out the required gear ratio is straightforward:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>
+<p><strong>Target Rotation Time</strong>: 25 minutes = 25×60=1500 seconds.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Source Rotation Time</strong> (Escape Wheel Shaft): 60 seconds.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Required Gear Ratio</strong>: Target Time​=601500​ or 25:1 - as we see later on, it is the ratio which is important, and arguably, easier to understand.</p>
+</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>As you can see in our prototype, we achieved this with a <strong>compound gear train</strong> made of two identical stages, which makes the design elegant and easy to replicate. A compound gear it a cluster of two or more gears of different sizes that are fixed together on the same shaft, forcing them to rotate at the same speed. In short, instead of having one massive gear drive a tiny one to get a big gear ratio, a compound gear lets you achieve the same result in stages.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This setup is the key to creating a <strong>gear train</strong> that can achieve a large change in speed or in a compact space</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li>
+<p><strong>First Stage</strong>: The shaft from the escapement has an <strong>8-tooth pinion</strong> that drives a <strong>40-tooth gear</strong>. This gives a reduction of 840​=5:1.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Second Stage</strong>: Mounted on the same shaft as the first 40-tooth gear, a second <strong>8-tooth pinion</strong> drives the final <strong>40-tooth gear</strong>. This provides another reduction of 840​=5:1.</p>
+</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The total reduction is the product of the individual stages: 5×5=25:1. This ratio perfectly transforms the 60-second rotation of the escapement shaft into the 25-minute rotation needed to trigger the bell. Or at least that's how it should be in a perfect world. To be honest, I experimented a little, and my timings were a little out, coming in at approximately 20 minutes per bell ring, with the weight running the timer for an hour. The main point is that I had extended out from the escapement and used compound gears to start using ratios for timings. Of note, Chat GPT was useful in the wider understanding of the clock mechanism and theory, but it would frequently miscalculate gear trains and ratios, so the final design was done with old-fashioned logic.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">TIME: 3D Printed Clock</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The final clock is simply a case of building out the number of gears, using the same logic as the Pomodoro Timer. I had an escapement rotating once a minute, and I needed the main gear rotating once an hour, so I could attach an hour hand to it - that’s a ratio of 60:1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/08/7805b6ee-952f-4890-a295-16e1f69a886d_1624x1138.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Following that logic and a ratio of 60:1 -</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>
+<p><strong>Escapement</strong>: The Minute Gear - The escape wheel has 30 teeth, with a 10-tooth pinion on its shaft, delivering a 1-second "tick-tock" rhythm. The escape wheel completes one full rotation every minute.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Gear 1</strong>: 40-tooth wheel (driven by the 10-tooth pinion) and 20-tooth pinion.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Gear 2</strong>: 60-tooth wheel (driven by the 20-tooth pinion) and 24-tooth pinion.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Gear 3</strong>: The Hour Gear- a 120-tooth wheel (driven by the 24-tooth pinion), which completes one rotation per hour and connects to a drive gear (details on the drive gear to follow).</p>
+</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/08/e8b2ae7d-1a4e-4c6c-8f28-717fa153c18f_1656x1214.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The gear ratios provide the necessary speed reduction to convert the escapement's motion into hourly rotation. Starting from the escapement:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>
+<p>The 10-tooth pinion drives the 40-tooth wheel of Gear 1, creating a 40:10 (or 4:1) reduction ratio—Gear 1 rotates at 1/4 the speed of the escape wheel.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p>Gear 1's 20-tooth pinion drives Gear 2's 60-tooth wheel, a 60:20 (or 3:1) ratio—Gear 2 rotates at 1/3 the speed of Gear 1.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p>Gear 2's 24-tooth pinion drives Gear 3's 120-tooth wheel, a 120:24 (or 5:1) ratio—Gear 3 rotates at 1/5 the speed of Gear 2.</p>
+</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>It all suddenly seems complicated - but if you look at it more simply, the cumulative reduction ratio is 4 × 3 × 5 = 60:1. Since the escape wheel rotates once per minute, Gear 3 rotates once every 60 minutes—or exactly once per hour.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>I could have chosen any ratio for the gears as long as it works out to 60:1.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With a main gear turning once an hour, upon which an hour hand can be attached, all that is now needed is a Drive Gear to power the clock and a small subset gear on which to put the minute hand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Drive</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The drive gear serves a dual purpose as a catch mechanism, enabling the clock to be wound up while preventing unintended unwinding. This gear, connected to the drum, includes a ratchet and pawl system. When winding the clock, the ratchet allows the drum to rotate in the winding direction, lifting a weight of 2kg. The pawl engages the ratchet teeth, locking the drum in place to stop it from unwinding backwards once the winding is complete. This ensures the stored energy remains secure, releasing only through the controlled escapement and gear train during operation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Minute Hand</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Finally, there is a separate gear chain for the minute hand, which fits behind the hour hand; this allows the traditional hour and minute hand configuration (the hour hand fits on a brass rod going through the hour gear, holding everything in place while also allowing it to freely move.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And that’s it! It seems simple when you break it down, although designing and building it from scratch took a little more time than I thought, and I lost count of the iterations it took to get here. The design will continue to be refined—perhaps with the addition of an hourly chime in the near future.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/08/11e5785d-98b9-45ad-89e8-029a75addc09_1526x1184.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>For now, we hope you enjoy making the clock. Do let us know if you build one, over at <a href="https://www.printables.com/model/1375086-time-a-3d-printed-clock">Printables</a> (the 3D printed files are incoming, we are just collating the files)…</p>
+<!-- /wp:paragraph -->

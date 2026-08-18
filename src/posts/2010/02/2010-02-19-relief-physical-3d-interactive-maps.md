@@ -1,0 +1,13 @@
+---
+title: "Relief: Physical 3D Interactive Maps: A Step Towards the X-Men GI"
+date: 2010-02-19 10:16:00
+slug: "relief-physical-3d-interactive-maps"
+permalink: "/blog/2010/02/19/relief-physical-3d-interactive-maps/"
+author: "Andy"
+categories: ["physical maps", "relief mapping"]
+tags: []
+excerpt: "Relief is an actuated tabletop display, which is able to render and animate three-dimensional shapes with a malleable surface. It allows users to experience and form digital models like geographical…"
+hero: "http://blog.makezine.com/relief.jpg"
+---
+
+<a href="http://tangible.media.mit.edu/project.php?recid=132">Relief</a>  is an actuated tabletop display, which is able to render and animate  three-dimensional shapes with a malleable surface. It allows users to  experience and form digital models like geographical terrain in an  intuitive manner.<br /><br /><div style="clear: both; text-align: center;"><a href="http://blog.makezine.com/relief.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="272" src="http://blog.makezine.com/relief.jpg" width="320" /></a></div><br />The tabletop surface is actuated by an array of 120  motorized pins, which are controlled with a platform built upon  open-source hardware and software tools. Each pin can be addressed  individually and senses user input like pulling and pushing as the clip below illustrates:<br /><br /><br /><center><object height="338" width="601"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9069608&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=9069608&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="601" height="338"></embed></object><a href="http://vimeo.com/9069608">TEI 2010 / Relief: a responsive 3D surface</a> from <a href="http://vimeo.com/worldpeace">benny</a> on <a href="http://vimeo.com/">Vimeo</a>.</center><br />The system is termed a "scalable actuated shape display", created by Daniel  Leithinger, Adam Kumpf, and Hiroshi Ishii of <a href="http://tangible.media.mit.edu/">MIT's Tangible Media Group.</a> In the chat about this around the office it was suggested was that it reminds us of the maps used in the X-Men films, now that would be a neat way to display data.<br /><br />Picked up via <a href="http://blog.makezine.com/archive/2010/02/relief_3d_interactive_maps.html">Make</a>.

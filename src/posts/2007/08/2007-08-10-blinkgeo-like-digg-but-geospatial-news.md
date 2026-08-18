@@ -1,0 +1,13 @@
+---
+title: "BlinkGeo - Like Digg but GeoSpatial News"
+date: 2007-08-10 09:30:00
+slug: "blinkgeo-like-digg-but-geospatial-news"
+permalink: "/blog/2007/08/10/blinkgeo-like-digg-but-geospatial-news/"
+author: "Andy"
+categories: ["BlinkGeo", "Blogging"]
+tags: []
+excerpt: "BlinkGeo is a user-submitted geospatial news and stories web site. Community driven it is similar in many ways to sites such as Digg and Reddit . A while ago we put up a post entitled To Digg or Not…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/Rrwwdlo4pSI/AAAAAAAAAiw/Ng1aVr0z4KI/s400/Capture.JPG"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/Rrwwdlo4pSI/AAAAAAAAAiw/Ng1aVr0z4KI/s1600-h/Capture.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/Rrwwdlo4pSI/AAAAAAAAAiw/Ng1aVr0z4KI/s400/Capture.JPG" alt="" id="BLOGGER_PHOTO_ID_5097002163154494754" border="0" /></a><br /><a href="http://www.blinkgeo.com/"><span>BlinkGeo</span></a> is a user-submitted <span>geospatial</span> news and stories web site. Community driven it is similar in many ways to sites such as <span>Digg</span> and <span>Reddit</span>. A while ago we put up a post entitled <a href="http://digitalurban.blogspot.com/2007/05/to-digg-or-not-to-digg.html">To <span>Digg</span> or Not to <span>Digg</span></a> coming to the conclusion that <span>geospatial</span> and <span>architectural</span> posts were not really suited to such services.<br /><br /><span>BlinkGeo</span> had however changed all that and despite running for little under a month has become one of a <span>favorites</span> places to browse all the happening's in the <span>geospatial</span> community with topics ranging from Google Earth to <span>ArcScene</span>, GPS and general CAD.<br /><br /><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/Rrw2oFo4pUI/AAAAAAAAAjA/qJ4fZkUE05Y/s1600-h/Blink.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/Rrw2oFo4pUI/AAAAAAAAAjA/qJ4fZkUE05Y/s200/Blink.jpg" alt="" id="BLOGGER_PHOTO_ID_5097008940612887874" border="0" /></a>The site has its own community mascot 'Blink' pictured right who is now included in the footer of all our posts.<br /><br />The process is simple, if you like a post on this blog or any other where you see 'blink' then click to assign the post a vote. The more community driven votes a post receives the more it <span>exposure</span> it will get.<br /><br />So although we decided not to <span>digg</span>, we do intend to <a href="http://www.blinkgeo.com/">blink</a>...</p>

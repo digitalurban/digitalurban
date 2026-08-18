@@ -1,0 +1,10 @@
+[
+  { "name": "Open Gauges", "kind": "Data devices · MicroPython", "blurb": "Stepper and NeoPixel gauges that display live data — wind speed, pressure, anything on MQTT.", "foot": "github · ucl-casa-ce/Open-Gauges", "url": "https://github.com/ucl-casa-ce/Open-Gauges" },
+  { "name": "Fenland", "kind": "Dashboards · weeWX", "blurb": "A weeWX skin with live dashboard, multi-model ensemble, forecast verification and 86-year climatology.", "foot": "github · digitalurban/fenland", "url": "https://github.com/digitalurban/fenland" },
+  { "name": "The Hour", "kind": "3D printed · Printables", "blurb": "Printable files and code to make a timekeeping marble run.", "foot": "github · The-Hour", "url": "https://github.com/digitalurban/The-Hour---A-Timekeeping-Marble-Run" },
+  { "name": "Just Weather", "kind": "Apps · Pebble", "blurb": "A Pebble watch face using Open-Meteo: forecast, pressure trend and nothing else.", "foot": "github · just-weather-pebble-watchface", "url": "https://github.com/digitalurban/just-weather-pebble-watchface" },
+  { "name": "MQTT Scroller", "kind": "Data devices · Hub75", "blurb": "MicroPython text scroller for the Interstate75W with a Hub75 matrix.", "foot": "github · Interstate75W_MQTT_Scroller", "url": "https://github.com/digitalurban/Interstate75W_MQTT_Scroller" },
+  { "name": "Weather House", "kind": "Making · Laser cut", "blurb": "Python, laser cut and 3D printed weather house driven by live station data.", "foot": "github · Weather-House", "url": "https://github.com/digitalurban/Weather-House" },
+  { "name": "VibeABM", "kind": "City models · ABM", "blurb": "A collection of agent based models created through vibe coding.", "foot": "github · VibeABM", "url": "https://github.com/digitalurban/VibeABM" },
+  { "name": "THE", "kind": "Data devices · eInk", "blurb": "eInk mini MQTT display for time, headlines and environmental data.", "foot": "github · THE", "url": "https://github.com/digitalurban/THE" }
+]

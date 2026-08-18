@@ -1,0 +1,13 @@
+---
+title: "High Dynamic Range Panoramas - UCL Roof"
+date: 2006-06-06 14:02:00
+slug: "high-dynamic-range-panoramas-ucl-roof-2"
+permalink: "/blog/2006/06/06/high-dynamic-range-panoramas-ucl-roof-2/"
+author: "Andy"
+categories: ["Panoramas 20-30"]
+tags: []
+excerpt: "Panoramas cover a complete 360 x 180 field of view and thus the image creation process has to take into account a range of lighting conditions which are at best averaged out over the entire scene.…"
+hero: "/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/roofnormal.jpg"
+---
+
+<p>Panoramas cover a complete 360 x 180 field of view and thus the image creation process has to take into account a range of lighting conditions which are at best averaged out over the entire scene. This process often results in a loss of detail in shadows or overblown exposures when photographing the sky or windows in the case of capturing an internal scene.<br /><br />The quality of the image is further restricted by the cameras limited dynamic range when compared to the human eye - resulting in panoramas which often do not represent how the eye would naturally view a scene. To counter this we can use High Dynamic Range (HDR) imaging to capture a scene over a known number of exposure settings and thus create a series of images that reflect the dynamic range closer to that of human vision.<br /><br />In our first test we have captured a view from the roof of University College London on a clear sunny day. This would normally result in dark shadows in sections of the image due to having to average the exposure over the whole panorama. A standard capture technique would result in the image displayed below:<br /><br /><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/roofnormal.jpg" /><br /><br />If we then capture a further two versions of the scene  - both under and over exposed respectively -  we can capture a wider dynamic range:<br /><br /><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/roofdark.jpg" /><br /><br /><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/rooflight.jpg" /><br /><br />Using HDR software these images can then be Tone Mapped to create a final view which includes both the shadows and the highlights of the scene:<br /><br /><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/Finalroof.jpg" /><br /><br />A total of 21 images were captured to create the panorama compared to the normal 6 for traditional techniqes. <br /><br /><a href="http://www.casa.ucl.ac.uk/andy/qt/UCLroofHDR.html">View the final HDR panorama </a>(2.2mb).</p>

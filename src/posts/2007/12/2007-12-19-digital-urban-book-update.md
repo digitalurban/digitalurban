@@ -1,0 +1,13 @@
+---
+title: "Digital Urban: The Book (Update)"
+date: 2007-12-19 11:33:00
+slug: "digital-urban-book-update"
+permalink: "/blog/2007/12/19/digital-urban-book-update/"
+author: "Andy"
+categories: ["Digital Urban The Book"]
+tags: []
+excerpt: "Apologies for the lack of posts so far today, been beavering away on a book based around the tutorials and concepts developed on the blog. At the moment details are sketchy but it's looking like a…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/R1WL0WI4mLI/AAAAAAAAA78/wLFQTGqkrjU/s400/cover.jpg"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/R1WL0WI4mLI/AAAAAAAAA78/wLFQTGqkrjU/s1600-h/cover.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/R1WL0WI4mLI/AAAAAAAAA78/wLFQTGqkrjU/s400/cover.jpg" alt="" id="BLOGGER_PHOTO_ID_5140168281125591218" border="0" /></a><br />Apologies for the lack of posts so far today, been beavering away on a book based around the tutorials and concepts developed on the blog. At the moment details are sketchy but it's looking like a glossy coffee table type publication with simple step by step guides - like a recipie book for all things digital urban.<br /><br /><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/R2kCG3PRw4I/AAAAAAAAA-o/SbQg4UHNcs0/s1600-h/pano1.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/R2kCG3PRw4I/AAAAAAAAA-o/SbQg4UHNcs0/s400/pano1.jpg" alt="" id="BLOGGER_PHOTO_ID_5145646366178001794" border="0" /></a><br />We are toying with titles, at the moment its 'Digital Geography - Geovisualisation for the Urban Environment' but perhaps it should be Neogeography? Any thoughts on the title or content would be great, via the email link top right, while we sit here writing it.<br /><br /><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/R2kCPXPRw5I/AAAAAAAAA-w/k7AiceNibrc/s1600-h/pano2.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/R2kCPXPRw5I/AAAAAAAAA-w/k7AiceNibrc/s400/pano2.jpg" alt="" id="BLOGGER_PHOTO_ID_5145646512206889874" border="0" /></a><br />It should be timed to be out in time in Blurb form for a forthcoming conference in February with a full book on Amazon first quater of 2008.<br /><br />We will get some more blog posts out soon as we can and the other book -  <a href="http://digitalurban.blogspot.com/search/label/Book">Worlds Worst Urban Places and Spaces</a> continues apace, we just need your images :)</p>

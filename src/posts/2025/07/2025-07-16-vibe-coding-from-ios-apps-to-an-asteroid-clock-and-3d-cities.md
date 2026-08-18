@@ -1,0 +1,199 @@
+---
+title: "Vibe Coding: From iOS Apps to an Asteroid Clock and 3D Cities"
+date: 2025-07-16 20:38:17
+slug: "vibe-coding-from-ios-apps-to-an-asteroid-clock-and-3d-cities"
+permalink: "/blog/2025/07/16/vibe-coding-from-ios-apps-to-an-asteroid-clock-and-3d-cities/"
+author: "Andy"
+categories: ["3D Modelling", "Posts"]
+tags: ["Gemini", "iOS App", "LLM", "Vibe Coding", "Weather"]
+excerpt: "Back in 2023, I wrote a blog post over on DigitalUrban.org creating an app called Frame-IT. It turns out I was using 'Vibe Coding' and it's changed the way I view the creation of almost everything..."
+hero: "/assets/uploads/2025/07/51d58c8b-8cc2-49af-a1cb-46048fa08d49_730x584.webp"
+---
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Back in 2023, I wrote a blog post entitled Creating an app called Frame-IT. It turns out I was using 'Vibe Coding' and it's changed the way I view the creation of almost everything...</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Everything Changed</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The term ‘Vibe Coding’ was defined Andrej Karpathy, a co-founder at OpenAI in Early 2025. The basic idea is to rely entirely on Large Language Models - LLMs - and code by using only natural language prompting, rather than writing the code yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Back in 2023, I published ‘Frame-IT’, an iOS app on the Apple Store, written in Swift but coded completely in the then-early version of ChatGPT. As I noted on <a href="https://www.digitalurban.org/">DigitalUrban</a>, every app has a story, from the idea through to story boarding, finding a design team, working with in house computer scientists or outsourcing. All of these steps take time, resources and often for the small ‘would be developer’ the obstacles are overwhelming, meaning that the spark of an idea often gets lost.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yet, everything has changed, the whole landscape of developing, designing and creating has turned on its head. It has reached the point where the spark of an idea can be coded, designed, marketed and launched with the help of Artificial Intelligence. Frame-IT is a very simple app, doing a simple thing, but it came from an idea, a want, a desire to do something which before AI would have got lost in logistics, finding the time of computer scientists, and it would certainly be economically unfeasible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The First Idea</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Frame-IT came about while looking at Samsungs’ Frame Televisions, beyond the normal 4K television they blend into the background by displaying art and making the art look as it is mounted on a white background while also being enclosed in a frame – i.e. like a painting. Samsung does this well and the screens are excellent, but it is limited to art works, leading to the idea that it would be nice to frame websites, specifically ‘data’ based web sites and hang data on walls, data that changes in Realtime. Of course, any screen could be used, but if you simply show data on a screen or monitor, no one notices. If you hang it in a frame, as if its art, people will notice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/07/51d58c8b-8cc2-49af-a1cb-46048fa08d49_730x584.webp" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The concept was therefore simple, build an application that puts a picture frame around websites, allow users to select which websites to show and if there is more than one, cycle through them, like a dashboard. This would allow small screens, such as iPads, to act as frames and, via AirPlay, devices such as projectors or general screens to gain a look beyond their norm and display websites and data in the same way as hanging art on the wall.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/07/170669e6-abd6-4279-9228-a053860fff00_1536x1009.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The problem was, this was an idea, to code it would require knowledge of Swift, a library of ‘picture frames’ and probably a business case to justify the time of resident computer scientists (I work at University College London, so we have a few around) and to be honest it was such a simple idea I’m note sure anyone would listen. So, with the rise of AI, I decided to build it myself, using AI from start to finish, from knowing little about Swift, and only as much about AI as my then twitter feed was full of and reading articles on site such as The Verge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The app took me two days to build, two days where I was also working, so mainly doing things in-between other tasks, over lunch and a little bit in the evenings. With the initial learning curve out the way, I could rebuild it in a day. The first things I did was sign up to OpenAI to gain access to GPT 4 , which released on March 14th 2023. This allowed me access to the latest version and therefore the most up to date knowledge base, although looking back version 3 would probably have been fine and I could have simply used the free tier. My first prompt was “Can you write me swift code to take a website, centre it and add the image of a picture frame around it’. The app should work full screen, in landscape mode”. I had a sample picture frame (taken from Wikipedia and cutting out the actual image to leave a transparent centre).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/07/764c8b30-9da0-4793-ae7a-be228d42eb10_1000x1000.jpeg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Within 60 seconds, GPT gave me a section of code and then stopped, it turns out there was a limit in the amount of characters it could respond with. A quick Google search (ironically) showed me that by typing ‘continue’ ChatGPT will continue the code. With this I became a master of cutting and pasting, with the code often taking three continues and code which while sometimes was in code boxes, was also in simply text. It also allowed me to start to understand the layout and nature of Swift, within 30 minutes i had my first app running on an iPad, via Xcode. Simply by cutting and pasting and pressing ‘play’. Not all things worked out, there were often errors, but errors I could cut and paste back into GPT and it would solve them, most of the time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Each time a milestone was made – a working version, a version with a picture frame in and a website showing, I would save the code as Chat GPT would sometimes break the next version while I was asking for new features. Features such as ‘Add a button to move to the next website’, ‘If there is more than one website, then cycle through them every 60 seconds’ (the websites were hard-coded at this point). Once i had a concept running on my own iPad, I realised it was quite neat and decided to then adapt it so others maybe able to use it. I added a settings page – via ‘Can you delete all the websites I have added and include a settings page, the settings page should be reached via a button and have the ability to add and delete websites, once added they should be saved so the app remembers them when reopened’. This is coding but in the new language – human language.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The picture frames were created in Image Creator by Bing, a search engine I never thought I would use (being a Mac user) but in that last week I had not been near Google. Bing allowed me to type in prompt and get images without any user limits. Simple prompts such as “create me a gold Victorian picture frame, it should be photorealistic with minimum reflections and the centre should be cut out” worked amazingly well, providing me with an almost limitless range of Picture frames to include as part of the assets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/07/6635903d-3268-45db-b3ce-13e2ed6eb961_2048x1345-1.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Not all the picture frames are from AI, a couple are from open source imagery, it felt wrong to cut out the picture, but the frames have some provenance and they were nice to include.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Marketing requires imagery as well – as such I took a very simple picture of my two test iPads and used the ‘PhotoRoom” AI app to transform it to two iPads on a bench with a concrete wall behind, whereas the reality was far from as glamourous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <a href="https://apps.apple.com/us/app/frame-it/id6447362214">App is now available via the Apple Store</a>, it even <a href="https://frame-it.framer.website/">has its own website</a> and logo – again designed by AI, designed using <a href="https://looka.com/">Looka</a> and hosted on <a href="https://framer.com/">Framer</a>. So while it worked, it was a little painful with the limited lengths of code in the early version of ChatGPT and the endless cutting and pasting/fixing things - it was quick, but it still took a notable commitment and time. It is also a very very niche app, but as we get to, thats the point of Vibe Coding.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">And then Everything Changed Again</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>That was 2023 - late 2024, and everything has changed again, not only the workflow and the tools, but also the ability of the LLMs to Vibe Code, they now work, no more cutting and pasting small chunks of code, everything works. Code comes out ready to go and any errors can be fixed in a complete code base, with notably less errors compared to 2024 . As such, we made another app - again Vibe Coding, without knowing at the time - MQTTFrame.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The aim was to build on the concept of FrameIT but allow realtime data intergration directly in the app via MQTT (a lightweight, publish-subscribe network protocol for data) and to make it easy to subscribe to any MQTT topic and display live updates.</p>
+<!-- /wp:paragraph -->
+<div class="pullquote">
+<p>It is a niche thing to want to do, but that’s what Vibe Coding is great for - building those apps that you want, but perhaps few others do.</p>
+</div>
+<!-- wp:paragraph -->
+<p>Our aim was to allow:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>
+<p><strong>Customizable Frames</strong>: Choose from multiple high-quality decorative frames to complement your home or office décor.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Clean and Clear Data Display</strong>: Showcase important data such as temperature, pressure, news, and more with clear typography and layout.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Fullscreen Mode</strong>: Tap to seamlessly switch to an immersive fullscreen view, maximizing readability and aesthetics.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Easy Management</strong>: Add, edit, and reorder topics quickly through an intuitive interface.</p>
+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>
+<p><strong>Instant Updates</strong>: Receive real-time data updates over MQTT, ensuring you’re always in the know.</p>
+</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>And that's what we did - but this time in a day and with everything created in ChatGPT - icons, graphics, code, marking text, and even walking me back through how to get it on the Apple Store (as it's an oddly complex and easily forgotten process).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/07/d4b1fad6-69b7-427f-8106-0d6459dca027_2014x1348.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>So one day Vibe Coding and an app was taken from concept to ready to publish on the Apple Store - if you want to try it its currently <a href="https://apps.apple.com/gb/app/mqtt-frame/id6743003699">available for free, on the Apple Store</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Everything Again and Again</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>That was the end of 2024, now in mid 2025 and term Vibe Coding has come into common use and Large Language Models are now more than capable of making anything from webpages to apps to writing posts (all of this was, however, written by an actual human; any grammatical errors are of course, intentional). We have now switched from ChatGPT to Google Gemini and use it almost daily to produce and make apps or webpages that perhaps only I want in my life, such as - an Asteroids Clock, made in 30 minutes (temporarily housed at - <a href="https://finchamweather.co.uk/astroidsclock.html">https://finchamweather.co.uk/astroidsclock.html</a> - we will move it to Github soon as we get chance).</p>
+<!-- /wp:paragraph -->
+<div class="native-video-embed" data-component-name="VideoPlaceholder" data-attrs="{&quot;mediaUploadId&quot;:&quot;58d654b0-ee21-4fb6-ab79-a58beb898566&quot;,&quot;duration&quot;:null}"> </div>
+<!-- wp:paragraph -->
+<p>or a Procedural City Maker (<a href="https://finchamweather.co.uk/proceduralcity.html">https://finchamweather.co.uk/proceduralcity.html)</a></p>
+<!-- /wp:paragraph -->
+<div class="native-video-embed" data-component-name="VideoPlaceholder" data-attrs="{&quot;mediaUploadId&quot;:&quot;8abdc2e7-b243-40d0-8713-c62e50d0623b&quot;,&quot;duration&quot;:null}"> </div>
+<!-- wp:paragraph -->
+<p>or a Weather Dashboard with the forecast made into the image of an English Landscape using data from the API from the UK Met Office:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2025/07/43df66a8-a90e-4fe8-8edd-279c8d09aaaa_2908x1538.png" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>You can view the dashboard live at <a href="https://finchamweather.co.uk/aiweatherimage.html">https://finchamweather.co.uk/aiweatherimage.html</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All small, niche things that somehow I love and I am happy that Vibe Coding allowed them to exist - that's the magic, Vibe Coding allows you to create anything in your imagination that did not exist to exist, it’s a great time to be making digital things.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you liked this post, please do subscribe, it gives us a good reason to write another one…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"opacity":"css"} --><hr class="wp-block-separator has-css-opacity" /><!-- /wp:separator -->
+<div class="subscription-widget-wrap-editor" data-attrs="{&quot;url&quot;:&quot;https://digitalurban.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}" data-component-name="SubscribeWidgetToDOM">
+<div class="subscription-widget show-subscribe">
+<div class="preamble">
+<p class="cta-caption">Thanks for reading Digitalurban’s Substack! Subscribe for free to receive new posts and support my work.</p>
+</div>
+<form class="subscription-widget-subscribe"><input class="email-input" tabindex="-1" name="email" type="email" placeholder="Type your email…" /><input class="button primary" type="submit" value="Subscribe" />
+<div class="fake-input-wrapper">
+<div class="fake-input"> </div>
+<div class="fake-button"> </div>
+</div>
+</form></div>
+</div>

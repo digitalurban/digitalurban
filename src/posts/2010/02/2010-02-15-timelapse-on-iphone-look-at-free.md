@@ -1,0 +1,12 @@
+---
+title: "Timelapse on the iPhone: A look at the free Gorillacam App"
+date: 2010-02-15 07:40:00
+slug: "timelapse-on-iphone-look-at-free"
+permalink: "/blog/2010/02/15/timelapse-on-iphone-look-at-free/"
+author: "Andy"
+categories: ["gorillacam", "iphone", "Timelapse", "timelapse app", "timelapse iphone"]
+tags: []
+excerpt: "Joby, the people behind the Gorillapods, have released a free camera app for the iPhone entitled 'Gorillacam'. Of note the application features a timelapse mode allowing multiple photos spaced at…"
+---
+
+Joby, the people behind the Gorillapods, have released a free camera app for the<br />iPhone entitled 'Gorillacam'.  Of note the application features a timelapse mode allowing multiple photos spaced at various intervals, ranging from 1 second  apart, up to 2 minutes. We have run a few tests and with a first generation iPhone 10 seconds is the most reliable time frame to chose due to the time taken to save an image, second and third generation seem to cope with faster times. That said, 10 seconds is nigh-on-perfect for timelapses and the application does a sterling job.<br /><br />We set the application running on an overcast winters day and the output of 1600x1200 jpgs is more than enough to output a 720p (HD) movie to YouTube with room for some post processing pan movement:<br /><br /><object height="345" width="600"><param name="movie" value="http://www.youtube.com/v/r_N_y9jqk6o&hl=en_US&fs=1&"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/r_N_y9jqk6o&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="345" width="600"></embed></object><br /><br />Music is courtesy of the rather good unsigned band - <a href="http://www.mp3unsigned.com/showmp3.asp?mp3id=31115">Lemonade Joe</a>.<br /><div style="background-color: transparent; border: medium none; color: black; overflow: hidden; text-align: left; text-decoration: none;"><br /></div>The movie was made simply by opening QuickTime Pro 7 and selecting 'image sequence'  with the pan added via After Effects.  The iPhone camera is never going to win awards but for a quick timelapse then Gorillacam is a must have for any iphone user, especially at the price, ie free.<br /><br /><a href="http://itunes.apple.com/us/app/gorillacam/id342972390?mt=8" target="_blank" rel="noopener">Get Gorillacam Free through iTunes</a>

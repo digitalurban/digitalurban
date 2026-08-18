@@ -1,0 +1,13 @@
+---
+title: "Reclaim the Space: Xbox Gaming in the Urban Environment"
+date: 2008-08-06 10:37:00
+slug: "reclaim-space-xbox-gaming-in-urban"
+permalink: "/blog/2008/08/06/reclaim-space-xbox-gaming-in-urban/"
+author: "Andy"
+categories: ["Urban Xbox", "Xbox 360"]
+tags: []
+excerpt: "We like the concept of using the urban environment as a projector screen to display media, which is why the team behind Urban XBox brought a smile to our face. The concept is simple, plan a route,…"
+hero: "/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/SJmA6Xg595I/AAAAAAAABSI/77P9d4ypv8o/s400/xboxurban.png"
+---
+
+<a href="http://2.bp.blogspot.com/_ADwvfqkxChw/SJmA6Xg595I/AAAAAAAABSI/77P9d4ypv8o/s1600-h/xboxurban.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/SJmA6Xg595I/AAAAAAAABSI/77P9d4ypv8o/s400/xboxurban.png" alt="" id="BLOGGER_PHOTO_ID_5231354182400341906" border="0" /></a>We like the concept of using the urban environment as a projector screen to display media, which is why the team behind Urban <span>XBox</span> brought a smile to our face. The concept is simple, plan a route, park up the van (<span>complete</span> with custom <span>myspace</span> <span>url</span> on the side), plug in the projector and fire up the <span>Xbox</span> 360 to display the images on the side of buildings.<br /><br />The movie below is well worth watching:<br /><br /><center><object height="384" width="480">    <param name="allowfullscreen" value="true">    <param name="allowscriptaccess" value="always">    <param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=187209&server=www.vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=00ADEF&fullscreen=1">    <embed src="http://www.vimeo.com/moogaloop.swf?clip_id=187209&server=www.vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=00ADEF&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="384" width="480"></embed></object><br /><a href="http://www.vimeo.com/187209?pg=embed&sec=187209">Urban <span>Xbox</span> 360 Gaming</a> from <a href="http://www.vimeo.com/user191717?pg=embed&sec=187209"><span>UrbanXbox</span></a> on <a href="http://vimeo.com/?pg=embed&sec=187209"><span>Vimeo</span></a>.<br /><br /><div style="text-align: left;">We know this is probably horribly against the law but wouldn't it be neat to play a session of  <span>GTA</span> IV or Project Gotham on the side of a skyscraper?<br /><br />Urban <span>Xbox</span> have a <span>myspace</span> page with more information: <a href="http://www.myspace.com/urbanxbox">http://www.myspace.com/urbanxbox</a><br /></div></center>

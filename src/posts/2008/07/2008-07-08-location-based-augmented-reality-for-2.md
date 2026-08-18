@@ -1,0 +1,12 @@
+---
+title: "Location Based Augmented Reality for Android: Enkin"
+date: 2008-07-08 08:06:00
+slug: "location-based-augmented-reality-for-2"
+permalink: "/blog/2008/07/08/location-based-augmented-reality-for-2/"
+author: "Andy"
+categories: ["android", "Augmented Reality", "Enkin"]
+tags: []
+excerpt: "Enkin from Enkin on Vimeo . We have always been perplexed by companies building 3D cities for mobile devices as by nature of the device you are already in the city when using it and thus can just use…"
+---
+
+<p><center><object width="480" height="320"> <param name="allowfullscreen" value="true" /> <param name="allowscriptaccess" value="always" /> <param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=843168&server=www.vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" /> <embed src="http://www.vimeo.com/moogaloop.swf?clip_id=843168&server=www.vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="320"></embed></object><br /><a href="http://www.vimeo.com/843168?pg=embed&sec=843168">Enkin</a> from <a href="http://www.vimeo.com/enkin?pg=embed&sec=843168">Enkin</a> on <a href="http://vimeo.com?pg=embed&sec=843168">Vimeo</a>.</center><br /><br />We have always been perplexed by companies building 3D cities for mobile devices as by nature of the device you are already in the city when using it and thus can just use your 'eyes' to look around. The same goes for maps, maps in cities are all well and good for getting from A-B but they fall down when you just want to know more local information at a building level. <br /><br />What is needed then is a way to augment reality in real time - to geotag buildings and locations based on what you are seeing. This is exactly what the guys from Enkin have come up with running on <a href="http://code.google.com/android/">Android</a> (the open source mobile platform from Google).<br /><br />The movie above explains all and in short we haven't been more excited about a location based service for a long time, the idea is genius. The system combines GPS, orientation sensors, 3D graphics, live video, several web services, and a novel user interface into an intuitive and light navigation system for mobile devices. <br /><br />The often talked about augmented reality looks like it just got real...<br /><br />See <a href="http://www.enkin.net/">http://www.enkin.net/</a> for more info.</p>

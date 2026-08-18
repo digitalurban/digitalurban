@@ -1,0 +1,13 @@
+---
+title: "San Francisco Tweetography: Twitter Landscapes"
+date: 2010-09-17 11:26:00
+slug: "san-francisco-tweetography-twitter"
+permalink: "/blog/2010/09/17/san-francisco-tweetography-twitter/"
+author: "Andy"
+categories: ["CASA", "Cities Tweets", "San Francisco", "Tweet-o-Meter", "tweetography", "Twitter"]
+tags: []
+excerpt: "Our geo-located twitter data mined from San Francisco has now been processed to create a new look at the city. - Processed by Fabian Neuhaus, a PhD student here at CASA, University College London,…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/TJNL6RKisjI/AAAAAAAACcI/tcJ5Fo6-qXI/s640/sanfran1.jpg"
+---
+
+Our geo-located twitter data mined from San Francisco has now been processed to create a new look at the city.<br /><br /><div style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/TJNL6RKisjI/AAAAAAAACcI/tcJ5Fo6-qXI/s1600/sanfran1.jpg" style="margin-left: 1em; margin-right: 1em;">-<img src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/TJNL6RKisjI/AAAAAAAACcI/tcJ5Fo6-qXI/s640/sanfran1.jpg" border="0" height="640" width="562" /></a></div>Processed by Fabian Neuhaus, a PhD student here at CASA, University College London, the new city twitter topography creates a unique new media landscape. The data is mined via our '<a href="http://www.digitalurban.org/2010/02/data-mining-and-tweet-o-meter-now-with.html">Tweet-O-Meter' system</a> (soon to be seen in physical form in the British Library) which collects all geo-located tweets within a 30km radius of world cities.<br /><br /><div style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/TJNL4braV8I/AAAAAAAACcA/GywBjoBicCo/s1600/Sanfran2.jpg" style="margin-left: 1em; margin-right: 1em;"><img src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/TJNL4braV8I/AAAAAAAACcA/GywBjoBicCo/s640/Sanfran2.jpg" border="0" height="331" width="640" /></a></div><br /><div style="clear: both; text-align: center;"></div>You can view a <a href="http://www.casa.ucl.ac.uk/urbantick/maps/sanFrancisco_ncl_100916.html">full screen Google Maps style version</a> of San Francisco over at<a href="http://urbantick.blogspot.com/2010/09/new-city-landscape-san-francisco-and.html"> Urban Tick</a> as well as the previous maps of <a href="http://www.casa.ucl.ac.uk/urbantick/maps/london_ncl_100628.html">London</a>, <a href="http://www.casa.ucl.ac.uk/urbantick/maps/newYork_ncl_100628.html">New York</a>, <a href="http://www.casa.ucl.ac.uk/urbantick/maps/munich_ncl_100628.html">Munich</a>, <a href="http://www.casa.ucl.ac.uk/urbantick/maps/paris_ncl_100628.html">Paris</a> and <a href="http://www.casa.ucl.ac.uk/urbantick/maps/Moscow_ncl_100814.html">Moscow</a>.

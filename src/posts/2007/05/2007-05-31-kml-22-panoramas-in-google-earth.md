@@ -1,0 +1,13 @@
+---
+title: "KML 2.2 Panoramas in Google Earth ?"
+date: 2007-05-31 10:06:00
+slug: "kml-22-panoramas-in-google-earth"
+permalink: "/blog/2007/05/31/kml-22-panoramas-in-google-earth/"
+author: "Andy"
+categories: ["Google Earth"]
+tags: []
+excerpt: "KML 2.2 beta looks like it contains the ability to view spherical panoramas in Google Earth: Description The element allows you to geographically locate a photograph on the Earth and to specify the…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RatsPPrCTzI/AAAAAAAAAE4/h3LvwPOHQOk/s320/geswiss4.jpg"
+---
+
+KML 2.2 beta looks like it contains the ability to view spherical panoramas in Google Earth:<br /><br /><p><strong>Description</strong></p>     <p>The <photooverlay> element allows you to geographically locate a photograph on the Earth and to specify the placement and orientation of the Camera that views t</photooverlay><photooverlay>his PhotoOverlay. The PhotoOverlay can be a simple 2D rectangle, a partial or full cylinder, or a sphere (for spherical panoramas). The overlay is placed at the specified location and oriented toward the Camera.</photooverlay></p>     <p>Because <photooverlay> is derived from <feature>, it can contain one of the two elements derived from <abstractview>—either <camera> or <lookat>. The Camera (or LookAt) specifies a <em>viewpoint</em> and a <em>viewing direction</em> (also referred to as a <em>view vector</em>). The PhotoOverlay is positioned in relation to the viewpoint. Specifically, the plane of a 2D rectangular image is orthogonal ("at right angles to") t</lookat></camera></abstractview></feature></photooverlay><photooverlay><feature><abstractview><camera><lookat>he view vector. The normal of this plane—that is, its front, which is the part with the photo—is oriented toward the viewpoint.</lookat></camera></abstractview></feature></photooverlay></p><p><a href="http://code.google.com/apis/kml/documentation/kml_tags_beta1.html#photooverlay">See here for full details</a></p><a href="http://4.bp.blogspot.com/_ADwvfqkxChw/RatsPPrCTzI/AAAAAAAAAE4/h3LvwPOHQOk/s320/geswiss4.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/RatsPPrCTzI/AAAAAAAAAE4/h3LvwPOHQOk/s320/geswiss4.jpg" alt="" border="0" /></a><p>Looks like our <a href="http://digitalurban.blogspot.com/2007/01/google-earth-panorama-viewer-tutorial.html">Google Earth Panorama viewer</a> (pictured above) may of had its day. Soon as we get a working version we will put up more details and a movie.<br /></p><br />Thanks go to Karl for emailing us the tip...

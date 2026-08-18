@@ -1,0 +1,13 @@
+---
+title: "CloudMade - The Isle of Man Mapped"
+date: 2008-07-17 11:44:00
+slug: "cloudmade-isle-of-man-mapped"
+permalink: "/blog/2008/07/17/cloudmade-isle-of-man-mapped/"
+author: "Andy"
+categories: ["openstreetmap"]
+tags: []
+excerpt: "Proving that you don't need huge resources, trucks or high end hardware the guys from CloudMade - Steve Coast and Nick Black along with long time OpenStreetMap contributor, Andy Robinson have been…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SH8zffJuB6I/AAAAAAAABQU/DcbIAUTV2UE/s200/cloudmade.png"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/SH8zffJuB6I/AAAAAAAABQU/DcbIAUTV2UE/s1600-h/cloudmade.png"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 135px; height: 137px;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SH8zffJuB6I/AAAAAAAABQU/DcbIAUTV2UE/s200/cloudmade.png" alt="" id="BLOGGER_PHOTO_ID_5223950708804290466" border="0" /></a>Proving that you don't need huge resources, trucks or high end hardware the guys from CloudMade  - Steve Coast and Nick Black along with long time OpenStreetMap contributor, Andy Robinson have been mapping the Isle of Man.<br /><br />Using a GPS, three bikes and a car all of the roads, rivers, train-tracks and airports as well as a huge number of the car parks,restaurants, schools and other amenities of the Isle of Man have been mapped in little under a week.<br /><br /><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/SH8zXaJQgAI/AAAAAAAABQM/6Lo94Ho4F3s/s1600-h/isleman.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/SH8zXaJQgAI/AAAAAAAABQM/6Lo94Ho4F3s/s400/isleman.png" alt="" id="BLOGGER_PHOTO_ID_5223950570021224450" border="0" /></a>Best of all the map is being made available via the OpenStreetMap project free of charge. The total cost of project was under £4000 although to be honest most of that is the cost of the laptops, a complete breakdown of equipment is below:<br /><br />6 x GPS Units (£360)<br />3 x Digital Cameras (£450)<br />3 x Laptops (£2100)<br />10s x rechargeable batteries (£15)<br />100s x elastic bands (£2)<br /><br />Its a different world compared to the large mapping companies, but if we wanted a map making we know who we would call - see <a href="http://www.cloudmade.com/">http://www.cloudmade.com/</a> for full details.<br /><br />You can take a <a href="http://maps.cloudmade.com/?lat=54.26198&lng=-4.35359&zoom=9&styleId=1">sneak preview of the map</a> before it makes its way onto <a href="http://www.openstreetmap.org/">OpenStreetMap</a>.</p>

@@ -1,0 +1,13 @@
+---
+title: "Google Earth Controlled via Atlas Gloves - Video Demo"
+date: 2006-08-03 09:00:00
+slug: "google-earth-controlled-via-atlas"
+permalink: "/blog/2006/08/03/google-earth-controlled-via-atlas/"
+author: "Andy"
+categories: ["Google Earth", "Movies 10-20"]
+tags: []
+excerpt: "Further to our previous post on Controlling Google Earth ala Minority Report, thanks to the Atlas Gloves from was Dan Phiffer and Mushon Zer-Aviv , we decided to try them out for ourselves. Using a…"
+hero: "/assets/uploads/external/photos1.blogger.com/blogger/835/752/320/Lights.jpg"
+---
+
+<p>Further to our previous post on <a href="http://digitalurban.blogspot.com/2006/08/minority-report-interface-to-google.html">Controlling Google </a><a href="http://photos1.blogger.com/blogger/835/752/1600/Lights.jpg"><img style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger/835/752/320/Lights.jpg" border="0" /></a><a href="http://digitalurban.blogspot.com/2006/08/minority-report-interface-to-google.html">Earth</a> ala Minority Report, thanks to the <a href="http://atlasgloves.org/">Atlas Gloves</a> from was <a href="http://phiffer.org/">Dan Phiffer </a>and <a href="http://shual.com/">Mushon Zer-Aviv</a>, we decided to try them out for ourselves.<br /><br />Using a pair of ping pong balls, that Joel our System Administrator found in a cupboard at home, a couple of led torches from down Tottenham Court Road and a touch of superglue we cobbled together our interpretation of the Atlas Glove controllers. (pictured right).<br /><br />For our test we utilized a projector displaying Google Earth and the control software in a blacked out lecture theatre. This allowed a clear view of the lights which are turned on and off in combination with various hand gestures to remotely control Google Earth. The movie below demonstrates the trial, we were going to leave the movie audio free but couldn't resist dubbing in the The Sorcerer's Apprentice by Stokowski. The controller is Joel who quickly became a master of the technique.<br /><br /><embed src="http://www.youtube.com/v/KMtTeAcPYoY" width="414" height="350" type="application/x-shockwave-flash"></embed><br /><br />Linking Google Earth to a remote vision based control interface is impressive and the fact it worked first time is testament to the teams clear instructions and software.<br /><br />Of note to some users experiencing a 'Grey Screen' when loading the software, through trial and error we found that you also need to install <a href="http://www.vdig.com/WinVDIG/rel_notes.html">WinVDIG version 1.1.1</a> (not the current 1.5 release). This enabled the control software to communicate with the webcam.</p>

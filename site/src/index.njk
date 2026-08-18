@@ -1,0 +1,91 @@
+---
+pagination:
+  data: collections.posts
+  size: 13
+  alias: items
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+---
+{% if pagination.pageNumber == 0 %}
+<div class="wrap">
+  <div class="masthead">
+    <h1>{{ site.tagline }}</h1>
+    <div class="masthead__aside">
+      <p>{{ site.subtitle }} &mdash; a research and making log kept since 2005.</p>
+      <div class="byline">
+        <div>{{ site.author }}</div>
+        <div>{{ site.role }}</div>
+        <div>{{ site.affiliation }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% set lead = items[0] %}
+<div class="wrap">
+  <div class="mono mono--accent section-label">{% if pagination.pageNumber == 0 %}Latest{% else %}Page {{ pagination.pageNumber + 1 }}{% endif %}</div>
+  <a class="featured" href="{{ lead.url }}">
+    <div class="thumb thumb--wide featured__media">
+      {% set img = lead.data.hero or (lead.templateContent | firstImage) %}
+      {% if img %}<img src="{{ img }}" alt="" loading="lazy" />{% endif %}
+    </div>
+    <div class="featured__body">
+      <div class="mono card__meta">
+        {% for c in lead.data.categories %}<span>{{ c }}</span>{% endfor %}
+        <span>{{ lead.date | date }}</span>
+      </div>
+      <h2>{{ lead.data.title }}</h2>
+      <p>{{ lead.data.excerpt }}</p>
+      <span class="more">Read &rarr;</span>
+    </div>
+  </a>
+
+  <div class="grid">
+    {% for p in items | tail(12) %}
+    <a class="card" href="{{ p.url }}">
+      <div class="thumb">
+        {% set img = p.data.hero or (p.templateContent | firstImage) %}
+        {% if img %}<img src="{{ img }}" alt="" loading="lazy" />{% endif %}
+      </div>
+      <div class="mono card__meta">
+        {% for c in p.data.categories %}<span>{{ c }}</span>{% endfor %}
+        <span>{{ p.date | date }}</span>
+      </div>
+      <h3>{{ p.data.title }}</h3>
+      <p>{{ p.data.excerpt | strip(120) }}</p>
+    </a>
+    {% endfor %}
+  </div>
+
+  <nav class="pager">
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&larr; Newer</a>{% endif %}
+    <span class="on">{{ pagination.pageNumber + 1 }}</span>
+    <span style="border:0;color:var(--muted)">of {{ pagination.pages.length }}</span>
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older &rarr;</a>{% endif %}
+    <a href="/archive/" style="margin-left:auto">Archive &amp; search</a>
+  </nav>
+</div>
+
+{% if pagination.pageNumber == 0 %}
+<section class="dark">
+  <div class="dark__in">
+    <div class="dark__head">
+      <h2>The archive</h2>
+      <span class="mono" style="color:var(--faint)">2005 &rarr; {{ "" | year }}</span>
+    </div>
+    <div class="figures">
+      <div class="figure"><span class="figure__n">{{ collections.posts.length }}</span><span class="figure__l">posts</span></div>
+      <div class="figure"><span class="figure__n">240</span><span class="figure__l">papers</span></div>
+      <div class="figure"><span class="figure__n">{{ collections.tagList.length }}</span><span class="figure__l">subject tags</span></div>
+      <div class="figure"><span class="figure__n">21</span><span class="figure__l">years</span></div>
+      <div class="figure"><span class="figure__n">2</span><span class="figure__l">books</span></div>
+      <div class="figure"><span class="figure__n">1</span><span class="figure__l">album</span></div>
+    </div>
+    <div class="index">
+      {% for t in collections.tagList | head(24) %}
+      <a href="/tag/{{ t[0] | slugify }}/">{{ t[0] }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

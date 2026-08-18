@@ -1,0 +1,13 @@
+---
+title: "Visualising City Wide Data: London Retail and Office Space"
+date: 2009-05-05 14:12:00
+slug: "visualising-city-wide-data-london"
+permalink: "/blog/2009/05/05/visualising-city-wide-data-london/"
+author: "Andy"
+categories: ["3D Max", "ArcScene", "Data Visualisation", "data visualization", "London Office", "London Retail"]
+tags: []
+excerpt: "The movie below is a visualisation of office and retail space in London. Using data kindly supplied by the Economics Unit at the Greater London Authority , Duncan Smith a PhD student here at CASA has…"
+hero: "/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/SgBJhtEdipI/AAAAAAAACGo/PMqSbxSxt2I/s400/Retailgrab.jpg"
+---
+
+<p><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/SgBJhtEdipI/AAAAAAAACGo/PMqSbxSxt2I/s1600-h/Retailgrab.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 172px;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/SgBJhtEdipI/AAAAAAAACGo/PMqSbxSxt2I/s400/Retailgrab.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5332342802189486738" /></a><br /><br />The movie below is a visualisation of office and retail space in London. Using data kindly supplied by the <a href="http://www.london.gov.uk/mayor/economic_unit/">Economics Unit at the Greater London Authority</a>, <a href="http://www.casa.ucl.ac.uk/people/person.asp?ID=166">Duncan Smith</a> a PhD student here at <a href="http://www.casa.ucl.ac.uk">CASA</a> has calculated the amount of retail and office in London per 500 metre grid square:<br /><center><object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/tDk9WTVvGw8&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tDk9WTVvGw8&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object></center><br /><br />Duncan carried out the analysis in ESRI's ArcScene as part of his PhD. Intriguingly it is possible to export from ArcScene into Autodesk's 3D Studio Max allowing a much higher level of visual fidelity.  Of course once it is in max you can then export to a number of other platforms, such as Unity as our <a href="http://digitalurban.blogspot.com/2009/05/unity-city-data-and-simulation.html">previous post</a> explained using the same data. <br /><br />Here at CASA we have just completed the initial phase of our London database, as such we will be exploring more ways to visualise city based datasets in forthcoming posts.</p>

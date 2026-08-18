@@ -1,0 +1,13 @@
+---
+title: "Second Life on the BBC - Is any News Newsworthy?"
+date: 2007-07-05 09:48:00
+slug: "second-life-on-bbc-is-any-news-news"
+permalink: "/blog/2007/07/05/second-life-on-bbc-is-any-news-news/"
+author: "Andy"
+categories: ["Second Life"]
+tags: []
+excerpt: "Second Life - a multi user virtual world that has grabbed the media's attention. Barely a day goes by without some sort of Second Life article in the main stream media and this by and large is a good…"
+hero: "/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/Roy_zG3ACbI/AAAAAAAAAcg/6cgcATyZU_A/s400/Capture.JPG"
+---
+
+<p><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/Roy_zG3ACbI/AAAAAAAAAcg/6cgcATyZU_A/s1600-h/Capture.JPG"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/Roy_zG3ACbI/AAAAAAAAAcg/6cgcATyZU_A/s400/Capture.JPG" alt="" id="BLOGGER_PHOTO_ID_5083648964129982898" border="0" /></a><a href="http://www.secondlife.com/">Second Life</a> - a multi user virtual world that has grabbed the media's attention. Barely a day goes by without some sort of Second Life article in the main stream media and this by and large is a good thing for Web 2.0.<br /><br />While we are increasingly convinced that companies and universities buying islands in Second Life is mainly down to the ability to put out a good press release and gain some kudos (See our post on <a href="http://digitalurban.blogspot.com/2007/06/universties-using-second-life-dont.html">Universities Using Second Life - Don't Believe the Hype</a>) Second Life does have a lot of offer in terms of collaborative working and interaction.<br /><br />The press machine is however going a little too far when the BBC runs an article on '<a href="http://news.bbc.co.uk/1/hi/world/europe/6250266.stm">Second Life win for Paris Garden</a>'. At first it looks like an innovative use of Second Life to involve the residents in the planning of a the garden in the outskirts of Paris. Winning a prize of 275,000 Linden Dollars - or £530 - the project involved people from all over the world to contribute and plan the new environment.<br /><br />All well and good, a few residents were involved and that can only be a good thing until you realise that non of the ideas will be turned into reality as the project did not take into account real-life conditions.<br /><br />At which point you begin to ask yourself the question is this really news worthy of a BBC Technology front page?<br /><br />In today's waves of hype of the next big thing in Web 2.0 it seems that anything is newsworthy.<br /><br />This is not to run down Second Life in any way shape or form, it is just that in its current incarnation we don't believe it quite lives up to the hype...</p>

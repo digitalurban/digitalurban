@@ -1,0 +1,26 @@
+---
+pagination:
+  data: collections.years
+  size: 1
+  alias: yr
+permalink: "/{{ yr[0] }}/"
+eleventyComputed:
+  title: "{{ yr[0] }}"
+---
+<div class="wrap">
+  <div class="page-head">
+    <h1>{{ yr[0] }}</h1>
+    <p>{{ yr[1] }} posts published in {{ yr[0] }}.</p>
+  </div>
+  <div class="results" style="padding-top:32px">
+    {% for p in collections.posts %}
+      {% if (p.date | date("yyyy")) == (yr[0] | string) %}
+      <a class="result" href="{{ p.url }}">
+        <span class="result__t">{{ p.data.title }}</span>
+        <span class="result__d">{{ p.date | date }}</span>
+      </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div style="height:80px"></div>
+</div>

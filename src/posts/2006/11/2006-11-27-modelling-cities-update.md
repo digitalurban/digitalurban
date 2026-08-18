@@ -1,0 +1,12 @@
+---
+title: "Modelling Cities - Update"
+date: 2006-11-27 11:14:00
+slug: "modelling-cities-update"
+permalink: "/blog/2006/11/27/modelling-cities-update/"
+author: "Andy"
+categories: ["Posts"]
+tags: []
+excerpt: "Our model of London extends out to the M25, covering approximately 2000km. Created from LiDAR and Ordnance Survey Mastermap outlines it provides a basic concept of the cities urban morphology. To…"
+---
+
+Our <a href="http://digitalurban.blogspot.com/search/label/Virtual%20London">model of London</a> extends out to the M25, covering <span>approximately</span> 2000km. Created from <span>LiDAR</span> and Ordnance Survey <span>Mastermap</span> outlines it provides a basic concept of the cities urban morphology. To gain a sense of location and place however you need the local <span>streetscape</span>, from the correct location of the <span>lamppost's</span> and signage to the <span>development</span> of detailed building facades.<br /><br /><div style="text-align: left;"><span style="font-weight: bold;">Movie Stage 1 Output</span><br /></div><br /><br /><center><br /><object width="415" height="350"><param name="movie" value="http://www.youtube.com/v/IgOc5XONi-0"></param><embed src="http://www.youtube.com/v/IgOc5XONi-0" type="application/x-shockwave-flash" width="415" height="350"></embed></object><br /></center><br /><br /><div style="text-align: left;"><span style="font-weight: bold;">Movie Stage 2 Output</span><br /></div><center><br /><br /><object width="415" height="350"><param name="movie" value="http://www.youtube.com/v/ZUaop1dmpXA"></param><embed src="http://www.youtube.com/v/ZUaop1dmpXA" type="application/x-shockwave-flash" width="415" height="350"></embed></object><br /></center><br /><br />The two movies above illustrate work to date with the project mid-way to completion on modelling the <span>streetscape</span> of <span>Newham</span> in London. The second movie includes air photography on both the ground and the buildings, <span>enhancing</span> the level of realism. The next step is the trees, <span>lamppost's</span>, signage and the <span>remaining</span> buildings and then finally porting the model into the <a href="http://digitalurban.blogspot.com/search/label/Game%20Engines">Oblivion Engine</a>.<br /><br />Further updates will follow, we should then have a blueprint on how to <span>rapidly</span> model the local <span>streetscape</span> with the aim of rapid <span>architectural</span> <span>visualisation</span>.<br /><a href="javascript:void(0)" tabindex="8"><span></span></a>

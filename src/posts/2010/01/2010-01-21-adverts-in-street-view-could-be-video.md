@@ -1,0 +1,13 @@
+---
+title: "Adverts in Street View - Could be Video?"
+date: 2010-01-21 10:30:00
+slug: "adverts-in-street-view-could-be-video"
+permalink: "/blog/2010/01/21/adverts-in-street-view-could-be-video/"
+author: "Andy"
+categories: ["google maps", "panoramic video", "Street View"]
+tags: []
+excerpt: "We noted last week via Gizmodo that Google has Google's filed a patent entitled \"Claiming Real Estate in Panoramic or 3D Mapping Environments for Advertising,\" which in short allows them to paste…"
+hero: "http://cache.gawker.com/assets/images/4/2010/01/500x_googlebillboard.jpg"
+---
+
+<p>We noted last week <a href="http://gizmodo.com/5446271/google-may-insert-real+time-ads-onto-old-billboards-in-street-view">via Gizmodo</a> that Google has Google's filed a patent entitled "Claiming Real Estate in Panoramic or 3D Mapping Environments for Advertising," which in short allows them to paste media (adverts) onto the images.<br /><br /><a href="http://cache.gawker.com/assets/images/4/2010/01/500x_googlebillboard.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 500px; height: 274px;" src="http://cache.gawker.com/assets/images/4/2010/01/500x_googlebillboard.jpg" alt="" border="0" /></a><br />Its interesting how the mouse in Street View follows the 3D space, we assume to allow any data to be tagged to buildings etc. With data of course comes the ability to provide click throughs and advertising. We dont think it will limited to simple images however as video can also be embedded into panoramas as one of our previous examples shows:<br /><br /><center><object height="345" width="600"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=3199589&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=3199589&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="345" width="600"></embed></object><br /><a href="http://vimeo.com/3199589">San Francisco Panorama with Embedded Video</a> from <a href="http://vimeo.com/user584207">digitalurban</a> on <a href="http://vimeo.com/">Vimeo</a>.</center><br /><br />The example was quite easy to produce, we used the real estate of Twin Peaks in San Francisco, but this could of easily been an advert above Buckingham Palace and then that's when things get interesting...<br /><br />View the <a href="http://digitalurban.blogspot.com/2009/02/twin-peaks-san-francisco-interactive.html">live version of the San Francisco video</a> embedded in panoramic space.</p>

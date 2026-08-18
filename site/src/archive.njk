@@ -1,0 +1,74 @@
+---
+title: Archive
+permalink: /archive/
+---
+<div class="wrap">
+  <div class="page-head">
+    <h1>Archive</h1>
+    <p>Every post since 2005, searchable by title, category and tag.</p>
+  </div>
+
+  <div style="padding:28px 0 8px">
+    <input class="search" id="q" type="search" placeholder="Search the archive" autocomplete="off" />
+    <p class="mono" id="count" style="padding-top:12px">{{ collections.posts.length }} posts indexed</p>
+  </div>
+
+  <div class="results" id="results"></div>
+
+  <div style="padding:48px 0 0">
+    <div class="mono mono--accent" style="padding-bottom:16px">By year</div>
+    <div class="years">
+      {% for y in collections.years %}
+      <a href="/{{ y[0] }}/">{{ y[0] }} <span>{{ y[1] }}</span></a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div style="padding:48px 0 80px">
+    <div class="mono mono--accent" style="padding-bottom:16px">All tags</div>
+    <div class="chips">
+      {% for t in collections.tagList %}
+      <a class="chip" href="/tag/{{ t[0] | slugify }}/">{{ t[0] }} <span style="color:var(--faint)">{{ t[1] }}</span></a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  var q = document.getElementById("q");
+  var out = document.getElementById("results");
+  var count = document.getElementById("count");
+  var index = null, timer;
+
+  function fmt(d) { return d.slice(0, 10).split("-").reverse().join("."); }
+
+  function render(rows, term) {
+    out.innerHTML = rows.slice(0, 60).map(function (r) {
+      return '<a class="result" href="' + r.u + '"><span class="result__t">' + r.t +
+        '</span><span class="result__d">' + fmt(r.d) + "</span></a>";
+    }).join("");
+    count.textContent = rows.length + " match" + (rows.length === 1 ? "" : "es") +
+      ' for "' + term + '"' + (rows.length > 60 ? " (showing 60)" : "");
+  }
+
+  q.addEventListener("input", function () {
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      var term = q.value.trim().toLowerCase();
+      if (term.length < 2) { out.innerHTML = ""; count.textContent = "Type to search"; return; }
+      var run = function (data) {
+        var words = term.split(/\s+/);
+        render(data.filter(function (r) {
+          var hay = (r.t + " " + r.k).toLowerCase();
+          return words.every(function (w) { return hay.indexOf(w) > -1; });
+        }), term);
+      };
+      if (index) { run(index); return; }
+      fetch("/search.json").then(function (r) { return r.json(); }).then(function (d) {
+        index = d; run(d);
+      });
+    }, 120);
+  });
+})();
+</script>

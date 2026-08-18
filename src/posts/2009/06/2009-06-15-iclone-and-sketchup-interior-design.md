@@ -1,0 +1,13 @@
+---
+title: "iClone and SketchUp: Interior Design Tutorials"
+date: 2009-06-15 09:10:00
+slug: "iclone-and-sketchup-interior-design"
+permalink: "/blog/2009/06/15/iclone-and-sketchup-interior-design/"
+author: "Andy"
+categories: ["3D Modelling", "iclone", "SketchUp"]
+tags: []
+excerpt: "As we have posted before, w e like iClone , the 3D creation program that allows avatars to be lip synced and placed in 3d scenes, its perfect for story telling, presentations and pre -visualisation.…"
+hero: "/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/iClone.jpg"
+---
+
+<p><br /><p><br /><a href="http://www.casa.ucl.ac.uk/andy/blogimages/iClone.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 600px; height: 248px;" src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/iClone.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5347481240719484578" /></a><br />As we have posted before, w<span>e like <a href="http://www.reallusion.com/iclone/default.asp"><span>iClone</span></a>, the </span>3D creation program that allows avatars to be lip synced and placed in 3d scenes, its perfect for story telling, presentations and <span>pre</span>-visualisation. Indeed we have recently used it in a grant bid, sometimes 3D avatars are better at communicating to an audience than 6 sides of A4 paper.<br /><br />One of its major benefits of iClone is its integration with the free version of SketchUp - 3d models can be imported and used within iClone with the addition of various realtime lighting and shadow effects. The two tutorials below provide a look at using SketchUp and iClone together for interior design:<br /><br /><center><object height="345" width="600"><param name="movie" value="http://www.youtube.com/v/s0he7n0ujos&hl=en&fs=1&"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/s0he7n0ujos&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="345" width="600"></embed></object></center><br />Part 2 focuses on lighting and textures:<br /><br /><center><object height="345" width="600"><param name="movie" value="http://www.youtube.com/v/J6ItEmpGE3w&hl=en&fs=1&"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/J6ItEmpGE3w&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="345" width="600"></embed></object></center><br /><br />If you are new to iClone it is well worth downloading the demo and looking through the examples at <a href="http://www.reallusion.com/iclone/">http://www.reallusion.com/iclone/</a>

@@ -1,0 +1,13 @@
+---
+title: "Timelapse: Making the Map"
+date: 2010-02-13 10:49:00
+slug: "timelapse-making-map"
+permalink: "/blog/2010/02/13/timelapse-making-map/"
+author: "Andy"
+categories: ["map making", "Timelapse"]
+tags: []
+excerpt: "Whether it is making a map of a city or a map of a local tourist attraction, as is the case below, there is a high level of expertise involved and it is mesmerising to see the process as a timelapse.…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/S3aEqPScIwI/AAAAAAAACUY/R5VlJ6EobVk/s400/flamingo_gardens_map.jpg"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/S3aEqPScIwI/AAAAAAAACUY/R5VlJ6EobVk/s1600-h/flamingo_gardens_map.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 227px;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/S3aEqPScIwI/AAAAAAAACUY/R5VlJ6EobVk/s400/flamingo_gardens_map.jpg" alt="" id="BLOGGER_PHOTO_ID_5437679461289698050" border="0" /></a>Whether it is making a map of a city or a map of a local tourist attraction, as is the case below, there is a high level of expertise involved and it is mesmerising to see the process as a timelapse.<br /><br />John Potter was recently contracted by the tourist attraction, Flamingo  Gardens, in Davie, Florida to redesign their visitor's map. He decided to record the project via an on going screen capture:<br /><br /><center><object height="450" width="600"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9404912&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=9404912&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="450" width="600"></embed></object><a href="http://vimeo.com/9404912">Adobe Illustrator Time-Lapse Video</a> from <a href="http://vimeo.com/escapekey">John Potter</a> on <a href="http://vimeo.com/">Vimeo</a>.</center><br />The style reminds us in some ways of 'Transport Tycoon' and that can only be a good thing. Read more about the project at <a href="http://www.escapekeygraphics.com/entry/118/Adobe_Illustrator_Time-Lapse_V/" rel="nofollow noopener" target="_blank">escapekeygraphics.com/entry/118/Adobe_Illustrator_Time-Lapse_V/</a> and see more of John's work at <a href="http://www.escapekeygraphics.com/" rel="nofollow noopener" target="_blank">escapekeygraphics.com</a></p>

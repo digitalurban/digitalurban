@@ -1,0 +1,12 @@
+---
+title: "The Balloon Project: Amsterdam and Berlin Aerial Imagery"
+date: 2009-02-28 10:44:00
+slug: "balloon-project-amsterdam-and-berlin"
+permalink: "/blog/2009/02/28/balloon-project-amsterdam-and-berlin/"
+author: "Andy"
+categories: ["Aerial Photography", "the balloon project"]
+tags: []
+excerpt: "The Balloon Project is charming in its simplicity - Luca and Ira send a video camera up into the sky hanging from helium balloons chasing it from below on bikes - and the results are fantastic. The…"
+---
+
+<p>The Balloon Project is charming in its simplicity  -  Luca and Ira send a video camera up into the sky hanging from helium balloons chasing it from below on bikes - and the results are fantastic.<br /><br />The project has covered various cities around the world, below is the capture of Amsterdam from July 2008:<br /><br /><center><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/67k4OATqDTA&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/67k4OATqDTA&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></center><br /><br />Carrying on the theme is Berlin, in their own words:<br /><br />It was a rainy afternoon in Berlin and our last chance to do The Berlin Balloon Project since Luca (one of the co-founders of The Balloon Project) was leaving the next day. We strapped more than 30 helium balloons to a video camera and sent it up all by itself over the city some few hundred meters. We then proceeded to chase it down with bikes as the rain slowly brought it back to earth. Watch "The Chase" to see how it looked from the ground:<br /><br /><center><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/2wajklGw21g&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2wajklGw21g&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></center><br /><br />You can view the balloons route mapped out: <a href="http://www.gmap-pedometer.com/?r=1710353">http://www.gmap-pedometer.com/?r=1710353</a><br /><br />It is well worth taking a look at <a href="http://theballoonproject.org/">http://theballoonproject.org/ </a></p>

@@ -1,0 +1,13 @@
+---
+title: "Mapping Just Got Easier - Google My Maps"
+date: 2007-04-05 08:00:00
+slug: "mapping-just-got-easier-google-my-maps"
+permalink: "/blog/2007/04/05/mapping-just-got-easier-google-my-maps/"
+author: "Andy"
+categories: ["Google My Maps"]
+tags: []
+excerpt: "Creating your own Google Maps used to be in the domain of people willing to open notepad and hack around with the code while applying for an API key. Google have now made the process a lot easier…"
+hero: "/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/RhStROUAedI/AAAAAAAAAP0/t7m6PYgxtOk/s320/mymap.JPG"
+---
+
+<p>Creating your own Google Maps used to be in the domain of people willing to open notepad and hack around with the code while applying for an <span>API</span> key. Google have now made the process a lot easier with the release of 'My Maps'.<br /><br /><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/RhStROUAedI/AAAAAAAAAP0/t7m6PYgxtOk/s1600-h/mymap.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/RhStROUAedI/AAAAAAAAAP0/t7m6PYgxtOk/s320/mymap.JPG" alt="" id="BLOGGER_PHOTO_ID_5049851593600563666" border="0" /></a>The creation process is predictably easy with the ability to add <span>placemarks</span>, icon types, polygons and lines. It was only a few months ago that placing a polygon on the map would of meant dipping into a high powered <span>GIS</span> (Geographic Information Package) and perhaps <span>enrolling</span> on a University course. It is now simply a case of drawing your shape and clicking 'save'.<br /><br />We have created <a href="http://maps.google.com/maps/ms?ie=UTF8&hl=en&amp;amp;amp;om=1&z=16&amp;ll=51.523377,-0.136642&spn=0.006235,0.017166&msid=107776304365755978893.00000111c0b03ac4f91b8&msa=0">our first map which you can view here</a>. The map contains a red icon which will act as an update to our current location - think of it as a map based personal <a href="http://digitalurban.blogspot.com/search/label/Twitter">Twitter</a>. We haven't worked out how to embed the map into the blog yet as interestingly the Google help files have yet to to be updated.<br /><br />Once your map is made and shared you can also click on the <span>KML</span> option and view it in Google Earth (thanks to the <a href="http://www.gearthblog.com/">Google Earth Blog</a> for that tip). <span>Google's</span> My Map may pass slightly <span>unnoticed</span> but it should go down as a defining moment in the ability to produce and distribute maps.<br /><br />To create your own map go to <a href="http://maps.google.com/maps">Google Maps </a>and select My Maps.</p>

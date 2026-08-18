@@ -1,0 +1,13 @@
+---
+title: "The London Data Table"
+date: 2012-04-27 10:54:00
+slug: "london-data-table"
+permalink: "/blog/2012/04/27/london-data-table/"
+author: "Andy"
+categories: ["data visualization", "London data", "opendata", "short throw projector"]
+tags: []
+excerpt: "As regular readers will know we recently held a one day conference here at CASA entitled Smart Cities, Bridging the Physical and Digital . As part of the conference Steven Gray and George MacKerron…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/-5fhGNA8-fwg/T5p5waE1fXI/AAAAAAAACy8/cFefUgIn5Kk/s640/IMG_1001.JPG"
+---
+
+<span style="font-family: Arial, Helvetica, sans-serif;">As regular readers will know we recently held a one day conference here at CASA entitled <a href="http://www.digitalurban.org/2012/04/casa-smart-cities-conference-report.html">Smart Cities, Bridging the Physical and Digital</a>. As part of the conference <a href="http://bigdatatoolkit.org/">Steven Gray </a>and <a href="http://mackerron.com/home/">George MacKerron</a> built various exhibition pieces, including the  London Data Table. Created in the shape of Greater London, the table had various visualisations projected onto its surface; from live aircraft positions, live traffic and bike hire usage to movies of public transport over 24 hours.  </span><br /><span style="font-family: Arial, Helvetica, sans-serif;"><br /></span><br /><div style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-5fhGNA8-fwg/T5p5waE1fXI/AAAAAAAACy8/cFefUgIn5Kk/s1600/IMG_1001.JPG" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: Arial, Helvetica, sans-serif;"><img border="0" height="480" src="/assets/uploads/external/4.bp.blogspot.com/-5fhGNA8-fwg/T5p5waE1fXI/AAAAAAAACy8/cFefUgIn5Kk/s640/IMG_1001.JPG" width="640" /></span></a></div><div style="background-color: white; color: #353535; line-height: 24px; margin-bottom: 24px; outline-color: initial; outline-style: initial; outline-width: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left;"><span style="background-color: white; font-family: Arial, Helvetica, sans-serif;"><br /></span><br /><span style="background-color: white; font-family: Arial, Helvetica, sans-serif;">Steven, over on his Big Data Blog has </span><a href="http://bigdatatoolkit.org/2012/04/26/london-data-table/" style="background-color: white; font-family: Arial, Helvetica, sans-serif;">written a write up on the logistics behind the build</a><span style="background-color: white; font-family: Arial, Helvetica, sans-serif;"> -  How big do we make the table? Can we find a projector with a short enough throw to project to the table? How were we going to mount the projector etc....</span></div>

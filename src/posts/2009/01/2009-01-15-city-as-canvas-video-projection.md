@@ -1,0 +1,13 @@
+---
+title: "The City as a Canvas: Video Projection Showreel 2009"
+date: 2009-01-15 14:35:00
+slug: "city-as-canvas-video-projection"
+permalink: "/blog/2009/01/15/city-as-canvas-video-projection/"
+author: "Andy"
+categories: ["Architectual Projection", "Projection"]
+tags: []
+excerpt: "We have posted quite a few times now about using projectors in the city to beam images onto Architecture and the screengrab above is one from one the best examples we have seen so far - the wireframe…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SW8ySLjj_wI/AAAAAAAAB7I/58StwLjJ8tI/s400/ProjectionWire.jpg"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/SW8ySLjj_wI/AAAAAAAAB7I/58StwLjJ8tI/s1600-h/ProjectionWire.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 222px;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SW8ySLjj_wI/AAAAAAAAB7I/58StwLjJ8tI/s400/ProjectionWire.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5291503375104605954" /></a><br />We have posted quite a few times now about using projectors in the city to beam images onto Architecture and the screengrab above is one from one the best examples we have seen so far - the wireframe drape appeals to the 3D modeller deep inside us.<br /><br />The 2009 showcase below by the 3D video projection mapping company <a href="http://www.easyweb.fr/indexenglish.html">EasyWeb</a> is extremely impressive:<br /><br /><center><object width="485" height="344"><param name="movie" value="http://www.youtube.com/v/3FQv_eAxp3c&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3FQv_eAxp3c&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="485" height="344"></embed></object></center><br /><br />We will have more examples, this time with a more portable projector, in future posts..<br /><br />Take a look at <a href="http://www.easyweb.fr/indexenglish.html">EasyWeb</a> for more details and movies.<br /><br />See also our post <a href="http://digitalurban.blogspot.com/2009/01/mini-projectors-in-city-its-going-to-be.html">Mini Projectors in the City: Its Going to be Big...</a></p>

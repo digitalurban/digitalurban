@@ -1,0 +1,9 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for p in collections.posts -%}
+{"t": {{ p.data.title | dump | safe }}, "u": {{ p.url | dump | safe }}, "d": "{{ p.date | iso }}", "k": {{ p.data.tags | default([]) | join(" ") | dump | safe }}}{% if not loop.last %},{% endif %}
+{%- endfor -%}
+]

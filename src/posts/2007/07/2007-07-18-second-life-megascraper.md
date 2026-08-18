@@ -1,0 +1,13 @@
+---
+title: "Second Life - The MegaScraper"
+date: 2007-07-18 09:36:00
+slug: "second-life-megascraper"
+permalink: "/blog/2007/07/18/second-life-megascraper/"
+author: "Andy"
+categories: ["Second Life"]
+tags: []
+excerpt: "The MegaScraper in Second Life was built by a user going by the name of Maxx Monde. The notecard attached to the building provides the following information: Originally built in the Morris Sandbox,…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/Rp3jZhqXbfI/AAAAAAAAAdQ/OMOHCMDygag/s400/slsky.jpg"
+---
+
+<p><a href="http://1.bp.blogspot.com/_ADwvfqkxChw/Rp3jZhqXbfI/AAAAAAAAAdQ/OMOHCMDygag/s1600-h/slsky.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/Rp3jZhqXbfI/AAAAAAAAAdQ/OMOHCMDygag/s400/slsky.jpg" alt="" id="BLOGGER_PHOTO_ID_5088473181670829554" border="0" /></a>The MegaScraper in Second Life was built by a user going by the name of Maxx Monde.<br /><br />The notecard attached to the building provides the following information:<br /><br /><span style="font-style: italic;">Originally built in the Morris Sandbox, briefly displayed at Avalon, the MegaScraper waspermanently relocated on March 3, 2004 to the Pomponio Volcano where it remains as a stunning landmark and an example of architecture as art.</span><br /><br /><span style="font-style: italic;">Standing on the volcano, the MegaScraper is the highest fully-built elevated point in the four surrounding sims of Davenport, Noyo, Albion, and Pomponio.</span><br /><br /><span style="font-style: italic;">The building is 226 meters tall, or 742 feet (the length of 2.5 football fields).  This puts the MegaScraper in the same class as the Chrysler Building in NYC (1046 feet) and the Eiffel Tower in Paris (986 feet).  In Second Life terms, the MegaScraper is roughly as tall as a sim is wide (256 meters)</span><br /><br /><span style="font-style: italic;">Future plans for the MegaScraper will feature art galleries and exhibits.  For more information, please contact Zero Medici.<br /></span><br />The YouTube movie embedded below provides a fly-through of the structure:<br /><br /><center><object height="350" width="425"> <param name="movie" value="http://www.youtube.com/v/k3TLcSBlOc8">  <embed src="http://www.youtube.com/v/k3TLcSBlOc8" type="application/x-shockwave-flash" height="350" width="425"></embed>  </object></center><br /><br />We came across the MegaScraper by accident while looking for information on 'rezzing' in Second Life.<br /><br />If you have <a href="http://www.secondlife.com/">Second Life</a> installed you can <a href="secondlife://davenport/72/77/">teleport directly there</a>.<br /><span style="font-style: italic;"></span></p>

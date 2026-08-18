@@ -1,0 +1,13 @@
+---
+title: "Forthcoming Tutorial: The Rendered City"
+date: 2008-03-06 19:19:00
+slug: "forthcoming-tutorial-rendered-city"
+permalink: "/blog/2008/03/06/forthcoming-tutorial-rendered-city/"
+author: "Andy"
+categories: ["Posts"]
+tags: []
+excerpt: "Have you ever read a book on architectural visualisation or 3D modelling and still been left in the dark about how to create all the stunning images featured inside? Maybe its just us but we are…"
+hero: "/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/R9BMSlRSpkI/AAAAAAAABGk/dxhvIoUAp78/s400/fan.jpg"
+---
+
+<p><a href="http://3.bp.blogspot.com/_ADwvfqkxChw/R9BMSlRSpkI/AAAAAAAABGk/dxhvIoUAp78/s1600-h/fan.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/3.bp.blogspot.com/_ADwvfqkxChw/R9BMSlRSpkI/AAAAAAAABGk/dxhvIoUAp78/s400/fan.jpg" alt="" id="BLOGGER_PHOTO_ID_5174719853974693442" border="0" /></a><br />Have you ever read a book on architectural visualisation or 3D modelling and still been left in the dark about how to create all the stunning images featured inside? Maybe its just us but we are often left frustrated with books/tutorials that don't quite live up to the hype.<br /><br />As such we are thinking about putting together a new series of posts looking at creating and rendering your own city, complete with lighting and overview textures. Modelling a city in packages such as 3D max can seem like a daunting task but with the right steps images such as the one above and below can be achieved from scratch in just a few hours.<br /><br /><a href="http://2.bp.blogspot.com/_ADwvfqkxChw/R9BEQVRSpjI/AAAAAAAABGc/9TX5mbfusDI/s1600-h/NewFanCity1.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/assets/uploads/external/2.bp.blogspot.com/_ADwvfqkxChw/R9BEQVRSpjI/AAAAAAAABGc/9TX5mbfusDI/s400/NewFanCity1.png" alt="" id="BLOGGER_PHOTO_ID_5174711019226965554" border="0" /></a>Our second part of '<a href="http://digitalurban.blogspot.com/2008/03/greeble-3d-city-tutorial-1-skyscraper-1.html">Greebling a City</a>' will go online soon with the Crysis tutorial frustratingly moved to next week due to frequent crashes with their new SDK.<br /><br />Next week we have news of how to get hold of our booklet - Digital Geography: Geographic Visualisation for Urban Environments  - which acts as an overview of the latest work via the blog along with a number of tutorials on how to create panoramas, google maps and visualisation in google earth.<br /><br />The full book on Digital Urban will be available in the summer, if you have a tutorial you would like to see either on the blog or in the book, do let us know via the comment box below.</p>

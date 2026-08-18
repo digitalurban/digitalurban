@@ -1,0 +1,13 @@
+---
+title: "CNN Plans Obama Inauguration 3D Capture: Photosynth and Crowd Sourcing"
+date: 2009-01-18 17:24:00
+slug: "cnn-plans-obama-inauguration-3d-capture"
+permalink: "/blog/2009/01/18/cnn-plans-obama-inauguration-3d-capture/"
+author: "Andy"
+categories: ["CNN The Moment", "Obama", "Photosynth"]
+tags: []
+excerpt: "Post update - video of the resulting Photosynth is now part of a new post here . Microsofts Photosynth is without question a technology to watch and CNN are about to push it to a new level with their…"
+hero: "/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SXNoIrwRw6I/AAAAAAAAB7o/yiV-DXy2Blc/s400/Obamaphotosynth.png"
+---
+
+<a href="http://1.bp.blogspot.com/_ADwvfqkxChw/SXNoIrwRw6I/AAAAAAAAB7o/yiV-DXy2Blc/s1600-h/Obamaphotosynth.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 141px;" src="/assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/SXNoIrwRw6I/AAAAAAAAB7o/yiV-DXy2Blc/s400/Obamaphotosynth.png" alt="" id="BLOGGER_PHOTO_ID_5292688485483922338" border="0" /></a><br /><br />Post update - video of the resulting Photosynth is now part of a <a href="http://digitalurban.blogspot.com/2009/01/obama-photosynth-video-moment-cnn.html">new post here</a>.<br /><br />Microsofts Photosynth is without question a technology to watch and CNN are about to push it to a new level with their plans to capture a moment in time in 3D.  The moment of capture is January 20th 12:00pm ET when Barack Obama places his hand on the bible and takes the presidential oath of office.<br /><br />At that point if you are in the crowd CNN wants you to:<br /><div style="padding: 15px 20px;">                <div><b>1.</b> Take one photo of the moment when Obama takes the oath. If you have a digital camera with a zoom lens, take three photos (wide-angle, mid-zoom, full-zoom)<br />   <br /></div>         <div><b>2.</b> E-mail each photo as soon as possible to <a href="mailto:themoment@cnn.com">themoment@cnn.com</a> (one photo per message, 10MB size limit). Don't forget to include your name in the message if you'd like to appear in the list of the contributors. Please only send in photos you took yourself.<br /><br /></div>         <div><b>3.</b> Go to <a href="http://www.cnn.com/SPECIALS/2009/44.president/inauguration/themoment/">cnn.com/themoment</a> to see all of the photos in our photosynth</div>            </div>Its an intriguing idea to capture a moment in time in 3D using essentially crowd sourced images, we cant wait to see how it turns out.<br /><br />Take a look at CNNs '<a href="http://www.cnn.com/SPECIALS/2009/44.president/inauguration/themoment/">The Moment</a>' site for more information.

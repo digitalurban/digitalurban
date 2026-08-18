@@ -1,0 +1,13 @@
+---
+title: "First Book Contribution - Exhibition Road Pedestrian Subway, London"
+date: 2007-11-19 10:09:00
+slug: "frist-book-contribution-exhibition-road"
+permalink: "/blog/2007/11/19/frist-book-contribution-exhibition-road/"
+author: "Andy"
+categories: ["Book"]
+tags: []
+excerpt: "Frankie Roberto has become the first contributor to the forthcoming book Digital Urban Book - The Worlds Worst Urban Places and Spaces authored completely by readers of the blog. In Frankies' words…"
+hero: "/assets/uploads/external/farm3.static.flickr.com/2277/2040510129_a99e5e1bf9.jpg"
+---
+
+<p><a href="http://farm3.static.flickr.com/2277/2040510129_a99e5e1bf9.jpg?v=0"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="/assets/uploads/external/farm3.static.flickr.com/2277/2040510129_a99e5e1bf9.jpg" alt="" border="0" /></a><a href="http://www.flickr.com/photos/frankieroberto/">Frankie Roberto</a> has become the first contributor to the forthcoming book Digital Urban Book - The Worlds Worst Urban Places and Spaces authored completely by readers of the blog.<br /><br />In Frankies' words the image captures the pedestrian subway that runs under Exhibition Road from South Kensington tube station to the three major museums of the area. In school holidays it echoes with the sound of excitable children, at other times it's just a souless, never ending tunnel of despair with little daylight, and no connection with the outside environment. Worse, the subway is prone to leaking when it rains, sometimes to the extent that the subway has to be closed, ironically at the time when it's most useful.<br /><br />If you would like to contribute it is easy, simply go out into your local urban environment and photograph anything that you think is an example of poor architecture, urban design or use of space. It could be a photograph of a run down phonebox or a disused building, perhaps a concrete monstrosity from the 1970's or anything that you think fits.<br /><br />Once you have your photograph you can simply upload it to our newly created group on Flickr, <a href="http://www.flickr.com/groups/608622@N22/">Worlds Worst Urban Spaces and Place</a> including a description of between 100 and 250 words.<br /><br />Its as simple as that, see our <a href="http://digitalurban.blogspot.com/2007/11/become-author-digital-urbans-worlds.html">previous post for full details on the book</a>.<br /><br />See the <a href="http://worsturban.blogspot.com/index.html">Worlds Worst Urban Spaces and Places blog</a> for the latest posts (note this will take shape over the coming weeks as content is sent in via Flickr)</p>

@@ -1,0 +1,13 @@
+---
+title: "Second Life 'Step Inside Panorama' - Chapel of St Peter and St Paul by Christopher Wren"
+date: 2007-07-10 11:27:00
+slug: "second-life-step-inside-panorama-chapel"
+permalink: "/blog/2007/07/10/second-life-step-inside-panorama-chapel/"
+author: "Andy"
+categories: ["Second Life"]
+tags: []
+excerpt: "Taking our slightly belated first steps into building in Second Life the natural thing to do was to portray the work of the architect Christopher Wren in the virtual world. Using a combination of a…"
+hero: "/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/Chapel.jpg"
+---
+
+<p><img src="/assets/uploads/external/www.casa.ucl.ac.uk/andy/blogimages/Chapel.jpg" /><br /><br />Taking our slightly belated first steps into building in <a href="http://www.secondlife.com">Second Life</a> the natural thing to do was to portray the work of the architect Christopher Wren in the virtual world.<br /><br />Using a combination of a 360x180 degree panorama and a hollow sphere it is possible to quickly and easily import such scenes into Second Life - as the movie below illustrates:<br /><br /><center><object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/wElsts-ySVw"> </param> <embed src="http://www.youtube.com/v/wElsts-ySVw" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object></center><br /><br /><br />The Chapel was designed by Christopher Wren and Thomas Ripley although it is not in its original form as in 1779, fire gutted the building. After the fire it was redesigned by "Athenian" Stuart and William Newton creating the building we see today.<br /><br />Notable features in the Chapel are the painting above the altar entitled 'The Preservation of St Paul after Shipwreck at Malta' by American painter Benjamin West. The Chapel has an open service every Sunday at 11am and is well worth a visit, it is also open to the general public during the week and over the weekend.<br /><br />Thanks go to Ann, an old friend from our <a href="http://digitalurban.blogspot.com/2005/05/avatar-teleports-30-days-in.html">30 Days in ActiveWorlds</a> days for taking us through our first build in Second Life.<br /><br /><a href="http://www.casa.ucl.ac.uk/andy/qt/Chapel.html">View the Quicktime panorama of The Chapel of St Peter and St Paul , London</a> (2.4mb).<br /><br />See also <a href="http://digitalurban.blogspot.com/2007/05/oblivion-step-inside-panoramas-sample.html">'Step Inside Spheres - Oblivion'</a>,<a href="http://digitalurban.blogspot.com/search/label/Google%20Earth%20Panoramic%20Spheres">'Google Earth Panoramic Spheres'</a> and <a href="http://digitalurban.blogspot.com/2006/07/high-definition-720p-historic-london.html">'High Definition Panoramic Movies'</a>.</p>

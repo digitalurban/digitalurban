@@ -1,0 +1,12 @@
+---
+title: "Google (?) PhotoSketch - Rapid Photo Modelling"
+date: 2007-07-17 16:21:00
+slug: "google-photosketch-rapid-photo"
+permalink: "/blog/2007/07/17/google-photosketch-rapid-photo/"
+author: "Andy"
+categories: ["PhotoSketch Google Earth"]
+tags: []
+excerpt: "Photomodelling has been a slightly disregarded technology since Adobe acquired and subsequently dropped CANOMA (see our post on Great Software from the Past ). The release of Google Earth and more…"
+---
+
+<p><span>Photomodelling</span> has been a slightly disregarded technology since Adobe acquired and subsequently dropped <span>CANOMA</span> (see our post on <a href="http://digitalurban.blogspot.com/2006/12/great-software-from-past-canoma.html">Great Software from the Past</a>). The release of Google Earth and more recently Microsoft's Virtual Earth have bought the issue of rapid <span>photomodelling</span> to the forefront of the race to capture cities digitally.<br /><br />To date Microsoft have been leading the way with their <span>photorealistic</span> automatic capture of cities such a New York (see <a href="http://digitalurban.blogspot.com/2007/05/populating-digital-earth-its-expensive.html">Populating the Digital Earth</a>) with the aim of 500 new cities in the next year. While this is impressive it lacks the 'community owned' approach of Google and thus numbers of users.<br /><br />As such it is without <span>surprise</span> that Google has just released a video detailing its new product '<span>PhotoSketch</span>' - a combination of <span>automatic</span> camera <span>calibration</span> from photographs and the simplicity of modelling using <span>SketchUp</span>. PhotoSketch addresses a number of the points needed for rapid <span>photomodelling</span> for Google Earth and general city model <span>development</span>.<br /><br />The <span>presentation</span> is 58 minutes long but well worth the time, grab a cup of tea, sit back and take a look at <span>PhotoSketch</span>:<br /><br /><center><embed style="width: 400px; height: 326px;" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-4452669873579375047&hl=en" flashvars=""></embed> </center><br /><br />Aimed as ever with Google at the average user rather than the high end photogrammetric market it has the potential to change the modelling industry.<br /><br />Now where are all those photographs we took for CANOMA?<br /><br />Thanks to <a href="http://www.gearthblog.com/">The Google Earth Blog</a> for the link..</p>

@@ -1,0 +1,13 @@
+---
+title: "Digital Urban Survey: Moving to a .Com or .Org?"
+date: 2010-06-01 09:33:00
+slug: "digital-urban-survey-moving-to-com-or"
+permalink: "/blog/2010/06/01/digital-urban-survey-moving-to-com-or/"
+author: "Andy"
+categories: ["blogger", "digitalurban", "surveymapper"]
+tags: []
+excerpt: "Its been over five years now and with a series of new project such as TalesofThings , SurveyMapper and the Masters Course in Advanced Spatial Analysis and Visualisation the blog is looking like it…"
+hero: "/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/TATPesvn-JI/AAAAAAAACYQ/V_E6s4bPvVg/s640/dusurvey1.png"
+---
+
+Its been over five years now and with a series of new project such as <a href="http://www.talesofthings.com/">TalesofThings</a>, <a href="http://www.surveymapper.com/">SurveyMapper</a> and the <a href="http://digitalurban.blogspot.com/2010/05/mres-advanced-spatial-analysis-and.html">Masters Course in Advanced Spatial Analysis and Visualisation</a> the blog is looking like it might need a new home.<br /><br />We have three choices at the moment, one is to move to a .com - digitalurban.com is sadly taken by a name holder who wants $600, so that's out. However, we do have the option to move to digital-urban.com. The second is to embrace the nature of digitalurban and make it a .org. The domain digitalurban.org was very kindly purchased and passed on to us by the nice people at the <a href="http://www.redfish.com/">Redfish Group in Santa Fe</a>. The final choice is to leave things as is and carry on regardless with .blogspot.com.<br /><br /><div style="clear: both; text-align: center;"><a href="http://www.surveymapper.com/response.aspx?id=30" style="margin-left: 1em; margin-right: 1em;"><img src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/TATPesvn-JI/AAAAAAAACYQ/V_E6s4bPvVg/s640/dusurvey1.png" height="417" width="640" border="0" /></a></div><br />Any changes we make will not affect your bookmarks or links as Blogger allows a quick and easy way to change domains but keep the system. The only direct change will be all the 'retweets' will jump back to '0' as they are tied to the direct link.<br /><br />As such we thought we would throw the question open to you, the readers. The survey will only take a couple of seconds to complete and it will also help us test out the 'world mapping' system over at SurveyMapper which is about to enter open Beta.<br /><br />So .com/.org or leave it as is: <a href="http://www.surveymapper.com/response.aspx?id=30">http://www.surveymapper.com/response.aspx?id=30 </a><br /><br />Thanks a lot if you do take part, it all helps us shape the next stage of digital urban.

@@ -1,0 +1,12 @@
+---
+title: "Infoterra prepares launch of cutting edge 3D city mapping tool – Skape"
+date: 2009-09-25 08:37:00
+slug: "infoterra-prepares-launch-of-cutting"
+permalink: "/blog/2009/09/25/infoterra-prepares-launch-of-cutting/"
+author: "Andy"
+categories: ["3D City", "3d city building", "Infoterra"]
+tags: []
+excerpt: "Infoterra Ltd, is a UK based provider of geographic information products and services. We have worked with them quite a lot over the years and they are one of the leading innovators in the field of…"
+---
+
+<p>Infoterra Ltd, is a UK based provider of geographic information products and services. We have worked with them quite a lot over the years and they are one of the leading innovators in the field of commercial photogrammerty. It is therefore of note when they send a press release round regarding a brand new 3D city mapping service launching later this year which it says “will have to be seen to be believed”.<br /><br />Named Skape, it aims to provide B2B professionals with presentational 3D city and mapping data as well as high accuracy building information of the UK’s major cities, all captured by the company’s own dedicated fleet of aircrafts and sensors.<br /><br />The movie below provides a first look at Skapes output:<br /><br /><center><object width="600" height="345"><param name="movie" value="http://www.youtube.com/v/K5bHMj6AsVw&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/K5bHMj6AsVw&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="345"></embed></object></center><br /><br />The days of grey scale buildings seem to of gone, with Google launching its automated photorealistic cities - <a href="http://digitalurban.blogspot.com/2009/09/3d-birmingham-now-in-google-earth.html">see out post on 3D Birmingham</a> - and <a href="http://www.infoterra-global.com/">Infoterra</a> rolling out a similar commercial service it looks like we are entering a new phase of digital cities.<br /><br />Skape will be launched to the market later this year. To register interest and to receive updates prior to launch, please visit <a href="http://www.skapeworld.com">www.skapeworld.com</a>.<br /><br />See also the<a href="http://blog.skapeworld.com/"> Skape Blog</a> for the latest news on the software, views and development.</p>
