@@ -83,7 +83,7 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
     </div>
     <div class="index">
       {% for t in collections.tagList | head(24) %}
-      <a href="/tag/{{ t[0] | slugify }}/">{{ t[0] }}</a>
+      <a href="/tag/{{ t[2] }}/">{{ t[0] }}</a>
       {% endfor %}
     </div>
   </div>

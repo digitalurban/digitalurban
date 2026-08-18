@@ -3,28 +3,25 @@ pagination:
   data: collections.tagList
   size: 1
   alias: tag
-permalink: "/tag/{{ tag[0] | slugify }}/"
+permalink: "/tag/{{ tag[2] }}/"
 eleventyComputed:
   title: "{{ tag[0] }}"
 ---
-{% set name = tag[0] %}
 <div class="wrap">
   <div class="page-head">
-    <h1>{{ name }}</h1>
-    <p>{{ tag[1] }} posts tagged {{ name }}.</p>
+    <h1>{{ tag[0] }}</h1>
+    <p>{{ tag[1] }} post{% if tag[1] != 1 %}s{% endif %} tagged {{ tag[0] }}.</p>
   </div>
   <div class="grid">
-    {% for p in collections.posts %}
-      {% if name in p.data.tags %}
-      <a class="card" href="{{ p.url }}">
-        <div class="thumb">
-          {% set img = p.data.hero or (p.templateContent | firstImage) %}
-          {% if img %}<img src="{{ img }}" alt="" loading="lazy" />{% endif %}
-        </div>
-        <div class="mono card__meta"><span>{{ p.date | date }}</span></div>
-        <h3>{{ p.data.title }}</h3>
-      </a>
-      {% endif %}
+    {% for p in collections.posts | tagged(tag[3]) %}
+    <a class="card" href="{{ p.url }}">
+      <div class="thumb">
+        {% set img = p.data.hero or (p.templateContent | firstImage) %}
+        {% if img %}<img src="{{ img }}" alt="" loading="lazy" />{% endif %}
+      </div>
+      <div class="mono card__meta"><span>{{ p.date | date }}</span></div>
+      <h3>{{ p.data.title }}</h3>
+    </a>
     {% endfor %}
   </div>
   <div style="height:60px"></div>

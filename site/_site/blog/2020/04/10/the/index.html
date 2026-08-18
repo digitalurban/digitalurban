@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Make an eInk MQTT Reader for the Time, News and Environmental Data — Digital Urban</title>
+<meta name="description" content="&#39;THE&#39; is a mini MQTT Information Display for Time, News and Environmental Information. Using a 4.2-inch eInk screen, its concept is simple - to display information on a rotational basis, updating…" />
+<link rel="canonical" href="https://www.digitalurban.org/blog/2020/04/10/the/" />
+<meta property="og:site_name" content="Digital Urban" />
+<meta property="og:title" content="Make an eInk MQTT Reader for the Time, News and Environmental Data" />
+<meta property="og:description" content="&#39;THE&#39; is a mini MQTT Information Display for Time, News and Environmental Information. Using a 4.2-inch eInk screen, its concept is simple - to display information on a rotational basis, updating…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@digitalurban" />
+<link rel="alternate" type="application/rss+xml" title="Digital Urban" href="/feed.xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<meta name="theme-color" content="#c8481f" />
+<meta property="og:image" content="https://www.digitalurban.org/assets/uploads/2019/12/IMG_1880-2-scaled-1.jpeg" />
+<link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+
+<header class="site-head">
+  <div class="site-head__in">
+    <a class="wordmark" href="/">Digital Urban</a>
+    <nav class="site-nav">
+      <a href="/">Latest</a>
+      <a href="/projects/">Projects</a>
+      <a href="/books/">Books</a>
+      <a href="/archive/">Archive</a>
+      <a href="/about/">About / Papers</a>
+    </nav>
+  </div>
+</header>
+
+<article>
+  <header class="wrap">
+    <p style="padding-top:48px;margin:0"><a class="mono" href="/">&larr; Latest</a></p>
+    <div class="post-head">
+      <div class="mono post-head__meta">
+        <span class="mono--accent">Making</span>
+        <span>10.04.2020</span>
+        <span>6 min read</span>
+      </div>
+      <h1>Make an eInk MQTT Reader for the Time, News and Environmental Data</h1>
+      <div class="mono post-head__by">
+        <span>Andy</span>
+        <span>CASA, UCL East</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="post-body">
+      <div class="prose">
+        <p><strong>'THE' is a mini MQTT Information Display for Time, News and Environmental Information.  </strong>Using a 4.2-inch eInk screen, its concept is simple - to display information on a rotational basis, updating every couple of minutes. The data can be any feed - from the latest news headlines through to your smart home, energy usage, live local environmental conditions or simply the time - THE - Time, Headlines &amp; Environment.'THE' is built from two simple off the shelf components (an eInk InkyWHAT screen from Pimoroni and a Raspberry Pi) the code and the 3D printed casing are open source, allowing you to modify or redesign your own. You can follow along here or also take a look at the build at Instructable - <a href="https://www.instructables.com/id/Make-Your-Own-MQTT-EInk-Display-for-Time-News-and-/">https://www.instructables.com/id/Make-Your-Own-MQTT-EInk-Display-for-Time-News-and-/</a>
+The concept comes from a long tradition of viewing data on a screen, from systems such as Teletext, through to the beloved Chumby, onwards to the Sony Dash and then they current iterations of the Echo Show and Google Home. Yet there is a need for a simple information display that does not listen in, does not play music or videos and does not rely on having cloud-based data. Something that simply displays information, at a glance using a beautiful non lit eink screen, on widgets that cycle at predetermined intervals. One brilliant example is the eInk Status Display, using the InkyPhat see <a href="https://jsutton.co.uk/eink-mqtt-status/">https://jsutton.co.uk/eink-mqtt-status/</a> for details. Thus with these in mind and some code to work on 'THE' was born, one cold weekend in November in deepest Norfolk, while thinking about the Connected Environments Curriculum back at University College London.At its heart, THE is powered by <strong>M</strong>essage<strong> Q</strong>ueuing<strong> T</strong>elemetry <strong>T</strong>ransport (MQTT), allowing it to receive messages as soon as they are broadcast, via series of scripts, written in Python. THE subscribes to the topic (THE/messages) which are displayed on the eInk screen whenever a new one arrives. This allows the hub of THE to simply be a displayer of a single message topic with the timings and subjects configured by external scripts. The configuration allows the system to display a wide range of data sources from internal sources around Smart Home Automation Systems through to the news headlines, personal messages to friends or family or simply to display the time.<strong>To Make a THE you require:</strong></p>
+<ol>
+ 	<li>A Raspberry Pi (a Pi zero, or a Pi 3 ) - we used a Pi 3 for ours.</li>
+ 	<li><a href="https://shop.pimoroni.com/products/inky-what?variant=13590497624147">An InkywHAT screen;</a></li>
+ 	<li>If using a Pi 3 - <a href="https://www.amazon.co.uk/dp/B07DBX1V44/ref=sspa_dk_detail_0?psc=1&amp;pd_rd_i=B07DBX1V44&amp;pd_rd_w=1HdMP&amp;pf_rd_p=1055d8b2-c10c-4d7d-b50d-96300553e15d&amp;pd_rd_wg=Y4qQz&amp;pf_rd_r=4JJ8PF3QKTVX0BY3XV24&amp;pd_rd_r=e3740e56-0705-448d-931f-71dec884f3ef&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExS1ZSQVVaREZQMEFIJmVuY3J5cHRlZElkPUEwNTMyMDk0MTQ1WTZCNklTQ005VyZlbmNyeXB0ZWRBZElkPUEwNDA0NTMzMzBJRUlNQk9UTVgxUiZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">a right angled USB cable</a> (so the cable fits in the case);</li>
+ 	<li>An MQTT broker - either running on your Pi or elsewhere. Don't worry if you do not have one or are not sure what MQTT is, its quick and easy to set up and once installed it will automatically run - take a look at <a href="https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/">https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/</a> for a full and easy to follow tutorial on getting MQTT running - in this case mosquitto on your Pi.</li>
+ 	<li>An easy to fit case - head over to <a href="https://www.thingiverse.com/thing:4036382">Thingiverse to download and print our open source case</a>.</li>
+ 	<li>Our free and open source scripts to collect the Time, News and Environment conditions.</li>
+</ol>
+<strong>Step One: Installing the InkywHAT</strong>
+The first step is to set and install your InkyWhat eInk sceen. You can install the libraires required for your InkyWHAT by using the easy one-line-installer.
+Open a new terminal to connect to your Pi, and type the following, making sure to type y or n when prompted:
+<div class="codehilite">
+<pre class="EnlighterJSRAW" data-enlighter-language="null">curl https://get.pimoroni.com/inky | bash</pre>
+The one-line-installer puts everything in place to get your eInk screen up and running, we recommend you head over to the <a href="https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-what">Pimoroni Getting Started with InkyWhat</a> for more info and examples - just to check its working.
+</div>
+<strong>Step Two: Getting the Time, News and Environmental Information</strong>
+THE updates its information via subscribing to an MQTT topic, our custom scripts pull in other sources of information and publish to this topic, allowing any number of sources of information to be used. There are three main files - one for the Time, a second for the News Feed and a the third for Weather conditions.
+<strong>Getting the Time:</strong>
+All our files are available via the Connected Environments githib for THE - <a href="https://github.com/ucl-casa-ce/THE">https://github.com/ucl-casa-ce/THE</a>
+For the time - download timetomqtt.py.
+The script gets the current time and converts it to words for display on THE - so, for example, 12.14pm becomes The Time is Fourteen Minutes Past Twelve and so on. In the script you need to edit it to add in your own MQTT details  - we have highlighted the parts to edit in the code.
+Copy it across to your Pi in a folder - we use /home/pi/scripts  - this can be down either via the command line or via ftp via <a href="https://filezilla-project.org/">Filezilla</a> or similar.
+<strong>Getting the News:</strong>
+For the news, download rsstomqtt.py.
+The script gets the latest news from Sky and publishes it to MQTT for THE. You can edit the news source as required in the file. This file can also be copied to pull in any RSS feed directly onto your THE. As before, in the script you need to edit it to add in your own MQTT details  - we have highlighted the parts to edit in the code.
+<strong>Getting the Weather:</strong>
+For the weather, download darkskytomqtt.py
+You need to sign up to use the <a href="https://darksky.net/dev">Darksky API</a> (don't worry, it's free and allows up to 1000 calls a day, more than enough to display the latest weather on THE). In our script, simply put in your DarkSky key, which you will receive when you sign up to the API and also your longitude and latitude for the location you want to obtain the data for.
+You can find a long and lat via  <a href="https://www.latlong.net/">https://www.latlong.net/</a>
+If all this is new then it may sound complicated but with a little trial and error you will be able to edit files, write your own and get the information you want on THE in no time. Any issues just drop is a line via the contact form below..<strong>Step Three - THE </strong>
+Once you have the scripts to collect the feeds you needs to install the main script to run THE.
+Download THE_pi_what.py
+As with the other scripts, edit where indicated and add in your own MQTT details. Once edited, copy it across to your Pi with your other scripts.
+Finally you need the font and the background image:
+Download hm.ttf (the font)
+Download whatbackground.png
+These go in a new folder called 'resources' inside the scripts folder you crearted on your pi - simply create the new folder and copy the files across.<strong>Step Four - Run the Scripts at Set Times.</strong>
+The scripts run at set times on the pi via the cron service. To set this up, simply log into your pi via ssh and type
+<pre class="EnlighterJSRAW" data-enlighter-language="null">sudo crontab -e</pre>
+This sets up a new cron process - if asked select option '2' to edit with nano - copy the following into the cron file and save (cntl x).
+<pre class="EnlighterJSRAW" data-enlighter-language="null">*/5 * * * * python3 /home/pi/scripts/timetomqtt.py
+*/12 * * * * python3 /home/pi/scripts/rsstomqtt.py
+*/18 * * * * python3 /home/pi/scripts/darkskytomqtt.py
+@reboot sleep 10 &amp;&amp; python3 /home/pi/scripts/THE_pi_what.py
+*/60 * * * * sudo reboot</pre>
+&nbsp;
+The scripts run at set times - change them to any time to wish. We reboot the pi every hour to keep things fresh - this is not required and we know it is not the best of practice but we have found it keeps things running for our purposes.<strong>Step Five</strong>
+Reboot your Pi and sit back and wait  - your feeds will appear according the time intervals you set in your cron scripts.
+You can edit the files and add as many sources of information as you like.
+Do let us know if you make one, edit any scripts or remix the case.
+
+      </div>
+      
+      <footer class="post-tags">
+        <span class="mono">Tagged</span>
+        <div class="chips">
+          <a class="chip" href="/tag/dashboard/">dashboard</a><a class="chip" href="/tag/data-display/">data display</a><a class="chip" href="/tag/eink/">eink</a><a class="chip" href="/tag/inkywhat/">inkyWHAT</a><a class="chip" href="/tag/make/">make</a><a class="chip" href="/tag/mqtt/">mqtt</a><a class="chip" href="/tag/tutorial/">tutorial</a>
+        </div>
+      </footer>
+      
+    </div>
+  </div>
+
+  <nav class="dark">
+    <div class="dark__in">
+      <div class="pn">
+        
+        
+        
+        <a href="/blog/2019/01/31/raspberry-pi-internet-radio/">
+          <span class="mono">&larr; Previous</span>
+          <span class="pn__t">Raspberry Pi Internet Radio</span>
+        </a>
+        
+        
+        <a class="pn__next" href="/blog/2020/04/18/the-little-book-of-connected-environments-and-the-internet-of-things/">
+          <span class="mono">Next &rarr;</span>
+          <span class="pn__t">Download The Little Book of Connected Environments and the Internet of Things</span>
+        </a>
+        
+      </div>
+    </div>
+  </nav>
+
+  <section class="wrap">
+    <div class="comments">
+      <div>
+        <div class="mono mono--accent" style="padding-bottom:18px">Discussion</div>
+        <script src="https://giscus.app/client.js"
+          data-repo="digitalurban/digitalurban"
+          data-repo-id="PASTE_FROM_GISCUS_APP"
+          data-category="Comments"
+          data-category-id="PASTE_FROM_GISCUS_APP"
+          data-mapping="pathname"
+          data-strict="1"
+          data-reactions-enabled="1"
+          data-input-position="top"
+          data-theme="light"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </div>
+      <div>
+        <div class="mono" style="padding-bottom:12px">Recent</div>
+        <div class="rows">
+          
+          <a href="/blog/2026/08/04/fenland-a-weewx-dashboard-that-scores-its-own-forecasts-ensemble-spread-climate-records-back-to-1940-nightly-forecast-verificationand-finally-that-tween/">Fenland: A weeWX Dashboard with forecast verification, ensemble models, climate records back to 1940 and finally, that tween...</a>
+          
+          <a href="/blog/2026/05/06/city-clock-vibe-coding-boids-people-tell-time/">City Clock: A City where the People Tell the Time</a>
+          
+          <a href="/blog/2026/03/20/aqua-clock-vibe-coding-boids-fish-tell-time/">Aqua Clock: Multi-Model Vibe Coding, Boids, and the Fish That Tell the Time</a>
+          
+          <a href="/blog/2025/12/01/the-album-place-and-space/">The Album: Place and Space</a>
+          
+          <a href="/blog/2025/11/13/stepper-motor-linear-data-gauge/">Stepper Motor Linear Data Gauge</a>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
+
+
+<footer class="site-foot">
+  <div class="site-foot__in">
+    <span>&copy; 2026 Professor Andrew Hudson-Smith &middot; UCL</span>
+    <nav>
+      <a href="https://twitter.com/digitalurban">Twitter</a>
+      <a href="https://www.youtube.com/channel/UCJ1tszHG3t_xumcz5kPdiVg">YouTube</a>
+      <a href="https://www.instagram.com/digitalurban/">Instagram</a>
+      <a href="https://github.com/digitalurban">GitHub</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>

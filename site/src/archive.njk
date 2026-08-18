@@ -28,7 +28,7 @@ permalink: /archive/
     <div class="mono mono--accent" style="padding-bottom:16px">All tags</div>
     <div class="chips">
       {% for t in collections.tagList %}
-      <a class="chip" href="/tag/{{ t[0] | slugify }}/">{{ t[0] }} <span style="color:var(--faint)">{{ t[1] }}</span></a>
+      <a class="chip" href="/tag/{{ t[2] }}/">{{ t[0] }} <span style="color:var(--faint)">{{ t[1] }}</span></a>
       {% endfor %}
     </div>
   </div>

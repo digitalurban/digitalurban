@@ -9,19 +9,22 @@ permalink: /projects/
   </div>
 
   <div class="chips" style="padding:28px 0 48px">
-    <span class="chip chip--on">All</span>
-    <a class="chip" href="/tag/iot-2/">Data devices</a>
-    <a class="chip" href="/tag/dashboard/">Dashboards</a>
-    <a class="chip" href="/tag/3d-printing/">3D printed</a>
-    <a class="chip" href="/tag/ios-app/">Apps</a>
-    <a class="chip" href="/tag/3d-modelling-2/">City models</a>
-    <a class="chip" href="/tag/music/">Sound</a>
+    <span class="chip chip--on">All builds</span>
+    {% for t in collections.tagList | head(8) %}
+    <a class="chip" href="/tag/{{ t[2] }}/">{{ t[0] }}</a>
+    {% endfor %}
   </div>
 
   <div class="tiles">
     {% for r in repos %}
+    {% set post = collections.posts | findPost(r.match) %}
     <a class="tile" href="{{ r.url }}">
-      <div class="tile__media"></div>
+      <div class="tile__media">
+        {% if post %}
+          {% set img = post.data.hero or (post.templateContent | firstImage) %}
+          {% if img %}<img src="{{ img }}" alt="" loading="lazy" />{% endif %}
+        {% endif %}
+      </div>
       <div class="tile__body">
         <div class="mono mono--accent" style="font-size:10px;letter-spacing:0.12em">{{ r.kind }}</div>
         <h3>{{ r.name }}</h3>

@@ -3,19 +3,17 @@ layout: base.njk
 ---
 <article>
   <header class="wrap">
-    <p style="padding-top:56px;margin:0"><a class="mono" href="/">&larr; Latest</a></p>
+    <p style="padding-top:48px;margin:0"><a class="mono" href="/">&larr; Latest</a></p>
     <div class="post-head">
-      <div class="post-head__main">
-        <div class="mono post-head__meta">
-          {% for c in categories %}<span class="mono--accent">{{ c }}</span>{% endfor %}
-          <span>{{ page.date | date }}</span>
-          <span>{{ content | readingTime }} min read</span>
-        </div>
-        <h1>{{ title }}</h1>
+      <div class="mono post-head__meta">
+        {% for c in categories %}<span class="mono--accent">{{ c }}</span>{% endfor %}
+        <span>{{ page.date | date }}</span>
+        <span>{{ content | readingTime }} min read</span>
       </div>
-      <div class="post-head__side">
-        <div style="color:var(--ink)">{{ author or site.author }}</div>
-        <div>CASA, UCL East</div>
+      <h1>{{ title }}</h1>
+      <div class="mono post-head__by">
+        <span>{{ author or site.author }}</span>
+        <span>CASA, UCL East</span>
       </div>
     </div>
   </header>
@@ -25,25 +23,14 @@ layout: base.njk
       <div class="prose">
         {{ content | safe }}
       </div>
-
-      <aside class="side">
-        {% if tags %}
-        <div>
-          <div class="mono" style="padding-bottom:12px">Tags</div>
-          <div class="chips">
-            {% for t in tags %}<a class="chip" href="/tag/{{ t | slugify }}/">{{ t }}</a>{% endfor %}
-          </div>
+      {% if tags %}
+      <footer class="post-tags">
+        <span class="mono">Tagged</span>
+        <div class="chips">
+          {% for t in tags %}<a class="chip" href="/tag/{{ t | slugify }}/">{{ t }}</a>{% endfor %}
         </div>
-        {% endif %}
-        <div>
-          <div class="mono" style="padding-bottom:12px">Elsewhere</div>
-          <div class="rows">
-            <a href="{{ site.social.github }}">Code on GitHub</a>
-            <a href="{{ site.social.youtube }}">Video</a>
-            <a href="/archive/">Search the archive</a>
-          </div>
-        </div>
-      </aside>
+      </footer>
+      {% endif %}
     </div>
   </div>
 

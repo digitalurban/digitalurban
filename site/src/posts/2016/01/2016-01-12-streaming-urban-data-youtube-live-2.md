@@ -1,0 +1,21 @@
+---
+title: "Streaming Urban Data - YouTube Live"
+date: 2016-01-12 11:20:02
+slug: "streaming-urban-data-youtube-live-2"
+permalink: "/blog/2016/01/12/streaming-urban-data-youtube-live-2/"
+author: "Andy"
+categories: ["Posts"]
+tags: ["london data", "london live stream", "london live weather", "youtube live"]
+excerpt: "The increasingly availability of bandwidth along with advances in computer hardware and Internet services is making it possible to stream HD content, live from multiple places. Traditionally the…"
+hero: "/assets/uploads/2016/01/Screen-Shot-2016-01-12-at-08.28.41-1.png"
+---
+
+The increasingly availability of bandwidth along with advances in computer hardware and Internet services is making it possible to stream HD content, live from multiple places. Traditionally the first port of contact for urban data is a web page and with that comes various issues of compatibility and the ability to communicate live urban data within a singe interface. The CASA city dashboard (<a href="http://www.citydashboard.org">citydashboard.org</a>) was developed over 4 years ago and represented the current state of play in live data.
+<figure><a href="http://www.citydashboard.org"><img class="wp-image-2577" src="/assets/uploads/2012/04/Citydb-e1452597841783-1.png" alt="Citydashboard.org" width="533" height="292" /></a><figcaption>Citydashboard</figcaption></figure>
+Yet city data should perhaps be a true 'window on the world' and with this comes the need for a streaming video with the potential to overlay data. As ever on digital urban we use our live weather feed for prototyping systems, as its a data set that is easy to hand and also provides a range of display options.
+<figure><a href="http://weather.casa.ucl.ac.uk"><img class="wp-image-3699" src="/assets/uploads/2016/01/Screen-Shot-2016-01-12-at-10.53.10-1-1024x613.png" alt="Weather Dashboard" width="570" height="341" /></a><figcaption>Weather Data Dashboard</figcaption></figure>
+Our weather dashboard provides data updates every 2 seconds from our Davis Pro station on the roof off Tottenham Court Road, London. It includes live graphs and gauges (via highcharts) as well an historical view of data, yet the traditional webcam view of the actual physical view of the data has always been lacking. Streaming HD video content onto the web, 24 hours a day and in a format accessible across multiple platforms has until now been problematic. This is where YouTube Live comes in, currently in beta, the system allows a simple feed from a webcam (in our case a Logitech 930e) to be streamed live, along with additional overlays to provide realtime condition updates. It is not a case of simply pointing you camera to YouTube however, the encoding needs be carried out on the host machine and then streamed to YouTube for distribution. There are a number of options (see <a href="https://support.google.com/youtube/answer/2907883?hl=en-GB" target="_blank" rel="noopener">YouTube Encoding</a>), having tried them all out we settled on Xsplit as the best current system:
+<figure><img class="wp-image-3700" src="/assets/uploads/2016/01/Screen-Shot-2016-01-12-at-08.31.10-1-1024x726.png" alt="Encoding and Overlaying Data" width="570" height="404" /><figcaption>Encoding and Overlaying Data</figcaption></figure>
+Our stream runs at 720p, 30fps with an HTML overlay taken directly from the main weather landing page. This allows the current conditions to be viewed in realtime, the move to 30fps and HD makes a notable difference - it creates a window into the world, updating in realtime and providing a smooth, natural view of the city, you can view the stream direct below:
+<iframe src="https://www.youtube.com/embed/Ubf5HDhbGTA" width="620" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+The stream is aimed at viewing fullscreen - 720p has its limitations but is a current balance. The system accepts a 1080p feed but the encoding machine takes a notable hit on processing power. With a 24/7 feed we opted for the balance of a smooth stream and medium demands on machine capacity. Bandwidth is of course all important, the feed is coming direct from a home based fibre option feed, offering 500mb uploads over wifi and unlimited data. It is this option that is opening up the ability to create data windows on the world and perhaps a true view of the city in realtime.

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>How to Create an Aerial Panorama from Google Earth — Digital Urban</title>
+<meta name="description" content="Peter Murphy (one of the leading lights in the panoramic world) sent us a email on Monday with the thought of creating panoramas from a Digital Earth. The concept is simple - grab a series of screen…" />
+<link rel="canonical" href="https://www.digitalurban.org/blog/2006/09/05/how-to-create-aerial-panorama-from/" />
+<meta property="og:site_name" content="Digital Urban" />
+<meta property="og:title" content="How to Create an Aerial Panorama from Google Earth" />
+<meta property="og:description" content="Peter Murphy (one of the leading lights in the panoramic world) sent us a email on Monday with the thought of creating panoramas from a Digital Earth. The concept is simple - grab a series of screen…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@digitalurban" />
+<link rel="alternate" type="application/rss+xml" title="Digital Urban" href="/feed.xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<meta name="theme-color" content="#c8481f" />
+<meta property="og:image" content="https://www.digitalurban.org/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/320/gepanorama2.jpg" />
+<link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+
+<header class="site-head">
+  <div class="site-head__in">
+    <a class="wordmark" href="/">Digital Urban</a>
+    <nav class="site-nav">
+      <a href="/">Latest</a>
+      <a href="/projects/">Projects</a>
+      <a href="/books/">Books</a>
+      <a href="/archive/">Archive</a>
+      <a href="/about/">About / Papers</a>
+    </nav>
+  </div>
+</header>
+
+<article>
+  <header class="wrap">
+    <p style="padding-top:48px;margin:0"><a class="mono" href="/">&larr; Latest</a></p>
+    <div class="post-head">
+      <div class="mono post-head__meta">
+        <span class="mono--accent">Best Of</span><span class="mono--accent">Google Earth Panoramas</span><span class="mono--accent">Tutorial</span>
+        <span>05.09.2006</span>
+        <span>4 min read</span>
+      </div>
+      <h1>How to Create an Aerial Panorama from Google Earth</h1>
+      <div class="mono post-head__by">
+        <span>Andy</span>
+        <span>CASA, UCL East</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="post-body">
+      <div class="prose">
+        <p><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gepanorama2.jpg"><img style="margin: 0px auto 10px; display: block; cursor: pointer; text-align: center;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/320/gepanorama2.jpg" border="0" /></a><br /><br /><a href="http://www.mediavr.com/blog/">Peter Murphy</a> (one of the leading lights in the panoramic world) sent us a email on Monday with the thought of creating panoramas from a Digital Earth. The concept is simple - grab a series of screen shots while rotating above the earth and then stitch the images as if they were normal photographs.<br /><br />A day is a long time in Internet based tutorials and this is now an update of the original as a result of Gaby, a digital urban reader, writing a <span>kmz</span> tool to dramatically simplify the process of capturing screen shots. The whole process should take approximately 40 minutes.<br /><br /><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gepanoimage1.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/200/gepanoimage1.jpg" border="0" /></a>The first step is to go to <a href="http://tracks.landais.org/panokml.php"><span>Gabys</span> <span>Kmz</span> Panorama Capture Tool</a> and type in the Lat/Long of the location you want to capture - in our case above the Millennium Dome in London.<br /><br />To create panoramas it is important to rotate the camera around the nodal point of the lens in order to minimise any parallax error as the scene is captured. Previous to Gaby's tool the best way was to use the 'Flight Simulator Mode' by clicking '<span>Ctrl</span>-G'. Combining this with a 'left mouse click and drag' action you can look around the scene and thus simulate a panoramic camera.<br /><br />You can now simply load up the <span>kmz</span> file which is output from your Lat/Long co-ordinates and a series of <span>placemarks</span> are presented in the Google Earth, each representing camera locations. Select each <span>placemark</span> and wait for the streaming in Google Earth to reach 100%, now use File - 'Save Image' and call your image image1.<span>jpg</span>. Go through this for each <span>placemark</span> and you should end up with 28 images, each saved in sequence - <span>ie</span> image 1.<span>jpg</span> to image 29.<span>jpg</span>.<br /><br /><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gestitcher1.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/200/gestitcher1.jpg" border="0" /></a> Once you have your numbered <span>screengrabs</span> you now need to stitch them, we used <span>Stitcher</span> from <span>RealViz</span>, you can download a trial version from the <a href="http://stitcher.realviz.com/"><span>RealViz</span></a> website. If you are a <a href="http://www.ptgui.com/"><span>PTGui</span></a> user we have created a Template to automatically stitch your images. <a href="http://www.casa.ucl.ac.uk/andy/GoogleEarthTemplate.pts">Download the Template</a> and follow these steps:<br /><br />1) Open <span>PTGui</span> and click Select Source Images - Navigate to where you saved your <span>screengrabs</span> and select all of them.<br /><br />2) A Camera Lens <span>Dialoge</span> will appear, simply click 'Cancel'. Your images will then load into <span>PTGui</span>.<br /><br />3) Click File 'Apply Template' and select the location of the <span>GoogleEarthTemplate</span>.<span>pts</span> saved from above.<br /><br />Your images will now automatically align, you can now complete the process by selecting the 'Advanced' button in the top right hand side of <span>PTGui</span> and then 'Create Panorama'. Save your panorama as a <span>Tif</span>, we normally output at 6000x3000 pixels. Advanced users of <span>PTGui</span> can add their own Control Points and stitch as normal, lens <span>parameters</span> should be 30mm Rectilinear.<br /><br /><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gestitcher2.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/200/gestitcher2.jpg" border="0" /></a>To stitch the images you can also use the <span>AutoStitch</span> feature of <span>RealViz</span> to simply load in the images and automatically create a panorama. It should be noted that the curve of the earth will not stitch perfectly due to parallax error resulting from the Flight Simulator mode of Google Earth, the image left illustrates this (click for a larger version).<br /><br />Fixing the parallax's error is simply a case of slightly cropping off the top of the resulting panorama to give us the image as below, this applies to both <span>PTGui</span> and <span>Realviz</span> <span>Stitcher</span> outputs:<br /><br /><br /><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gepanoramanosky%20copy.jpg"><img style="margin: 0px auto 10px; display: block; cursor: pointer; text-align: center;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/320/gepanoramanosky_copy.jpg" border="0" /></a><br />As Google Earth doesn't include clouds we can now add them in as a new layer in <span>photoshop</span>. We used a panoramic image of clouds from <a href="http://www.turbosquid.com/FullPreview/Index.cfm/ID/211719/SID/211692/blFP/1"><span>TurboSquid</span></a>, these used to be free but are now $5 each. If you don't have a cloud panorama then you can always create your own using <span>Terragen</span>, there is a<a href="http://www.3dna.net/cgi-bin/wwwthreads/showflat.pl?Cat=&Board=customization&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Number=1398&page=0&view=collapsed&sb=5&part=1"> great tutorial on how to do this here</a>.<br /><br />Adding the clouds gives you the final panorama over London (click for a larger view) :<br /><br /><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gepanorama1.0.jpg"><img style="margin: 0px auto 10px; display: block; cursor: pointer; text-align: center;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/320/gepanorama1.0.jpg" border="0" /></a><br />Changing the projection of the resulting image allows a number of views such a hyperbolic image of London from Google Earth:<br /><br /><br /><a href="http://photos1.blogger.com/blogger2/604/1219/1600/gepanorama2.0.jpg"><img style="margin: 0px auto 10px; display: block; cursor: pointer; text-align: center;" alt="" src="/assets/uploads/external/photos1.blogger.com/blogger2/604/1219/320/gepanorama2.0.jpg" border="0" /></a><br />Finally to create a <span>Quicktime</span> Virtual Reality scene from the image - so you can look around the panorama - <a href="http://www.pano2qtvr.com/">download <span>Pano</span>2<span>QTVR</span></a>.<br /><br />The resulting <a href="http://www.casa.ucl.ac.uk/andy/qt/GoogleEarth.html"><span>QTVR</span> can be viewed here</a> (2.8Mb).<br /><br />Of note in the final scene is how the Google copyright crops up in various places in the image. This is due to each <span>screengrab</span> containing the Google overlay and depending on the overlaps some are automatically blended out in <span>RealViz</span> and some remain... *update - using <span>PTGui</span> all copyright seems to be removed, this opens up the question on the legality of creating panoramas? *<br /><br />Peter has used <a href="http://worldwind.arc.nasa.gov/"><span>NASA's</span> <span>Worldwind</span></a> to the same effect, <a href="http://www.mediavr.com/fitzroyfallsnasa.htm">see here for his panorama</a> of the Southern Highlands (<span>Quicktime</span> format).<br /><br />If you create any panoramas using Google Earth we would love to hear from you...<br /><br />Panoramas submitted so far cover<br /><a href="http://www.casa.ucl.ac.uk/andy/qt/GoogleEarth.html">London</a>, <a href="http://www.vanbelgie.be/newyork/newyork.html">New York</a>, <a href="http://digitalurban.blogspot.com/2006/09/above-moscow-google-earth-panorama.html">Moscow</a>, <a href="http://www.vanbelgie.be/brussel/brussel.html">Belgium</a >, <a href="http://www.casa.ucl.ac.uk/andy/qt/ParisClouds.html">Paris</a> and <a href="http://www.smooth360.com/panos/sydney_olympic_site.mov"><span>Sydney</span></a>.<a href="http://digitalurban.blogspot.com/2006/09/google-earth-belgium-panorama.html"><br /></a></p>
+
+      </div>
+      
+      <footer class="post-tags">
+        <span class="mono">Tagged</span>
+        <div class="chips">
+          
+        </div>
+      </footer>
+      
+    </div>
+  </div>
+
+  <nav class="dark">
+    <div class="dark__in">
+      <div class="pn">
+        
+        
+        
+        <a href="/blog/2006/09/01/collaborative-maps-via-editgrid/">
+          <span class="mono">&larr; Previous</span>
+          <span class="pn__t">Collaborative Maps via EditGrid</span>
+        </a>
+        
+        
+        <a class="pn__next" href="/blog/2006/09/05/how-to-create-aerial-panorama-from-2/">
+          <span class="mono">Next &rarr;</span>
+          <span class="pn__t">How to Create an Aerial Panorama from Google Earth</span>
+        </a>
+        
+      </div>
+    </div>
+  </nav>
+
+  <section class="wrap">
+    <div class="comments">
+      <div>
+        <div class="mono mono--accent" style="padding-bottom:18px">Discussion</div>
+        <script src="https://giscus.app/client.js"
+          data-repo="digitalurban/digitalurban"
+          data-repo-id="PASTE_FROM_GISCUS_APP"
+          data-category="Comments"
+          data-category-id="PASTE_FROM_GISCUS_APP"
+          data-mapping="pathname"
+          data-strict="1"
+          data-reactions-enabled="1"
+          data-input-position="top"
+          data-theme="light"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </div>
+      <div>
+        <div class="mono" style="padding-bottom:12px">Recent</div>
+        <div class="rows">
+          
+          <a href="/blog/2026/08/04/fenland-a-weewx-dashboard-that-scores-its-own-forecasts-ensemble-spread-climate-records-back-to-1940-nightly-forecast-verificationand-finally-that-tween/">Fenland: A weeWX Dashboard with forecast verification, ensemble models, climate records back to 1940 and finally, that tween...</a>
+          
+          <a href="/blog/2026/05/06/city-clock-vibe-coding-boids-people-tell-time/">City Clock: A City where the People Tell the Time</a>
+          
+          <a href="/blog/2026/03/20/aqua-clock-vibe-coding-boids-fish-tell-time/">Aqua Clock: Multi-Model Vibe Coding, Boids, and the Fish That Tell the Time</a>
+          
+          <a href="/blog/2025/12/01/the-album-place-and-space/">The Album: Place and Space</a>
+          
+          <a href="/blog/2025/11/13/stepper-motor-linear-data-gauge/">Stepper Motor Linear Data Gauge</a>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
+
+
+<footer class="site-foot">
+  <div class="site-foot__in">
+    <span>&copy; 2026 Professor Andrew Hudson-Smith &middot; UCL</span>
+    <nav>
+      <a href="https://twitter.com/digitalurban">Twitter</a>
+      <a href="https://www.youtube.com/channel/UCJ1tszHG3t_xumcz5kPdiVg">YouTube</a>
+      <a href="https://www.instagram.com/digitalurban/">Instagram</a>
+      <a href="https://github.com/digitalurban">GitHub</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>

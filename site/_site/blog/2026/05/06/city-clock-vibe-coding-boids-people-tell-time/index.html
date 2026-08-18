@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>City Clock: A City where the People Tell the Time — Digital Urban</title>
+<meta name="description" content="How an experiment in agent-based simulation went on to make a living breathing city." />
+<link rel="canonical" href="https://www.digitalurban.org/blog/2026/05/06/city-clock-vibe-coding-boids-people-tell-time/" />
+<meta property="og:site_name" content="Digital Urban" />
+<meta property="og:title" content="City Clock: A City where the People Tell the Time" />
+<meta property="og:description" content="How an experiment in agent-based simulation went on to make a living breathing city." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@digitalurban" />
+<link rel="alternate" type="application/rss+xml" title="Digital Urban" href="/feed.xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<meta name="theme-color" content="#c8481f" />
+<meta property="og:image" content="https://www.digitalurban.org/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock1.png" />
+<link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+
+<header class="site-head">
+  <div class="site-head__in">
+    <a class="wordmark" href="/">Digital Urban</a>
+    <nav class="site-nav">
+      <a href="/">Latest</a>
+      <a href="/projects/">Projects</a>
+      <a href="/books/">Books</a>
+      <a href="/archive/">Archive</a>
+      <a href="/about/">About / Papers</a>
+    </nav>
+  </div>
+</header>
+
+<article>
+  <header class="wrap">
+    <p style="padding-top:48px;margin:0"><a class="mono" href="/">&larr; Latest</a></p>
+    <div class="post-head">
+      <div class="mono post-head__meta">
+        <span class="mono--accent">Making</span>
+        <span>06.05.2026</span>
+        <span>12 min read</span>
+      </div>
+      <h1>City Clock: A City where the People Tell the Time</h1>
+      <div class="mono post-head__by">
+        <span>Andy</span>
+        <span>CASA, UCL East</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="post-body">
+      <div class="prose">
+        <figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock1.png" alt="City Clock" /><figcaption>City Clock - with the Clock Formation in the City Square</figcaption></figure>
+<p>Last month we launched <a href="/blog/2026/03/20/aqua-clock-vibe-coding-boids-fish-tell-time/">Aqua Clock on iOS</a> - a clock where the fish tell the time. It was an experiment in agent based modelling and vibe coding, creating a unique app which acts as both an aquarium and clock.</p>
+<figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202603-aqua-clock/aqua_clock_aquarium_header.png" alt="Aqua Clock" /><figcaption>Aqua Clock</figcaption></figure>
+<p>City Clock expands the concept into a living breathing city - complete with a city square where citizens gather and every minute - tell the time.</p>
+<p>The concept is similar to Aqua Clock but fish exist in a contained volume of water. They have no destinations, no routines, no reason to be anywhere in particular. A city is the opposite. A city is almost entirely made of reasons to be places. Shops to visit, homes to return to, friends to meet, a coffee to get before 9am. If you’re going to build a city that also happens to tell the time, you need to build the city first — properly, with all of its rhythms and routines — and then add the clock on top.</p>
+<h2>The Clock Mechanism</h2>
+<p>At the start of every minute, 112 pedestrians are summoned to the central plaza to form a four-digit digital clock — HH:MM — using seven-segment geometry. Each digit uses up to 28 people, four per segment. They walk in from wherever they are in the city, take their positions, hold for 15 seconds, then scatter.</p>
+<p>For the remaining 45 seconds of every minute, those same 112 people — along with hundreds of others — simply live their lives.</p>
+<p>They have homes. Assigned houses with garden paths and front doors. They visit cafes and queue outside at rush hour. They sit on benches. They go home at 10pm. Some of them have dogs. A few ride bicycles. One of them is always trying to find somewhere to sit with their coffee.</p>
+<p>You can double-tap anywhere to force the formation immediately, without waiting for the next minute. It’s oddly satisfying — a whole city dropping what it’s doing to spell out the time.</p>
+<figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock2.png" alt="City Clock" /><figcaption>Pedestrians mid-formation. The fountains serve as the colon separator.</figcaption></figure>
+<h2>A Living City</h2>
+<p>What makes this more than a clock-with-scenery is that the city actually runs. It’s not decorative background — it has systems.</p>
+<p><strong>Traffic</strong> navigates junctions with working traffic lights, brakes for pedestrians, and takes smooth Bézier-curve turns at corners. Emergency vehicles push through with flashing lights and sirens. Delivery vans park outside venues and drop packages. Rubbish trucks do their rounds, collecting wheelie bins that reappear a few minutes later once residents wheel them back in.</p>
+<p><strong>Pedestrians</strong> use a needs-based model — Energy, Hunger, Social — with thought bubbles indicating their current priority. They shelter under awnings when it rains. They queue longer at cafes on weekday mornings. They stay home at night.</p>
+<p><strong>Weather</strong> is live, pulled from Open-Meteo, or cycles through all ten types in demo mode — drizzle, snow, fog, thunderstorms, hail. Roads get wet and reflective. Puddles form and slowly evaporate. Fog rolls in as animated layered tendrils rather than a flat grey wash. It also provides a full 12 hour forecast for your chosen location.</p>
+<p><strong>The day/night cycle</strong> runs in real time. At dusk, street lamps flicker on and cast warm pools across pavements. Building windows glow amber. Car headlights sweep the roads. By 2am the city is almost dark, with just a few lit windows where someone is working late.</p>
+<p>A street musician sets up in the plaza between 9am and 9pm. Passers-by stop to listen and occasionally throw coins. A newspaper kiosk opens at dawn and folds away by lunchtime. Steam trains run to Central Station and the branch line at West St. — more on that below.</p>
+<p>The plaza itself has a compass rose picked out in the paving. Two fountain basins serve as the colon in the clock display, which is either very elegant design or a very happy accident, depending on when you noticed it.</p>
+<figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock3.png" alt="The plaza between clock formations" /><figcaption>Between formations the plaza is just a plaza. Outdoor seating, market stalls on weekends, a busker, benches. The city information stream (bottom left) reports events as they happen.</figcaption></figure>
+<h2>The Canal and the Mills</h2>
+<p>Somewhere mid-development, the city acquired a canal.</p>
+<p>It runs the full height of the map along the right edge — a narrow waterway separated from the city blocks by a stone towpath. Three narrowboats travel up and down, slowing near bridges, giving way to each other, the way narrowboats do. Next to the canals are factories. The factories work. Goods accumulate in the yards over time — wooden crates, metal drums, canvas sacks — until a narrowboat passes the loading bay, slows, and moors up to take them on. The cargo appears on the boat’s deck and slowly fades as it’s delivered further down the canal. The city information stream reports each loading event.</p>
+<p>The chimneys smoke independently. Each factory has its own cycle — active for 30 to 120 seconds, then quiet for a shift change or a stoking break, then active again. They don’t synchronise. Standing at the right zoom level you can watch them come and go across the row of mills, which is unexpectedly hypnotic.</p>
+<figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock4.png" alt="The full city with the train line and canals" /><figcaption>The full city with Canals and a Railway Network</figcaption></figure>
+<h2>Two Lines, Two Stations</h2>
+<p>The bottom of the city is given over entirely to the railway. A full-width corridor of track, signal infrastructure, allotment gardens on the left — proper fenced plots with crop rows, sheds, and water butts — and terraced housing on the right. Central Station sits at the centre, a stone-fronted building with a clock above the entrance and a platform that fills with waiting passengers.</p>
+<p>Every few minutes, a steam locomotive arrives from the right edge of the map. It slows as it approaches the platform, stops, and waits. While it’s stationary, new arrivals step out of the carriages and fade into view on the platform before making their way into the city — heading for the bus stop, the plaza, wherever they’re going. Passengers who have been waiting on the platform board as the train prepares to depart, fading out as they step onto the carriages. Then the locomotive pulls away to the left and disappears. The city information stream logs the departure.</p>
+<p>What makes this more than a visual loop is that passengers are real pedestrians. Arrivals are spawned from the train and immediately join the city’s population — they need somewhere to go, they have the same needs and routines as everyone else. Departing passengers were walking around the city moments before; they received a summons, walked to the platform, and waited. The train is connected to the city’s social fabric, not just painted onto it.</p>
+<p>The branch line adds another layer. West St. station sits at the far left of the map, served by a vertical track running the full height of that column. A smaller locomotive — a branch service — runs independently on its own schedule, arriving from the south and departing northward. The same boarding and alighting cycle plays out on its own platform. Two lines, two departure toasts, two streams of arrivals filtering into the city from different directions.</p>
+<p>Between the main line and the branch line, the bottom of the city has a texture you don’t find in the rest of the grid — slower, more industrial, with the allotment plots adding an unexpected patch of green alongside the track.</p>
+<h2>The City Information Stream</h2>
+<p>One of the things that emerged fairly naturally was a notification layer — a running feed of city events displayed as toasts in the bottom-left corner. Not intrusive, not demanding attention, just quietly reporting what’s happening.</p>
+<p>Train departing. Canal loading. Ice cream van parked near the plaza. Fog settling in. Flash mob in progress. The Sunday market is open.</p>
+<p>The ice cream van deserves a mention of its own. On warm afternoons between April and September, a white-and-pink van parks near the plaza — drawn top-down like every other vehicle, with a serving hatch window, a pink stripe along its length, and a small scoop sign on the roof. Its jingle plays when it arrives. A queue forms outside. It stays for a while, then leaves when the weather turns or the afternoon ends.</p>
+<p>It’s on by default and can be turned off in settings. When it’s running it gives the city a texture of ongoing activity — a sense that things are happening slightly beyond the edge of the screen, and have been happening all along.</p>
+<h2>The City Dashboard</h2>
+<p>One of the more quietly satisfying additions is a daily stats panel. Toggle it on in Settings and a small overlay appears showing what the city has actually done today: how many people are currently in the plaza, how many are at home, how many train passengers have arrived, how many coffees have been sold, pints pulled, books bought, flowers purchased.</p>
+<figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock5.png" alt="The City Dashboard" /><figcaption>The City Dashboard</figcaption></figure>
+<p>The market veg stock percentage ticks down through the day as pedestrians browse the stalls. The number of mills operating updates as factories cycle on and off. Although at the moment they do all seem to be drinking too much coffee…</p>
+<p>It’s a snapshot of a day in the life of a city that’s been quietly going about its business the whole time.</p>
+<h2>Special Events: Buskers, Flash Mobs and the Alarm</h2>
+<p>Some of the most characterful moments in City Clock are the ones that are not scheduled.</p>
+<p>A street musician appears in the plaza between 9am and 9pm, setting up for 40 seconds to two minutes at a time. There’s a guitar case on the ground. Floating ♪ ♫ music notes drift upward. Pedestrians who wander into earshot stop, turn to face the musician, and stand and listen. Occasionally one of them walks forward and throws a coin — rendered as a little arcing gold particle landing in the open case. The busker has a star rating below them. You can zoom in close enough to read it.</p>
+<p>Flash mobs erupt occasionally without warning. A crowd gathers, the event unfolds — a protest with banners, or a spontaneous performance — and then disperses. Nearby pedestrians are drawn in, stop to watch, and drift away again when it’s over. The city information stream announces it quietly: <em>A flash mob has broken out in the plaza. Everyone is dancing.</em></p>
+<p>The alarm clock was central to the system with the aim to make the ‘happiest alarm sound’ possible.</p>
+<p>Set a time in Settings and when the clock reaches it, the entire city population converges on the plaza and dances. Not a polite shuffle — a full celebration, everyone streaming in from wherever they are, umbrellas and hats and the whole chromatic range of pedestrian clothing swirling in loose spirals. A bandstand appears in the upper plaza with a five-piece band: singer, guitar, bass, drums, keys.</p>
+<p>Snooze for nine minutes or dismiss entirely. When the alarm ends, the bandstand fades and everyone disperses back to their routines — home, the café, the park bench, wherever they were going before the music started.</p>
+<figure><img src="/assets/uploads/imported/connected-environments.org/assets/img/blog/202605-cityclock/cityclock6.png" alt="The Alarm Function" /><figcaption>The alarm clock triggers a city-wide dance in the plaza.</figcaption></figure>
+<h2>The Calendar: Seasons, Holidays and Quiet Sundays</h2>
+<p>The city is aware of the calendar in a way that accumulates gently over time rather than announcing itself.</p>
+<p>The plaza decorates itself for major events: a Christmas tree with twinkling baubles and fairy lights strung between lamp posts from December through early January; jack-o’-lanterns at the plaza corners for Halloween with candlelight flickering inside at night; a bonfire in the upper plaza for Bonfire Night with rising sparks and an orange glow spreading across the paving; confetti for New Year, a maypole for May Day, shamrocks for St Patrick’s Day, pastel eggs for Easter. Each event is drawn in the dynamic layer beneath pedestrians, so life continues normally around the decorations — people walk through the Christmas scene, queue outside the café beside the Halloween lanterns.</p>
+<p>Bunting is strung between lamp posts for every event, colour-coded to the occasion — green and orange for St Patrick’s, red and green for Christmas, rainbow for weekends. Flags hang in a natural catenary droop, individual triangles in the correct colours, dimming proportionally at night.</p>
+<p>Three atmosphere overlays run continuously. A gradient morning mist sits at ground level from 5am and burns off by 9am. A warm amber wash builds through the afternoon and peaks at golden hour around 6pm. On Sunday mornings, a barely perceptible cool blue tint settles over the city before noon — so faint you might not consciously notice it, but the city feels slower.</p>
+<p>The residential chimneys smoke more in cold months and at morning and evening heating peaks. Gardens look the same year-round but the quality of light shifts across the day in a way that makes the city feel genuinely different at 7am on a Tuesday in February versus 6pm on a Saturday in July.</p>
+<h2>Under the Hood</h2>
+<p>Everything is rendered on an HTML5 Canvas using TypeScript, built with Vite. There are no runtime dependencies. No React, no game engine, no physics library.</p>
+<p>The city is split into a static canvas layer — roads, buildings, houses, parks, the plaza — pre-rendered at startup and rebuilt only when lighting changes or zoom drifts significantly. This is composited each frame with a dynamic layer containing everything that moves or changes: pedestrians, cars, weather, canal boats, chimney smoke, market stalls, the train.</p>
+<p>Pedestrian pathfinding uses a 9px walkability grid covering the whole city, with 8-directional A* for routing home. Traffic runs on a node graph with Bézier curve turns at junctions. The weather system cross-fades between states — rain doesn’t vanish mid-drop when conditions change, it tapers out naturally over about 7 seconds before the new weather fades in.</p>
+<p>The clock geometry is a standard seven-segment layout scaled to fill the plaza, with each segment subdivided into four pedestrian positions. At summons time, eligible pedestrians compute their target position, cancel whatever they were doing, and walk there. When released, they don’t teleport back — they just resume normal wandering from wherever they’re standing in the plaza.</p>
+<p>Sound is a mix of authentic recordings and procedural synthesis via the Web Audio API. A narrow-gauge train whistle plays on each departure — a real recording, fetched and decoded into an <code>AudioBuffer</code> on first interaction so it’s ready without any autoplay restriction. A genuine thunder crack fires during storms. A UK police siren plays once per emergency vehicle (a <code>WeakSet</code> ensures it never repeats for the same car object). When an ice cream van parks near the plaza, its jingle plays. Everything else — rain, the fountain spray, bird calls, the ambulance wail — is procedurally synthesised. Everything starts muted and can be toggled in settings.</p>
+<h2>Vibe Coding a City</h2>
+<p>The Aqua Clock post described vibe coding as “a process of iterating through ideas, accepting suggestions, discarding others, and allowing the final artefact to emerge from the generative process itself.” City Clock is that, at considerably larger scale.</p>
+<p>The canal wasn’t planned. Neither were the mills, or the goods system, or the independent smoke cycles, or the city information stream. They emerged from the question each version of the city was implicitly asking: <em>what would make this feel more real?</em></p>
+<p>The human role in this process wasn’t writing code — this was the first system I have built where I never looked at the code. It was an odd feeling but times are changing - it was mainly a process in this is what i want - a living breathing small city living in my web browser and and on my phone’ that by the way, tells the time.</p>
+<p>It was a conversation and aesthetic and editorial judgment. It was also a joy to build, developed as a ‘sideline’ between the actual day to day job and one of those things to give 20 minutes here and 20 minutes there to. Development (if it can be called development nowadays?), took two weeks.</p>
+<p>At the moment it runs in any browser and if i have a few more 20 mintues side lines free, coming to iOS as an app.</p>
+<h2>Load the City</h2>
+<p>Do give it a go <a href="https://digitalurban.github.io/city-clock/">digitalurban.github.io/city-clock</a> — add to your home screen for a fullscreen standalone experience and do try out the alarm.</p>
+<p>City Clock - The Place where People Tell the Time.</p>
+<p><em>First published on <a href="https://connected-environments.org/blog/2026-05-06-city-clock-vibe-coding-boids-people-tell-time/">UCL Connected Environments</a>.</em></p>
+
+      </div>
+      
+      <footer class="post-tags">
+        <span class="mono">Tagged</span>
+        <div class="chips">
+          <a class="chip" href="/tag/ai/">ai</a><a class="chip" href="/tag/vibe-coding/">vibe coding</a><a class="chip" href="/tag/boids/">boids</a><a class="chip" href="/tag/clock/">clock</a><a class="chip" href="/tag/ios/">ios</a><a class="chip" href="/tag/agent-based-modelling/">agent based modelling</a>
+        </div>
+      </footer>
+      
+    </div>
+  </div>
+
+  <nav class="dark">
+    <div class="dark__in">
+      <div class="pn">
+        
+        
+        
+        <a href="/blog/2026/03/20/aqua-clock-vibe-coding-boids-fish-tell-time/">
+          <span class="mono">&larr; Previous</span>
+          <span class="pn__t">Aqua Clock: Multi-Model Vibe Coding, Boids, and the Fish That Tell the Time</span>
+        </a>
+        
+        
+        <a class="pn__next" href="/blog/2026/08/04/fenland-a-weewx-dashboard-that-scores-its-own-forecasts-ensemble-spread-climate-records-back-to-1940-nightly-forecast-verificationand-finally-that-tween/">
+          <span class="mono">Next &rarr;</span>
+          <span class="pn__t">Fenland: A weeWX Dashboard with forecast verification, ensemble models, climate records back to 1940 and finally, that tween...</span>
+        </a>
+        
+      </div>
+    </div>
+  </nav>
+
+  <section class="wrap">
+    <div class="comments">
+      <div>
+        <div class="mono mono--accent" style="padding-bottom:18px">Discussion</div>
+        <script src="https://giscus.app/client.js"
+          data-repo="digitalurban/digitalurban"
+          data-repo-id="PASTE_FROM_GISCUS_APP"
+          data-category="Comments"
+          data-category-id="PASTE_FROM_GISCUS_APP"
+          data-mapping="pathname"
+          data-strict="1"
+          data-reactions-enabled="1"
+          data-input-position="top"
+          data-theme="light"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </div>
+      <div>
+        <div class="mono" style="padding-bottom:12px">Recent</div>
+        <div class="rows">
+          
+          <a href="/blog/2026/08/04/fenland-a-weewx-dashboard-that-scores-its-own-forecasts-ensemble-spread-climate-records-back-to-1940-nightly-forecast-verificationand-finally-that-tween/">Fenland: A weeWX Dashboard with forecast verification, ensemble models, climate records back to 1940 and finally, that tween...</a>
+          
+          <a href="/blog/2026/05/06/city-clock-vibe-coding-boids-people-tell-time/">City Clock: A City where the People Tell the Time</a>
+          
+          <a href="/blog/2026/03/20/aqua-clock-vibe-coding-boids-fish-tell-time/">Aqua Clock: Multi-Model Vibe Coding, Boids, and the Fish That Tell the Time</a>
+          
+          <a href="/blog/2025/12/01/the-album-place-and-space/">The Album: Place and Space</a>
+          
+          <a href="/blog/2025/11/13/stepper-motor-linear-data-gauge/">Stepper Motor Linear Data Gauge</a>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
+
+
+<footer class="site-foot">
+  <div class="site-foot__in">
+    <span>&copy; 2026 Professor Andrew Hudson-Smith &middot; UCL</span>
+    <nav>
+      <a href="https://twitter.com/digitalurban">Twitter</a>
+      <a href="https://www.youtube.com/channel/UCJ1tszHG3t_xumcz5kPdiVg">YouTube</a>
+      <a href="https://www.instagram.com/digitalurban/">Instagram</a>
+      <a href="https://github.com/digitalurban">GitHub</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>

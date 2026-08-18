@@ -1,0 +1,17 @@
+---
+title: "Free: The Digital Urban Booklet"
+date: 2010-04-22 09:32:00
+slug: "free-digital-urban-booklet"
+permalink: "/blog/2010/04/22/free-digital-urban-booklet/"
+author: "Andy"
+categories: ["Posts"]
+tags: []
+excerpt: "We are pleased to announce the free availability of our booklet: Digital Geography - Geographic Visualisation for Urban Environments. Previously available for £9.99 and printed in full colour the 10…"
+hero: "/assets/uploads/2012/07/Screen-Shot-2012-07-31-at-17.16.29-1.png"
+---
+
+<p><a style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="http://4.bp.blogspot.com/_ADwvfqkxChw/R-0aXGP8NFI/AAAAAAAABIE/AzzLCs-8OPI/s1600-h/Bookletsm.jpg"><img id="BLOGGER_PHOTO_ID_5182827730290095186" style="float: left; height: 132px; margin: 0pt 10px 10px 0pt; width: 164px;" src="/assets/uploads/external/4.bp.blogspot.com/_ADwvfqkxChw/R-0aXGP8NFI/AAAAAAAABIE/AzzLCs-8OPI/s320/Bookletsm.jpg" alt="" border="0" /></a>We are pleased to announce the free availability of our booklet: Digital Geography - Geographic Visualisation for Urban Environments. Previously available for £9.99 and printed in full colour the 10 x 8 inch booklet runs to 64 pages of insights and tutorials on Virtual Earth, Google Earth, Google Maps, Panoramas and Second Life.<br />
+With a focus on Neogeography, Web 2.0 and the various emerging techniques for urban visualisation the booklet has been written as a preview to the forthcoming Digital Urban 'recipe book.<br />
+We have made the booklet available via Issuu - you can read it below:<br />
+<center><object style="height: 238px; width: 600px;" width="320" height="240" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" align="middle"><param name="allowfullscreen" value="true" /><param name="flashvars" value="mode=embed&amp;layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Fcolor%2Flayout.xml&amp;backgroundColor=FFFFFF&amp;showFlipBtn=true&amp;documentId=100422092131-3bcf6b508db148e1b02b1902027ab917&amp;docName=digitalurbanbooklet._pdf&amp;username=Smithee&amp;loadingInfoText=Digital%20Geography%3A%20Geographic%20Visualisation%20for%20Urban%20Environments&amp;et=1271928497600&amp;er=48" /><param name="menu" value="false" /><param name="quality" value="high" /><param name="salign" value="l" /><param name="scale" value="noscale" /><param name="src" value="http://static.issuu.com/webembed/viewers/style1/v1/IssuuViewer.swf" /><embed style="height: 238px; width: 600px;" width="320" height="240" type="application/x-shockwave-flash" src="http://static.issuu.com/webembed/viewers/style1/v1/IssuuViewer.swf" allowfullscreen="true" flashvars="mode=embed&amp;layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Fcolor%2Flayout.xml&amp;backgroundColor=FFFFFF&amp;showFlipBtn=true&amp;documentId=100422092131-3bcf6b508db148e1b02b1902027ab917&amp;docName=digitalurbanbooklet._pdf&amp;username=Smithee&amp;loadingInfoText=Digital%20Geography%3A%20Geographic%20Visualisation%20for%20Urban%20Environments&amp;et=1271928497600&amp;er=48" menu="false" quality="high" salign="l" scale="noscale" align="middle" /></object></center>We hope you enjoy the booklet, it works well in full screen mode. You can also <a href="http://www.casa.ucl.ac.uk/andy/blogimages/digitalurbanbooklet.pdf">download it direct</a> as a pdf file (74Mb).<br />
+You can read the rest of our publications via our main <a href="http://digitalurban.blogspot.com/search/label/Publications">publications thread</a>.</p>
