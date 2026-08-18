@@ -67,17 +67,20 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
 </div>
 
 {% if pagination.pageNumber == 0 %}
+{% set firstPost = collections.posts | last %}
+{% set firstYear = firstPost.date | date("yyyy") | int %}
+{% set nowYear = "" | year | int %}
 <section class="dark">
   <div class="dark__in">
     <div class="dark__head">
       <h2>The archive</h2>
-      <span class="mono" style="color:var(--faint)">2005 &rarr; {{ "" | year }}</span>
+      <span class="mono" style="color:var(--faint)">{{ firstYear }} &rarr; {{ nowYear }}</span>
     </div>
     <div class="figures">
       <div class="figure"><span class="figure__n">{{ collections.posts.length }}</span><span class="figure__l">posts</span></div>
       <a class="figure" href="/about/#papers"><span class="figure__n">{{ papers.count }}</span><span class="figure__l">publications</span></a>
       <div class="figure"><span class="figure__n">{{ collections.tagList.length }}</span><span class="figure__l">subject tags</span></div>
-      <div class="figure"><span class="figure__n">21</span><span class="figure__l">years</span></div>
+      <div class="figure"><span class="figure__n">{{ nowYear - firstYear }}</span><span class="figure__l">years</span></div>
       <div class="figure"><span class="figure__n">2</span><span class="figure__l">books</span></div>
       <div class="figure"><span class="figure__n">1</span><span class="figure__l">album</span></div>
     </div>
