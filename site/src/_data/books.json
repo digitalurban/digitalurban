@@ -74,5 +74,18 @@
       "pdf": "/assets/downloads/Little_Book_of_Connected_Environments.pdf",
       "url": "/blog/2020/04/18/the-little-book-of-connected-environments-and-the-internet-of-things/"
     }
-  ]
+  ],
+  "booklet": {
+    "title": "Digital Geography",
+    "sub": "Geographic Visualisation for Urban Environments",
+    "authors": "Andrew Hudson-Smith",
+    "specs": [
+      "CASA, UCL",
+      "Booklet",
+      "Free to download (75 MB)"
+    ],
+    "cover": "/assets/covers/digital-geography-booklet.png",
+    "blurb": "An illustrated guide to visualising urban environments — from data and imagery to three-dimensional city models and the tools used to build them.",
+    "pdf": "https://github.com/digitalurban/digitalurban/releases/download/booklet/digitalurbanbooklet.pdf"
+  }
 }

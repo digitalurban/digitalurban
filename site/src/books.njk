@@ -69,5 +69,24 @@ permalink: /books/
       </div>
       {% endfor %}
     </div>
+  <div class="booklet">
+    <div class="mono mono--accent" style="padding-bottom:20px">Booklet</div>
+    <div class="booklet__item">
+      <a class="booklet__cover" href="{{ books.booklet.pdf }}">
+        <img src="{{ books.booklet.cover }}" alt="{{ books.booklet.title }}" loading="lazy" />
+      </a>
+      <div class="booklet__body">
+        <h2>{{ books.booklet.title }}</h2>
+        <p class="booklet__sub">{{ books.booklet.sub }}</p>
+        <div class="specs specs--light">{% for s in books.booklet.specs %}{% if s %}<span>{{ s }}</span>{% endif %}{% endfor %}</div>
+        <p>{{ books.booklet.blurb }}</p>
+        <div class="mono little__meta">{{ books.booklet.authors }}</div>
+        <div class="little__links mono">
+          <a href="{{ books.booklet.pdf }}">Download PDF &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div style="height:88px"></div>
 </div>

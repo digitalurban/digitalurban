@@ -685,3 +685,30 @@ a.figure:hover .figure__n { color: #c8481f; }
   .little__item { grid-template-columns: 1fr; gap: 18px; }
   .little__cover { max-width: 180px; }
 }
+
+.booklet { padding: 80px 0 0; }
+.booklet__item {
+  display: grid;
+  grid-template-columns: 6fr 5fr;
+  gap: 32px;
+  border: 1px solid #e2ded8;
+  padding: 24px;
+  align-items: start;
+}
+.booklet__item:hover { border-color: #14110f; }
+.booklet__cover { display: block; background: #ece8e2; }
+.booklet__cover img { width: 100%; height: auto; display: block; }
+.booklet__body { display: flex; flex-direction: column; gap: 12px; }
+.booklet__body h2 {
+  margin: 0;
+  font-size: clamp(24px, 2.6vw, 32px);
+  line-height: 1.06;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+}
+.booklet__sub { margin: 0; font-size: 17px; line-height: 1.4; color: #4a443f; }
+.booklet__body p { margin: 0; font-size: 15px; line-height: 1.5; color: #6b645e; }
+
+@media (max-width: 700px) {
+  .booklet__item { grid-template-columns: 1fr; gap: 20px; }
+}
