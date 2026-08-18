@@ -36,7 +36,7 @@
     "jobTitle": {{ site.role | dump | safe }},
     "affiliation": { "@type": "Organization", "name": {{ site.affiliation | dump | safe }} },
     "url": "{{ site.url }}/about/",
-    "sameAs": [{{ site.social.twitter | dump | safe }}, {{ site.social.github | dump | safe }}, {{ site.social.youtube | dump | safe }}]
+    "sameAs": [{{ site.social.twitter | dump | safe }}, {{ site.social.github | dump | safe }}, {{ site.social.youtube | dump | safe }}, {{ site.social.profile | dump | safe }}]
   }
 }
 </script>
@@ -60,13 +60,17 @@
 
 <footer class="site-foot">
   <div class="site-foot__in">
-    <span>&copy; {{ "" | year }} {{ site.author }} &middot; UCL</span>
+    <div class="site-foot__l">
+      <span>&copy; {{ "" | year }} {{ site.author }} &middot; UCL</span>
+      <span class="site-foot__c">{{ collections.posts | length }} posts since 2005 &middot; <a href="/about/#papers">{{ papers.count }} publications</a> &middot; 3 books</span>
+    </div>
     <nav>
       <a href="{{ site.social.twitter }}">Twitter</a>
       <a href="{{ site.social.youtube }}">YouTube</a>
       <a href="{{ site.social.instagram }}">Instagram</a>
       <a href="{{ site.social.github }}">GitHub</a>
       <a href="/feed.xml">RSS</a>
+      <a href="/archive/">Archive</a>
     </nav>
   </div>
 </footer>

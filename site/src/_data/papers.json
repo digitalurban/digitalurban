@@ -1,0 +1,2756 @@
+{
+ "count": 233,
+ "years": 30,
+ "span": [
+  1997,
+  2026
+ ],
+ "kinds": [
+  {
+   "kind": "Journal article",
+   "n": 90,
+   "label": "Journal articles"
+  },
+  {
+   "kind": "Book chapter",
+   "n": 51,
+   "label": "Book chapters"
+  },
+  {
+   "kind": "Conference paper",
+   "n": 43,
+   "label": "Conference papers"
+  },
+  {
+   "kind": "Other",
+   "n": 42,
+   "label": "Other"
+  },
+  {
+   "kind": "Book",
+   "n": 4,
+   "label": "Books"
+  },
+  {
+   "kind": "Report",
+   "n": 3,
+   "label": "Reports"
+  }
+ ],
+ "byYear": [
+  {
+   "year": "2026",
+   "items": [
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., Hudson-Smith, A., de Jode, M. & Signorelli, V.",
+     "title": "Evaluating Urban Green Spaces with IoT Sensors and Machine Learning: Land Cover Impacts on Microclimate for Sustainable City Planning",
+     "year": "2026",
+     "venue": "Sustainable Civil Infrastructures",
+     "detail": "Sustainable Civil Infrastructures, pp. 323–332",
+     "publisher": "",
+     "url": "https://doi.org/10.1007/978-3-032-14648-9_29",
+     "doi": "10.1007/978-3-032-14648-9_29"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., De Jode, M., Hudson-Smith, A., MacLachlan, A. & Brousse, O.",
+     "title": "Is the Queen Elizabeth Olympic Park a Cool Zone in London?",
+     "year": "2026",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://doi.org/10.5281/zenodo.19439313",
+     "doi": "10.5281/zenodo.19439313"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., Ma, A., Luo, S., De Jode, M., Hudson-Smith, A. & Sha, M.",
+     "title": "LoRaDoctor: LLM-Driven Diagnosis and Adaptive Policy Optimization for Reducing Packet Error Rate in LoRaWAN Networks",
+     "year": "2026",
+     "venue": "Proceedings 2025 24th International Conference on Machine Learning and Applications Icmla 2025",
+     "detail": "Proceedings 2025 24th International Conference on Machine Learning and Applications Icmla 2025, pp. 1181–1188",
+     "publisher": "IEEE",
+     "url": "https://doi.org/10.1109/icmla66185.2025.00181",
+     "doi": "10.1109/icmla66185.2025.00181"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., De Jode, M., Hudson-Smith, A., MacLachlan, A. & Brousse, O.",
+     "title": "Measuring Urban Heat Island Intensity in London During the Warmest June on Record",
+     "year": "2026",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://doi.org/10.5281/zenodo.19389595",
+     "doi": "10.5281/zenodo.19389595"
+    }
+   ]
+  },
+  {
+   "year": "2025",
+   "items": [
+    {
+     "kind": "Other",
+     "authors": "Ma, D., Hudson - Smith, A., De Jode, M., Stamp, S., Barrett, E. & Brousse, O.",
+     "title": "A Cost-Effective and Scalable LoRa Sensor Network for Real-Time Hyperlocal Microclimate Monitoring",
+     "year": "2025",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://doi.org/10.5194/icuc12-863",
+     "doi": "10.5194/icuc12-863"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "Abandoned Worlds at the End of the Metaverse",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 79–93",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-5",
+     "doi": "10.1201/9781003440437-5"
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "Album: Place and Space",
+     "year": "2025",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Brousse, O., Ma, D., De Jode, M., Simpson, C., Altamirano, H., Hudson-Smith, A., Barrett, E., Stamp, S., et al.",
+     "title": "Capturing the cooling benefits provided by large parks on surrounding neighbourhoods’ temperatures using low-cost commercial sensors in east London",
+     "year": "2025",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://doi.org/10.5194/icuc12-229",
+     "doi": "10.5194/icuc12-229"
+    },
+    {
+     "kind": "Book",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "Cities in the Metaverse: Spatial Computing, Digital Twins, Avatars, Economics and Digital Habitation on the New Frontier",
+     "year": "2025",
+     "venue": "",
+     "detail": "pp. 1–130",
+     "publisher": "",
+     "url": "https://doi.org/10.1201/9781003440437",
+     "doi": "10.1201/9781003440437"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "Digital Habitation and Future Worlds",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 111–126",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-7",
+     "doi": "10.1201/9781003440437-7"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Signorelli, V., Lovett, L., Hudson-Smith, A. & Hay, D.",
+     "title": "From interfaces to memories: re-constructing and transmitting memories of play",
+     "year": "2025",
+     "venue": "Playing the Archive. From the Opies to the digital playground",
+     "detail": "Playing the Archive. From the Opies to the digital playground, pp. 170–201",
+     "publisher": "UCLPress",
+     "url": "https://doi.org/10.14324/111.9781800083745",
+     "doi": "10.14324/111.9781800083745"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., De Jode, M., MacLachlan, A. & Hudson-Smith, A.",
+     "title": "Hyperlocal Thermal Modeling with IoT Sensors and UMEP in London's Queen Elizabeth Olympic Park",
+     "year": "2025",
+     "venue": "https://zenodo.org/communities/gisruk2025",
+     "detail": "https://zenodo.org/communities/gisruk2025",
+     "publisher": "",
+     "url": "https://doi.org/10.5281/zenodo.15225148",
+     "doi": "10.5281/zenodo.15225148"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., Hudson-Smith, A., De Jode, M. & Leah, L.",
+     "title": "Open-Source LoRaWAN Sensors for Distributed IoT Networks: Crowdsourced Environmental Data Collection for Climate Resilient Cities",
+     "year": "2025",
+     "venue": "Proceedings 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2025",
+     "detail": "Proceedings 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2025, pp. 936–943",
+     "publisher": "",
+     "url": "https://doi.org/10.1109/DCOSS-IoT65416.2025.00142",
+     "doi": "10.1109/DCOSS-IoT65416.2025.00142"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "Playing the Worlds: Gaming and the Metaverse",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 62–78",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-4",
+     "doi": "10.1201/9781003440437-4"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Ma, D., Hudson-Smith, A., De Jode, M. & Lovett, L.",
+     "title": "Sensing and Analysing Urban Heat Islands Using Internet of Things: A Real Time Microclimate Network for London",
+     "year": "2025",
+     "venue": "Urban Book Series",
+     "detail": "Urban Book Series, vol. Part F1191, pp. 247–261",
+     "publisher": "",
+     "url": "https://doi.org/10.1007/978-3-031-98300-9_14",
+     "doi": "10.1007/978-3-031-98300-9_14"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "The Early Frontier",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 1–15",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-1",
+     "doi": "10.1201/9781003440437-1"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "The Economics and Security of Digital Space",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 39–61",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-3",
+     "doi": "10.1201/9781003440437-3"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "The Metascape: Cities and Avatars",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 16–38",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-2",
+     "doi": "10.1201/9781003440437-2"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D. & Signorelli, V.",
+     "title": "Turing's Dream",
+     "year": "2025",
+     "venue": "Cities in the Metaverse",
+     "detail": "Cities in the Metaverse, pp. 94–110",
+     "publisher": "Chapman and Hall/CRC",
+     "url": "https://doi.org/10.1201/9781003440437-6",
+     "doi": "10.1201/9781003440437-6"
+    }
+   ]
+  },
+  {
+   "year": "2024",
+   "items": [
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A. & Batty, M.",
+     "title": "Designing the urban metaverse Visual analytics for urban design",
+     "year": "2024",
+     "venue": "ROUTLEDGE HANDBOOK OF URBAN DESIGN RESEARCH METHODS",
+     "detail": "ROUTLEDGE HANDBOOK OF URBAN DESIGN RESEARCH METHODS, pp. 427–438",
+     "publisher": "ROUTLEDGE",
+     "url": "https://doi.org/10.4324/9781003168621-48",
+     "doi": "10.4324/9781003168621-48"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Vigliocco, G., Convertino, L., De Felice, S., Gregorians, L., Kewenig, V., Mueller, M., Veselic, S., Musolesi, M., et al.",
+     "title": "Ecological Brain: Reframing the Study of Human Behaviour and Cognition",
+     "year": "2024",
+     "venue": "Royal Society Open Science",
+     "detail": "Royal Society Open Science",
+     "publisher": "The Royal Society",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Lovett, L., Signorelli, V. & Hudson-Smith, A.",
+     "title": "Exploring the Materiality of Augmented Reality Markers through Arts-Led Cocreation: Drawing, Weaving, and Tiling",
+     "year": "2024",
+     "venue": "Leonardo",
+     "detail": "Leonardo, pp. 388–395",
+     "publisher": "MIT Press",
+     "url": "http://dx.doi.org/10.1162/leon_a_02542",
+     "doi": "10.1162/leon_a_02542"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Marshall, S., Farndon, D., Hudson-Smith, A., Kourniotis, A. & Karadimitriou, N.",
+     "title": "Urban Design and Planning Participation in the Digital Age: Lessons from an Experimental Online Platform",
+     "year": "2024",
+     "venue": "Smart Cities",
+     "detail": "Smart Cities, vol. 7, pp. 615–632",
+     "publisher": "MDPI AG",
+     "url": "http://dx.doi.org/10.3390/smartcities7010025",
+     "doi": "10.3390/smartcities7010025"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ma, D., Brousse, O., Hudson-Smith, A. & De Jode, M.",
+     "title": "Using Bespoke LoRaWAN Heat Sensors to Explore Microclimate Effects within the London Urban Heat Islands– A Pilot Study in East London",
+     "year": "2024",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://doi.org/10.5281/zenodo.10897767",
+     "doi": "10.5281/zenodo.10897767"
+    }
+   ]
+  },
+  {
+   "year": "2023",
+   "items": [
+    {
+     "kind": "Other",
+     "authors": "Pearlman, N., Hudson-Smith, A., Lovett, L., McEwan, J. & Signorelli, V.",
+     "title": "Bridging Worlds: Novel panoramic capture and virtual navigation of exhibition spaces",
+     "year": "2023",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://avicom.mini.icom.museum/fimp-media-festival-and-general-assembly-conference-2023-welcome-to-st-andrews/",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Signorelli, V., Dawkins, O. & Batty, M.",
+     "title": "More Than One Twin: An Ecology of Model Applications in East London",
+     "year": "2023",
+     "venue": "Digital Twins for Smart Cities: Conceptualisation for Challenges and Practices",
+     "detail": "Digital Twins for Smart Cities: Conceptualisation for Challenges and Practices",
+     "publisher": "Institution of Civil Engineers",
+     "url": "https://bookstore.emerald.com/digital-twins-for-smart-cities-hb.html",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2022",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Karadimitriou, N., Magnani, G., Timmerman, R., Marshall, S. & Hudson-Smith, A.",
+     "title": "Designing an incubator of public spaces platform: Applying cybernetic principles to the co-creation of spaces",
+     "year": "2022",
+     "venue": "Land Use Policy",
+     "detail": "Land Use Policy, vol. 119",
+     "publisher": "Elsevier BV",
+     "url": "https://doi.org/10.1016/j.landusepol.2022.106187",
+     "doi": "10.1016/j.landusepol.2022.106187"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Incoming Metaverses: Digital Mirrors for Urban Planning",
+     "year": "2022",
+     "venue": "Urban Planning",
+     "detail": "Urban Planning, vol. 7, pp. 343–354",
+     "publisher": "COGITATIO PRESS",
+     "url": "https://doi.org/10.17645/up.v7i2.5193",
+     "doi": "10.17645/up.v7i2.5193"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Shakeri, M.",
+     "title": "The Future's Not What It Used To Be: Urban Wormholes, Simulation, Participation, and Planning in the Metaverse",
+     "year": "2022",
+     "venue": "Urban Planning",
+     "detail": "Urban Planning, vol. 7, pp. 214–217",
+     "publisher": "COGITATIO PRESS",
+     "url": "https://doi.org/10.17645/up.v7i2.5893",
+     "doi": "10.17645/up.v7i2.5893"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson‐Smith, A. & Batty, M.",
+     "title": "Ubiquitous geographic information in the emergent Metaverse",
+     "year": "2022",
+     "venue": "Transactions in GIS",
+     "detail": "Transactions in GIS",
+     "publisher": "Wiley",
+     "url": "https://doi.org/10.1111/tgis.12932",
+     "doi": "10.1111/tgis.12932"
+    }
+   ]
+  },
+  {
+   "year": "2021",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Valeonti, F., Bikakis, A., Terras, M., Speed, C., Hudson-Smith, A. & Chalkias, K.",
+     "title": "Crypto collectibles, museum funding and openGLAM: Challenges, opportunities and the potential of non-fungible tokens (NFTs)",
+     "year": "2021",
+     "venue": "Applied Sciences",
+     "detail": "Applied Sciences, vol. 11",
+     "publisher": "",
+     "url": "https://doi.org/10.3390/app11219931",
+     "doi": "10.3390/app11219931"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Lovett, L., Hay, D., De Jode, M. & Hudson-Smith, A.",
+     "title": "Mobile Communications Technologies in Tree Time: The Listening Wood",
+     "year": "2021",
+     "venue": "Leonardo",
+     "detail": "Leonardo",
+     "publisher": "Massachusetts Institute of Technology Press (MIT Press)",
+     "url": "https://doi.org/10.1162/leon_a_02006",
+     "doi": "10.1162/leon_a_02006"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Wilson, D., Gray, S. & Dawkins, O.",
+     "title": "Urban IoT: Advances, Challenges, and Opportunities for Mass Data Collection, Analysis, and Visualization",
+     "year": "2021",
+     "venue": "Urban Book Series",
+     "detail": "Urban Book Series, pp. 701–719",
+     "publisher": "",
+     "url": "https://doi.org/10.1007/978-981-15-8983-6_38",
+     "doi": "10.1007/978-981-15-8983-6_38"
+    }
+   ]
+  },
+  {
+   "year": "2020",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Valeonti, F., Terras, M. & Hudson-Smith, A.",
+     "title": "How open is OpenGLAM? Identifying barriers to commercial and non-commercial reuse of digitised art images",
+     "year": "2020",
+     "venue": "Journal of Documentation",
+     "detail": "Journal of Documentation",
+     "publisher": "",
+     "url": "https://doi.org/10.1108/JD-06-2019-0109",
+     "doi": "10.1108/JD-06-2019-0109"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Hügel, S. & Roumpani, F.",
+     "title": "Self-monitoring, analysis and reporting technologies",
+     "year": "2020",
+     "venue": "The Routledge Companion to Smart Cities",
+     "detail": "The Routledge Companion to Smart Cities, pp. 383–394",
+     "publisher": "Routledge",
+     "url": "https://doi.org/10.4324/9781315178387-26",
+     "doi": "10.4324/9781315178387-26"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hugel, S., Hudson-Smith, A. & Roumpani, F.",
+     "title": "Self-Monitoring, Analysis, and Reporting Technologies – Smart Cities and Real-Time Big Data",
+     "year": "2020",
+     "venue": "The Routledge Companion to Smart Cities",
+     "detail": "The Routledge Companion to Smart Cities",
+     "publisher": "Routledge",
+     "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315178387-26/self-monitoring-analysis-reporting-technologies-andrew-hudson-smith-stephan-h\\%C3\\%BCgel-flora-roumpani",
+     "doi": "10.4324/9781315178387-26/self-monitoring-analysis-reporting-technologies-andrew-hudson-smith-stephan-h\\%C3\\%BCgel-flora-roumpani"
+    },
+    {
+     "kind": "Book",
+     "authors": "Deschamps-Sonsino, A., Hudson-Smith, A. & Wilson, D.",
+     "title": "The Little Book of Public Space and the Internet of Things",
+     "year": "2020",
+     "venue": "",
+     "detail": "Imagination Lancaster, Lancaster University",
+     "publisher": "Imagination Lancaster, Lancaster University",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hay, D., Lovett, L., De Jode, M. & Hudson-Smith, A.",
+     "title": "Walking in Tree Time",
+     "year": "2020",
+     "venue": "Walking Bodies Papers, Provocations, Actions from Walking's New Movements, the Conference",
+     "detail": "Walking Bodies Papers, Provocations, Actions from Walking's New Movements, the Conference",
+     "publisher": "Triarchy Press",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2019",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Marshall, S., Hudson-Smith, A. & Farndon, D.",
+     "title": "Digital participation – taking 'planning' into the third dimension",
+     "year": "2019",
+     "venue": "Town and Country Planning -London- Town and Country Planning Association-",
+     "detail": "Town and Country Planning -London- Town and Country Planning Association-, vol. 88, pp. 11–14",
+     "publisher": "Town and Country Planning Association",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Valeonti, F., Terras, M., Hudson-Smith, A. & Zarkali, C.",
+     "title": "Examining Mobile Print-on-Demand as an Alternative to Image Licensing for Monetising Digitisation to Promote OpenGLAM",
+     "year": "2019",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://mw19.mwconf.org/paper/examining-mobile-print-on-demand-as-an-alternative-to-image-licensing-for-monetising-digitisation-to-promote-openglam/",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Signorelli, V., Burn, A. & Hudson-Smith, A.",
+     "title": "Experience imagined worlds, co-creation and interpretation of play’s memories by the means of tangible and digital technologies",
+     "year": "2019",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Valeonti, F., Terras, M., Hudson-Smith, A. & Zarkali, C.",
+     "title": "Exploring new business models for monetising digitisation beyond image licensing to promote adoption of OpenGLAM",
+     "year": "2019",
+     "venue": "EVA Berlin 2018: Electronic Media and Visual Arts",
+     "detail": "EVA Berlin 2018: Electronic Media and Visual Arts, pp. 274–280",
+     "publisher": "Staatliche Museen zu Berlin",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "de Jode, M., Lovett, L., Hay, D., Hudson-Smith, A., Milton, R. & Fraser, L.",
+     "title": "Internet of Things of Trees - Conversational objects via SMS protocols",
+     "year": "2019",
+     "venue": "Living in the Internet of Things (IoT 2019) - CP756",
+     "detail": "Living in the Internet of Things (IoT 2019) - CP756, vol. 2019",
+     "publisher": "IET",
+     "url": "https://doi.org/10.1049/cp.2019.0155",
+     "doi": "10.1049/cp.2019.0155"
+    },
+    {
+     "kind": "Book",
+     "authors": "Hudson-Smith, A., Wilson, D., Hay, D. & Gray, S.",
+     "title": "Little Book of Connected Environments and the Internet of Things",
+     "year": "2019",
+     "venue": "",
+     "detail": "ImaginationLancaster, Lancaster University",
+     "publisher": "ImaginationLancaster, Lancaster University",
+     "url": "https://petras-iot.org/update/petras-little-books/",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Lovett, L., Hay, D., De Jode, M. & Hudson-Smith, A.",
+     "title": "Walking in Tree Time: The Listening Wood Project",
+     "year": "2019",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2018",
+   "items": [
+    {
+     "kind": "Report",
+     "authors": "Tyler, P., Allpress, S., Carr, M., Lupo, E., Norton, J., Smith, L., Blackstock, J., Boyes, H., et al.",
+     "title": "Internet of Things: realising the potential of a trusted smart world",
+     "year": "2018",
+     "venue": "",
+     "detail": "Royal Academy of Engineering",
+     "publisher": "Royal Academy of Engineering",
+     "url": "https://www.raeng.org.uk/publications/reports/internet-of-things-realising-the-potential-of-a-tr",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Hay, D., Buyuklieva, B., Daothong, J., Edmonds, B., Hudson-Smith, A., Milton, R. & Wood, J.",
+     "title": "IoT in the wild: What negotiating public deployments can tell us about the state of the internet of things",
+     "year": "2018",
+     "venue": "Living in the Internet of Things: Cybersecurity of the IoT - 2018",
+     "detail": "Living in the Internet of Things: Cybersecurity of the IoT - 2018",
+     "publisher": "The Institution of Engineering and Technology",
+     "url": "http://digital-library.theiet.org/content/conferences/10.1049/cp.2018.0017",
+     "doi": "10.1049/cp.2018.0017"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Dawkins, O., Dennett, A. & Hudson-Smith, A.",
+     "title": "Living with a Digital Twin: Operational management and engagement using IoT and Mixed Realities at UCL's Here East Campus on the Queen Elizabeth Olympic Park",
+     "year": "2018",
+     "venue": "Giscience and Remote Sensing",
+     "detail": "Giscience and Remote Sensing",
+     "publisher": "V.H. Winston & Son",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Valeonti, F., Hudson-Smith, A., Terras, M. & Zarkali, C.",
+     "title": "Reaping the Benefits of Digitisation: Pilot study exploring revenue generation from digitised collections through technological innovation",
+     "year": "2018",
+     "venue": "Electronic Visualisation and the Arts (EVA 2018)",
+     "detail": "Electronic Visualisation and the Arts (EVA 2018)",
+     "publisher": "BCS: The Chartered Institute for IT",
+     "url": "https://doi.org/10.14236/ewic/EVA2018.11",
+     "doi": "10.14236/ewic/EVA2018.11"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Kwon, H. & Hudson-Smith, A.",
+     "title": "Redesigning Experience Consumption in Social VR Worlds : Decentralised Value Creation, Mobilisation, and Exchanges",
+     "year": "2018",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Milton, R., Hay, D., Gray, S., Buyuklieva, B. & Hudson-Smith, A.",
+     "title": "Smart IoT and soft AI",
+     "year": "2018",
+     "venue": "IET Conference Publications",
+     "detail": "IET Conference Publications, vol. 2018",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Milton, R., Hudson-Smith, A., Buyuklieva, B., Gray, S. & Hay, D.",
+     "title": "Talking to GNOMEs: Exploring privacy and trust around internet of things devices in a public space",
+     "year": "2018",
+     "venue": "Conference on Human Factors in Computing Systems - Proceedings",
+     "detail": "Conference on Human Factors in Computing Systems - Proceedings, vol. 2018-April",
+     "publisher": "",
+     "url": "https://doi.org/10.1145/3170427.3188481",
+     "doi": "10.1145/3170427.3188481"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Roumpani, F., Hudson, P. & Hudson-Smith, A.",
+     "title": "The Use of Historical Data in Rule-Based Modelling for Scenarios to Improve Resilience within the Building Stock",
+     "year": "2018",
+     "venue": "The Historic Environment: Policy & Practice",
+     "detail": "The Historic Environment: Policy & Practice",
+     "publisher": "",
+     "url": "https://doi.org/10.1080/17567505.2018.1517142",
+     "doi": "10.1080/17567505.2018.1517142"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Toumpalidis, I., Cheliotis, K., Roumpani, F. & Hudson-Smith, A.",
+     "title": "VR binoculars: An immersive visualization framework for IoT data streams",
+     "year": "2018",
+     "venue": "Proceedings of the IEEE Living in the Internet of Things: Cybersecurity of the IoT - 2018",
+     "detail": "Proceedings of the IEEE Living in the Internet of Things: Cybersecurity of the IoT - 2018, pp. 1–7",
+     "publisher": "IEEE",
+     "url": "https://doi.org/10.1049/cp.2018.0039",
+     "doi": "10.1049/cp.2018.0039"
+    }
+   ]
+  },
+  {
+   "year": "2017",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Crooks, A., Schechtner, K., Dey, A. & Hudson-Smith, A.",
+     "title": "Creating Smart Buildings and Cities",
+     "year": "2017",
+     "venue": "IEEE PERVASIVE COMPUTING",
+     "detail": "IEEE PERVASIVE COMPUTING, vol. 16, pp. 23–25",
+     "publisher": "IEEE COMPUTER SOC",
+     "url": "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000404240600006&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=f41074198c063036414efcbc916f8956",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Caneparo, L., Rolfo, D., Bonavero, F., van Reusel, H., Verbeke, J., Hudson-Smith, A. & Karadimitriou, N.",
+     "title": "Semantic Analysis of Public Spaces in Brussels, London and Turin living labs: A Taxonomy of Interventions",
+     "year": "2017",
+     "venue": "Incubators Conference Proceedings: Urban Living Labs for Public Space, a New Generation of Planning?",
+     "detail": "Incubators Conference Proceedings: Urban Living Labs for Public Space, a New Generation of Planning?",
+     "publisher": "Faculty of Architecture, KU Leuven",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Hudson-Smith, A., Hugel, S. & Roumpani, F.",
+     "title": "Visualising data for smart cities",
+     "year": "2017",
+     "venue": "Smart Technologies Breakthroughs in Research and Practice",
+     "detail": "Smart Technologies Breakthroughs in Research and Practice, pp. 453–475",
+     "publisher": "",
+     "url": "https://doi.org/10.4018/978-1-5225-2589-9.ch021",
+     "doi": "10.4018/978-1-5225-2589-9.ch021"
+    }
+   ]
+  },
+  {
+   "year": "2016",
+   "items": [
+    {
+     "kind": "Book chapter",
+     "authors": "Foth, M., Hudson-Smith, A. & Gifford, D.",
+     "title": "Chapter 10: Smart cities, social capital, and citizens at play: a critique and a way forward",
+     "year": "2016",
+     "venue": "Research Handbook on Digital Transformations",
+     "detail": "Research Handbook on Digital Transformations, pp. 203–222",
+     "publisher": "Edward Elgar Publishing",
+     "url": "https://doi.org/10.4337/9781784717766.00017",
+     "doi": "10.4337/9781784717766.00017"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Sturdee, M., Coulton, P., Lindley, J., Stead, M., Ali, H. & Hudson-Smith, A.",
+     "title": "Design fiction: how to build a Voight Kampff machine",
+     "year": "2016",
+     "venue": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+     "detail": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+     "publisher": "ACM",
+     "url": "https://doi.org/10.1145/2851581.2892574",
+     "doi": "10.1145/2851581.2892574"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Bailey-Ross, C., Gray, S., Ashby, J., Terras, M., Hudson-Smith, A. & Warwick, C.",
+     "title": "Engaging the museum space: Mobilizing visitor engagement with digital content creation",
+     "year": "2016",
+     "venue": "Digital Scholarship in the Humanities",
+     "detail": "Digital Scholarship in the Humanities, pp. fqw041–fqw041",
+     "publisher": "Oxford University Press",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "O'Brien, J., Serra, M., Hudson-Smith, A., Psarra, S., Hunter, A. & Austwick, M.",
+     "title": "Ensuring VGI Credibility in Urban-Community Data Generation: A Methodological Research Design",
+     "year": "2016",
+     "venue": "Urban Planning",
+     "detail": "Urban Planning",
+     "publisher": "",
+     "url": "https://doi.org/10.17645/up.v1i2.620",
+     "doi": "10.17645/up.v1i2.620"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Mavros, P., Austwick, M. & Smith, A.",
+     "title": "Geo-EEG: Towards the Use of EEG in the Study of Urban Behaviour",
+     "year": "2016",
+     "venue": "Applied Spatial Analysis and Policy",
+     "detail": "Applied Spatial Analysis and Policy, vol. 9, pp. 191–212",
+     "publisher": "Springer",
+     "url": "https://doi.org/10.1007/s12061-015-9181-z",
+     "doi": "10.1007/s12061-015-9181-z"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ramirez, N., Brush, A. & Hudson-Smith, A.",
+     "title": "Keynotes",
+     "year": "2016",
+     "venue": "2016 12th International Conference on Intelligent Environments (IE)",
+     "detail": "2016 12th International Conference on Intelligent Environments (IE), pp. xviii–xx",
+     "publisher": "IEEE",
+     "url": "https://doi.org/10.1109/ie.2016.9",
+     "doi": "10.1109/ie.2016.9"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Sailer, K., Koutsolampros, P., Austwick, M., Varoudis, T. & Hudson-Smith, A.",
+     "title": "Measuring Interaction in Workplaces",
+     "year": "2016",
+     "venue": "Architecture and interaction: Human Computer Interaction in space and place",
+     "detail": "Architecture and interaction: Human Computer Interaction in space and place, pp. 135–159",
+     "publisher": "Springer International Publishing",
+     "url": "http://www.springer.com/gb/book/9783319300269",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Lindley, J. & Coulton, P.",
+     "title": "Pushing the Limits of Design Fiction: The Case For Fictional Research Papers",
+     "year": "2016",
+     "venue": "34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2016",
+     "detail": "34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2016, pp. 4032–4043",
+     "publisher": "ASSOC COMPUTING MACHINERY",
+     "url": "https://doi.org/10.1145/2858036.2858446",
+     "doi": "10.1145/2858036.2858446"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Foth, M., Hudson-Smith, A. & Gifford, D.",
+     "title": "Smart cities, social capital, and citizens at play: a critique and a way forward",
+     "year": "2016",
+     "venue": "RESEARCH HANDBOOK ON DIGITAL TRANSFORMATIONS",
+     "detail": "RESEARCH HANDBOOK ON DIGITAL TRANSFORMATIONS, pp. 203–221",
+     "publisher": "EDWARD ELGAR PUBLISHING LTD",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2015",
+   "items": [
+    {
+     "kind": "Book chapter",
+     "authors": "Gray, S., Milton, R. & Hudson-Smith, A.",
+     "title": "Advances in crowdsourcing: surveys, social media and geospatial analysis: towards a big data toolkit",
+     "year": "2015",
+     "venue": "Advances in Crowdsourcing",
+     "detail": "Advances in Crowdsourcing, pp. 163–179",
+     "publisher": "Springer International Publishing",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "de Jode, M., Hudson-Smith, A., Mavros, P., Coulton, P., Huck, J., Roberts, J. & Powell, P.",
+     "title": "Showing mutual support through digital empathy badges",
+     "year": "2015",
+     "venue": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers",
+     "detail": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers, pp. 1–4",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Koutsolampros, P., Sailer, K., Pomeroy, R., Zaltz Austwick, M., Hudson-Smith, A. & Haslem, R.",
+     "title": "Spatial databases: Generating new insights on office design and human behaviours in the workplace",
+     "year": "2015",
+     "venue": "Proceedings of the 10th International Space Syntax Symposium",
+     "detail": "Proceedings of the 10th International Space Syntax Symposium, pp. 23:1–23:16",
+     "publisher": "Space Syntax Laboratory, Bartlett School of Architecture, UCL",
+     "url": "http://www.sss10.bartlett.ucl.ac.uk/wp-content/uploads/2015/07/SSS10_Proceedings_023.pdf",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Huck, J., Coulton, P., Gullick, D., Powell, P., Roberts, J., Hudson-Smith, A., de Jode, M. & Mavros, P.",
+     "title": "Supporting Empathy Through Embodiment in the Design of Interactive Systems",
+     "year": "2015",
+     "venue": "Proceedings of the ninth international conference on tangible, embedded and embodied Interaction (TEI '15)",
+     "detail": "Proceedings of the ninth international conference on tangible, embedded and embodied Interaction (TEI '15), pp. 528–528",
+     "publisher": "ACM",
+     "url": "http://doi.acm.org/10.1145/2677199.2687892",
+     "doi": "10.1145/2677199.2687892"
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Gray, S., Hudson-Smith, A., Milton, R., O Brien, O. & Roumpani, F.",
+     "title": "Visualizing spatial and social media",
+     "year": "2015",
+     "venue": "",
+     "detail": "pp. 245–270",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2014",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "11 smart cities, social networks and the Internet of things",
+     "year": "2014",
+     "venue": "Explorations in Urban Design: An Urban Design Research Primer",
+     "detail": "Explorations in Urban Design: An Urban Design Research Primer",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Crooks, A., Hudson-Smith, A., Croitoru, A. & Stefanidis, A.",
+     "title": "4 The Evolving GeoWeb",
+     "year": "2014",
+     "venue": "GeoComputation",
+     "detail": "GeoComputation",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Dauner, J., Karagozler, E., Glisson, M., Speed, C., Hartswood, M., Laurier, E., Magee, S., Tynan-O'Mahony, F., et al.",
+     "title": "Demo hour",
+     "year": "2014",
+     "venue": "interactions",
+     "detail": "interactions, vol. 21, pp. 8–11",
+     "publisher": "",
+     "url": "https://doi.org/10.1145/2663310",
+     "doi": "10.1145/2663310"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Huck, J., Powell, P., Coulton, P., Roberts, J., Hudson-Smith, A., De-Jode, M. & Mavros, P.",
+     "title": "Designing for empathy in a church community",
+     "year": "2014",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Coulton, P., Huck, J., Hudson-Smith, A., Barthel, R., Mavros, P., Roberts, J. & Powell, P.",
+     "title": "Designing interactive systems to encourage empathy between users",
+     "year": "2014",
+     "venue": "Proceedings of the Conference on Designing Interactive Systems Processes Practices Methods and Techniques DIS",
+     "detail": "Proceedings of the Conference on Designing Interactive Systems Processes Practices Methods and Techniques DIS, pp. 13–16",
+     "publisher": "",
+     "url": "https://doi.org/10.1145/2598784.2602770",
+     "doi": "10.1145/2598784.2602770"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Smart cities, social networks and the Internet of Things",
+     "year": "2014",
+     "venue": "",
+     "detail": "pp. 123–133",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Crooks, A., Hudson-Smith, A., Croitoru, A. & Stefanidis, A.",
+     "title": "The Evolving GeoWeb",
+     "year": "2014",
+     "venue": "Geocomputation",
+     "detail": "Geocomputation, pp. 69–96",
+     "publisher": "CRC Press",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Speed, C., Hartswood, M., Laurier, E., Maghee, S., de Jode, M. & Hudson-Smith, A.",
+     "title": "The Haggle-O-Tron: design intervention in secondhand retail",
+     "year": "2014",
+     "venue": "Proceedings of the 2014 companion publication on Designing interactive systems (DIS Companion '14)",
+     "detail": "Proceedings of the 2014 companion publication on Designing interactive systems (DIS Companion '14), pp. 137–140",
+     "publisher": "ACM",
+     "url": "http://doi.acm.org/10.1145/2598784.2602802",
+     "doi": "10.1145/2598784.2602802"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Tracking, tagging and scanning the city",
+     "year": "2014",
+     "venue": "Architectural Design",
+     "detail": "Architectural Design, vol. 84, pp. 40–47",
+     "publisher": "",
+     "url": "https://doi.org/10.1002/ad.1700",
+     "doi": "10.1002/ad.1700"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Arabindoo, P.",
+     "title": "Urban design in the realm of urban studies",
+     "year": "2014",
+     "venue": "Urban design primer: Explorations in urban design",
+     "detail": "Urban design primer: Explorations in urban design, pp. 47–58",
+     "publisher": "Ashgate Publishing",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Visual Analytics for Urban Design",
+     "year": "2014",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2013",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Barthel, R., Leder Mackley, K., Hudson-Smith, A., Karpovich, A., de Jode, M. & Speed, C.",
+     "title": "An internet of old things as an augmented memory system",
+     "year": "2013",
+     "venue": "Personal and Ubiquitous Computing",
+     "detail": "Personal and Ubiquitous Computing, vol. 17, pp. 321–333",
+     "publisher": "Springer-Verlag",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Hudson-Smith, A., O' Brien, O. & Roumpani, F.",
+     "title": "Creating, visualizing and modelling the real-time city",
+     "year": "2013",
+     "venue": "Proceedings of Hybrid City II ‘Subtle rEvolutions",
+     "detail": "Proceedings of Hybrid City II ‘Subtle rEvolutions",
+     "publisher": "National and Kapodistrian University of Athens",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Milton, R., Gray, S. & Hudson-Smith, A.",
+     "title": "CyberGIS for analysing urban data",
+     "year": "2013",
+     "venue": "MethodsNews",
+     "detail": "MethodsNews, pp. 3–3",
+     "publisher": "ESRC National Centre for Research Methods",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Schumacher, P., Batty, M., Hudson-Smith, A. & Weinstock, M.",
+     "title": "Discussions on Systemic Architecture",
+     "year": "2013",
+     "venue": "Systemic Architecture Operating Manual for the Self Organizing City",
+     "detail": "Systemic Architecture Operating Manual for the Self Organizing City, pp. 13–13",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Gray, S., Warwick, C., Carnall, M., Ross, C., Hudson-Smith, A. & Terras, M.",
+     "title": "Enhancing museum narratives: Tales of things and UCL's grant museum",
+     "year": "2013",
+     "venue": "The Mobile Story Narrative Practices with Locative Technologies",
+     "detail": "The Mobile Story Narrative Practices with Locative Technologies",
+     "publisher": "Routledge",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Ross, C., Carnall, M., Hudson-Smith, A., Warwick, C., Terras, M. & Gray, S.",
+     "title": "Enhancing museum narratives: Tales of things and UCL’s grant museum",
+     "year": "2013",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "de Jode, M., Barthel, R. & Hudson-Smith, A.",
+     "title": "Tales of Things: interacting with everyday objects in an NFC world",
+     "year": "2013",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "http://downloads.bbc.co.uk/rd/pubs/conferences/internet_of_things_2013/Tales_of_Things.pdf",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "The liquid city",
+     "year": "2013",
+     "venue": "Systemic Architecture Operating Manual for the Self Organizing City",
+     "detail": "Systemic Architecture Operating Manual for the Self Organizing City, pp. 18–20",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A.",
+     "title": "Tweeting Sheep Pig",
+     "year": "2013",
+     "venue": "",
+     "detail": "pp. 80–81, Shire Publications Ltd",
+     "publisher": "Shire Publications Ltd",
+     "url": "http://www.shirebooks.co.uk/store/Conversation-Pieces_9781782006510",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Gray, S., Milton, R. & Hudson-Smith, A.",
+     "title": "Visualizing real-time data with an interactive iPad video wall",
+     "year": "2013",
+     "venue": "MethodsNews",
+     "detail": "MethodsNews, pp. 7–7",
+     "publisher": "NCRM",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2012",
+   "items": [
+    {
+     "kind": "Book chapter",
+     "authors": "Patel, A. & Hudson-Smith, A.",
+     "title": "Agent tools, techniques and methods for macro and microscopic simulation",
+     "year": "2012",
+     "venue": "Agent-based models of geographical systems",
+     "detail": "Agent-based models of geographical systems, pp. 379–407",
+     "publisher": "Springer",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Barthel, R., De Jode, M. & Hudson-Smith, A.",
+     "title": "Approaches to interacting with digital object memories in the real world",
+     "year": "2012",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Discussions on systemic architecture: the liquid city",
+     "year": "2012",
+     "venue": "Systemic architecture: operating manual for the self-organising city",
+     "detail": "Systemic architecture: operating manual for the self-organising city, pp. 18–20",
+     "publisher": "Routledge",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Speed, C., Burke, M., Hudson-Smith, A., Karpovich, A., Karpovich, A., O’Callaghan, S. & Rogers, J.",
+     "title": "Disrupting the Internet of Things",
+     "year": "2012",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Ross, C., Gray, S., Warwick, C., Hudson-Smith, A. & Terras, M.",
+     "title": "Engaging the museum space: Mobilising visitor engagement with digital content creation",
+     "year": "2012",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Gray, S., Ross, C., Hudson-Smith, A., Warwick, C. & Terras, M.",
+     "title": "Enhancing museum narratives with the QRator Project: a Tasmanian devil, a platypus and a dead man in a box",
+     "year": "2012",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "De Jode, M., Barthel, R., Rogers, J., Karpovich, A., Hudson-Smith, A., Quigley, M. & Speed, C.",
+     "title": "Enhancing the 'second-hand' retail experience with digital object memories",
+     "year": "2012",
+     "venue": "Proceedings of the 2012 ACM Conference on Ubiquitous Computing",
+     "detail": "Proceedings of the 2012 ACM Conference on Ubiquitous Computing, pp. 451–460",
+     "publisher": "ACM",
+     "url": "http://doi.acm.org/10.1145/2370216.2370284",
+     "doi": "10.1145/2370216.2370284"
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Hudson-Smith, A., Gray, S., Ross, C., Barthel, R., de Jode, M., Warwick, C. & Terras, M.",
+     "title": "Experiments with the internet of things in museum space: QRator",
+     "year": "2012",
+     "venue": "Proceedings of the 2012 ACM Conference on Ubiquitous Computing",
+     "detail": "Proceedings of the 2012 ACM Conference on Ubiquitous Computing, pp. 1183–1184",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Jang, S. & Hudson-Smith, A.",
+     "title": "Exploring Mobile Augmented Reality Navigation System for Pedestrians",
+     "year": "2012",
+     "venue": "Proceedings of the GIS Research UK 20th Annual Conference GISRUK",
+     "detail": "Proceedings of the GIS Research UK 20th Annual Conference GISRUK",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Comber, A., Batty, M., Brunsdon, C., Hudson-Smith, A., Neuhaus, F. & Gray, S.",
+     "title": "Exploring the geography of communities in social networks",
+     "year": "2012",
+     "venue": "Proceedings of the GIS Research UK 20th Annual Conference",
+     "detail": "Proceedings of the GIS Research UK 20th Annual Conference, pp. 33–37",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Hudson-Smith, A., Neuhaus, F. & Gray, S.",
+     "title": "Geographic analysis of social network data",
+     "year": "2012",
+     "venue": "Proceedings of the AGILE 2012 International Conference on Geographic Information Science",
+     "detail": "Proceedings of the AGILE 2012 International Conference on Geographic Information Science, pp. 24–27",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Geography in a Web 3.0 World",
+     "year": "2012",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Video: What is Web 3.0/crowdsourcing?",
+     "year": "2012",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Visioning and Visualization: People, Pixels and Plans",
+     "year": "2012",
+     "venue": "Journal of Location Based Services",
+     "detail": "Journal of Location Based Services, vol. 6",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2011",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Crooks, A., Hudson-Smith, A. & Patel, A.",
+     "title": "Advances and techniques for building 3D agent-based models for urban systems",
+     "year": "2011",
+     "venue": "",
+     "detail": "pp. 49–65",
+     "publisher": "",
+     "url": "https://doi.org/10.2174/978160805222611101010049",
+     "doi": "10.2174/978160805222611101010049"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Crooks, A., Hudson-Smith, A. & Patel, A.",
+     "title": "Advances and techniques for building 3D multi-agent systems for Urban Systems",
+     "year": "2011",
+     "venue": "Advanced Geosimulation Models",
+     "detail": "Advanced Geosimulation Models",
+     "publisher": "Bentham Books",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Birkin, M., Malleson, N., Hudson-Smith, A., Gray, S. & Milton, R.",
+     "title": "Calibration of a spatial simulation model with volunteered geographical information",
+     "year": "2011",
+     "venue": "International Journal of Geographical Information Science",
+     "detail": "International Journal of Geographical Information Science, vol. 25, pp. 1221–1239",
+     "publisher": "Taylor & Francis",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Procter, R., Vis, F., Voss, A., Cantijoch, M., Manykhina, Y., Thelwall, M., Gibson, R., Hudson-Smith, A., et al.",
+     "title": "Riot rumours: how misinformation spread on Twitter during a time of crisis",
+     "year": "2011",
+     "venue": "Guardian, http://www. guardian. co. uk/uk/interactive/2011/dec/07/london-riots-twitter",
+     "detail": "Guardian, http://www. guardian. co. uk/uk/interactive/2011/dec/07/london-riots-twitter",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "DE JODE, M., Barthel, R. & Hudson-Smith, A.",
+     "title": "Tales of things: the story so far",
+     "year": "2011",
+     "venue": "Proceedings of the 2011 international workshop on networking and object memories for the internet of things",
+     "detail": "Proceedings of the 2011 international workshop on networking and object memories for the internet of things, pp. 19–20",
+     "publisher": "ACM",
+     "url": "http://dl.acm.org/citation.cfm?id=2029932&picked=prox&CFID=67884746&CFTOKEN=82819802",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "The Liquid City in Pasquero",
+     "year": "2011",
+     "venue": "Systemic Architecture: Operation Manual for the Self Organising City",
+     "detail": "Systemic Architecture: Operation Manual for the Self Organising City",
+     "publisher": "Routledge",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2010",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Giles, J.",
+     "title": "Barcodes help objects tell their stories",
+     "year": "2010",
+     "venue": "New Scientist",
+     "detail": "New Scientist, vol. 206",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Crooks, A., Hudson-Smith, A. & Patel, A.",
+     "title": "Building 3D Agent-Based Models for Urban Systems",
+     "year": "2010",
+     "venue": "",
+     "detail": "CASA Working paper 161",
+     "publisher": "CASA Working paper 161",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Report",
+     "authors": "MILTON, R., Anand, S., Batty, M., Crooks, A., Hudson-Smith, A., Jackson, M. & Morley, J.",
+     "title": "Data mash-ups and the future of mapping",
+     "year": "2010",
+     "venue": "",
+     "detail": "pp. 1–46, JISC",
+     "publisher": "JISC",
+     "url": "http://www.jisc.ac.uk/",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Birkin, M., Procter, R., Allan, R., Bechhofer, S., Buchan, I., Goble, C., Hudson-Smith, A., Lambert, P., et al.",
+     "title": "Elements of a computational infrastructure for social simulation",
+     "year": "2010",
+     "venue": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+     "detail": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 368, pp. 3797–3812",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "M. Kwartler, G. Longo, Visioning and Visualization: People, Pixels and Plans",
+     "year": "2010",
+     "venue": "Applied Spatial Analysis and Policy",
+     "detail": "Applied Spatial Analysis and Policy, vol. 3, pp. 67–68",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Hudson-Smith, A., Milton, R. & Crooks, A.",
+     "title": "Map MashUps, Web 2.0 and the GIS Revolution",
+     "year": "2010",
+     "venue": "Annals of GIS",
+     "detail": "Annals of GIS, vol. 16, pp. 1–13",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith & R, M.",
+     "title": "Neogeography and the Power of the Crowd: Networks and Map Hacks",
+     "year": "2010",
+     "venue": "User Generated Content: Regulatory Dimensions",
+     "detail": "User Generated Content: Regulatory Dimensions, pp. 122–147",
+     "publisher": "Amicus Books, Hyderabad, India",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Speed, C., Barthel, R. & Hudson-Smith, A.",
+     "title": "Remember Me: Digital Arts Intervention",
+     "year": "2010",
+     "venue": "Proceedings of the International Workshop on Digital Object Memories in the Internet of Things (DOME-IoT), Held in Conjunction with the 2010 ACM Conference on Ubiquitous Computing",
+     "detail": "Proceedings of the International Workshop on Digital Object Memories in the Internet of Things (DOME-IoT), Held in Conjunction with the 2010 ACM Conference on Ubiquitous Computing, pp. 31–32",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Leder, K., Karpovich, A., Burke, M., Speed, C., Hudson-Smith, A., O'Callaghan, S. & Simpson, M.",
+     "title": "Tagging is Connecting: Shared Object Memories as Channels for Sociocultural Cohesion",
+     "year": "2010",
+     "venue": "Journal of Media and Culture",
+     "detail": "Journal of Media and Culture, vol. 13",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "BARTHEL, R.",
+     "title": "Tales of Things",
+     "year": "2010",
+     "venue": "",
+     "detail": "UCL",
+     "publisher": "UCL",
+     "url": "http://talesofthings.com/",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "BARTHEL, R., Hudson-Smith, A. & De Jode, M.",
+     "title": "Tales of Things - The Internet of ‘Old’ Tales of Things: Collecting Stories of Objects, Places and Spaces",
+     "year": "2010",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Barthel, R., Hudson-smith, A., De Jode, M. & Blundell, B.",
+     "title": "Tales of Things The Internet of ‘Old’Things: Collecting Stories of Objects, Places and Spaces",
+     "year": "2010",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Birkin, M., Allan, R., Beckhofer, S., Buchan, I., Finch, J., Goble, C., Hudson-Smith, A., Lambert, P., et al.",
+     "title": "The Elements of a Computational Infrastructure for social Simulation",
+     "year": "2010",
+     "venue": "Philosophical Transactions of the Royal Society A, Mathematical, Physical and Engineering Sciences",
+     "detail": "Philosophical Transactions of the Royal Society A, Mathematical, Physical and Engineering Sciences, vol. 368, pp. 3797–3812",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "BARTHEL, R., Speed, C., Hudson-Smith, A., Leder, K., Karpovich, A., De Jode, M. & O'Callaghan, S.",
+     "title": "The Internet of Things as Design Space for Exploring Social Memories",
+     "year": "2010",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Shingleton, D., Burke, M., Hudson-Smith, A., Karpovich, A., O'Callaghan, S., Simpson, M. & Speed, C.",
+     "title": "The Memorable: Applying the Internet of Things to small communities. In Web Studies",
+     "year": "2010",
+     "venue": "Proceedings of the 1st. international congress",
+     "detail": "Proceedings of the 1st. international congress",
+     "publisher": "europia Productions",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2009",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Barras, C.",
+     "title": "3D maps that let you ‘edit’the world",
+     "year": "2009",
+     "venue": "New Scientist",
+     "detail": "New Scientist, vol. 204, pp. 24–25",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Crooks, A., Hudson-Smith, A. & Dearden, J.",
+     "title": "Agent Street: An Environment for Exploring Agent-Based Models in Second Life",
+     "year": "2009",
+     "venue": "The Journal of Artificial Societies and Social Stimulation",
+     "detail": "The Journal of Artificial Societies and Social Stimulation, vol. 12",
+     "publisher": "JASSS",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Crooks, A., Hudson-Smith, A., Milton, R., Smith, D., Batty, M. & Neuhaus, F.",
+     "title": "Collecting, Visualising, Communicating and Modelling Geographic Data for the Sciences",
+     "year": "2009",
+     "venue": "AGU Fall Meeting Abstracts",
+     "detail": "AGU Fall Meeting Abstracts, vol. 1",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Hudson-Smith, A., Milton, R., Crooks, A. & Batty, M.",
+     "title": "Crowd Sourced Data for the Social Sciences: Web Based Services and Real-Time Geographic Surveys",
+     "year": "2009",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "Digitally Distributed Urban Environments: The Prospects for Online Planning. 2009",
+     "year": "2009",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Eric, M., Schroeder, R. & Hudson-Smith, A.",
+     "title": "Geographic Visualisation, Volunteered Geographic Information and Copyright",
+     "year": "2009",
+     "venue": "Information and Communications Technology Law",
+     "detail": "Information and Communications Technology Law",
+     "publisher": "Routledge",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Batty, M., Crooks, A. & Milton, R.",
+     "title": "Mapping for the masses : accessing web 2.0 through crowdsourcing",
+     "year": "2009",
+     "venue": "Social Science Computer Review",
+     "detail": "Social Science Computer Review, vol. 27",
+     "publisher": "Sage Publications",
+     "url": "https://doi.org/10.1177/0894439309332299",
+     "doi": "10.1177/0894439309332299"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Crooks, A., Gibin, M., Milton, R. & Batty, M.",
+     "title": "Neogeography and web 2.0 : concepts, tools and applications",
+     "year": "2009",
+     "venue": "Journal of Location Based Services",
+     "detail": "Journal of Location Based Services, vol. 3, pp. 118–145",
+     "publisher": "Taylor & Francis",
+     "url": "https://doi.org/10.1080/17489720902950366",
+     "doi": "10.1080/17489720902950366"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Hudson-Smith, A., Crooks, A., Milton, R. & Smith, D.",
+     "title": "New Developments in GIS for Urban Planning",
+     "year": "2009",
+     "venue": "Geospatial Today",
+     "detail": "Geospatial Today",
+     "publisher": "Spatial Networks Pvt Ltd.",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "The Future Internet",
+     "year": "2009",
+     "venue": "Future Internet",
+     "detail": "Future Internet, vol. 1, pp. 1–2",
+     "publisher": "",
+     "url": "https://doi.org/10.3390/fi1010001",
+     "doi": "10.3390/fi1010001"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Milton, R., Dearden, J. & Batty, M.",
+     "title": "The Neogeography of Virtual Cities: Digital Mirrors into",
+     "year": "2009",
+     "venue": "Handbook of Research on Urban Informatics: The Practice and Promise of the Real-time City",
+     "detail": "Handbook of Research on Urban Informatics: The Practice and Promise of the Real-time City",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Hudson-Smith, A., Milton, R. & Dearden, J.",
+     "title": "The Neogeography of virtual cities: digital mirrors into a recursive world",
+     "year": "2009",
+     "venue": "Handbook of Research on Urban Informatics",
+     "detail": "Handbook of Research on Urban Informatics",
+     "publisher": "IGI Global Snippet",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A. & Crooks, A.",
+     "title": "The Renaissance of Geographic Information: Neogeography, Gaming and Second Life",
+     "year": "2009",
+     "venue": "Virtual Geographic Environments",
+     "detail": "Virtual Geographic Environments, pp. 25–36",
+     "publisher": "Science Press",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2008",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Crooks, A.",
+     "title": "Building space in the machine : digital tool kits for mirror worlds",
+     "year": "2008",
+     "venue": "AGORA",
+     "detail": "AGORA, vol. 4, pp. 27–29",
+     "publisher": "University of Utrecht",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Singleton, A. & Hudson-Smith, A.",
+     "title": "Digital Geography in a Web 2.0 World",
+     "year": "2008",
+     "venue": "GIS Professional",
+     "detail": "GIS Professional, vol. 21, pp. 20–21",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book",
+     "authors": "Hudson-Smith, A.",
+     "title": "Digital Geography; Geographic Visualisation for Urban Environments",
+     "year": "2008",
+     "venue": "",
+     "detail": "pp. 1–64, CASA",
+     "publisher": "CASA",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Crooks, A.",
+     "title": "Het bouwen van spiegelwerelden",
+     "year": "2008",
+     "venue": "AGORA Magazine",
+     "detail": "AGORA Magazine, vol. 24, pp. 27–27",
+     "publisher": "Ghent University",
+     "url": "https://doi.org/10.21825/agora.v24i4.3612",
+     "doi": "10.21825/agora.v24i4.3612"
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A., Batty, M., Crooks, A. & Milton, R.",
+     "title": "Mapping for the Masses: Accessing Web 2.0 through Crowdsourcing",
+     "year": "2008",
+     "venue": "CASA Working Paper Series",
+     "detail": "CASA Working Paper Series, vol. 143",
+     "publisher": "Centre for Advanced Spatial Analysis",
+     "url": "http://www.casa.ucl.ac.uk/publications/workingPaperDetail.asp?ID=143",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Crooks, A., Milton, R. & Batty, M.",
+     "title": "Neogeography, Tools and Applications",
+     "year": "2008",
+     "venue": "Journal of Location Based Services",
+     "detail": "Journal of Location Based Services, pp. 40–43",
+     "publisher": "Taylor & Francis",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Carvalho, R., Hudson-Smith, A., Milton, R., Smith, D. & Steadman, P.",
+     "title": "Scaling and allometry in the building geometries of Greater London",
+     "year": "2008",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "https://doi.org/10.48550/arxiv.0804.2442",
+     "doi": "10.48550/arxiv.0804.2442"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Teaching in Virtual Worlds: Innovation and Interaction in Design Education",
+     "year": "2008",
+     "venue": "Habitat",
+     "detail": "Habitat, vol. 7, pp. 30–31",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Crooks, A. & Hudson-Smith, A.",
+     "title": "Techniques and tools for three dimensional visualisation and communication of spatial agent-based models",
+     "year": "2008",
+     "venue": "Proceedings from Agent-based Spatial Simulation Workshop",
+     "detail": "Proceedings from Agent-based Spatial Simulation Workshop",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A.",
+     "title": "The Visual City",
+     "year": "2008",
+     "venue": "Geographic Visualization: Concepts, Tools and Applications",
+     "detail": "Geographic Visualization: Concepts, Tools and Applications, pp. 183–198",
+     "publisher": "WileyBlackwell",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2007",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Evans, S. & Batty, M.",
+     "title": "Constructing and Using Virtual Cities: The Virtual London Project",
+     "year": "2007",
+     "venue": "International Journal of Geoinformatics",
+     "detail": "International Journal of Geoinformatics, vol. 7, pp. 23–28",
+     "publisher": "Geoinformatics Centre, Asian Institute of Technology",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "Digital Urban - The Visual City",
+     "year": "2007",
+     "venue": "CASA Working Paper Series",
+     "detail": "CASA Working Paper Series, vol. 124",
+     "publisher": "Centre for Advanced Spatial Analysis",
+     "url": "http://www.casa.ucl.ac.uk/publications/workingPaperDetail.asp?ID=124",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Batty, M., Carvalho, R., Hudson-Smith, A., Milton, R., D, S. & P",
+     "title": "Geometric Scaling and Allometry in Large Cities",
+     "year": "2007",
+     "venue": "",
+     "detail": "pp. v-01–v-17, I.T.U Faculty of Architecture",
+     "publisher": "I.T.U Faculty of Architecture",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Imagining the recursive city: explorations in urban simulacra",
+     "year": "2007",
+     "venue": "Geojournal Library",
+     "detail": "Geojournal Library, vol. 88, pp. 39–55",
+     "publisher": "SPRINGER",
+     "url": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000271190600003&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=f41074198c063036414efcbc916f8956",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A., Milton, R., Batty, M., Gibin, M., Longley, P. & Singleton, A.",
+     "title": "Public Domain GIS, Mapping & Imaging Using Web-based Services",
+     "year": "2007",
+     "venue": "CASA Working Paper Series",
+     "detail": "CASA Working Paper Series, vol. 120",
+     "publisher": "Centre for Advanced Spatial Analysis",
+     "url": "http://www.bartlett.ucl.ac.uk/casa/pdf/paper120.pdf",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Hudson-Smith, A., Milton, R. & Dearden, J.",
+     "title": "Virtual Cities: Digital Mirrors into a Recursive World",
+     "year": "2007",
+     "venue": "CASA Working Paper Series",
+     "detail": "CASA Working Paper Series, pp. 1–25",
+     "publisher": "",
+     "url": "http://www.bartlett.ucl.ac.uk/casa/pdf/paper125.pdf",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2006",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Evans, S., Hudson-Smith, A. & Batty, M.",
+     "title": "3-D GIS; Virtual London and beyond: An exploration of the 3-D GIS experience involved in the creation of Virtual London",
+     "year": "2006",
+     "venue": "Cybergeo",
+     "detail": "Cybergeo, vol. 2006, pp. 1–20",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Digital cornucopias: changing conceptions of the virtual city",
+     "year": "2006",
+     "venue": "Environment and Planning B",
+     "detail": "Environment and Planning B, vol. 33, pp. 799–802",
+     "publisher": "Pion",
+     "url": "http://www.envplan.com/abstract.cgi?id=b3306ed",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2005",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Evans, S. & Batty, M.",
+     "title": "Building the Virtual City: Public Participation Through e-Democracy",
+     "year": "2005",
+     "venue": "Knowledge Technology and Policy",
+     "detail": "Knowledge Technology and Policy, vol. 18, pp. 62–85",
+     "publisher": "Rutgers University",
+     "url": "https://doi.org/10.1007/s12130-005-1016-9",
+     "doi": "10.1007/s12130-005-1016-9"
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Evans, S., Batty, M. & Batty, S.",
+     "title": "Community Participation in Urban Regeneration using Internet Technologies",
+     "year": "2005",
+     "venue": "London's Environment: Prospects for a Sustainable World City",
+     "detail": "London's Environment: Prospects for a Sustainable World City, pp. 221–240",
+     "publisher": "Imperial College Press",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Hudson-Smith, A. & Evans, S.",
+     "title": "Global Networks: the Virtual City and Digital Earth",
+     "year": "2005",
+     "venue": "",
+     "detail": "pp. 324–324, Centre for Advanced Spatial Analysis, UCL",
+     "publisher": "Centre for Advanced Spatial Analysis, UCL",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Urban Simulacra: From Real to Virtual Cities, Back and Beyond",
+     "year": "2005",
+     "venue": "UCL Architectural Design",
+     "detail": "UCL Architectural Design, vol. 75, pp. 42–47",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Urban simulacra: London",
+     "year": "2005",
+     "venue": "ARCHITECTURAL DESIGN",
+     "detail": "ARCHITECTURAL DESIGN, pp. 42–47",
+     "publisher": "JOHN WILEY & SONS LTD",
+     "url": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000233830400013&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=f41074198c063036414efcbc916f8956",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A. & Batty, M.",
+     "title": "Virtual London - BBC Radio London, The Robert Elms Show",
+     "year": "2005",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A., Evans, S. & Batty, M.",
+     "title": "Virtual London: From CAD to 3D-GIS to Global Digital Cities",
+     "year": "2005",
+     "venue": "Insights of Digital Cities",
+     "detail": "Insights of Digital Cities, pp. 75–92",
+     "publisher": "Archdata CAAD Talks 4",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "Virtual Worlds and Urban Planning - BBC World Service, Go Digital",
+     "year": "2005",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2003",
+   "items": [
+    {
+     "kind": "Conference paper",
+     "authors": "Longley, P., Batty, M., de Smith, M., Evans, S., Farr, M., Hudson-Smith, A., Li, C., Slingsby, A., et al.",
+     "title": "Envisioning cyber-geospace and spatially enabled e-government: Proceedings of the 8th International Seminar on GIS",
+     "year": "2003",
+     "venue": "",
+     "detail": "pp. 93–105, Korea Research Institute for Human Settlements",
+     "publisher": "Korea Research Institute for Human Settlements",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Evans, S., Hudson-Smith, A. & Batty, M.",
+     "title": "Experiments in Web-Based PPGIS: Multimedia in Urban Regeneration",
+     "year": "2003",
+     "venue": "Advanced Spatial Analysis: The CASA Book of GIS",
+     "detail": "Advanced Spatial Analysis: The CASA Book of GIS, pp. 369–390",
+     "publisher": "ESRI Press",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Longley, P., Batty, M., de Smith, M., Evans, S., Farr, M., Hudson-Smith, A., Li, C., Slingsby, A., et al.",
+     "title": "GIS and Cyberspace: Virtual London and the E-Society. Envisioning Cyber-Geospace and Spatially Enabled E-Government",
+     "year": "2003",
+     "venue": "",
+     "detail": "pp. 93–105",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Desyllas, J., Duxbury, E., Ward, J. & Smith, A.",
+     "title": "Pedestrian demand modelling of large cities: an applied example from London",
+     "year": "2003",
+     "venue": "CASA Working Papers",
+     "detail": "CASA Working Papers, vol. 62",
+     "publisher": "Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://www.bartlett.ucl.ac.uk/casa/latest/publications/working-papers",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A. & Evans, S.",
+     "title": "Virtual Cities: From CAD to 3-D GIS",
+     "year": "2003",
+     "venue": "Advanced Spatial Analysis: The CASA Book of GIS",
+     "detail": "Advanced Spatial Analysis: The CASA Book of GIS, pp. 41–60",
+     "publisher": "ESRI Press",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2002",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M. & Smith, A.",
+     "title": "19 Virtuality and cities",
+     "year": "2002",
+     "venue": "Virtual reality in geography",
+     "detail": "Virtual reality in geography",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A.",
+     "title": "30 Days in Active Worlds - Community, Design and Terrorism in a Virtual World",
+     "year": "2002",
+     "venue": "The Social Life of Avatars",
+     "detail": "The Social Life of Avatars, pp. 77–89",
+     "publisher": "Springer",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A. & Evans, S.",
+     "title": "A Collaborative Three Dimensional Geographic Information System for London: Phase 1 Woodberry Down",
+     "year": "2002",
+     "venue": "Socio-Economic Applications of Geographic Information Science (Innovations in Gis, 9)",
+     "detail": "Socio-Economic Applications of Geographic Information Science (Innovations in Gis, 9), pp. 93–106",
+     "publisher": "CRC",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Hudson-Smith, A.",
+     "title": "days in active worlds: community, design and terrorism in a virtual world, The social life of avatars: presence and interaction in shared virtual environments",
+     "year": "2002",
+     "venue": "",
+     "detail": "Springer-Verlag New York, Inc., New York, NY",
+     "publisher": "Springer-Verlag New York, Inc., New York, NY",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Hudson-Smith, A. & Evans, S.",
+     "title": "Homes in Hackney Point to the Future",
+     "year": "2002",
+     "venue": "Planning",
+     "detail": "Planning, pp. 14–15",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A., Evans, S., Batty, M. & Batty, S.",
+     "title": "Online participation: the Woodberry Down experiment",
+     "year": "2002",
+     "venue": "CASA Working Papers",
+     "detail": "CASA Working Papers, vol. 60",
+     "publisher": "Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://eprints.ucl.ac.uk/238",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A., Evans, S., Batty, M. & Batty, S.",
+     "title": "Online participation: The Woodberry Down Experiment, Centre for Advanced Spatial Analysis (CASA), University College London",
+     "year": "2002",
+     "venue": "",
+     "detail": "working paper series. http://www. casa. ucl. ac. uk",
+     "publisher": "working paper series. http://www. casa. ucl. ac. uk",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "Planning Through E-Government in Transport, Local Government and the Regions",
+     "year": "2002",
+     "venue": "Public Service Review",
+     "detail": "Public Service Review, pp. 208–211",
+     "publisher": "Public Service Communications Agency",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2001",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Schroeder, R., Huxor, A. & Hudson-Smith, A.",
+     "title": "Activeworlds: Geography and Social Interaction in Virtual Reality",
+     "year": "2001",
+     "venue": "Futures",
+     "detail": "Futures, vol. 33, pp. 569–587",
+     "publisher": "",
+     "url": "https://doi.org/10.1016/S0016-3287(01)00002-7",
+     "doi": "10.1016/S0016-3287(01)00002-7"
+    },
+    {
+     "kind": "Other",
+     "authors": "Evans, S. & Hudson-Smith, A.",
+     "title": "Information rich 3D computer modeling of urban environments",
+     "year": "2001",
+     "venue": "CASA Working Papers",
+     "detail": "CASA Working Papers, vol. 35",
+     "publisher": "Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://www.bartlett.ucl.ac.uk/casa/pdf/paper35.pdf",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Chapman, D., Evans, S., Haklay, M., Küppers, S., Shiode, N., Smith, A., Torrens, P., et al.",
+     "title": "Planning Support Systems",
+     "year": "2001",
+     "venue": "",
+     "detail": "ESRI Press Redlands, CA",
+     "publisher": "ESRI Press Redlands, CA",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M. & Hudson-Smith, A.",
+     "title": "Virtuality and Cities: Definitions, Geographies, Designs",
+     "year": "2001",
+     "venue": "Virtual Reality in Geography",
+     "detail": "Virtual Reality in Geography, pp. 270–291",
+     "publisher": "Taylor and Francis",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Chapman, D., Evans, S., Haklay, M., Kueppers, S., Shiode, N., Hudson-Smith, A. & Torrens, P.",
+     "title": "Visualizing the City: Communicating Urban Design to Planners and Decision-Makers",
+     "year": "2001",
+     "venue": "Planning Support Systems, Models and Visualisation Tools",
+     "detail": "Planning Support Systems, Models and Visualisation Tools, pp. 405–443",
+     "publisher": "ESRI Press and Center Urban Policy Research, Rutgers Universtiy",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Evans, S.",
+     "title": "Wired Regeneration: GIS in the third dimension",
+     "year": "2001",
+     "venue": "GIS Development",
+     "detail": "GIS Development, vol. 5, pp. 14–17",
+     "publisher": "",
+     "url": "http://www.gisdevelopment.net/magazine/gisdev/2001/dec/wrgtd.shtml",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "2000",
+   "items": [
+    {
+     "kind": "Conference paper",
+     "authors": "Batty, M., Chapman, D., Evans, S., Haklay, M., Kueppers, S., Shiode, N., Hudson-Smith, A. & Torrens, P.",
+     "title": "3D GIS - 3D London - Virtual London",
+     "year": "2000",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Report",
+     "authors": "Batty, M., Chapman, D., Evans, S., Haklay, M., Kueppers, S., Shiode, N., Hudson-Smith, A. & Torrens, P.",
+     "title": "Computer visualisation for the Corporation of London",
+     "year": "2000",
+     "venue": "",
+     "detail": "pp. 1–126",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Smith, A.",
+     "title": "Mapping 30 days in ActiveWorlds",
+     "year": "2000",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Hudson-Smith, A.",
+     "title": "New technologies for urban designers: the VENUE project",
+     "year": "2000",
+     "venue": "Centre for Advanced Spatial Analysis Working Paper Series",
+     "detail": "Centre for Advanced Spatial Analysis Working Paper Series, vol. 21, pp. 1–59",
+     "publisher": "UCL (University College London), Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://eprints.ucl.ac.uk/1366",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Smith, A.",
+     "title": "New technologies for urban designers: the venue project. Technology Applications Programme (JTAP) Working Paper 21",
+     "year": "2000",
+     "venue": "Center for Advanced Spatial Analysis, University College London, Londres",
+     "detail": "Center for Advanced Spatial Analysis, University College London, Londres",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Dodge, M., Doyle, S., Hudson-Smith, A. & Fleetwood, S.",
+     "title": "Realite virtuelle set SIG internet pour la planification urbaine",
+     "year": "2000",
+     "venue": "Cahiers du Numberique",
+     "detail": "Cahiers du Numberique, vol. 1, pp. 59–73",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Shared Architecture: Rapid-Modelling Techniques for Distribution via On-Line Multi User Environments",
+     "year": "2000",
+     "venue": "ACADIA Quarterly",
+     "detail": "ACADIA Quarterly, vol. 19, pp. 8–9",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "1999",
+   "items": [
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Smith, A.",
+     "title": "Geographical Information Systems and Uran Design",
+     "year": "1999",
+     "venue": "Geographical Information and Planning, Springer",
+     "detail": "Geographical Information and Planning, Springer",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Hudson-Smith, A.",
+     "title": "Geographical Information Systems and Urban Design",
+     "year": "1999",
+     "venue": "Geographical Information and Planning",
+     "detail": "Geographical Information and Planning, pp. 43–66",
+     "publisher": "Springer",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "1998",
+   "items": [
+    {
+     "kind": "Other",
+     "authors": "Smith, A. & Batty, M.",
+     "title": "BBC World Service, 24 Hours News",
+     "year": "1998",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "CVDS - Towards a collaborative virtual design studio",
+     "year": "1998",
+     "venue": "Habitat",
+     "detail": "Habitat, pp. 38–40",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Hudson-Smith, A.",
+     "title": "GIS and urban design",
+     "year": "1998",
+     "venue": "CASA Working Paper",
+     "detail": "CASA Working Paper, vol. 3",
+     "publisher": "UCL (University College London), Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://eprints.ucl.ac.uk/224",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Smith, A.",
+     "title": "GIS and Urban Design, ISSN: 1467-1298 CASA, UCL",
+     "year": "1998",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Smith, A.",
+     "title": "GIS and Urban Design, Paper 3",
+     "year": "1998",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Dodge, M., Doyle, S. & Hudson-Smith, A.",
+     "title": "Modelling virtual environments",
+     "year": "1998",
+     "venue": "Geocomputation: a primer",
+     "detail": "Geocomputation: a primer, pp. 139–161",
+     "publisher": "Wiley",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Dodge, M., Doyle, S. & Hudson-Smith, A.",
+     "title": "Modelling virtual urban environments",
+     "year": "1998",
+     "venue": "CASA Working Papers",
+     "detail": "CASA Working Papers, vol. 1",
+     "publisher": "Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://eprints.ucl.ac.uk/219",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "Oxygen FM, Sunday Afternoon Show",
+     "year": "1998",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith",
+     "title": "The Collaborative Virtual Design Studio",
+     "year": "1998",
+     "venue": "Habitat",
+     "detail": "Habitat, vol. 6, pp. 38–40",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Doyle, S., Dodge, M. & Hudson-Smith, A.",
+     "title": "The potential of world wide web based mapping and virtual reality technologies for modelling urban environments",
+     "year": "1998",
+     "venue": "Computers, Environment and Urban Systems",
+     "detail": "Computers, Environment and Urban Systems, vol. 22, pp. 137–155",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Conroy, R., Hillier, B., Jiang, B., Desyllas, J., Mottrom, C., Penn, A., Hudson-Smith, A., et al.",
+     "title": "The virtual Tate",
+     "year": "1998",
+     "venue": "CASA Working Papers",
+     "detail": "CASA Working Papers, vol. 5",
+     "publisher": "Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://www.bartlett.ucl.ac.uk/casa/pdf/paper5.pdf",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Dodge, M., Doyle, S., Hudson-Smith, A. & Fleetwood, S.",
+     "title": "Towards the Virtual City: VR & Internet GIS for Urban Planning",
+     "year": "1998",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A., Dodge, M. & Doyle, S.",
+     "title": "Visual communication in urban planning and urban design",
+     "year": "1998",
+     "venue": "CASA Working Papers",
+     "detail": "CASA Working Papers, vol. 2",
+     "publisher": "Centre for Advanced Spatial Analysis (UCL)",
+     "url": "http://eprints.ucl.ac.uk/220",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Dodge, M., Doyle, S. & Smith, A.",
+     "title": "Visualizing virtual urban environments",
+     "year": "1998",
+     "venue": "",
+     "detail": "CASA Working Paper 1. Center for Advanced Spatial Analysis, University College London",
+     "publisher": "CASA Working Paper 1. Center for Advanced Spatial Analysis, University College London",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "1997",
+   "items": [
+    {
+     "kind": "Other",
+     "authors": "Batty, M. & SMITH, A.",
+     "title": "BBC Newsroom SouthEast",
+     "year": "1997",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Realism in modelling the built environment on the World Wide Web",
+     "year": "1997",
+     "venue": "Habitat",
+     "detail": "Habitat, pp. 17–18",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "See London - virtually without moving",
+     "year": "1997",
+     "venue": "The Daily Telegraph",
+     "detail": "The Daily Telegraph",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Dodge, M.",
+     "title": "The World Wide Web - A Guide for the Planning Professional",
+     "year": "1997",
+     "venue": "Planning",
+     "detail": "Planning",
+     "publisher": "Royal Town Planning Institute",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Dodge, M.",
+     "title": "The World Wide Web - not just for nerds",
+     "year": "1997",
+     "venue": "Planning",
+     "detail": "Planning, pp. 16–17",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Dodge, M., SMITH, A. & Doyle, S.",
+     "title": "Urban Science",
+     "year": "1997",
+     "venue": "GIS Europe",
+     "detail": "GIS Europe, vol. 6, pp. 26–29",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Dodge, M.",
+     "title": "Urban Science: Virtual Cities on the Wold-Wide Web",
+     "year": "1997",
+     "venue": "GIS Europe",
+     "detail": "GIS Europe, vol. 6, pp. 26–29",
+     "publisher": "Cambridge : Longman GeoInformation",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Conference paper",
+     "authors": "Dodge, M., Smith, A. & Doyle, S.",
+     "title": "Visualising Urban Environments for Planning and Design",
+     "year": "1997",
+     "venue": "AGOCG Graphics, Visualisation and the Social Sciences Workshop Report 1997 no 33",
+     "detail": "AGOCG Graphics, Visualisation and the Social Sciences Workshop Report 1997 no 33, vol. 33, pp. 19–24",
+     "publisher": "AGOCG",
+     "url": "http://www.agocg.ac.uk/wshop/33/maps.htm",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & Batty, M.",
+     "title": "Walk and talk in a 3D city",
+     "year": "1997",
+     "venue": "The Times",
+     "detail": "The Times",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  },
+  {
+   "year": "Undated",
+   "items": [
+    {
+     "kind": "Other",
+     "authors": "Crooks, A., Hudson-Smith, A., Croitoru, A. & Stefanidis, A.",
+     "title": "All posts by Andrew Crooks",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Lovett, L., Hudson-Smith, A. & Gosling, S.",
+     "title": "Babel, Babble",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A., Evans, S. & Batty, M.",
+     "title": "CAD, 3-D GIS and the Global Digital City",
+     "year": "",
+     "venue": "Tema 6 Desarrollo Urbano",
+     "detail": "Tema 6 Desarrollo Urbano",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A.",
+     "title": "CASA, UCL",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "O Brien, O., Gray, S. & Hudson-Smith, A.",
+     "title": "GEMMA–Making Maps Even Easier",
+     "year": "",
+     "venue": "1 st European State of the Map",
+     "detail": "1 st European State of the Map",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Smith, A.",
+     "title": "Geographical information systems and urban design, Stillwell J., Geertman S., Openshaw S., Geographical information and planning, 1999, 43-65",
+     "year": "",
+     "venue": "",
+     "detail": "Springer Verlag, Heidelberg",
+     "publisher": "Springer Verlag, Heidelberg",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M.",
+     "title": "Hudson-Smith, a.(2005). Urban Simulacra: London",
+     "year": "",
+     "venue": "Architectural design",
+     "detail": "Architectural design, pp. 42–47",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Batty, M., Chapman, D., Evans, S., Haklay Mi, K., Shiode, N., Smith, A. & Torrens, P.",
+     "title": "M, 2000, Visualizing the city: Communicating Urban Design to Planners and Decision-Makers, ISSN: 1467-1298, CASA, UCL",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Hudson-Smith, A. & Evans, S.",
+     "title": "M. and Batty, S.(2002). Online Participation: The Woodberry Down Experiment",
+     "year": "",
+     "venue": "",
+     "detail": "UCL Working Paper Series. Retrieved March 28th 2009 from http://www. casa. ucl. ac. uk/working_papers/paper60. pdf",
+     "publisher": "UCL Working Paper Series. Retrieved March 28th 2009 from http://www. casa. ucl. ac. uk/working_papers/paper60. pdf",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Batty, M., Dodge, M., Jiang, B. & Smith, A.",
+     "title": "New Technologies for Urban Designers",
+     "year": "",
+     "venue": "The Venue Project\" University College of London, Paper",
+     "detail": "The Venue Project\" University College of London, Paper",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Amoroso, N., HUDSON-SMITH, A., Phillips, M., Speed, C. & Willis, K.",
+     "title": "Patch-Scape; Pads, Pods, Phones and Spatial data",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "BATTY, M., HUDSON-SMITH, A. & BESUSSI, E.",
+     "title": "presentation guidelines for FINAL PAPER–CUPUM 05 LONDON",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A. & BATTY, M.",
+     "title": "R. Milton (2008). Mapping for the Masses: Accessing Web 2.0 through Crowdsourcing",
+     "year": "",
+     "venue": "Centre for Advanced Spatial Analysis (University College London): Working Paper",
+     "detail": "Centre for Advanced Spatial Analysis (University College London): Working Paper, vol. 143",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Other",
+     "authors": "Lovett, L. & Hudson-Smith, A.",
+     "title": "Tellus Mater: an AI that thinks it is the spirit of the Earth itself",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Shingleton, D., Sutherland, K., Burke, M., Hudson-Smith, A., Karpovich, A., O’Callaghan, S., Simpson, M., Speed, C., et al.",
+     "title": "The Memorable: Applying the Internet of Things to small communities",
+     "year": "",
+     "venue": "",
+     "detail": "",
+     "publisher": "",
+     "url": "",
+     "doi": ""
+    },
+    {
+     "kind": "Book chapter",
+     "authors": "Batty, M., Chapman, D., Evans, S., Haklay, M., Kueppers, S., Shiode, N., Smith, A. & Torrens, P.",
+     "title": "Visualising the city: communicating urban design to planners and decision-makers, Brail R., Klosterman R., Planning Support Systems: Integrating Geographic Information Systems, Models and Visualisation Tools, 2001, 405-443",
+     "year": "",
+     "venue": "",
+     "detail": "Rutgers University Press, New Brunswick, NJ, ESRI Press, Redlands, CA",
+     "publisher": "Rutgers University Press, New Brunswick, NJ, ESRI Press, Redlands, CA",
+     "url": "",
+     "doi": ""
+    }
+   ]
+  }
+ ],
+ "undated": 16
+}

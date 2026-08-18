@@ -361,6 +361,10 @@ img, video, iframe { max-width: 100%; height: auto; }
 }
 .site-foot a { color: var(--muted); }
 .site-foot nav { display: flex; gap: 20px; flex-wrap: wrap; }
+.site-foot__l { display: flex; flex-direction: column; gap: 8px; }
+.site-foot__c { color: var(--faint); }
+a.figure { color: inherit; }
+a.figure:hover .figure__n { color: var(--accent); }
 
 @media (max-width: 1000px) {
   .grid { grid-template-columns: repeat(2, 1fr); }

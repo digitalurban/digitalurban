@@ -12,6 +12,7 @@ permalink: /about/
       <div><span>Role</span>Professor, Chair in Digital Urban Systems</div>
       <div><span>Institution</span>Centre for Advanced Spatial Analysis (CASA)<br />University College London, UCL East</div>
       <div><span>Writing here since</span>2005</div>
+      <div><span>Profile</span><a href="https://profiles.ucl.ac.uk/5261-andy-hudsonsmith">UCL Profiles &rarr;</a></div>
     </div>
   </div>
 
@@ -45,6 +46,7 @@ permalink: /about/
           <a href="{{ site.social.youtube }}">YouTube</a>
           <a href="{{ site.social.instagram }}">Instagram</a>
           <a href="{{ site.social.github }}">GitHub</a>
+          <a href="https://profiles.ucl.ac.uk/5261-andy-hudsonsmith">UCL Profiles</a>
         </div>
       </div>
     </aside>
@@ -55,19 +57,66 @@ permalink: /about/
   <div class="dark__in">
     <div class="dark__head">
       <h2>Publications</h2>
-      <span class="mono" style="color:var(--faint)">{{ about.count }} selected &middot; {{ about.byYear | length }} years</span>
+      <span class="mono" style="color:var(--faint)">{{ papers.count }} records &middot; {{ papers.span[0] }}&ndash;{{ papers.span[1] }}</span>
     </div>
+
+    <div class="pub-filters">
+      <button class="pchip pchip--on" data-kind="all" type="button">All <span>{{ papers.count }}</span></button>
+      {% for k in papers.kinds %}
+      <button class="pchip" data-kind="{{ k.kind }}" type="button">{{ k.label }} <span>{{ k.n }}</span></button>
+      {% endfor %}
+    </div>
+
+    <div class="pub-years mono">
+      {% for g in papers.byYear %}<a href="#y{{ g.year }}">{{ g.year }}</a>{% endfor %}
+    </div>
+
     <div class="pubs">
-      {% for group in about.byYear %}
-      <div class="pubs__year">
-        <div class="pubs__y mono">{{ group.year }}</div>
+      {% for group in papers.byYear %}
+      <div class="pubs__year" id="y{{ group.year }}">
+        <div class="pubs__y mono">{{ group.year }}<span>{{ group.items | length }}</span></div>
         <div class="pubs__list">
           {% for p in group.items %}
-          <div class="pub">{{ p.html | safe }}</div>
+          <div class="pub" data-kind="{{ p.kind }}">
+            <div class="pub__t">{{ p.title }}</div>
+            <div class="pub__a">{{ p.authors }}</div>
+            <div class="pub__m mono">
+              <span class="pub__k">{{ p.kind }}</span>
+              {% if p.detail %}<span>{{ p.detail }}</span>{% endif %}
+              {% if p.url %}<a href="{{ p.url }}">{% if p.doi %}{{ p.doi }}{% else %}link{% endif %}</a>{% endif %}
+            </div>
+          </div>
           {% endfor %}
         </div>
       </div>
       {% endfor %}
     </div>
+
+    <p class="mono" style="padding-top:40px;color:var(--faint)">
+      Exported from <a href="https://profiles.ucl.ac.uk/5261-andy-hudsonsmith">UCL Profiles</a>{% if papers.undated %} &middot; {{ papers.undated }} undated{% endif %}
+    </p>
   </div>
 </section>
+
+<script>
+(function () {
+  var btns = document.querySelectorAll(".pchip");
+  var pubs = document.querySelectorAll(".pub[data-kind]");
+  var groups = document.querySelectorAll(".pubs__year");
+  btns.forEach(function (b) {
+    b.addEventListener("click", function () {
+      var kind = b.dataset.kind;
+      btns.forEach(function (x) { x.classList.toggle("pchip--on", x === b); });
+      pubs.forEach(function (p) {
+        p.style.display = (kind === "all" || p.dataset.kind === kind) ? "" : "none";
+      });
+      groups.forEach(function (g) {
+        var any = Array.prototype.some.call(g.querySelectorAll(".pub"), function (p) {
+          return p.style.display !== "none";
+        });
+        g.style.display = any ? "" : "none";
+      });
+    });
+  });
+})();
+</script>
