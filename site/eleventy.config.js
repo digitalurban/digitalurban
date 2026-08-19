@@ -84,9 +84,35 @@ module.exports = function (cfg) {
     return t.length > n ? t.slice(0, n).replace(/\s+\S*$/, "") + "\u2026" : t;
   });
 
+  let _words = null;
+  cfg.addFilter("totalWords", (posts) => {
+    if (_words === null) {
+      _words = (posts || []).reduce((n, p) => {
+        const text = String(p.templateContent || "").replace(/<[^>]+>/g, " ");
+        return n + text.split(/\s+/).filter(Boolean).length;
+      }, 0);
+    }
+    return _words;
+  });
+
+  cfg.addFilter("compactNum", (n) => {
+    n = Number(n) || 0;
+    if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, "") + "m";
+    if (n >= 1000) return Math.round(n / 1000) + "k";
+    return String(n);
+  });
+
   cfg.addFilter("readingTime", (content) => {
     const words = String(content || "").replace(/<[^>]+>/g, " ").split(/\s+/).length;
     return Math.max(1, Math.round(words / 220));
+  });
+
+  // WordPress bodies have no loading/decoding hints and often no alt attribute
+  cfg.addTransform("images", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content
+      .replace(/<img (?![^>]*\bloading=)/g, '<img loading="lazy" decoding="async" ')
+      .replace(/<img (?![^>]*\balt=)/g, '<img alt="" ');
   });
 
   return {

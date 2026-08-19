@@ -27,16 +27,27 @@ permalink: /about/
       <div class="about-card">
         <div class="mono" style="padding-bottom:14px">Books</div>
         <a class="about-book" href="/books/">
-          <span class="about-book__t">Cities in the Metaverse</span>
-          <span class="mono">Routledge &middot; 2025</span>
+          <span class="about-book__t">{{ books.lead.title }}</span>
+          <span class="mono">{{ books.lead.specs[0] }} &middot; {{ books.lead.specs[1] }}</span>
         </a>
+        {%- for b in books.forthcoming %}
         <a class="about-book" href="/books/">
-          <span class="about-book__t">Digital Cities of Tomorrow</span>
-          <span class="mono">Springer / Nature &middot; 2026</span>
+          <span class="about-book__t">{{ b.title }}</span>
+          <span class="mono">{{ b.specs[0] }} &middot; {{ b.specs[1] }}</span>
         </a>
+        {%- endfor %}
+      </div>
+      <div class="about-card">
+        <div class="mono" style="padding-bottom:14px">Booklets</div>
+        {%- for b in books.little %}
         <a class="about-book" href="/books/">
-          <span class="about-book__t">Digital Urban</span>
-          <span class="mono">Planned &middot; 2027</span>
+          <span class="about-book__t">{{ b.title }}</span>
+          <span class="mono">{{ b.specs[0] }} &middot; {{ b.specs[1] }}</span>
+        </a>
+        {%- endfor %}
+        <a class="about-book" href="/books/">
+          <span class="about-book__t">{{ books.booklet.title }}</span>
+          <span class="mono">{{ books.booklet.specs[0] }} &middot; {{ books.booklet.specs[1] }}</span>
         </a>
       </div>
       <div class="about-card">
