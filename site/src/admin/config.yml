@@ -10,12 +10,12 @@ collections:
   - name: posts
     label: Posts
     label_singular: Post
-    folder: "site/src/posts"
+    folder: "site/src/posts/2026"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    path: "{{year}}/{{month}}/{{filename}}"
+    path: "{{month}}/{{filename}}"
     sortable_fields: ["date", "title"]
-    fields:
+    fields: &postFields
       - { name: title, label: Title, widget: string }
       - { name: date, label: Date, widget: datetime }
       - { name: slug, label: Slug, widget: string, hint: "Used in the URL" }
@@ -26,6 +26,24 @@ collections:
       - { name: excerpt, label: Excerpt, widget: text, required: false }
       - { name: hero, label: Lead image, widget: image, required: false }
       - { name: body, label: Body, widget: markdown }
+
+  - name: posts2025
+    label: Posts — 2025
+    label_singular: Post
+    folder: "site/src/posts/2025"
+    create: false
+    path: "{{month}}/{{filename}}"
+    sortable_fields: ["date", "title"]
+    fields: *postFields
+
+  - name: posts2024
+    label: Posts — 2024
+    label_singular: Post
+    folder: "site/src/posts/2024"
+    create: false
+    path: "{{month}}/{{filename}}"
+    sortable_fields: ["date", "title"]
+    fields: *postFields
 
   - name: pages
     label: Pages
