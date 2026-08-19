@@ -47,6 +47,14 @@ module.exports = function (cfg) {
   cfg.addFilter("date", (d, fmt = "dd.MM.yyyy") =>
     DateTime.fromJSDate(d, { zone: "utc" }).toFormat(fmt)
   );
+  // redirect permalinks: force /leading/and/trailing/ slashes
+  cfg.addFilter("asDir", (s) => {
+    s = String(s || "").trim();
+    if (!s.startsWith("/")) s = "/" + s;
+    if (!s.endsWith("/")) s += "/";
+    return s;
+  });
+
   cfg.addFilter("iso", (d) => DateTime.fromJSDate(d, { zone: "utc" }).toISO());
   cfg.addFilter("year", () => String(new Date().getFullYear()));
 
